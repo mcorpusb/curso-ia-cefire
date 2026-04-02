@@ -16,11 +16,13 @@ Crea presentaciones, cómics, audios realistas y vídeos educativos con herramie
 
 Al finalizar este bloque serás capaz de:
 
-1. Diseñar **presentaciones educativas completas** con Gamma y compararlas con las generadas por Copilot en PowerPoint.
-2. Crear **cómics e ilustraciones** adaptados a cada etapa educativa usando herramientas de IA generativa de imágenes.
-3. Generar **audios realistas** (narración, podcasts, explicaciones) para hacer accesibles los contenidos a todo el alumnado.
-4. Producir **vídeos educativos cortos** con avatares IA y edición asistida.
-5. Integrar todos estos recursos en **situaciones de aprendizaje LOMLOE** respetando los principios del **DUA** (múltiples medios de representación).
+1. **Transformar contenidos textuales en recursos multimodales dinámicos** (presentaciones, infografías, cómics, audios realistas, vídeos con avatares) que potencien la atención visual y auditiva en ESO/Bachillerato.
+2. Diseñar **presentaciones educativas completas** con Gamma y compararlas con las generadas por Copilot en PowerPoint.
+3. Crear **cómics, infografías e ilustraciones** adaptados a cada etapa educativa usando herramientas de IA generativa.
+4. Generar **audios realistas** (narración, podcasts, explicaciones) para hacer accesibles los contenidos a todo el alumnado.
+5. Producir **vídeos educativos cortos** con avatares IA y edición asistida.
+6. **Personalizar el aprendizaje mediante IA**, ajustando materiales multimodales a la diversidad de niveles y realidades del aula de forma rápida y escalable.
+7. Integrar todos estos recursos en **situaciones de aprendizaje LOMLOE** respetando los principios del **DUA** (múltiples medios de representación).
 
 > **⚠️ Seguridad GVA:** Las herramientas de generación multimodal que veremos en este bloque son **externas al ecosistema GVA**. Nunca subas fotografías del alumnado, datos personales ni documentos internos. Usa solo contenido ficticio o con licencia abierta como material de partida.
 
@@ -141,6 +143,52 @@ Restricciones:
 > **💡 Ejemplo Primaria:** Una vez tengas el guion, genera cada viñeta en Copilot Image Creator adaptando la descripción de escena. Después, monta el cómic con las imágenes en **Canva** (usa la plantilla gratuita "Comic Strip").
 
 > **🚀 Reto Secundaria/FP:** Adapta el cómic para un módulo de **Prevención de Riesgos Laborales** en FP. Cambia el tema a *"Equipos de Protección Individual en el taller"* y el estilo visual a *"infografía técnica con viñetas de humor"*.
+
+---
+
+## 3.2b · Infografías educativas con IA
+
+Las infografías son uno de los recursos más eficaces para sintetizar información compleja de forma visual. Con IA puedes generarlas rápidamente a partir de cualquier contenido textual.
+
+### Herramientas recomendadas para infografías
+
+| Herramienta | Tipo | Acceso | Ideal para |
+|:------------|:-----|:-------|:-----------|
+| **Canva + IA** | Diseño gráfico + IA generativa | Freemium (plan educativo gratuito) | Infografías con plantillas profesionales, datos y gráficos |
+| **Gamma** | Generador de documentos/presentaciones | Freemium | Infografías tipo página web con datos y visualizaciones |
+| **Copilot + PowerPoint** | Diseño integrado en M365 | ✅ Cuenta `@gva.es` | Infografías dentro de presentaciones, entorno GVA seguro |
+| **Napkin AI** | Conversor de texto a infografía | Freemium | Transformar textos largos en esquemas visuales automáticos |
+
+### 🏆 Prompt de Oro: Transformar un texto en infografía
+
+```text
+Actúa como un diseñador de infografías educativas para alumnado de 
+ESO/Bachillerato.
+
+Contexto: Necesito transformar el siguiente texto de apuntes de 
+[TU ASIGNATURA] ([CURSO]) en una infografía visual y atractiva.
+
+Texto a transformar:
+[PEGAR AQUÍ EL TEXTO O RESUMEN DEL TEMA]
+
+Tarea: Diseña la estructura de una infografía que incluya:
+1. Título principal llamativo.
+2. 4-6 secciones con iconos descriptivos y texto breve (máx. 20 palabras 
+   por sección).
+3. Un diagrama o esquema visual central que conecte los conceptos clave.
+4. Datos destacados en recuadros de color (cifras, fechas, fórmulas).
+5. Una sección "¿Sabías que...?" con un dato curioso.
+6. Paleta de colores sugerida (3 colores máximo).
+
+Formato: Descripción detallada de cada sección, lista para
+recrearse en Canva o PowerPoint. Incluye sugerencias de 
+iconos entre corchetes [ICONO: ...].
+
+Restricciones: Lenguaje adaptado a 14-17 años. No más de 150 
+palabras totales en la infografía (es visual, no textual).
+```
+
+> **💡 Flujo de trabajo rápido:** 1) Genera la estructura con Copilot → 2) Crea la infografía en Canva usando la descripción como guía → 3) Exporta en PDF y sube a Aules.
 
 ---
 
@@ -357,7 +405,62 @@ El verdadero valor de estas herramientas aparece cuando las combinas dentro de u
 3. Escucha el resultado y valora: ¿es comprensible? ¿Se adapta al nivel del alumnado?
 4. **Entregable:** archivo `.mp3` + breve reflexión (100 palabras) sobre utilidad para alumnado NEAE.
 
-### Actividad 3.4 — Plan multimodal para una SA *(grupal, sesión síncrona)*
+### Actividad 3.4 — Infografía a partir de apuntes *(individual)*
+
+**Objetivo:** Transformar contenido textual en un recurso visual dinámico.
+
+1. Elige un tema de tu área que normalmente expliques con texto (apuntes, resumen, esquema).
+2. Usa el Prompt de Oro de la sección 3.2b para generar la **estructura de la infografía** con Copilot.
+3. Crea la infografía en **Canva** (plan educativo) o **PowerPoint** siguiendo la estructura generada.
+4. **Entregable:** infografía final en PDF + el prompt utilizado + breve reflexión (80 palabras) sobre si el resultado es más atractivo que el texto original.
+
+### Actividad 3.5 — Personaliza materiales para 3 niveles *(individual)*
+
+**Objetivo:** Personalizar el aprendizaje ajustando materiales multimodales a la diversidad de niveles del aula de forma rápida y escalable.
+
+1. Elige un tema concreto de tu asignatura y genera una **explicación base** con Copilot o Gemini.
+2. Usa el siguiente prompt para crear **3 versiones adaptadas** del mismo contenido:
+
+```text
+Actúa como un especialista en atención a la diversidad y Diseño 
+Universal para el Aprendizaje (DUA).
+
+Contexto: Enseño [TU ASIGNATURA] en [CURSO]. Tengo un grupo diverso 
+con alumnado de distintos niveles de competencia curricular.
+
+Texto base (explicación del tema):
+[PEGAR LA EXPLICACIÓN GENERADA]
+
+Tarea: Genera 3 versiones del mismo contenido adaptadas a niveles 
+diferentes:
+
+VERSIÓN A – Refuerzo:
+- Lenguaje simplificado (frases cortas, vocabulario básico).
+- Apoyo visual: sugiere un icono o imagen para cada concepto clave.
+- Incluye 2 preguntas de comprensión tipo verdadero/falso.
+- Máximo 200 palabras.
+
+VERSIÓN B – Estándar:
+- Mantiene el nivel original pero mejora la claridad.
+- Añade 1 ejemplo práctico cotidiano.
+- Incluye 2 preguntas de comprensión de respuesta breve.
+- Máximo 350 palabras.
+
+VERSIÓN C – Ampliación:
+- Añade profundidad y conexiones interdisciplinares.
+- Propone 1 reto de investigación autónoma.
+- Incluye 2 preguntas de análisis crítico.
+- Máximo 500 palabras.
+
+Formato: Tres bloques claramente separados con el encabezado de 
+cada versión.
+```
+
+3. Convierte la **Versión A** a audio con ElevenLabs o Edge "Leer en voz alta" (accesibilidad).
+4. Crea una **mini-infografía** de la Versión B con Canva (atención visual).
+5. **Entregable:** las 3 versiones en un documento + el audio de la Versión A (.mp3) + la infografía de la Versión B (PDF) + reflexión (150 palabras) sobre cómo esta técnica puede escalar a todo un trimestre.
+
+### Actividad 3.6 — Plan multimodal para una SA *(grupal, sesión síncrona)*
 
 1. En grupos de 3-4, elegid una **Situación de Aprendizaje** (puede ser la de un miembro del grupo).
 2. Diseñad un **plan de recursos multimodales IA** usando esta tabla:
@@ -391,9 +494,11 @@ El verdadero valor de estas herramientas aparece cuando las combinas dentro de u
 Antes de pasar al Bloque 4, asegúrate de poder responder **sí** a todas estas preguntas:
 
 - [ ] Sé crear una presentación educativa completa con Gamma y exportarla a `.pptx`.
-- [ ] Puedo generar ilustraciones y guiones de cómic con Copilot Image Creator.
+- [ ] Puedo generar ilustraciones, guiones de cómic e infografías con herramientas de IA.
 - [ ] He creado al menos un audio educativo con ElevenLabs o NotebookLM Audio Overview.
 - [ ] Conozco Clipchamp como herramienta de vídeo del entorno GVA y sé añadir subtítulos automáticos.
+- [ ] He practicado la personalización de materiales en 3 niveles (refuerzo, estándar, ampliación) aplicando el DUA.
+- [ ] Sé transformar un texto de apuntes en un recurso visual (infografía) de forma rápida.
 - [ ] Sé distinguir qué herramientas son seguras para datos del centro y cuáles solo para contenido público/ficticio.
 - [ ] Puedo planificar la integración de recursos multimodales IA dentro de una Situación de Aprendizaje LOMLOE.
 

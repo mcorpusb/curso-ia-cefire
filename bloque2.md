@@ -16,7 +16,7 @@ Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a
 
 Al finalizar este bloque serás capaz de:
 
-1. Construir **prompts avanzados** con la estructura Rol + Contexto + Tarea adaptados a cualquier etapa educativa.
+1. **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, posicionando a la IA como experta pedagógica alineada con tus necesidades educativas.
 2. Aplicar técnicas de **cadena de pensamiento** (*chain-of-thought*) y **few-shot prompting** en contextos pedagógicos.
 3. Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo.
 4. Comparar la calidad de las respuestas curriculares entre **Copilot**, **Gemini**, **NotebookLM**, **Kimi** y **Grok**.
@@ -392,8 +392,10 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 Antes de pasar al Bloque 3, asegúrate de poder responder **sí** a todas estas preguntas:
 
 - [ ] Sé escribir un prompt completo con los 5 campos (Rol, Contexto, Tarea, Formato, Restricciones).
+- [ ] He experimentado la evolución desde un prompt simple hasta uno avanzado y he comprobado la diferencia de resultados.
 - [ ] Conozco y he practicado las técnicas de few-shot y chain-of-thought.
 - [ ] He configurado NotebookLM con al menos un decreto curricular de mi etapa.
+- [ ] He creado un agente personalizado (Copilot GPT o Gemini Gem) adaptado a mi asignatura y estilo docente.
 - [ ] Sé diferenciar cuándo usar Copilot (creatividad, gestión) y cuándo NotebookLM (verificación curricular).
 - [ ] He creado al menos 3 fichas para mi biblioteca personal de prompts.
 - [ ] Comprendo las diferencias de fiabilidad curricular entre Copilot, Gemini, NotebookLM, Kimi y Grok.

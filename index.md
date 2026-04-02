@@ -20,11 +20,14 @@ A lo largo de cuatro bloques temáticos explorarás el ecosistema actual de herr
 
 ### Objetivos del curso
 
-1. **Dominar el entorno corporativo de IA de la GVA**, utilizando Microsoft Copilot para tareas administrativas y pedagógicas cotidianas.
-2. **Aplicar técnicas de Prompt Engineering** adaptadas al contexto educativo, construyendo prompts con estructura Rol + Contexto + Tarea.
-3. **Crear contenidos multimodales** (presentaciones, cómics, audios, vídeos) con herramientas de IA generativa para enriquecer las situaciones de aprendizaje.
-4. **Diseñar instrumentos de evaluación alineados con la LOMLOE** (rúbricas, adaptaciones curriculares) aprovechando la IA como asistente.
-5. **Actuar con criterio ético y legal**, respetando la privacidad del alumnado y las directrices de protección de datos de la GVA.
+1. **Descubrir la IA generativa como aliada diaria**, acompañando al profesorado en la planificación de clases creativas, la simplificación de evaluaciones y la adaptación de materiales multimodales (cómics, vídeos, audios) al contexto del aula en entornos seguros como GVA.
+2. **Perder el miedo inicial a la IA**, conectando con herramientas corporativas (Copilot `@gva.es`) y no corporativas (Gemini, NotebookLM, Kimi, Grok) para organizar inteligentemente la documentación docente desde cero.
+3. **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas (Rol + Contexto + Tarea + Formato + Restricciones) que posicionen a la IA como experta pedagógica alineada con las necesidades educativas del docente.
+4. **Explorar extensiones y agentes personalizados** para automatizar correcciones y planificación conforme al estilo docente y los criterios de la LOMLOE.
+5. **Transformar contenidos textuales en recursos multimodales dinámicos** (infografías, cómics, audios realistas, vídeos con avatares) que potencien la atención visual y auditiva en ESO/Bachillerato.
+6. **Personalizar el aprendizaje mediante IA**, ajustando materiales a la diversidad de niveles y realidades del aula de forma rápida y escalable.
+7. **Automatizar tareas administrativas** como rúbricas LOMLOE y correcciones motivadoras, liberando tiempo para la docencia esencial.
+8. **Promover un uso ético y crítico de la IA**, priorizando la privacidad del alumnado y reflexionando sobre su impacto real en la educación secundaria.
 
 > **⚠️ Seguridad GVA:** Recuerda que **Microsoft Copilot** con tu cuenta `@gva.es` es la única herramienta que garantiza que los datos quedan dentro del entorno corporativo. Cuando uses herramientas externas (Gemini, Kimi, Grok…), **nunca introduzcas datos personales del alumnado ni información sensible**.
 

@@ -16,11 +16,12 @@ Diseña rúbricas LOMLOE, genera adaptaciones curriculares rápidas y reflexiona
 
 Al finalizar este bloque serás capaz de:
 
-1. Diseñar **rúbricas de evaluación alineadas con la LOMLOE** (criterios de evaluación, competencias específicas e indicadores de logro) utilizando IA generativa.
-2. Generar **adaptaciones curriculares** y materiales personalizados para alumnado NEAE de forma ágil y fundamentada en el DUA.
-3. Crear **instrumentos de evaluación variados** (listas de cotejo, dianas de evaluación, portfolios digitales) con asistencia de IA.
-4. Analizar los **riesgos éticos y de privacidad** del uso de IA en el contexto educativo y aplicar buenas prácticas alineadas con la normativa de la GVA.
-5. Diseñar una **política de uso de IA en el aula** adaptada a tu centro y etapa educativa.
+1. **Automatizar la creación de rúbricas de evaluación alineadas con la LOMLOE** (criterios de evaluación, competencias específicas e indicadores de logro) utilizando IA generativa, liberando tiempo para la docencia esencial.
+2. Generar **correcciones y retroalimentación motivadora** de forma automática, con comentarios constructivos que orienten al alumnado hacia la mejora.
+3. Generar **adaptaciones curriculares** y materiales personalizados para alumnado NEAE de forma ágil y fundamentada en el DUA.
+4. Crear **instrumentos de evaluación variados** (listas de cotejo, dianas de evaluación, portfolios digitales) con asistencia de IA.
+5. **Promover un uso ético y crítico de la IA**, priorizando la privacidad del alumnado y reflexionando sobre su impacto real en la educación secundaria.
+6. Diseñar una **política de uso de IA en el aula** adaptada a tu centro y etapa educativa.
 
 > **⚠️ Seguridad GVA:** Este bloque aborda directamente la ética y la privacidad. Recuerda: **ninguna herramienta de IA debe tomar decisiones evaluativas finales sobre el alumnado**. La IA es un asistente; la responsabilidad profesional y legal recae siempre en el docente.
 
@@ -96,6 +97,81 @@ y uso de soporte visual.
 ```
 
 > **🚀 Reto Secundaria/FP:** Genera la misma rúbrica en **Copilot** y en **Gemini**. ¿Cuál produce descriptores más claros? ¿Cuál diferencia mejor los niveles? Pide a **Kimi** que analice ambas rúbricas y elija la mejor, justificando por qué.
+
+---
+
+## 4.1b · Correcciones motivadoras automatizadas con IA
+
+Uno de los mayores consumidores de tiempo docente es la **corrección y retroalimentación individualizada**. La IA puede generar comentarios motivadores y constructivos que orienten al alumnado, liberando tiempo para la docencia esencial.
+
+### El problema de la retroalimentación tradicional
+
+| Situación habitual | Consecuencia | Solución con IA |
+|:-------------------|:-------------|:----------------|
+| "Bien", "Regular", "Necesita mejorar" | El alumno/a no sabe *qué* ni *cómo* mejorar | Comentarios específicos con orientaciones concretas |
+| Corregir 30 redacciones lleva 6+ horas | Agotamiento, comentarios cada vez más escuetos | Un borrador de retroalimentación en segundos que el docente revisa y ajusta |
+| Tono involuntariamente negativo por cansancio | Desmotivación del alumnado | Tono siempre constructivo y motivador |
+
+### 🏆 Prompt de Oro: Generar retroalimentación motivadora para un trabajo
+
+```text
+Actúa como un docente experto en evaluación formativa con enfoque 
+motivador y constructivo.
+
+Contexto: Soy profesor/a de [TU ÁREA] en [ÉTAPA Y CURSO] (LOMLOE, CV). 
+He evaluado el siguiente trabajo de un alumno/a y quiero generar una 
+retroalimentación que motive y oriente.
+
+Nivel de logro alcanzado: [Nivel 1/2/3/4 según tu rúbrica]
+
+Trabajo del alumno/a:
+[PEGAR AQUÍ EL TRABAJO O UN RESUMEN]
+
+Tarea: Genera un comentario de retroalimentación (100-150 palabras) con 
+esta estructura:
+1. 🌟 FORTALEZAS: 2-3 aspectos positivos concretos del trabajo 
+   (cita fragmentos específicos cuando sea posible).
+2. 🛠️ ÁREAS DE MEJORA: 2 aspectos a mejorar formulados como 
+   oportunidades, no como errores ("Podrías enriquecer..." en vez 
+   de "Te falta...").
+3. 🚀 SIGUIENTE PASO: 1 acción concreta y sencilla que el alumno/a 
+   puede hacer ya para mejorar.
+4. 💬 CIERRE MOTIVADOR: 1 frase de ánimo personalizada.
+
+Restricciones:
+- Tono cercano pero profesional.
+- Nunca uses "pero" después de un elogio (efecto "sándwich negativo").
+- Adapta el lenguaje a la edad del alumnado.
+- El comentario debe ser útil también para las familias si lo leen.
+```
+
+### 🏆 Prompt de Oro: Corrección masiva — generar feedback para toda la clase
+
+```text
+Actúa como un asistente de evaluación para un docente de [TU ÁREA] 
+en [ÉTAPA Y CURSO].
+
+Contexto: He evaluado los trabajos de mi clase usando la siguiente 
+rúbrica [PEGAR RÚBRICA O CRITERIOS]. A continuación te doy la lista 
+de resultados.
+
+Lista de alumnos/as (DATOS FICTICIOS):
+- Alumno/a A: Nivel 4 (excelente en contenido, buen formato)
+- Alumno/a B: Nivel 2 (contenido básico, faltas de ortografía)
+- Alumno/a C: Nivel 3 (buen contenido, falta profundidad)
+- Alumno/a D: Nivel 1 (no cumple extensión, ideas desordenadas)
+[AÑADIR MÁS...]
+
+Tarea: Para cada alumno/a, genera un comentario motivador de 3-4 
+líneas siguiendo el formato: Fortaleza + Área de mejora + Siguiente 
+paso. Varía la redacción para que no sean comentarios idénticos.
+
+Formato: Tabla con columnas [Alumno/a | Nivel | Comentario motivador].
+```
+
+> **⚠️ Seguridad GVA:** En el prompt anterior se usan **datos ficticios** (Alumno/a A, B, C...). **Nunca introduzcas nombres reales** en herramientas externas. Si usas Copilot `@gva.es`, los datos están protegidos, pero aún así es buena práctica anonimizar.
+
+> **💡 Consejo:** Revisa siempre el feedback generado antes de entregarlo. La IA produce borradores útiles, pero tú conoces a cada alumno/a y puedes añadir el toque personal que marca la diferencia.
 
 ---
 
@@ -316,7 +392,19 @@ creación — taxonomía de Bloom).
 
 > **⚠️ Seguridad GVA:** Ante la duda sobre si puedes introducir un dato en una herramienta IA externa, aplica la **regla de la fotocopia pública**: *"¿Dejaría este documento en la fotocopiadora del pasillo del centro?"*. Si la respuesta es no, **no lo subas a ninguna IA que no sea Copilot `@gva.es`**.
 
-### 4.4.4 · Actividad ética: detección de sesgos
+### 4.4.4 · Reflexión sobre el impacto real de la IA en la educación secundaria
+
+Más allá de la privacidad y los sesgos, como docente de ESO/Bachillerato/FP debes reflexionar críticamente sobre **qué cambia realmente la IA en tu aula**:
+
+| Pregunta clave | Para reflexionar |
+|:---------------|:-----------------|
+| ¿La IA sustituye el aprendizaje o lo potencia? | Si un alumno/a usa IA para hacer un trabajo, ¿ha aprendido algo? ¿Cómo diseño actividades "a prueba de IA"? |
+| ¿Qué competencias ganan importancia? | Pensamiento crítico, formulación de preguntas, verificación de fuentes, creatividad... |
+| ¿Agrava la brecha digital? | No todo el alumnado tiene el mismo acceso ni las mismas competencias digitales. |
+| ¿Cómo evalúo en un mundo con IA? | Las pruebas memorísticas pierden sentido. La evaluación competencial y auténtica gana peso. |
+| ¿Qué papel queda para el docente? | Más mentor, guía y curador que transmisor de información. |
+
+### 4.4.5 · Actividad ética: detección de sesgos
 
 La IA puede reproducir y amplificar sesgos presentes en los datos con los que fue entrenada. Es fundamental que como docente sepas detectarlos:
 
@@ -417,7 +505,17 @@ Fomenta el uso responsable, no la prohibición total.
 4. Corrige y ajusta la rúbrica.
 5. **Entregable:** rúbrica final en formato tabla + informe breve de las correcciones realizadas tras la verificación.
 
-### Actividad 4.2 — Adaptación curricular con IA *(individual)*
+### Actividad 4.2 — Correcciones motivadoras automatizadas *(individual)*
+
+**Objetivo:** Automatizar la generación de retroalimentación constructiva para liberar tiempo docente.
+
+1. Toma **3 trabajos ficticios** (o reales anonimizados) de distinto nivel de tu asignatura.
+2. Usa el Prompt de Oro de la sección 4.1b para generar retroalimentación motivadora para cada uno en **Copilot**.
+3. Repite en **Gemini** y compara: ¿cuál genera feedback más personalizado? ¿Cuál varía más la redacción?
+4. Revisa los comentarios generados y ajústalos con tu conocimiento del alumnado.
+5. **Entregable:** tabla con los 3 comentarios (versión Copilot + versión Gemini + versión final ajustada por ti) + reflexión (150 palabras) sobre cuánto tiempo te ha ahorrado y si el tono es adecuado.
+
+### Actividad 4.3 — Adaptación curricular con IA *(individual)*
 
 1. Elige a un **perfil ficticio** de alumno/a NEAE (no uses datos reales):
    - Opción A: dislexia (Primaria)
@@ -429,14 +527,24 @@ Fomenta el uso responsable, no la prohibición total.
 4. Repite con **Gemini** y compara.
 5. **Entregable:** material adaptado (ambas versiones) + tabla comparativa Copilot vs. Gemini + reflexión (150 palabras) sobre qué herramienta ha generado adaptaciones más aplicables.
 
-### Actividad 4.3 — Auditoría de sesgos *(individual)*
+### Actividad 4.4 — Auditoría de sesgos *(individual)*
 
 1. Toma cualquier material generado por IA durante el curso (una SA, una rúbrica, un cómic…).
-2. Pasa el material por el prompt de auditoría de sesgos (sección 4.4.4).
+2. Pasa el material por el prompt de auditoría de sesgos (sección 4.4.5).
 3. Documenta los sesgos encontrados y las correcciones aplicadas.
 4. **Entregable:** tabla de auditoría completada + material corregido.
 
-### Actividad 4.4 — Política de IA para mi centro *(grupal, sesión síncrona)*
+### Actividad 4.5 — Debate: impacto real de la IA en el aula *(grupal, sesión síncrona)*
+
+**Objetivo:** Promover un uso ético y crítico de la IA reflexionando sobre su impacto real en la educación secundaria.
+
+1. En grupos de 4-5, leed la tabla de reflexión de la sección 4.4.4.
+2. Cada grupo elige **2 preguntas** de la tabla y prepara una postura argumentada (10 minutos).
+3. Debate abierto entre grupos (15 minutos): ¿la IA es una oportunidad o un riesgo para la educación secundaria? ¿Cómo cambia el rol del docente?
+4. Individualmente, redactad un **"Compromiso ético personal"** (5 frases) sobre cómo usaréis la IA en vuestra práctica docente a partir de ahora.
+5. **Entregable:** compromiso ético personal subido al foro + resumen de las conclusiones del grupo (200 palabras).
+
+### Actividad 4.6 — Política de IA para mi centro *(grupal, sesión síncrona)*
 
 1. En grupos de 4-5, usad el Prompt de Oro de la sección 4.5 adaptándolo a vuestra etapa educativa.
 2. Revisad el borrador generado: ¿es equilibrado? ¿Es realista? ¿Faltan casos?
@@ -492,9 +600,11 @@ Esta actividad integra los aprendizajes de los 4 bloques en un producto final:
 Asegúrate de poder responder **sí** a todas estas preguntas antes de completar el curso:
 
 - [ ] Sé diseñar rúbricas analíticas y holísticas con IA alineadas con la LOMLOE.
+- [ ] Puedo generar retroalimentación motivadora y constructiva de forma automática, revisándola antes de entregarla.
 - [ ] Puedo generar adaptaciones curriculares rápidas para diferentes perfiles NEAE.
 - [ ] Conozco al menos 3 instrumentos de evaluación distintos que puedo crear con IA (rúbrica, lista de cotejo, diana).
 - [ ] Sé detectar sesgos en materiales generados por IA usando un prompt de auditoría.
+- [ ] He reflexionado críticamente sobre el impacto real de la IA en la educación secundaria y he definido mi compromiso ético personal.
 - [ ] Conozco el marco legal (RGPD, EU AI Act, instrucciones GVA) y los 7 principios éticos de uso de IA en el aula.
 - [ ] Puedo distinguir qué datos puedo y no puedo introducir en herramientas externas.
 - [ ] He completado el portfolio integrador con elementos de los 4 bloques.

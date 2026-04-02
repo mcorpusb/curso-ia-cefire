@@ -222,6 +222,31 @@ Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes 
 
 ## 📝 Actividades prácticas del Bloque 1
 
+### Actividad 1.0 — Rompiendo el hielo con la IA *(individual, primera sesión)*
+
+**Objetivo:** Perder el miedo inicial y descubrir la IA como aliada diaria.
+
+1. Accede a **Copilot** con tu cuenta `@gva.es`. Verifica que aparece la insignia "Protegido".
+2. Escribe este primer prompt informal para familiarizarte:
+
+```text
+Actúa como un asistente amigable para docentes. Soy profesor/a de 
+[TU ÁREA] en [TU ETAPA EDUCATIVA] y nunca he usado IA generativa. 
+Tengo curiosidad pero también algo de miedo. 
+
+Dime en 5 puntos breves:
+1. Qué puedes hacer por mí en mi día a día como docente.
+2. Qué NO puedes hacer (para fijar expectativas realistas).
+3. Una tarea sencilla que podamos hacer juntos/as ahora mismo 
+   para que vea su utilidad inmediata.
+```
+
+3. Lee la respuesta y haz la tarea que te proponga la IA.
+4. Ahora repite el mismo prompt en **Gemini** ([gemini.google.com](https://gemini.google.com)) con una cuenta personal. Compara el tono y las sugerencias.
+5. **Entregable:** captura de pantalla de ambas respuestas + un párrafo breve (80 palabras) sobre tus primeras impresiones: ¿ha sido más fácil de lo esperado? ¿Qué te ha sorprendido?
+
+> **💡 Nota:** Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
+
 ### Actividad 1.1 — Mi primera acta con Copilot *(individual)*
 
 1. Accede a Copilot con tu cuenta `@gva.es`.
@@ -237,7 +262,39 @@ Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes 
 3. Compara el resultado con el que genera **Gemini** para el mismo prompt.
 4. **Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
 
-### Actividad 1.3 — Comparativa de herramientas *(grupal, sesión síncrona)*
+### Actividad 1.3 — Organiza tu documentación docente desde cero con IA *(individual)*
+
+**Objetivo:** Usar la IA para crear una estructura inteligente de documentación docente.
+
+1. Lanza el siguiente prompt en **Copilot**:
+
+```text
+Actúa como un consultor de productividad especializado en organización 
+docente para centros educativos de la Comunitat Valenciana.
+
+Contexto: Soy [tutor/a | especialista | jefe/a de departamento] de 
+[TU ÁREA] en [TU ETAPA]. Quiero organizar toda mi documentación digital 
+desde cero usando Microsoft 365 (OneDrive, OneNote, Teams).
+
+Tarea: Diseña un sistema de carpetas y plantillas que cubra:
+1. Programaciones didácticas y situaciones de aprendizaje.
+2. Materiales de clase por unidades/temas.
+3. Evaluación: rúbricas, registros, actas de evaluación.
+4. Comunicación: plantillas de correos a familias, informes.
+5. Coordinación: actas de departamento/ciclo, documentos CCP.
+6. Formación y desarrollo profesional.
+
+Formato: árbol de carpetas con nombres descriptivos + breve 
+explicación de qué va en cada una. Incluye 3 plantillas de 
+OneNote listas para usar.
+
+Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
+```
+
+2. Implementa la estructura en tu **OneDrive** con tu cuenta `@gva.es`.
+3. **Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
+
+### Actividad 1.4 — Comparativa de herramientas *(grupal, sesión síncrona)*
 
 1. En grupos de 3-4 personas, elegid **una tarea administrativa** de las vistas en el bloque (acta, correo, cuadrante, inventario).
 2. Escribid el mismo prompt en **Copilot**, **Gemini** y **Kimi** (o **Grok**).
@@ -252,6 +309,8 @@ Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes 
 | Utilidad práctica inmediata | | | |
 
 4. **Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
+
+> **💡 Reflexión de cierre del Bloque 1:** Al terminar estas actividades, valora: ¿el "miedo" inicial que podías sentir hacia la IA ha disminuido? ¿Ves ya alguna tarea concreta de tu día a día donde la IA puede ahorrarte tiempo? Comparte tu reflexión breve (3 frases) en el foro.
 
 ---
 
@@ -268,9 +327,11 @@ Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes 
 
 Antes de pasar al Bloque 2, asegúrate de que puedes responder **sí** a todas estas preguntas:
 
+- [ ] He superado el primer contacto con la IA generativa y he comprobado que es una herramienta accesible y conversacional.
 - [ ] Sé acceder a Copilot con mi cuenta `@gva.es` y verificar que estoy en el entorno protegido.
 - [ ] Puedo redactar un acta estructurada usando un prompt bien definido.
 - [ ] Soy capaz de generar un correo formal para familias y pedir variantes (idioma, tono, longitud).
+- [ ] He organizado (o tengo un plan para organizar) mi documentación docente con una estructura inteligente creada con IA.
 - [ ] Conozco las diferencias prácticas entre Copilot, Gemini, Kimi y Grok para tareas administrativas.
 - [ ] Entiendo por qué debo usar Copilot como herramienta prioritaria cuando manejo datos del centro.
 
