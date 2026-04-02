@@ -58,7 +58,64 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 
 ---
 
-## 🚀 Guía rápida de Prompt Engineering para Docentes
+## � Antes de empezar: acceso a una herramienta de IA
+
+Para aprovechar este curso desde la primera sesión necesitas poder acceder al menos a **una herramienta de IA generativa**. La opción recomendada es **Microsoft Copilot** con tu cuenta corporativa `@gva.es`, ya que es la única que garantiza que los datos permanecen dentro del entorno seguro de la Generalitat Valenciana.
+
+### Primer acceso a Copilot (5 minutos)
+
+1. Abre tu navegador y ve a [copilot.microsoft.com](https://copilot.microsoft.com).
+2. Haz clic en **"Iniciar sesión"** y utiliza tu **cuenta `@gva.es`** (la misma de Outlook y Teams).
+3. Comprueba que en la parte inferior de la ventana aparece la insignia **"Protegido"** o **"Protected"**. Eso confirma que estás dentro del entorno corporativo.
+4. Escribe cualquier mensaje de prueba en el chat (por ejemplo: *"Hola, ¿qué puedes hacer por un docente?"*) y verifica que recibes una respuesta.
+
+Si ves la insignia "Protegido" y obtienes respuesta, ya estás listo/a para el curso.
+
+### Si no puedes acceder todavía
+
+| Problema | Solución |
+|:---------|:---------|
+| No aparece la insignia "Protegido" | Cierra sesión y vuelve a entrar eligiendo expresamente tu cuenta `@gva.es`, no la personal. Si persiste, borra la caché del navegador o prueba en una ventana de incógnito. |
+| Tu cuenta `@gva.es` no funciona en Copilot | Contacta con el **SAI** (Servicio de Asistencia Informática) de tu centro para verificar que tu licencia Microsoft 365 está activa. |
+| No recuerdas tu contraseña `@gva.es` | Restablécela a través del portal de autoservicio de la GVA o solicita ayuda al equipo directivo de tu centro. |
+| Mientras se resuelve el problema | Puedes comenzar con **Gemini** ([gemini.google.com](https://gemini.google.com)) usando una cuenta personal de Google. No es el entorno corporativo, pero te permitirá seguir las primeras prácticas sin quedarte atrás. |
+
+### ¿Y las demás herramientas?
+
+A lo largo del curso utilizaremos también **Gemini**, **NotebookLM**, **Kimi** y **Grok** como herramientas de comparación. No necesitas crear una cuenta en todas antes de empezar: iremos presentándolas progresivamente en cada bloque y tendrás tiempo de registrarte cuando las necesites. La única cuenta imprescindible desde el primer día es la de **Copilot `@gva.es`**.
+
+> **⚠️ Seguridad GVA:** Las herramientas externas (Gemini, NotebookLM, Kimi, Grok y cualquier otra no corporativa) **no protegen los datos dentro del entorno de la GVA**. Cuando las uses, aplica siempre esta norma: **nunca introduzcas datos personales del alumnado, nombres reales, calificaciones, informes ni documentos internos del centro**. Utiliza únicamente datos ficticios o contenido de dominio público.
+
+### ✅ Checklist de comprobación mínima
+
+Antes de la primera sesión síncrona (22 de abril), asegúrate de que puedes marcar todas estas casillas:
+
+- [ ] Puedo acceder a [copilot.microsoft.com](https://copilot.microsoft.com) con mi cuenta `@gva.es`.
+- [ ] Veo la insignia **"Protegido"** en la parte inferior de la ventana.
+- [ ] He enviado al menos un mensaje de prueba y he recibido respuesta.
+- [ ] Conozco la norma de privacidad: en herramientas externas, nunca datos personales del alumnado.
+
+### Tarea 0: comprobación de acceso
+
+Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@gva.es`) y comprueba que obtienes una respuesta coherente:
+
+```text
+Actúa como un asistente pedagógico para un/a docente de la Comunitat Valenciana.
+
+Contexto: Soy profesor/a y estoy empezando un curso de formación sobre IA 
+generativa. Quiero verificar que esta herramienta funciona correctamente 
+con mi cuenta corporativa.
+
+Tarea: Redacta un breve mensaje de bienvenida (5 líneas) que yo podría 
+enviar a las familias de mi tutoría al inicio del tercer trimestre. 
+El tono debe ser cercano pero profesional.
+```
+
+Si recibes un mensaje de bienvenida bien redactado, tu acceso funciona correctamente y estás preparado/a para la primera sesión del curso. Guarda el resultado: lo usaremos como punto de partida en el Bloque 1.
+
+---
+
+## �🚀 Guía rápida de Prompt Engineering para Docentes
 
 La clave para obtener resultados útiles de cualquier IA generativa es escribir **prompts bien estructurados**. En este curso utilizaremos la fórmula del **Prompt Pedagógico**:
 
