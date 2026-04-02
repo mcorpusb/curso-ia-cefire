@@ -54,6 +54,7 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 | 2 | Prompting Avanzado y Gestión Documental | [Ir al Bloque 2](bloque2.md) |
 | 3 | Generación Multimodal | [Ir al Bloque 3](bloque3.md) |
 | 4 | Evaluación y Personalización | [Ir al Bloque 4](bloque4.md) |
+| 📄 | Guía didáctica del curso | [Ver guía didáctica](guia-didactica.md) |
 
 ---
 
