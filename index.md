@@ -12,24 +12,32 @@ nav_order: 0
 
 ---
 
-## Presentación del curso
+## Presentación
 
-Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**, organizado por el CEFIRE de la Generalitat Valenciana. Este itinerario formativo te proporcionará las competencias necesarias para integrar de forma ética, segura y pedagógicamente fundamentada la Inteligencia Artificial Generativa en tu práctica docente.
+Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**, organizado por el CEFIRE de IA de Alicante. 
+A lo largo de este recorrido de aprendizaje desarrollarás las competencias necesarias para integrar de forma ética, segura y pedagógicamente fundamentada la Inteligencia Artificial Generativa en tu práctica docente.
 
-A lo largo de cuatro bloques temáticos explorarás el ecosistema actual de herramientas de IA —con **Microsoft Copilot** como eje corporativo de la GVA— y aprenderás a compararlas con otras soluciones como **Gemini**, **NotebookLM**, **Kimi** y **Grok**, siempre dentro del marco curricular de la **LOMLOE** y con especial atención al **Diseño Universal para el Aprendizaje (DUA)**.
+A lo largo de cuatro bloques irás descubriendo el ecosistema actual de herramientas de IA. Trabajaremos principalmente con **Microsoft Copilot** , como herramienta corporativa GVA, y lo pondremos en relación con otras opciones como **Gemini**, **NotebookLM**, **Kimi**, **Gamma**,... siempre dentro del marco curricular de la **LOMLOE** y con especial atención al **Diseño Universal para el Aprendizaje (DUA)**.
 
-### Objetivos del curso
+### Objetivos
 
-1. **Descubrir la IA generativa como aliada diaria**, acompañando al profesorado en la planificación de clases creativas, la simplificación de evaluaciones y la adaptación de materiales multimodales (cómics, vídeos, audios) al contexto del aula en entornos seguros como GVA.
-2. **Perder el miedo inicial a la IA**, conectando con herramientas corporativas (Copilot `@gva.es`) y no corporativas (Gemini, NotebookLM, Kimi, Grok) para organizar inteligentemente la documentación docente desde cero.
-3. **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas (Rol + Contexto + Tarea + Formato + Restricciones) que posicionen a la IA como experta pedagógica alineada con las necesidades educativas del docente.
-4. **Explorar extensiones y agentes personalizados** para automatizar correcciones y planificación conforme al estilo docente y los criterios de la LOMLOE.
-5. **Transformar contenidos textuales en recursos multimodales dinámicos** (infografías, cómics, audios realistas, vídeos con avatares) que potencien la atención visual y auditiva en ESO/Bachillerato.
-6. **Personalizar el aprendizaje mediante IA**, ajustando materiales a la diversidad de niveles y realidades del aula de forma rápida y escalable.
-7. **Automatizar tareas administrativas** como rúbricas LOMLOE y correcciones motivadoras, liberando tiempo para la docencia esencial.
-8. **Promover un uso ético y crítico de la IA**, priorizando la privacidad del alumnado y reflexionando sobre su impacto real en la educación secundaria.
+1. **Descubrir** la IA generativa como aliada en el día a día docente: planificación, evaluación y adaptación de materiales multimodales en entornos seguros como GVA.
 
-> **⚠️ Seguridad GVA:** Recuerda que **Microsoft Copilot** con tu cuenta `@gva.es` es la única herramienta que garantiza que los datos quedan dentro del entorno corporativo. Cuando uses herramientas externas (Gemini, Kimi, Grok…), **nunca introduzcas datos personales del alumnado ni información sensible**.
+2. **Perder** el miedo inicial a la IA utilizando herramientas corporativas (Copilot `@edu.gva.es`) y otras como Gemini, NotebookLM, Kimi o Grok para organizar la documentación docente.
+
+3. **Evolucionar** en el diseño de prompts, desde instrucciones simples hasta guías avanzadas (Rol + Contexto + Tarea + Formato + Restricciones).
+
+4. **Explorar** extensiones y agentes personalizados para automatizar correcciones y planificación según el estilo docente y la LOMLOE.
+
+5. **Transformar** contenidos en recursos multimodales (infografías, cómics, audios, vídeos) que mejoren la atención en ESO y Bachillerato.
+
+6. **Personalizar** el aprendizaje ajustando materiales a la diversidad del aula de forma ágil.
+
+7. **Automatizar** tareas como rúbricas y correcciones para ganar tiempo en la docencia.
+
+8. **Promover** un uso ético de la IA, cuidando la privacidad del alumnado y su impacto en el aula.
+
+> **⚠️ Seguridad GVA:** Recuerda que **Microsoft Copilot** con tu cuenta `@edu.gva.es` es la única herramienta que garantiza que los datos quedan dentro del entorno corporativo. Cuando uses herramientas externas (Gemini, Kimi, Grok…), **nunca introduzcas datos personales del alumnado ni información sensible**.
 
 ---
 
@@ -58,26 +66,26 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 
 ---
 
-## � Antes de empezar: acceso a una herramienta de IA
+## 🛡️ Antes de empezar: acceso a una herramienta de IA
 
-Para aprovechar este curso desde la primera sesión necesitas poder acceder al menos a **una herramienta de IA generativa**. La opción recomendada es **Microsoft Copilot** con tu cuenta corporativa `@gva.es`, ya que es la única que garantiza que los datos permanecen dentro del entorno seguro de la Generalitat Valenciana.
+Para aprovechar este curso desde la primera sesión necesitas poder acceder al menos a **una herramienta de IA generativa**. La opción recomendada es **Microsoft Copilot** con tu cuenta corporativa `@edu.gva.es`, ya que es la única que garantiza que los datos permanecen dentro del entorno seguro de la Generalitat Valenciana.
 
 ### Primer acceso a Copilot (5 minutos)
 
 1. Abre tu navegador y ve a [copilot.microsoft.com](https://copilot.microsoft.com).
-2. Haz clic en **"Iniciar sesión"** y utiliza tu **cuenta `@gva.es`** (la misma de Outlook y Teams).
-3. Comprueba que en la parte inferior de la ventana aparece la insignia **"Protegido"** o **"Protected"**. Eso confirma que estás dentro del entorno corporativo.
+2. Haz clic en **"Iniciar sesión"** y utiliza tu **cuenta `@edu.gva.es`** (la misma de Outlook y Teams).
+3. Comprueba que en la parte superior de la ventana aparece la insignia 🛡️ -- es un ecudo verde -- **"Protegido"** o **"Protected"**. Eso confirma que estás dentro del entorno corporativo.
 4. Escribe cualquier mensaje de prueba en el chat (por ejemplo: *"Hola, ¿qué puedes hacer por un docente?"*) y verifica que recibes una respuesta.
 
-Si ves la insignia "Protegido" y obtienes respuesta, ya estás listo/a para el curso.
+Ya estás listo/a para el curso.
 
 ### Si no puedes acceder todavía
 
 | Problema | Solución |
 |:---------|:---------|
-| No aparece la insignia "Protegido" | Cierra sesión y vuelve a entrar eligiendo expresamente tu cuenta `@gva.es`, no la personal. Si persiste, borra la caché del navegador o prueba en una ventana de incógnito. |
-| Tu cuenta `@gva.es` no funciona en Copilot | Contacta con el **SAI** (Servicio de Asistencia Informática) de tu centro para verificar que tu licencia Microsoft 365 está activa. |
-| No recuerdas tu contraseña `@gva.es` | Restablécela a través del portal de autoservicio de la GVA o solicita ayuda al equipo directivo de tu centro. |
+| No aparece la insignia "Protegido" | Cierra sesión y vuelve a entrar eligiendo expresamente tu cuenta `@edu.gva.es`, no la personal. Si persiste, borra la caché del navegador o prueba en una ventana de incógnito. |
+| Tu cuenta `@edu.gva.es` no funciona en Copilot | Contacta con el **SAI** (Servicio de Asistencia Informática) de tu centro para verificar que tu licencia Microsoft 365 está activa. |
+| No recuerdas tu contraseña `@edu.gva.es` | Restablécela a través del portal de autoservicio de la GVA o solicita ayuda al equipo directivo de tu centro. |
 | Mientras se resuelve el problema | Puedes comenzar con **Gemini** ([gemini.google.com](https://gemini.google.com)) usando una cuenta personal de Google. No es el entorno corporativo, pero te permitirá seguir las primeras prácticas sin quedarte atrás. |
 
 ### ¿Y las demás herramientas?
@@ -90,14 +98,14 @@ A lo largo del curso utilizaremos también **Gemini**, **NotebookLM**, **Kimi** 
 
 Antes de la primera sesión síncrona (22 de abril), asegúrate de que puedes marcar todas estas casillas:
 
-- [ ] Puedo acceder a [copilot.microsoft.com](https://copilot.microsoft.com) con mi cuenta `@gva.es`.
-- [ ] Veo la insignia **"Protegido"** en la parte inferior de la ventana.
+- [ ] Puedo acceder a [copilot.microsoft.com](https://copilot.microsoft.com) con mi cuenta `@edu.gva.es`.
+- [ ] Veo la insignia 🛡️ **"Protegido"** en la parte inferior de la ventana.
 - [ ] He enviado al menos un mensaje de prueba y he recibido respuesta.
 - [ ] Conozco la norma de privacidad: en herramientas externas, nunca datos personales del alumnado.
 
 ### Tarea 0: comprobación de acceso
 
-Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@gva.es`) y comprueba que obtienes una respuesta coherente:
+Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@edu.gva.es`) y comprueba que obtienes una respuesta coherente:
 
 ```text
 Actúa como un asistente pedagógico para un/a docente de la Comunitat Valenciana.
@@ -115,7 +123,7 @@ Si recibes un mensaje de bienvenida bien redactado, tu acceso funciona correctam
 
 ---
 
-## �🚀 Guía rápida de Prompt Engineering para Docentes
+## 🚀 Guía rápida de Prompt Engineering para Docentes
 
 La clave para obtener resultados útiles de cualquier IA generativa es escribir **prompts bien estructurados**. En este curso utilizaremos la fórmula del **Prompt Pedagógico**:
 
@@ -151,7 +159,8 @@ Formato de salida: tabla con columnas [Fase | Duración | Descripción | Adaptac
 
 > **💡 Ejemplo Primaria:** Prueba a cambiar el nivel a *Educación Infantil 5 años* y la competencia a *STEM*. Observa cómo la IA adapta la actividad.
 
-> **🚀 Reto Secundaria/FP:** Modifica el prompt para 1.º de Bachillerato (Filosofía) o un CFGS de Informática. Añade al contexto: *"El grupo tiene alta diversidad lingüística (4 alumnos de incorporación tardía)"*. Compara los resultados de Copilot y Gemini.
+> **🚀 Ejemplo Secundaria/FP:** Modifica el prompt para 1.º de Bachillerato (Filosofía) o un CFGS de Informática. Añade al contexto: *"El grupo tiene alta diversidad lingüística (4 alumnos de incorporación tardía)"*. 
+> Compara los resultados de Copilot y Otra IA Gemini/Chat GPT...
 
 ### Consejos rápidos
 
@@ -163,6 +172,6 @@ Formato de salida: tabla con columnas [Fase | Duración | Descripción | Adaptac
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso organizado por el CEFIRE · Generalitat Valenciana · 2026<br>
+Curso organizado por el CEFIRE de IA · Generalitat Valenciana · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>

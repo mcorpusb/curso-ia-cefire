@@ -169,7 +169,7 @@ paso. Varía la redacción para que no sean comentarios idénticos.
 Formato: Tabla con columnas [Alumno/a | Nivel | Comentario motivador].
 ```
 
-> **⚠️ Seguridad GVA:** En el prompt anterior se usan **datos ficticios** (Alumno/a A, B, C...). **Nunca introduzcas nombres reales** en herramientas externas. Si usas Copilot `@gva.es`, los datos están protegidos, pero aún así es buena práctica anonimizar.
+> **⚠️ Seguridad GVA:** En el prompt anterior se usan **datos ficticios** (Alumno/a A, B, C...). **Nunca introduzcas nombres reales** en herramientas externas. Si usas Copilot `@edu.gva.es`, los datos están protegidos, pero aún así es buena práctica anonimizar.
 
 > **💡 Consejo:** Revisa siempre el feedback generado antes de entregarlo. La IA produce borradores útiles, pero tú conoces a cada alumno/a y puedes añadir el toque personal que marca la diferencia.
 
@@ -365,14 +365,14 @@ creación — taxonomía de Bloom).
 | **RGPD** (Reglamento General de Protección de Datos) | Tratamiento de datos personales en la UE | No puedes introducir datos del alumnado en herramientas IA externas sin base legal |
 | **LOPDGDD** (Ley Orgánica 3/2018) | Adaptación española del RGPD | El centro es responsable del tratamiento de datos del alumnado |
 | **Directiva IA de la UE** (EU AI Act, 2024) | Clasifica sistemas de IA por nivel de riesgo | La educación se considera ámbito de **alto riesgo**: exige transparencia y supervisión humana |
-| **Instrucciones GVA sobre IA** | Política corporativa de la Generalitat | Copilot con cuenta `@gva.es` es la herramienta autorizada para datos internos |
+| **Instrucciones GVA sobre IA** | Política corporativa de la Generalitat | Copilot con cuenta `@edu.gva.es` es la herramienta autorizada para datos internos |
 | **LOMLOE** (Disposiciones sobre evaluación) | Evaluación continua, formativa y objetiva | **La IA no puede ser el evaluador final**: el docente firma y es responsable |
 
 ### 4.4.2 · Los 7 principios de uso ético de la IA en tu aula
 
 1. **Transparencia:** Informa a alumnado y familias de que utilizas IA como herramienta de apoyo. No lo ocultes.
 2. **Supervisión humana:** Nunca delegues una decisión evaluativa o disciplinar en la IA. Revisa siempre.
-3. **Privacidad por defecto:** Usa Copilot `@gva.es` para datos del centro. Para herramientas externas: solo datos ficticios o públicos.
+3. **Privacidad por defecto:** Usa Copilot `@edu.gva.es` para datos del centro. Para herramientas externas: solo datos ficticios o públicos.
 4. **Equidad:** Verifica que los materiales generados por IA no contienen sesgos (de género, culturales, socioeconómicos).
 5. **Verificación:** La IA puede alucinar. Contrasta siempre con fuentes oficiales (DOGV, BOE, libros de texto).
 6. **Alfabetización IA del alumnado:** Enseña a tu alumnado qué es la IA, cómo funciona y cómo usarla críticamente.
@@ -390,7 +390,7 @@ creación — taxonomía de Bloom).
 | Usar IA para preparar una adaptación curricular | Incluir el informe del SPE como prompt en una IA externa |
 | Crear un podcast con voces IA y avisar de que es sintético | Usar voces IA para suplantar a personas reales sin consentimiento |
 
-> **⚠️ Seguridad GVA:** Ante la duda sobre si puedes introducir un dato en una herramienta IA externa, aplica la **regla de la fotocopia pública**: *"¿Dejaría este documento en la fotocopiadora del pasillo del centro?"*. Si la respuesta es no, **no lo subas a ninguna IA que no sea Copilot `@gva.es`**.
+> **⚠️ Seguridad GVA:** Ante la duda sobre si puedes introducir un dato en una herramienta IA externa, aplica la **regla de la fotocopia pública**: *"¿Dejaría este documento en la fotocopiadora del pasillo del centro?"*. Si la respuesta es no, **no lo subas a ninguna IA que no sea Copilot `@edu.gva.es`**.
 
 ### 4.4.4 · Reflexión sobre el impacto real de la IA en la educación secundaria
 
@@ -449,7 +449,7 @@ que sea clara, realista y alineada con el RGPD y las instrucciones de la GVA.
 
 Tarea: Redacta un documento de "Política de uso de IA Generativa" que incluya:
 1. Introducción y justificación (por qué el centro necesita esta política).
-2. Herramientas autorizadas (Copilot @gva.es como prioritaria; condiciones 
+2. Herramientas autorizadas (Copilot @edu.gva.es como prioritaria; condiciones 
    para usar herramientas externas).
 3. Datos que NUNCA deben introducirse en IAs externas (lista explícita).
 4. Uso de IA por parte del profesorado (qué sí, qué no).

@@ -98,7 +98,7 @@ Los cómics son una herramienta pedagógica potente: combinan narrativa visual y
 
 | Herramienta | Tipo | Acceso | Ideal para |
 |:------------|:-----|:-------|:-----------|
-| **Copilot (Designer / Image Creator)** | Generador de imágenes (DALL-E 3) | ✅ Cuenta `@gva.es` | Ilustraciones individuales, portadas, infografías |
+| **Copilot (Designer / Image Creator)** | Generador de imágenes (DALL-E 3) | ✅ Cuenta `@edu.gva.es` | Ilustraciones individuales, portadas, infografías |
 | **Pixton** | Creador de cómics con avatares | Freemium | Cómics con personajes estilo cartoon, diálogos |
 | **Canva + IA** | Diseño gráfico + generación IA | Freemium (plan educativo gratuito) | Cómics, pósteres, infografías con plantillas |
 | **Gemini (Imagen 3)** | Generador de imágenes | ✅ Cuenta personal Google | Ilustraciones realistas, escenas complejas |
@@ -114,7 +114,7 @@ levantan la mano con entusiasmo. Colores vivos, estilo cartoon amigable.
 No incluyas texto ni letras en la imagen.
 ```
 
-> **⚠️ Seguridad GVA:** Copilot con tu cuenta `@gva.es` utiliza DALL-E 3 con filtros de contenido corporativo. Es la opción más segura para generar imágenes. **Nunca pidas que genere imágenes que se parezcan a personas reales, alumnado concreto o menores identificables.**
+> **⚠️ Seguridad GVA:** Copilot con tu cuenta `@edu.gva.es` utiliza DALL-E 3 con filtros de contenido corporativo. Es la opción más segura para generar imágenes. **Nunca pidas que genere imágenes que se parezcan a personas reales, alumnado concreto o menores identificables.**
 
 ### 🏆 Prompt de Oro: Guion de cómic educativo (para cualquier herramienta)
 
@@ -156,7 +156,7 @@ Las infografías son uno de los recursos más eficaces para sintetizar informaci
 |:------------|:-----|:-------|:-----------|
 | **Canva + IA** | Diseño gráfico + IA generativa | Freemium (plan educativo gratuito) | Infografías con plantillas profesionales, datos y gráficos |
 | **Gamma** | Generador de documentos/presentaciones | Freemium | Infografías tipo página web con datos y visualizaciones |
-| **Copilot + PowerPoint** | Diseño integrado en M365 | ✅ Cuenta `@gva.es` | Infografías dentro de presentaciones, entorno GVA seguro |
+| **Copilot + PowerPoint** | Diseño integrado en M365 | ✅ Cuenta `@edu.gva.es` | Infografías dentro de presentaciones, entorno GVA seguro |
 | **Napkin AI** | Conversor de texto a infografía | Freemium | Transformar textos largos en esquemas visuales automáticos |
 
 ### 🏆 Prompt de Oro: Transformar un texto en infografía
@@ -306,7 +306,7 @@ Restricciones:
 
 **Microsoft Clipchamp** está incluido en tu licencia Microsoft 365 de la GVA y es la opción más segura para vídeo:
 
-1. Accede a [clipchamp.com](https://clipchamp.com) con tu cuenta `@gva.es`.
+1. Accede a [clipchamp.com](https://clipchamp.com) con tu cuenta `@edu.gva.es`.
 2. Crea un **nuevo vídeo** y selecciona el formato (horizontal 16:9 para clase, vertical 9:16 para alumnado móvil).
 3. Graba tu pantalla o sube un vídeo ya existente.
 4. Usa la función **"Subtítulos automáticos"** (basada en IA) para generar subtítulos sincronizados.
@@ -357,7 +357,7 @@ Tono: motivador, cercano, sin infantilizar. Máximo 200 palabras.
 ### ¿Cuándo usar cada herramienta?
 
 - **Solo datos públicos/ficticios:** Puedes usar cualquier herramienta de la tabla.
-- **Contenido con datos del centro:** Solo herramientas Microsoft con cuenta `@gva.es` (Copilot, Clipchamp, PowerPoint).
+- **Contenido con datos del centro:** Solo herramientas Microsoft con cuenta `@edu.gva.es` (Copilot, Clipchamp, PowerPoint).
 - **Para el alumnado directamente:** Prioriza herramientas gratuitas y sin registro obligatorio (Edge, Canva Education, CapCut).
 
 ---
@@ -481,7 +481,7 @@ cada versión.
 - [Gamma — Crear presentaciones con IA](https://gamma.app)
 - [ElevenLabs — Text to Speech](https://elevenlabs.io)
 - [NotebookLM — Audio Overviews](https://notebooklm.google.com)
-- [Microsoft Clipchamp](https://clipchamp.com) *(accede con tu cuenta `@gva.es`)*
+- [Microsoft Clipchamp](https://clipchamp.com) *(accede con tu cuenta `@edu.gva.es`)*
 - [Canva para Educación](https://www.canva.com/education/) *(plan gratuito para docentes)*
 - [Synthesia — Vídeos con avatares IA](https://www.synthesia.io)
 - [HeyGen — Traducción de vídeo con IA](https://www.heygen.com)

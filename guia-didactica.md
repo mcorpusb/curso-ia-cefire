@@ -20,7 +20,7 @@ Este curso nace de la convicción de que la IA generativa no es un fin en sí mi
 
 El itinerario formativo se articula en torno a cuatro bloques temáticos que progresan desde las tareas más cotidianas y accesibles —perder el miedo, organizar la documentación, conocer el entorno corporativo de la GVA— hasta las aplicaciones pedagógicas más avanzadas: diseño de prompts expertos, generación de contenidos multimodales, evaluación automatizada y reflexión ética sobre el impacto de la IA en la educación secundaria.
 
-A lo largo del curso, **Microsoft Copilot** con cuenta `@gva.es` actúa como eje vertebrador, al ser la herramienta corporativa que garantiza la protección de datos dentro del entorno de la Generalitat Valenciana. No obstante, el curso incorpora la exploración comparativa de otras soluciones —Gemini, NotebookLM, Kimi y Grok— para que el profesorado desarrolle un criterio informado y autónomo a la hora de elegir la herramienta más adecuada a cada necesidad.
+A lo largo del curso, **Microsoft Copilot** con cuenta `@edu.gva.es` actúa como eje vertebrador, al ser la herramienta corporativa que garantiza la protección de datos dentro del entorno de la Generalitat Valenciana. No obstante, el curso incorpora la exploración comparativa de otras soluciones —Gemini, NotebookLM, Kimi y Grok— para que el profesorado desarrolle un criterio informado y autónomo a la hora de elegir la herramienta más adecuada a cada necesidad.
 
 Todo ello se enmarca en la normativa vigente: la **LOMLOE** como referencia curricular, el **Diseño Universal para el Aprendizaje (DUA)** como principio de atención a la diversidad, y la legislación de protección de datos (RGPD, LOPDGDD, EU AI Act) como límite ético y legal irrenunciable.
 
@@ -46,7 +46,7 @@ Todo ello se enmarca en la normativa vigente: la **LOMLOE** como referencia curr
 Los objetivos de esta formación persiguen que el profesorado participante sea capaz de:
 
 1. **Descubrir la IA generativa como aliada diaria**, integrándola de forma natural en la planificación de clases, la simplificación de evaluaciones y la adaptación de materiales multimodales (cómics, vídeos, audios) al contexto del aula, trabajando en entornos seguros como el ecosistema corporativo de la GVA.
-2. **Perder el miedo inicial a la IA**, conectando desde la primera sesión con herramientas corporativas (Microsoft Copilot con cuenta `@gva.es`) y no corporativas (Gemini, NotebookLM, Kimi, Grok) para organizar inteligentemente la documentación docente desde cero.
+2. **Perder el miedo inicial a la IA**, conectando desde la primera sesión con herramientas corporativas (Microsoft Copilot con cuenta `@edu.gva.es`) y no corporativas (Gemini, NotebookLM, Kimi, Grok) para organizar inteligentemente la documentación docente desde cero.
 3. **Evolucionar en el diseño de prompts**, progresando desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, de modo que la IA actúe como experta pedagógica alineada con las necesidades educativas del docente.
 4. **Explorar extensiones y agentes personalizados** para automatizar correcciones y planificación conforme al estilo docente propio y los criterios de la LOMLOE.
 5. **Transformar contenidos textuales en recursos multimodales dinámicos** —infografías, cómics, audios realistas, vídeos con avatares— que potencien la atención visual y auditiva del alumnado.
@@ -127,7 +127,7 @@ Cada bloque se desarrolla a lo largo de una semana. La sesión síncrona abre el
 
 **Contenidos principales:**
 
-- Acceso y configuración de Microsoft Copilot con cuenta corporativa `@gva.es`. Verificación del entorno protegido.
+- Acceso y configuración de Microsoft Copilot con cuenta corporativa `@edu.gva.es`. Verificación del entorno protegido.
 - Redacción asistida de actas de reuniones (claustro, CCP, equipos docentes).
 - Composición y automatización de correos electrónicos a familias, alumnado y administración, con variantes de idioma y tono.
 - Organización inteligente de la documentación docente: estructuras de carpetas, plantillas y registros con IA.
@@ -192,7 +192,7 @@ Cada bloque se desarrolla a lo largo de una semana. La sesión síncrona abre el
 
 ### Herramienta corporativa prioritaria
 
-**Microsoft Copilot** con cuenta `@gva.es` es la herramienta de referencia del curso. Los datos procesados permanecen dentro del tenant corporativo de la Generalitat Valenciana, cumpliendo con el RGPD y la política de privacidad institucional. Debe ser la primera opción siempre que se trabaje con datos del centro, del alumnado o con documentación interna.
+**Microsoft Copilot** con cuenta `@edu.gva.es` es la herramienta de referencia del curso. Los datos procesados permanecen dentro del tenant corporativo de la Generalitat Valenciana, cumpliendo con el RGPD y la política de privacidad institucional. Debe ser la primera opción siempre que se trabaje con datos del centro, del alumnado o con documentación interna.
 
 Copilot se integra de forma nativa en el ecosistema Microsoft 365 (Outlook, Word, Excel, Teams, OneNote, PowerPoint, Clipchamp), lo que permite extender las funcionalidades de IA al flujo de trabajo habitual del profesorado.
 
@@ -216,7 +216,7 @@ Las herramientas externas al ecosistema de la GVA (Gemini, NotebookLM, Kimi, Gro
 - **Nunca** introducir datos personales del alumnado (nombres, calificaciones, informes psicopedagógicos, fotografías) en herramientas externas.
 - **Nunca** subir documentos internos del centro (PEC, PGA, actas con datos personales) a servicios no corporativos.
 - Utilizar únicamente **datos ficticios, anonimizados o de dominio público** (legislación, currículos del DOGV) cuando se trabaje con herramientas externas.
-- Ante la duda, aplicar la regla de la fotocopia pública: *"¿Dejaría este documento en la fotocopiadora del pasillo del centro?"*. Si la respuesta es no, no debe subirse a ninguna IA que no sea Copilot con cuenta `@gva.es`.
+- Ante la duda, aplicar la regla de la fotocopia pública: *"¿Dejaría este documento en la fotocopiadora del pasillo del centro?"*. Si la respuesta es no, no debe subirse a ninguna IA que no sea Copilot con cuenta `@edu.gva.es`.
 
 ---
 
@@ -280,7 +280,7 @@ Ninguna herramienta de IA debe tomar decisiones evaluativas, disciplinares o ped
 
 ### Protección de datos y privacidad
 
-El curso forma al profesorado en el cumplimiento del RGPD, la LOPDGDD y las instrucciones de la GVA en materia de protección de datos. Se establece una distinción clara entre el entorno corporativo seguro (Copilot con cuenta `@gva.es`) y las herramientas externas, y se trabaja de forma práctica qué datos pueden y no pueden introducirse en cada tipo de herramienta.
+El curso forma al profesorado en el cumplimiento del RGPD, la LOPDGDD y las instrucciones de la GVA en materia de protección de datos. Se establece una distinción clara entre el entorno corporativo seguro (Copilot con cuenta `@edu.gva.es`) y las herramientas externas, y se trabaja de forma práctica qué datos pueden y no pueden introducirse en cada tipo de herramienta.
 
 ### Revisión y verificación de resultados
 

@@ -16,13 +16,13 @@ Aprende a usar Microsoft Copilot como asistente integral para las tareas adminis
 
 Al finalizar este bloque serás capaz de:
 
-1. Acceder y configurar **Microsoft Copilot** con tu cuenta corporativa `@gva.es`.
+1. Acceder y configurar **Microsoft Copilot** con tu cuenta corporativa `@edu.gva.es`.
 2. Redactar **actas de reuniones** (claustro, CCP, equipos docentes) con asistencia de IA.
 3. Componer y automatizar **correos electrónicos** profesionales dirigidos a familias, alumnado y administración.
 4. Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
 5. Comparar el rendimiento de Copilot con **Gemini**, **Kimi** y **Grok** en tareas administrativas reales.
 
-> **⚠️ Seguridad GVA:** Todas las prácticas de este bloque deben realizarse **primero en Copilot con tu cuenta `@gva.es`**. Solo después, y **sin datos personales reales**, puedes replicar el ejercicio en otras herramientas para comparar resultados.
+> **⚠️ Seguridad GVA:** Todas las prácticas de este bloque deben realizarse **primero en Copilot con tu cuenta `@edu.gva.es`**. Solo después, y **sin datos personales reales**, puedes replicar el ejercicio en otras herramientas para comparar resultados.
 
 ---
 
@@ -35,12 +35,12 @@ Microsoft Copilot es el asistente de IA generativa integrado en el ecosistema Mi
 | **Protección de datos** | Los datos procesados permanecen dentro del tenant de la GVA y no se usan para entrenar modelos. |
 | **Integración nativa** | Funciona dentro de Word, Outlook, Teams, Excel y OneNote sin salir de las aplicaciones que ya usas. |
 | **Cumplimiento normativo** | Alineado con el RGPD y la política de privacidad corporativa de la GVA. |
-| **Acceso con identidad verificada** | Se accede con la cuenta `@gva.es`, lo que garantiza trazabilidad y control de accesos. |
+| **Acceso con identidad verificada** | Se accede con la cuenta `@edu.gva.es`, lo que garantiza trazabilidad y control de accesos. |
 
 ### Cómo acceder
 
 1. Abre tu navegador y dirígete a [copilot.microsoft.com](https://copilot.microsoft.com).
-2. Inicia sesión con tu **cuenta `@gva.es`** (la misma de Outlook y Teams).
+2. Inicia sesión con tu **cuenta `@edu.gva.es`** (la misma de Outlook y Teams).
 3. Verifica que en la esquina inferior aparece la insignia **"Protegido"** o **"Protected"** — esto confirma que estás en el entorno corporativo.
 
 > **💡 Ejemplo Primaria:** Si no ves la insignia "Protegido", cierra sesión y vuelve a entrar asegurándote de elegir tu cuenta institucional, no la personal.
@@ -186,7 +186,7 @@ Además del chat web, Copilot puede usarse de forma integrada en las aplicacione
 
 ### Ejemplo: resumir un hilo de correo en Outlook
 
-1. Abre un hilo de correo largo en **Outlook Web** (con tu cuenta `@gva.es`).
+1. Abre un hilo de correo largo en **Outlook Web** (con tu cuenta `@edu.gva.es`).
 2. Haz clic en el icono de **Copilot** que aparece en la parte superior del hilo.
 3. Selecciona **"Resumir"**.
 4. Copilot generará un resumen con los puntos clave y las acciones pendientes.
@@ -226,7 +226,7 @@ Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes 
 
 **Objetivo:** Perder el miedo inicial y descubrir la IA como aliada diaria.
 
-1. Accede a **Copilot** con tu cuenta `@gva.es`. Verifica que aparece la insignia "Protegido".
+1. Accede a **Copilot** con tu cuenta `@edu.gva.es`. Verifica que aparece la insignia "Protegido".
 2. Escribe este primer prompt informal para familiarizarte:
 
 ```text
@@ -249,7 +249,7 @@ Dime en 5 puntos breves:
 
 ### Actividad 1.1 — Mi primera acta con Copilot *(individual)*
 
-1. Accede a Copilot con tu cuenta `@gva.es`.
+1. Accede a Copilot con tu cuenta `@edu.gva.es`.
 2. Usa el "Prompt de Oro: Acta de claustro" (sección 1.2) adaptándolo a una reunión **de tu departamento o ciclo**.
 3. Revisa el borrador: corrige errores factuales y ajusta el tono.
 4. Exporta el resultado a un documento Word.
@@ -291,7 +291,7 @@ OneNote listas para usar.
 Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 ```
 
-2. Implementa la estructura en tu **OneDrive** con tu cuenta `@gva.es`.
+2. Implementa la estructura en tu **OneDrive** con tu cuenta `@edu.gva.es`.
 3. **Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
 
 ### Actividad 1.4 — Comparativa de herramientas *(grupal, sesión síncrona)*
@@ -328,7 +328,7 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 Antes de pasar al Bloque 2, asegúrate de que puedes responder **sí** a todas estas preguntas:
 
 - [ ] He superado el primer contacto con la IA generativa y he comprobado que es una herramienta accesible y conversacional.
-- [ ] Sé acceder a Copilot con mi cuenta `@gva.es` y verificar que estoy en el entorno protegido.
+- [ ] Sé acceder a Copilot con mi cuenta `@edu.gva.es` y verificar que estoy en el entorno protegido.
 - [ ] Puedo redactar un acta estructurada usando un prompt bien definido.
 - [ ] Soy capaz de generar un correo formal para familias y pedir variantes (idioma, tono, longitud).
 - [ ] He organizado (o tengo un plan para organizar) mi documentación docente con una estructura inteligente creada con IA.
