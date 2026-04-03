@@ -19,6 +19,8 @@ A lo largo de este recorrido de aprendizaje desarrollarás las competencias nece
 
 A lo largo de cuatro bloques irás descubriendo el ecosistema actual de herramientas de IA. Trabajaremos principalmente con **Microsoft Copilot** , como herramienta corporativa GVA, y lo pondremos en relación con otras opciones como **Gemini**, **NotebookLM**, **Kimi**, **Gamma**,... siempre dentro del marco curricular de la **LOMLOE** y con especial atención al **Diseño Universal para el Aprendizaje (DUA)**.
 
+![Ruta de aprendizaje del curso](assets/img/ruta-ia-docentes.png)
+
 ### Objetivos
 
 1. **Descubrir** la IA generativa como aliada en el día a día docente: planificación, evaluación y adaptación de materiales multimodales en entornos seguros como GVA.
