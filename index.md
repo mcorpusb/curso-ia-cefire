@@ -14,7 +14,7 @@ nav_order: 0
 
 ## Presentación
 
-Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**, organizado por el CEFIRE de IA de Alicante. 
+Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**, organizado por el CEFIRE de IA y Pensamiento Computacional. 
 A lo largo de este recorrido de aprendizaje desarrollarás las competencias necesarias para integrar de forma ética, segura y pedagógicamente fundamentada la Inteligencia Artificial Generativa en tu práctica docente.
 
 A lo largo de cuatro bloques irás descubriendo el ecosistema actual de herramientas de IA. Trabajaremos principalmente con **Microsoft Copilot** , como herramienta corporativa GVA, y lo pondremos en relación con otras opciones como **Gemini**, **NotebookLM**, **Kimi**, **Gamma**,... siempre dentro del marco curricular de la **LOMLOE** y con especial atención al **Diseño Universal para el Aprendizaje (DUA)**.
@@ -174,6 +174,6 @@ Formato de salida: tabla con columnas [Fase | Duración | Descripción | Adaptac
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso organizado por el CEFIRE de IA · Generalitat Valenciana · 2026<br>
+Curso organizado por el CEFIRE de IA y Pensamiento Computacional· Generalitat Valenciana · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
