@@ -174,6 +174,6 @@ Formato de salida: tabla con columnas [Fase | Duración | Descripción | Adaptac
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso organizado por el CEFIRE de IA y Pensamiento Computacional· Generalitat Valenciana · 2026<br>
+Curso organizado por el CEFIRE de IA y Pensamiento Computacional · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
