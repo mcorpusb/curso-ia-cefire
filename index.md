@@ -26,11 +26,11 @@ El curso está planteado de forma progresiva, comenzando por usos sencillos y av
 
 ## Qué te llevarás de este curso
 
-A lo largo del curso aprenderás a utilizar la IA generativa de forma práctica, segura y conectada con la realidad del aula. En concreto, trabajarás para:
+A lo largo del curso aprenderás a:
 
-- **Ahorrar tiempo en tareas docentes habituales**, como la redacción de documentos, la organización de materiales o la preparación de instrumentos de evaluación.
-- **Diseñar actividades y recursos más variados e inclusivos**, incorporando apoyos textuales, visuales y audiovisuales adaptados a diferentes perfiles de alumnado.
-- **Usar la IA con criterio pedagógico y seguridad**, priorizando la protección de datos, la revisión crítica de los resultados y su aplicación real en el contexto educativo.
+- **Ahorrar tiempo en tareas docentes habituales**, como la redacción de documentos o la preparación de evaluaciones.
+- **Diseñar actividades y recursos más variados e inclusivos**, adaptados a diferentes perfiles de alumnado.
+- **Usar la IA con criterio pedagógico y seguridad**, revisando resultados y protegiendo los datos.
 
 > ⚠️ **Uso seguro de la IA en el curso**
 >
@@ -53,15 +53,7 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 
 ---
 
-## 🗂️ Estructura de bloques
-
-| Bloque | Título | Enlace |
-|:------:|:-------|:-------|
-| 1 | IA Colaborativa y Gestión GVA | [Ir al Bloque 1](bloque1.md) |
-| 2 | Prompting Avanzado y Gestión Documental | [Ir al Bloque 2](bloque2.md) |
-| 3 | Generación Multimodal | [Ir al Bloque 3](bloque3.md) |
-| 4 | Evaluación y Personalización | [Ir al Bloque 4](bloque4.md) |
-| 📄 | Guía didáctica del curso | [Ver guía didáctica](guia-didactica.md) |
+> Puedes acceder a cada bloque del curso desde el menú superior.
 
 ---
 
@@ -70,13 +62,13 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 Para aprovechar el curso desde el primer día, sigue estos pasos:
 
 1. **Accede a Microsoft Copilot**  
-   Entra en [copilot.microsoft.com](https://copilot.microsoft.com) e inicia sesión con tu cuenta **@edu.gva.es**.
+   Entra en [copilot.microsoft.com](https://copilot.microsoft.com/) e inicia sesión con tu cuenta **@edu.gva.es**.
 
 2. **Comprueba que estás en entorno protegido**  
-   Debes ver la insignia 🛡️ **"Protegido"** o "Protected" en la pantalla.
+   Debes ver la insignia 🛡️ "Protegido" o "Protected".
 
 3. **Haz una prueba rápida**  
-   Escribe un mensaje sencillo (por ejemplo: *"¿Cómo puede ayudar la IA a un docente?"*) y comprueba que recibes respuesta.
+   Escribe un mensaje sencillo (por ejemplo: *"¿Cómo puede ayudar la IA a un docente?"*).
 
 4. **Accede a Aules**  
    Utiliza la plataforma del curso para seguir las sesiones y entregar actividades.
@@ -85,9 +77,7 @@ Para aprovechar el curso desde el primer día, sigue estos pasos:
 
 - No aparece "Protegido" → cierra sesión y vuelve a entrar con tu cuenta @edu.gva.es  
 - No puedes acceder → contacta con el SAI de tu centro  
-- Mientras tanto → puedes usar [Gemini](https://gemini.google.com) con una cuenta personal
-
-Las demás herramientas del curso (**Gemini**, **NotebookLM**, **Kimi**, **Grok**) se irán presentando progresivamente en cada bloque. No necesitas crear cuentas en todas antes de empezar.
+- Alternativa temporal → usa [Gemini](https://gemini.google.com) con una cuenta personal
 
 ## 🧪 Tarea 0 · Tu primera interacción con la IA
 
@@ -100,15 +90,11 @@ Esta actividad servirá como punto de partida para el Bloque 1.
 Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@edu.gva.es`):
 
 ```text
-Actúa como un asistente pedagógico para un/a docente de la Comunitat Valenciana.
+Actúa como un asistente pedagógico.
 
-Contexto: Soy profesor/a y estoy empezando un curso de formación sobre IA 
-generativa. Quiero verificar que esta herramienta funciona correctamente 
-con mi cuenta corporativa.
+Contexto: Soy docente y estoy empezando un curso sobre IA generativa.
 
-Tarea: Redacta un breve mensaje de bienvenida (5 líneas) que yo podría 
-enviar a las familias de mi tutoría al inicio del tercer trimestre. 
-El tono debe ser cercano pero profesional.
+Tarea: Redacta un breve mensaje de bienvenida (4-5 líneas) para enviar a las familias al inicio del trimestre, con un tono cercano y profesional.
 ```
 
 Si obtienes un mensaje coherente, tu acceso funciona correctamente.
@@ -127,7 +113,7 @@ Ya puedes:
 - Completar la Tarea 0  
 - Prepararte para la primera sesión  
 
-Nos vemos en el inicio del curso.
+Nos vemos en la primera sesión.
 
 ---
 

@@ -14,9 +14,9 @@ Herramientas de IA Generativa para Docentes · 26IA92IN017
 
 ## Presentación
 
-La irrupción de la inteligencia artificial generativa en el ámbito educativo plantea al profesorado un doble desafío: comprender las **posibilidades reales de estas herramientas** y **aprender a integrarlas** en su práctica profesional de forma segura, ética y pedagógicamente fundamentada.
+La irrupción de la inteligencia artificial generativa en el ámbito educativo plantea al profesorado un doble desafío: comprender las **posibilidades** reales de estas **herramientas** y **aprender a integrarlas** en su práctica profesional de forma segura, ética y pedagógicamente fundamentada.
 
-Este curso nace de la convicción de que la IA generativa no es un fin en sí mismo, sino un medio al servicio de la mejora educativa. No se trata de adoptar tecnología por novedad, sino de dotar al profesorado de criterio, competencias y recursos para decidir cuándo, cómo y por qué emplear estas herramientas en su día a día: desde la redacción de documentos administrativos hasta el diseño de situaciones de aprendizaje inclusivas, pasando por la creación de materiales multimodales y la evaluación competencial.
+Este curso nace de la convicción de que la **IA generativa** no es un fin en sí mismo, sino un **medio al servicio de la mejora educativa**. No se trata de adoptar tecnología por novedad, sino de dotar al profesorado de criterio, competencias y recursos para decidir cuándo, cómo y por qué emplear estas herramientas en su día a día: desde la redacción de documentos administrativos hasta el diseño de situaciones de aprendizaje inclusivas, pasando por la creación de materiales multimodales y la evaluación competencial.
 
 El itinerario formativo se articula en torno a cuatro bloques temáticos que progresan desde las tareas más cotidianas y accesibles —perder el miedo, organizar la documentación, conocer el entorno corporativo de la GVA— hasta las aplicaciones pedagógicas más avanzadas: diseño de prompts expertos, generación de contenidos multimodales, evaluación automatizada y reflexión ética sobre el impacto de la IA en la educación secundaria.
 

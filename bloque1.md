@@ -32,7 +32,7 @@ Para que puedas avanzar con claridad, en este bloque encontrarás tres tipos de 
 - **Apoyo** → ejemplos, recursos y comparativas que te ayudarán a entender mejor el uso de la IA.
 - **Ampliación** → propuestas opcionales para profundizar o experimentar más.
 
-### Qué se espera de ti en esta semana
+### Qué se espera de ti esta semana
 
 Al finalizar este bloque deberías haber conseguido, como mínimo:
 
@@ -43,11 +43,16 @@ Al finalizar este bloque deberías haber conseguido, como mínimo:
 
 ### Entrega obligatoria del Bloque 1
 
-La evidencia mínima de este bloque será:
+Debes entregar **una de las siguientes opciones**:
 
-- **un documento breve generado y revisado con Copilot**  
-  (acta, correo o estructura de organización documental),
-- acompañado del **prompt utilizado** y de una **breve reflexión personal** sobre el resultado obtenido.
+- **Actividad 1.1 · Acta con Copilot**, o  
+- **Actividad 1.3 · Organización documental con IA**
+
+La evidencia mínima será:
+
+- un documento breve generado y revisado con Copilot,  
+- el prompt utilizado,  
+- y una breve reflexión personal sobre el resultado.
 
 > ⚠️ **Uso seguro en este bloque**
 >
@@ -220,12 +225,12 @@ Tarea: Redacta un correo formal pero cercano con fecha, lugar, coste y plazo de 
 
 ### 🔄 ¿Por qué funciona mejor así?
 
-Porque:
+**Funciona mejor por estas razones:**
 
-* la IA entiende mejor tu contexto real,
-* ajusta el tono automáticamente,
-* organiza mejor la información,
-* y reduce errores o respuestas genéricas.
+- la IA entiende mejor tu contexto real;
+- ajusta el tono automáticamente;
+- organiza mejor la información;
+- y reduce errores o respuestas genéricas.
 
 ---
 
@@ -292,6 +297,10 @@ con material típico de un taller de Tecnología de Secundaria.
 
 ## 1.6 · Copilot dentro de Microsoft 365: integración práctica
 
+> ℹ️ **Sección de apoyo / exploración**
+>
+> Este apartado ofrece una visión general de cómo Copilot se integra en Microsoft 365. No es necesario dominar todas estas aplicaciones en este momento.
+
 Además del chat web, Copilot puede usarse de forma integrada en las aplicaciones del ecosistema Microsoft 365:
 
 | Aplicación | Lo que Copilot puede hacer por ti |
@@ -357,7 +366,7 @@ Dime en 5 puntos breves:
 
 3. Lee la respuesta y haz la tarea que te proponga la IA.
 4. Ahora repite el mismo prompt en **Gemini** ([gemini.google.com](https://gemini.google.com)) con una cuenta personal. Compara el tono y las sugerencias.
-5. **Entregable:** captura de pantalla de ambas respuestas + un párrafo breve (80 palabras) sobre tus primeras impresiones: ¿ha sido más fácil de lo esperado? ¿Qué te ha sorprendido?
+5. **Entregable (opcional):** captura de pantalla de la respuesta + breve impresión personal (3-4 líneas).
 
 > **💡 Nota:** Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
 
@@ -433,21 +442,22 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 
 4. **Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
 
-> **💡 Reflexión de cierre del Bloque 1:** Al terminar estas actividades, valora: ¿el "miedo" inicial que podías sentir hacia la IA ha disminuido? ¿Ves ya alguna tarea concreta de tu día a día donde la IA puede ahorrarte tiempo? Comparte tu reflexión breve (3 frases) en el foro.
+> **💡 Reflexión de cierre del Bloque 1:** Al terminar estas actividades, valora: ¿Ha disminuido el "miedo" inicial que podías sentir hacia la IA?  
+> ¿Identificas ya alguna tarea concreta de tu día a día en la que la IA pueda ahorrarte tiempo? Comparte tu reflexión breve (3 frases) en el foro.
 
 ---
 
-## � Cierre del bloque
+## 🔄 Cierre del bloque
 
 En este bloque has comprobado que la IA puede convertirse en una aliada útil para tareas habituales de comunicación, organización y gestión docente.
 
 También has dado un primer paso importante: aprender a formular instrucciones más claras para obtener respuestas más útiles.
 
-En el **Bloque 2** profundizaremos en esa idea y aprenderás a diseñar instrucciones más precisas, mejorar tus prompts de forma iterativa y verificar respuestas con apoyo documental.
+En el **Bloque 2** darás un paso más: aprenderás a diseñar instrucciones más precisas, mejorar tus prompts y verificar respuestas con apoyo documental.
 
 ---
 
-## �📚 Recursos complementarios
+## 📚 Recursos complementarios
 
 - [Microsoft Copilot — Centro de ayuda oficial](https://support.microsoft.com/es-es/copilot)
 - [Política de privacidad de Microsoft 365 en la GVA](https://dgtic.gva.es) *(consulta la intranet de tu centro para el enlace actualizado)*
