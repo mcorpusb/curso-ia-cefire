@@ -128,7 +128,69 @@ Genera una versión abreviada para enviar como recordatorio por Web Família.
 
 ---
 
-## 1.4 · Organización del aula y gestión de tareas
+## 1.4 · Cómo dar mejores instrucciones a la IA (sin complicarte)
+
+Hasta ahora has visto que Copilot puede ayudarte a redactar correos y documentos.  
+La clave para que los resultados sean realmente útiles está en **cómo le das las instrucciones**.
+
+No necesitas aprender nada complejo: basta con estructurar bien lo que le pides.
+
+### 🧩 Estructura básica que funciona
+
+En este curso utilizaremos una fórmula sencilla:
+
+**ROL + CONTEXTO + TAREA**
+
+- **Rol** → quién quieres que sea la IA  
+- **Contexto** → tu situación real como docente  
+- **Tarea** → lo que necesitas que haga  
+
+---
+
+### 🔍 Ejemplo aplicado (correo a familias)
+
+Fíjate en este ejemplo que ya has trabajado:
+
+```md
+Actúa como tutor/a de 2.º de ESO en un IES público de la Comunitat Valenciana.
+
+Contexto: Necesito informar a las familias sobre una excursión escolar.
+
+Tarea: Redacta un correo formal pero cercano con fecha, lugar, coste y plazo de autorización.
+```
+
+---
+
+### 🔄 ¿Por qué funciona mejor así?
+
+Porque:
+
+* la IA entiende mejor tu contexto real,
+* ajusta el tono automáticamente,
+* organiza mejor la información,
+* y reduce errores o respuestas genéricas.
+
+---
+
+### ⚡ Prueba rápida (2 minutos)
+
+Reescribe uno de los prompts que ya has usado en este bloque siguiendo esta estructura:
+
+1. Define claramente el rol.
+2. Añade tu contexto real (nivel, asignatura, situación).
+3. Explica la tarea con claridad.
+
+Pégalo en Copilot y compara el resultado con el anterior.
+
+---
+
+### 💡 Idea clave
+
+> No se trata de saber más IA, sino de **explicar mejor lo que necesitas como docente**.
+
+---
+
+## 1.5 · Organización del aula y gestión de tareas
 
 Copilot puede ayudarte a organizar elementos cotidianos que no son estrictamente pedagógicos, pero consumen tiempo.
 
@@ -171,7 +233,7 @@ con material típico de un taller de Tecnología de Secundaria.
 
 ---
 
-## 1.5 · Copilot dentro de Microsoft 365: integración práctica
+## 1.6 · Copilot dentro de Microsoft 365: integración práctica
 
 Además del chat web, Copilot puede usarse de forma integrada en las aplicaciones del ecosistema Microsoft 365:
 
@@ -195,7 +257,7 @@ Además del chat web, Copilot puede usarse de forma integrada en las aplicacione
 
 ---
 
-## 1.6 · Comparativa en profundidad: Copilot vs. Gemini vs. Kimi vs. Grok
+## 1.7 · Comparativa en profundidad: Copilot vs. Gemini vs. Kimi vs. Grok
 
 Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes una comparativa detallada para las tareas de este bloque:
 
