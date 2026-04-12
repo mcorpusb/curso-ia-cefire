@@ -20,7 +20,7 @@ A lo largo de este recorrido aprenderás a integrar la inteligencia artificial e
 
 El curso está planteado de forma progresiva, comenzando por usos sencillos y avanzando hacia aplicaciones más complejas, siempre con un enfoque práctico, seguro y adaptado al contexto educativo.
 
-> **No necesitas experiencia previa con IA para seguir el curso.**
+> 💡 **No necesitas experiencia previa con IA para seguir el curso.**
 
 ![Ruta de aprendizaje del curso](assets/img/ruta-ia-docentes.png)
 
@@ -34,9 +34,9 @@ A lo largo del curso aprenderás a utilizar la IA generativa de forma práctica,
 
 > ⚠️ **Uso seguro de la IA en el curso**
 >
-> La herramienta prioritaria del curso es **Microsoft Copilot con tu cuenta @edu.gva.es**, ya que es la opción corporativa de la GVA para trabajar en un entorno protegido.
+> La herramienta prioritaria del curso es **Microsoft Copilot con tu cuenta @edu.gva.es**.
 >
-> Cuando utilices herramientas externas, recuerda esta norma básica: **nunca introduzcas datos personales del alumnado ni información sensible del centro**. Usa únicamente datos ficticios, anonimizados o de dominio público.
+> En herramientas externas: **nunca introduzcas datos personales del alumnado ni información sensible del centro**.
 
 ---
 
@@ -65,7 +65,7 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 
 ---
 
-## � Primeros pasos antes de la primera sesión
+## 🚀 Primeros pasos antes de la primera sesión
 
 Para aprovechar el curso desde el primer día, sigue estos pasos:
 
@@ -81,23 +81,23 @@ Para aprovechar el curso desde el primer día, sigue estos pasos:
 4. **Accede a Aules**  
    Utiliza la plataforma del curso para seguir las sesiones y entregar actividades.
 
-### Si tienes problemas de acceso
+### ❗ Si tienes problemas de acceso
 
-| Problema | Solución |
-|:---------|:---------|
-| No aparece la insignia "Protegido" | Cierra sesión y vuelve a entrar con tu cuenta `@edu.gva.es`. Prueba en ventana de incógnito si persiste. |
-| Tu cuenta no funciona en Copilot | Contacta con el **SAI** de tu centro para verificar tu licencia Microsoft 365. |
-| No recuerdas tu contraseña | Restablécela en el portal de autoservicio de la GVA o contacta con tu equipo directivo. |
-| Mientras se resuelve | Puedes comenzar con [Gemini](https://gemini.google.com) usando una cuenta personal de Google. |
+- No aparece "Protegido" → cierra sesión y vuelve a entrar con tu cuenta @edu.gva.es  
+- No puedes acceder → contacta con el SAI de tu centro  
+- Mientras tanto → puedes usar [Gemini](https://gemini.google.com) con una cuenta personal
 
 Las demás herramientas del curso (**Gemini**, **NotebookLM**, **Kimi**, **Grok**) se irán presentando progresivamente en cada bloque. No necesitas crear cuentas en todas antes de empezar.
 
-> 💡 Si puedes completar estos pasos, estás listo/a para empezar el curso con normalidad.  
-> En la primera sesión trabajaremos a partir de esta primera toma de contacto.
+## 🧪 Tarea 0 · Tu primera interacción con la IA
 
-### Tarea 0: comprobación de acceso
+Antes de la primera sesión, realiza esta pequeña prueba.
 
-Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@edu.gva.es`) y comprueba que obtienes una respuesta coherente:
+No se trata de hacerlo perfecto, sino de tener tu **primer contacto real con la IA** y comprobar cómo responde a una tarea docente sencilla.
+
+Esta actividad servirá como punto de partida para el Bloque 1.
+
+Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@edu.gva.es`):
 
 ```text
 Actúa como un asistente pedagógico para un/a docente de la Comunitat Valenciana.
@@ -111,11 +111,23 @@ enviar a las familias de mi tutoría al inicio del tercer trimestre.
 El tono debe ser cercano pero profesional.
 ```
 
-Si recibes un mensaje de bienvenida bien redactado, tu acceso funciona correctamente y estás preparado/a para la primera sesión del curso. Guarda el resultado: lo usaremos como punto de partida en el Bloque 1.
+Si obtienes un mensaje coherente, tu acceso funciona correctamente.
+
+Guarda el resultado: lo utilizaremos en la primera sesión para mejorar la calidad de las respuestas de la IA.
+
+> Durante el curso aprenderás a dar instrucciones claras a la IA para obtener respuestas más útiles y adaptadas a tu práctica docente.
 
 ---
 
-> Durante el curso aprenderás a dar instrucciones claras a la IA para obtener respuestas más útiles y adaptadas a tu práctica docente.
+## ▶️ Siguiente paso
+
+Ya puedes:
+
+- Acceder a Aules  
+- Completar la Tarea 0  
+- Prepararte para la primera sesión  
+
+Nos vemos en el inicio del curso.
 
 ---
 
