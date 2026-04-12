@@ -38,13 +38,13 @@ Para que puedas avanzar con claridad, en este bloque encontrarás tres tipos de 
 Al finalizar este bloque deberías haber conseguido, como mínimo:
 
 - acceder a Copilot con tu cuenta **@edu.gva.es** y comprobar que trabajas en entorno protegido;
-- redactar al menos un documento docente breve con ayuda de la IA;
+- redactar al menos **un documento docente breve** con ayuda de la IA;
 - reformular una instrucción usando la estructura **Rol + Contexto + Tarea**;
-- entregar la actividad individual obligatoria del bloque.
+- entregar  **una actividad obligatoria** del bloque.
 
 ### Entrega obligatoria del Bloque 1
 
-Debes entregar **una de las siguientes opciones**:
+Para completar este bloque, debes entregar **una** de estas dos opciones:
 
 - **Actividad 1.1 · Acta con Copilot**
 - **Actividad 1.3 · Organización documental con IA**
@@ -54,6 +54,7 @@ La evidencia mínima será:
 - un documento breve generado y revisado con Copilot;
 - el prompt utilizado;
 - y una breve reflexión personal sobre el resultado.
+
 
 > ⚠️ **Uso seguro en este bloque**
 >
@@ -141,7 +142,7 @@ secretario/a. Usa un tono formal e impersonal.
 
 ## 1.3 · Automatización de correos electrónicos
 
-Un docente medio envía decenas de correos semanales: convocatorias a familias, comunicaciones al equipo directivo, coordinaciones con orientación… Veamos cómo la IA agiliza este proceso.
+Un docente envía cada semana numerosos correos: avisos a familias, coordinación con orientación, comunicaciones al equipo directivo o recordatorios al alumnado. Copilot puede ayudarte a generar borradores claros, formales y adaptados al contexto en pocos segundos.
 
 ### Versión básica para empezar
 
@@ -298,29 +299,28 @@ con material típico de un taller de Tecnología de Secundaria.
 
 ## 1.6 · Copilot dentro de Microsoft 365: integración práctica
 
-> ℹ️ **Sección de apoyo / exploración**
->
-> Este apartado ofrece una visión general de cómo Copilot se integra en Microsoft 365. No es necesario dominar todas estas aplicaciones en este momento.
+ℹ️ **Sección de apoyo / exploración**
 
-Además del chat web, Copilot puede usarse de forma integrada en las aplicaciones del ecosistema Microsoft 365:
+No necesitas dominar todas estas aplicaciones ahora mismo. En este momento basta con que sepas que Copilot puede integrarse en el ecosistema Microsoft 365 y ayudarte también dentro de las herramientas que ya usas a diario.
 
-| Aplicación | Lo que Copilot puede hacer por ti |
-|:-----------|:----------------------------------|
-| **Outlook** | Resumir hilos largos de correo, redactar respuestas, priorizar bandeja de entrada. |
-| **Word** | Generar borradores a partir de un esquema, reformular párrafos, cambiar tono/registro. |
-| **Excel** | Crear fórmulas a partir de lenguaje natural, generar gráficos y tablas dinámicas. |
-| **Teams** | Resumir reuniones grabadas, extraer tareas pendientes, generar actas automáticas. |
-| **OneNote** | Organizar apuntes de reuniones, generar listas de tareas a partir de notas desestructuradas. |
-| **PowerPoint** | Crear un borrador de presentación a partir de un documento Word o un esquema. |
+| Aplicación | Qué puede hacer por ti |
+|:-----------|:-----------------------|
+| Outlook | Resumir hilos, redactar respuestas y priorizar mensajes. |
+| Word | Generar borradores, reformular texto y ajustar el tono. |
+| Excel | Crear fórmulas, tablas y gráficos a partir de instrucciones sencillas. |
+| Teams | Resumir reuniones, extraer tareas y ayudar con actas. |
+| OneNote | Organizar notas y convertir apuntes en listas de tareas. |
+| PowerPoint | Crear un primer borrador de presentación desde un esquema o documento. |
 
-### Ejemplo: resumir un hilo de correo en Outlook
+### Ejemplo rápido en Outlook
 
-1. Abre un hilo de correo largo en **Outlook Web** (con tu cuenta `@edu.gva.es`).
-2. Haz clic en el icono de **Copilot** que aparece en la parte superior del hilo.
-3. Selecciona **"Resumir"**.
-4. Copilot generará un resumen con los puntos clave y las acciones pendientes.
+1. Abre un hilo de correo largo en Outlook Web con tu cuenta **@edu.gva.es**.
+2. Pulsa el icono de **Copilot**.
+3. Selecciona **Resumir**.
 
-> **⚠️ Seguridad GVA:** La funcionalidad de Copilot integrado en Microsoft 365 **solo funciona con la licencia corporativa**. Si no ves el icono de Copilot en tus aplicaciones, contacta con el SAI (Servicio de Asistencia Informática) de tu centro.
+Obtendrás un resumen con las ideas principales y las acciones pendientes.
+
+⚠️ **Seguridad GVA:** estas funciones dependen de la licencia corporativa. Si no aparece Copilot en tus aplicaciones, consulta con el SAI de tu centro.
 
 ---
 
@@ -330,12 +330,12 @@ En este bloque, la herramienta de referencia es **Copilot**, especialmente cuand
 
 Como orientación general:
 
-- **Copilot** → opción prioritaria para tareas administrativas y comunicación docente.
-- **Gemini** → útil para documentos públicos largos y segundas versiones.
-- **Kimi** → interesante para analizar textos extensos, siempre anonimizados.
-- **Grok** → válido para consultas rápidas o contraste, con menor precisión de formato.
+* **Copilot** → opción prioritaria para tareas administrativas y comunicación docente en entorno GVA.
+* **Gemini** → útil para explorar segundas versiones o reformulaciones de textos públicos.
+* **Kimi** → interesante para analizar textos largos, siempre anonimizados.
+* **Grok** → válido para contrastes rápidos, con menor control del formato.
 
-La comparación detallada entre herramientas se seguirá trabajando a lo largo del curso, especialmente cuando pasemos a tareas más complejas.
+La comparación detallada entre herramientas se seguirá trabajando más adelante, cuando abordemos tareas de mayor complejidad.
 
 ---
 
