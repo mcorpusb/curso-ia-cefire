@@ -16,11 +16,11 @@ Aprende a usar Microsoft Copilot como asistente integral para las tareas adminis
 
 Al finalizar este bloque serás capaz de:
 
-1. Acceder y configurar **Microsoft Copilot** con tu cuenta corporativa `@edu.gva.es`.
-2. Redactar **actas de reuniones** (claustro, CCP, equipos docentes) con asistencia de IA.
-3. Componer y automatizar **correos electrónicos** profesionales dirigidos a familias, alumnado y administración.
-4. Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
-5. Comparar el rendimiento de Copilot con **Gemini**, **Kimi** y **Grok** en tareas administrativas reales.
+- Acceder y configurar Microsoft Copilot con tu cuenta corporativa **@edu.gva.es**.
+- Redactar actas de reuniones (claustro, CCP, equipos docentes) con asistencia de IA.
+- Componer y automatizar correos electrónicos profesionales dirigidos a familias, alumnado y administración.
+- Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
+- Comparar el rendimiento de Copilot con Gemini, Kimi y Grok en tareas administrativas reales.
 
 ---
 
@@ -50,8 +50,8 @@ Debes entregar **una de las siguientes opciones**:
 
 La evidencia mínima será:
 
-- un documento breve generado y revisado con Copilot,  
-- el prompt utilizado,  
+- un documento breve generado y revisado con Copilot;
+- el prompt utilizado;
 - y una breve reflexión personal sobre el resultado.
 
 > ⚠️ **Uso seguro en este bloque**
@@ -213,7 +213,7 @@ En este curso utilizaremos una fórmula sencilla:
 
 Fíjate en este ejemplo que ya has trabajado:
 
-```md
+```text
 Actúa como tutor/a de 2.º de ESO en un IES público de la Comunitat Valenciana.
 
 Contexto: Necesito informar a las familias sobre una excursión escolar.
@@ -349,39 +349,39 @@ Debes completar, como mínimo, **una actividad individual obligatoria de entrega
 
 **Objetivo:** Perder el miedo inicial y descubrir la IA como aliada diaria.
 
-1. Accede a **Copilot** con tu cuenta `@edu.gva.es`. Verifica que aparece la insignia "Protegido".
-2. Escribe este primer prompt informal para familiarizarte:
+1. Accede a Copilot con tu cuenta **@edu.gva.es**.
+2. Verifica que aparece la insignia **"Protegido"**.
+3. Escribe este primer prompt informal para familiarizarte:
 
 ```text
-Actúa como un asistente amigable para docentes. Soy profesor/a de 
-[TU ÁREA] en [TU ETAPA EDUCATIVA] y nunca he usado IA generativa. 
-Tengo curiosidad pero también algo de miedo. 
+Actúa como un asistente amigable para docentes. Soy profesor/a de [TU ÁREA] en [TU ETAPA EDUCATIVA] y nunca he usado IA generativa. Tengo curiosidad pero también algo de miedo.
 
 Dime en 5 puntos breves:
 1. Qué puedes hacer por mí en mi día a día como docente.
 2. Qué NO puedes hacer (para fijar expectativas realistas).
-3. Una tarea sencilla que podamos hacer juntos/as ahora mismo 
-   para que vea su utilidad inmediata.
+3. Una tarea sencilla que podamos hacer juntos/as ahora mismo para que vea su utilidad inmediata.
 ```
 
-3. Lee la respuesta y haz la tarea que te proponga la IA.
-4. Ahora repite el mismo prompt en **Gemini** ([gemini.google.com](https://gemini.google.com)) con una cuenta personal. Compara el tono y las sugerencias.
-5. **Entregable (opcional):** captura de pantalla de la respuesta + breve impresión personal (3-4 líneas).
+4. Lee la respuesta y haz la tarea que te proponga la IA.
+5. Si quieres, repite el mismo prompt en [Gemini](https://gemini.google.com) con una cuenta personal y compara el tono y las sugerencias.
 
-> **💡 Nota:** Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
+**Entregable (opcional):** captura de pantalla de la respuesta + breve impresión personal (3-4 líneas).
+
+> 💡 Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
 
 ### Actividad 1.1 · Mi primera acta con Copilot
 **Tipo:** individual / obligatoria / entrega
 
-1. Accede a Copilot con tu cuenta `@edu.gva.es`.
-2. Usa el "Prompt de Oro: Acta de claustro" (sección 1.2) adaptándolo a una reunión **de tu departamento o ciclo**.
+1. Accede a Copilot con tu cuenta **@edu.gva.es**.
+2. Usa el "Prompt de Oro: Acta de claustro" (sección 1.2) adaptándolo a una reunión de tu departamento o ciclo.
 3. Antes de generar el resultado final, revisa tu prompt y asegúrate de que contiene claramente estas tres partes:
    - **Rol**
    - **Contexto**
    - **Tarea**
 4. Revisa el borrador: corrige errores factuales y ajusta el tono.
 5. Exporta el resultado a un documento Word.
-6. **Entregable:** sube el acta en formato `.docx` junto con el prompt utilizado. Señala, si lo deseas entre corchetes, dónde has definido el **Rol**, el **Contexto** y la **Tarea**.
+
+**Entregable:** sube el acta en formato `.docx` junto con el prompt utilizado. Señala, si lo deseas entre corchetes, dónde has definido el **Rol**, el **Contexto** y la **Tarea**.
 
 ### Actividad 1.2 · Correo a familias en dos idiomas
 **Tipo:** individual / práctica recomendada
@@ -422,8 +422,9 @@ OneNote listas para usar.
 Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 ```
 
-2. Implementa la estructura en tu **OneDrive** con tu cuenta `@edu.gva.es`.
-3. **Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
+2. Implementa la estructura en tu **OneDrive** con tu cuenta **@edu.gva.es**.
+
+**Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
 
 ### Actividad 1.4 · Comparativa de herramientas
 **Tipo:** grupal / sesión síncrona / ampliación guiada
@@ -442,8 +443,14 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 
 4. **Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
 
-> **💡 Reflexión de cierre del Bloque 1:** Al terminar estas actividades, valora: ¿Ha disminuido el "miedo" inicial que podías sentir hacia la IA?  
-> ¿Identificas ya alguna tarea concreta de tu día a día en la que la IA pueda ahorrarte tiempo? Comparte tu reflexión breve (3 frases) en el foro.
+> 💡 **Reflexión de cierre del Bloque 1**
+>
+> Al terminar estas actividades, valora lo siguiente:
+>
+> - **¿Ha disminuido el "miedo" inicial que podías sentir hacia la IA?**
+> - **¿Identificas ya alguna tarea concreta de tu día a día en la que la IA pueda ahorrarte tiempo?**
+>
+> Comparte tu reflexión breve (3 frases) en el foro.
 
 ---
 
@@ -460,7 +467,7 @@ En el **Bloque 2** darás un paso más: aprenderás a diseñar instrucciones má
 ## 📚 Recursos complementarios
 
 - [Microsoft Copilot — Centro de ayuda oficial](https://support.microsoft.com/es-es/copilot)
-- [Política de privacidad de Microsoft 365 en la GVA](https://dgtic.gva.es) *(consulta la intranet de tu centro para el enlace actualizado)*
+- [Política de privacidad de Microsoft 365 en la GVA](https://dgtic.gva.es/) *(consulta la intranet de tu centro para el enlace actualizado)*
 - [Guía de estilo del valenciano — AVL](https://www.avl.gva.es/)
 - [Currículo LOMLOE Comunitat Valenciana (DOGV)](https://dogv.gva.es/)
 

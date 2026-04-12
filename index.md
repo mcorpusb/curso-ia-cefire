@@ -34,7 +34,7 @@ A lo largo del curso aprenderás a:
 
 > ⚠️ **Uso seguro de la IA en el curso**
 >
-> La herramienta prioritaria del curso es **Microsoft Copilot con tu cuenta @edu.gva.es**.
+> La herramienta prioritaria del curso es **Microsoft Copilot** con tu cuenta **@edu.gva.es**.
 >
 > En herramientas externas: **nunca introduzcas datos personales del alumnado ni información sensible del centro**.
 
@@ -65,7 +65,7 @@ Para aprovechar el curso desde el primer día, sigue estos pasos:
    Entra en [copilot.microsoft.com](https://copilot.microsoft.com/) e inicia sesión con tu cuenta **@edu.gva.es**.
 
 2. **Comprueba que estás en entorno protegido**  
-   Debes ver la insignia 🛡️ "Protegido" o "Protected".
+   Debes ver la insignia 🛡️ **"Protegido"** o **"Protected"**.
 
 3. **Haz una prueba rápida**  
    Escribe un mensaje sencillo (por ejemplo: *"¿Cómo puede ayudar la IA a un docente?"*).
@@ -75,9 +75,9 @@ Para aprovechar el curso desde el primer día, sigue estos pasos:
 
 ### ❗ Si tienes problemas de acceso
 
-- No aparece "Protegido" → cierra sesión y vuelve a entrar con tu cuenta @edu.gva.es  
-- No puedes acceder → contacta con el SAI de tu centro  
-- Alternativa temporal → usa [Gemini](https://gemini.google.com) con una cuenta personal
+- **No aparece "Protegido"** → cierra sesión y vuelve a entrar con tu cuenta **@edu.gva.es**.
+- **No puedes acceder** → contacta con el SAI de tu centro.
+- **Alternativa temporal** → usa [Gemini](https://gemini.google.com/) con una cuenta personal.
 
 ## 🧪 Tarea 0 · Tu primera interacción con la IA
 
@@ -109,9 +109,9 @@ Guarda el resultado: lo utilizaremos en la primera sesión para mejorar la calid
 
 Ya puedes:
 
-- Acceder a Aules  
-- Completar la Tarea 0  
-- Prepararte para la primera sesión  
+- **Acceder a Aules**
+- **Completar la Tarea 0**
+- **Prepararte para la primera sesión**
 
 Nos vemos en la primera sesión.
 
