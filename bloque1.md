@@ -22,13 +22,50 @@ Al finalizar este bloque serás capaz de:
 4. Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
 5. Comparar el rendimiento de Copilot con **Gemini**, **Kimi** y **Grok** en tareas administrativas reales.
 
-> **⚠️ Seguridad GVA:** Todas las prácticas de este bloque deben realizarse **primero en Copilot con tu cuenta `@edu.gva.es`**. Solo después, y **sin datos personales reales**, puedes replicar el ejercicio en otras herramientas para comparar resultados.
+---
+
+## 🧭 Cómo trabajar este bloque
+
+Para que puedas avanzar con claridad, en este bloque encontrarás tres tipos de contenido:
+
+- **Imprescindible** → lo que debes leer o realizar para seguir el curso con normalidad.
+- **Apoyo** → ejemplos, recursos y comparativas que te ayudarán a entender mejor el uso de la IA.
+- **Ampliación** → propuestas opcionales para profundizar o experimentar más.
+
+### Qué se espera de ti en esta semana
+
+Al finalizar este bloque deberías haber conseguido, como mínimo:
+
+- acceder a Copilot con tu cuenta **@edu.gva.es** y comprobar que trabajas en entorno protegido;
+- redactar al menos un documento docente breve con ayuda de la IA;
+- reformular una instrucción usando la estructura **Rol + Contexto + Tarea**;
+- entregar la actividad individual obligatoria del bloque.
+
+### Entrega obligatoria del Bloque 1
+
+La evidencia mínima de este bloque será:
+
+- **un documento breve generado y revisado con Copilot**  
+  (acta, correo o estructura de organización documental),
+- acompañado del **prompt utilizado** y de una **breve reflexión personal** sobre el resultado obtenido.
+
+> ⚠️ **Uso seguro en este bloque**
+>
+> Realiza primero todas las prácticas en **Microsoft Copilot con tu cuenta @edu.gva.es**.
+>
+> Solo después, y **sin usar datos personales reales ni documentos sensibles del centro**, puedes repetir algunos ejercicios en otras herramientas para comparar resultados.
 
 ---
 
 ## 1.1 · ¿Qué es Microsoft Copilot y por qué es la herramienta de la GVA?
 
-Microsoft Copilot es el asistente de IA generativa integrado en el ecosistema Microsoft 365. La Generalitat Valenciana lo ha adoptado como herramienta corporativa porque:
+Microsoft Copilot es la herramienta de IA generativa integrada en el ecosistema Microsoft 365. En este curso será la opción prioritaria porque permite trabajar dentro del entorno corporativo de la GVA y se integra con aplicaciones que ya forman parte del trabajo docente habitual, como Outlook, Word, Teams o OneNote.
+
+Más que conocer toda la herramienta en profundidad desde el primer día, en este bloque te interesa comprobar tres cosas:
+
+- que puedes acceder con tu cuenta **@edu.gva.es**;
+- que trabajas en un entorno **protegido**;
+- y que puedes empezar a utilizarla en tareas reales de comunicación y organización docente.
 
 | Ventaja | Detalle |
 |:--------|:--------|
@@ -39,11 +76,11 @@ Microsoft Copilot es el asistente de IA generativa integrado en el ecosistema Mi
 
 ### Cómo acceder
 
-1. Abre tu navegador y dirígete a [copilot.microsoft.com](https://copilot.microsoft.com).
-2. Inicia sesión con tu **cuenta `@edu.gva.es`** (la misma de Outlook y Teams).
-3. Verifica que en la esquina inferior aparece la insignia **"Protegido"** o **"Protected"** — esto confirma que estás en el entorno corporativo.
+1. Entra en [copilot.microsoft.com](https://copilot.microsoft.com/).
+2. Inicia sesión con tu cuenta **@edu.gva.es**.
+3. Comprueba que aparece la insignia **"Protegido"** o **"Protected"**.
 
-> **💡 Ejemplo Primaria:** Si no ves la insignia "Protegido", cierra sesión y vuelve a entrar asegurándote de elegir tu cuenta institucional, no la personal.
+> 💡 Si no aparece la insignia, cierra sesión y vuelve a entrar asegurándote de usar tu cuenta institucional y no una cuenta personal.
 
 ---
 
@@ -51,10 +88,20 @@ Microsoft Copilot es el asistente de IA generativa integrado en el ecosistema Mi
 
 Redactar un acta de claustro, de CCP o de equipo docente es una tarea repetitiva que consume tiempo. Copilot puede generar un borrador estructurado a partir de unas pocas notas.
 
-### 🏆 Prompt de Oro: Acta de claustro
+### Versión básica para empezar
 
 ```text
-Actúa como el secretario/a de un centro público de Educación Primaria de la 
+Actúa como secretario/a de un centro educativo.
+
+Contexto: Hemos celebrado una reunión de claustro y necesito ordenar la información principal.
+
+Tarea: Redacta un acta breve, formal y clara con los puntos tratados, los acuerdos adoptados y un cierre final.
+```
+
+### Versión ampliada del prompt
+
+```text
+Actúa como el secretario/a de un centro público de Educación Primaria de la
 Comunitat Valenciana.
 
 Contexto: Se ha celebrado un claustro ordinario el martes 22 de abril de 2026 
@@ -90,7 +137,17 @@ secretario/a. Usa un tono formal e impersonal.
 
 Un docente medio envía decenas de correos semanales: convocatorias a familias, comunicaciones al equipo directivo, coordinaciones con orientación… Veamos cómo la IA agiliza este proceso.
 
-### 🏆 Prompt de Oro: Correo a familias
+### Versión básica para empezar
+
+```text
+Actúa como tutor/a de un grupo de Secundaria.
+
+Contexto: Necesito informar a las familias sobre una actividad complementaria.
+
+Tarea: Redacta un correo claro, formal y cercano con la información esencial y el plazo de autorización.
+```
+
+### Versión ampliada del prompt
 
 ```text
 Actúa como tutor/a de 2.º de ESO en un IES público de la Comunitat Valenciana.
@@ -257,34 +314,29 @@ Además del chat web, Copilot puede usarse de forma integrada en las aplicacione
 
 ---
 
-## 1.7 · Comparativa en profundidad: Copilot vs. Gemini vs. Kimi vs. Grok
+## 1.7 · ¿Cuándo usar cada herramienta?
 
-Para que puedas elegir la herramienta adecuada según el contexto, aquí tienes una comparativa detallada para las tareas de este bloque:
+En este bloque, la herramienta de referencia es **Copilot**, especialmente cuando trabajas con documentación del centro o necesitas integrarte con Microsoft 365.
 
-| Característica | Copilot (GVA) | Gemini (Google) | Kimi (Moonshot) | Grok (xAI) |
-|:---------------|:-------------:|:---------------:|:---------------:|:-----------:|
-| **Idioma español** | Nativo, excelente | Muy bueno | Bueno | Bueno |
-| **Valenciano/Català** | Aceptable | Bueno | Limitado | Limitado |
-| **Protección datos GVA** | ✅ Corporativo | ❌ Personal | ❌ Personal | ❌ Personal |
-| **Redacción administrativa** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Correos formales** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Tablas y formatos** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Integración Office 365** | ✅ Nativa | ❌ (Google Workspace) | ❌ | ❌ |
-| **Ventana de contexto** | ~128k tokens | ~1M tokens | ~2M tokens | ~128k tokens |
-| **Mejor para (este bloque)** | Correo, actas, Teams | Documentos largos | Análisis extensos | Consultas rápidas |
+Como orientación general:
 
-### ¿Cuándo usar cada herramienta?
+- **Copilot** → opción prioritaria para tareas administrativas y comunicación docente.
+- **Gemini** → útil para documentos públicos largos y segundas versiones.
+- **Kimi** → interesante para analizar textos extensos, siempre anonimizados.
+- **Grok** → válido para consultas rápidas o contraste, con menor precisión de formato.
 
-- **Copilot:** Siempre que trabajes con **datos del centro, alumnado o documentación interna**. Es tu opción por defecto.
-- **Gemini:** Cuando necesites procesar o resumir **documentos públicos muy extensos** (BOE, DOGV, currículos completos) y no contengan datos personales.
-- **Kimi:** Para analizar **PDFs largos** (memorias, planes de centro) gracias a su enorme ventana de contexto. Siempre con documentos anonimizados.
-- **Grok:** Para **consultas rápidas** o cuando quieras una perspectiva diferente. Útil como segunda opinión, pero con menor calidad de formato en español.
+La comparación detallada entre herramientas se seguirá trabajando a lo largo del curso, especialmente cuando pasemos a tareas más complejas.
 
 ---
 
-## 📝 Actividades prácticas del Bloque 1
+## 📝 Actividades del Bloque 1
 
-### Actividad 1.0 — Rompiendo el hielo con la IA *(individual, primera sesión)*
+En este bloque realizarás varias prácticas. Algunas forman parte de la exploración guiada del curso y otras constituyen la **evidencia obligatoria de aprendizaje**.
+
+Debes completar, como mínimo, **una actividad individual obligatoria de entrega** y participar en las dinámicas propuestas durante la sesión síncrona.
+
+### Actividad 1.0 · Primera toma de contacto con la IA
+**Tipo:** sesión inicial / exploración guiada
 
 **Objetivo:** Perder el miedo inicial y descubrir la IA como aliada diaria.
 
@@ -309,22 +361,30 @@ Dime en 5 puntos breves:
 
 > **💡 Nota:** Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
 
-### Actividad 1.1 — Mi primera acta con Copilot *(individual)*
+### Actividad 1.1 · Mi primera acta con Copilot
+**Tipo:** individual / obligatoria / entrega
 
 1. Accede a Copilot con tu cuenta `@edu.gva.es`.
 2. Usa el "Prompt de Oro: Acta de claustro" (sección 1.2) adaptándolo a una reunión **de tu departamento o ciclo**.
-3. Revisa el borrador: corrige errores factuales y ajusta el tono.
-4. Exporta el resultado a un documento Word.
-5. **Entregable:** sube el acta en formato `.docx` al foro del Bloque 1 en Aules.
+3. Antes de generar el resultado final, revisa tu prompt y asegúrate de que contiene claramente estas tres partes:
+   - **Rol**
+   - **Contexto**
+   - **Tarea**
+4. Revisa el borrador: corrige errores factuales y ajusta el tono.
+5. Exporta el resultado a un documento Word.
+6. **Entregable:** sube el acta en formato `.docx` junto con el prompt utilizado. Señala, si lo deseas entre corchetes, dónde has definido el **Rol**, el **Contexto** y la **Tarea**.
 
-### Actividad 1.2 — Correo a familias en dos idiomas *(individual)*
+### Actividad 1.2 · Correo a familias en dos idiomas
+**Tipo:** individual / práctica recomendada
 
-1. Redacta con Copilot un correo informativo sobre una actividad complementaria de tu área usando el prompt de la sección 1.3.
-2. Pide a Copilot la versión en **valenciano**.
-3. Compara el resultado con el que genera **Gemini** para el mismo prompt.
-4. **Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
+1. Antes de lanzar el prompt, reformúlalo siguiendo la estructura **Rol + Contexto + Tarea** trabajada en la sección 1.4.
+2. Redacta con Copilot un correo informativo sobre una actividad complementaria de tu área usando el prompt de la sección 1.3.
+3. Pide a Copilot la versión en **valenciano**.
+4. Compara el resultado con el que genera **Gemini** para el mismo prompt.
+5. **Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
 
-### Actividad 1.3 — Organiza tu documentación docente desde cero con IA *(individual)*
+### Actividad 1.3 · Organiza tu documentación docente desde cero con IA
+**Tipo:** individual / obligatoria / entrega o alternativa de entrega
 
 **Objetivo:** Usar la IA para crear una estructura inteligente de documentación docente.
 
@@ -356,7 +416,8 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 2. Implementa la estructura en tu **OneDrive** con tu cuenta `@edu.gva.es`.
 3. **Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
 
-### Actividad 1.4 — Comparativa de herramientas *(grupal, sesión síncrona)*
+### Actividad 1.4 · Comparativa de herramientas
+**Tipo:** grupal / sesión síncrona / ampliación guiada
 
 1. En grupos de 3-4 personas, elegid **una tarea administrativa** de las vistas en el bloque (acta, correo, cuadrante, inventario).
 2. Escribid el mismo prompt en **Copilot**, **Gemini** y **Kimi** (o **Grok**).
@@ -376,7 +437,17 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 
 ---
 
-## 📚 Recursos complementarios
+## � Cierre del bloque
+
+En este bloque has comprobado que la IA puede convertirse en una aliada útil para tareas habituales de comunicación, organización y gestión docente.
+
+También has dado un primer paso importante: aprender a formular instrucciones más claras para obtener respuestas más útiles.
+
+En el **Bloque 2** profundizaremos en esa idea y aprenderás a diseñar instrucciones más precisas, mejorar tus prompts de forma iterativa y verificar respuestas con apoyo documental.
+
+---
+
+## �📚 Recursos complementarios
 
 - [Microsoft Copilot — Centro de ayuda oficial](https://support.microsoft.com/es-es/copilot)
 - [Política de privacidad de Microsoft 365 en la GVA](https://dgtic.gva.es) *(consulta la intranet de tu centro para el enlace actualizado)*
