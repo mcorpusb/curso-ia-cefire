@@ -45,7 +45,7 @@ Al finalizar este bloque deberías haber conseguido, como mínimo:
 
 Debes entregar **una de las siguientes opciones**:
 
-- **Actividad 1.1 · Acta con Copilot**, o  
+- **Actividad 1.1 · Acta con Copilot**
 - **Actividad 1.3 · Organización documental con IA**
 
 La evidencia mínima será:
@@ -390,7 +390,8 @@ Dime en 5 puntos breves:
 2. Redacta con Copilot un correo informativo sobre una actividad complementaria de tu área usando el prompt de la sección 1.3.
 3. Pide a Copilot la versión en **valenciano**.
 4. Compara el resultado con el que genera **Gemini** para el mismo prompt.
-5. **Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
+
+**Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
 
 ### Actividad 1.3 · Organiza tu documentación docente desde cero con IA
 **Tipo:** individual / obligatoria / entrega o alternativa de entrega
@@ -441,7 +442,7 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 | Tono y registro | | | |
 | Utilidad práctica inmediata | | | |
 
-4. **Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
+**Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
 
 > 💡 **Reflexión de cierre del Bloque 1**
 >
