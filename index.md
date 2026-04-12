@@ -14,10 +14,13 @@ nav_order: 0
 
 ## Presentación
 
-Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**, organizado por el CEFIRE de IA y Pensamiento Computacional. 
-A lo largo de este recorrido de aprendizaje desarrollarás las competencias necesarias para integrar de forma ética, segura y pedagógicamente fundamentada la Inteligencia Artificial Generativa en tu práctica docente.
+Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**.
 
-A lo largo de cuatro bloques irás descubriendo el ecosistema actual de herramientas de IA. Trabajaremos principalmente con **Microsoft Copilot** , como herramienta corporativa GVA, y lo pondremos en relación con otras opciones como **Gemini**, **NotebookLM**, **Kimi**, **Gamma**,... siempre dentro del marco curricular de la **LOMLOE** y con especial atención al **Diseño Universal para el Aprendizaje (DUA)**.
+A lo largo de este recorrido aprenderás a integrar la inteligencia artificial en tu práctica docente con sentido pedagógico, utilizando herramientas útiles para resolver tareas reales del día a día: desde la redacción de documentos hasta el diseño de actividades y materiales.
+
+El curso está planteado de forma progresiva, comenzando por usos sencillos y avanzando hacia aplicaciones más complejas, siempre con un enfoque práctico, seguro y adaptado al contexto educativo.
+
+> **No necesitas experiencia previa con IA para seguir el curso.**
 
 ![Ruta de aprendizaje del curso](assets/img/ruta-ia-docentes.png)
 
