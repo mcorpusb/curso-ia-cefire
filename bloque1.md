@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Bloque 1: IA Colaborativa y Gestión GVA"
-nav_order: 1
+nav_order: 2
+has_children: true
 ---
 
 # Bloque 1 · IA Colaborativa y Gestión GVA
@@ -452,6 +453,17 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 > - **¿Identificas ya alguna tarea concreta de tu día a día en la que la IA pueda ahorrarte tiempo?**
 >
 > Comparte tu reflexión breve (3 frases) en el foro.
+
+---
+
+### 🌱 Actividades por etapa educativa (aplicación directa en el aula)
+
+Si quieres llevar la IA directamente a tu práctica diaria, puedes probar estas actividades diseñadas específicamente para tu etapa:
+
+- [Actividad Infantil](bloque1-actividad-infantil.html)
+- [Actividad Primaria](bloque1-actividad-primaria.html)
+- [Actividad Secundaria](bloque1-actividad-secundaria.html)
+- [Actividad Formación Profesional](bloque1-actividad-fp.html)
 
 ---
 

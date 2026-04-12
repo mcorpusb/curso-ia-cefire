@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bloque 3: Generación Multimodal"
-nav_order: 3
+nav_order: 4
 ---
 
 # Bloque 3 · Generación Multimodal

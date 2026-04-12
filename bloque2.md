@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bloque 2: Prompting Avanzado y Gestión Documental"
-nav_order: 2
+nav_order: 3
 ---
 
 # Bloque 2 · Prompting Avanzado y Gestión Documental

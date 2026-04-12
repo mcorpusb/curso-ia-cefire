@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Guía didáctica"
-nav_order: 5
+nav_order: 0
 ---
 
 # Guía didáctica del curso
 {: .fs-8 }
 
-Herramientas de IA Generativa para Docentes · 26IA92IN017
+Herramientas de Inteligencia Artificial Generativa para Docentes · 26IA92IN017
 {: .fs-5 .fw-300 }
 
 ---
@@ -30,7 +30,7 @@ Todo ello se enmarca en la normativa vigente: la **LOMLOE** como referencia curr
 
 | Campo | Detalle |
 |:------|:--------|
-| **Título** | Herramientas de IA Generativa para Docentes |
+| **Título** | Herramientas de Inteligencia Artificial Generativa para Docentes |
 | **Código** | 26IA92IN017 |
 | **Modalidad** | Semipresencial |
 | **Duración total** | 30 horas |

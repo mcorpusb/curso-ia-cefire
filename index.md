@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Inicio
-nav_order: 0
+nav_order: 1
 ---
 
-# 🎓 Herramientas de IA Generativa para Docentes
+# 🎓 Herramientas de Inteligencia Artificial Generativa para Docentes
 {: .fs-9 }
 
 **Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 30h (20h en línea + 10h síncronas)
@@ -14,7 +14,7 @@ nav_order: 0
 
 ## Presentación
 
-Bienvenido/a al curso **"Herramientas de IA Generativa para Docentes"**.
+Bienvenido/a al curso **"Herramientas de Inteligencia Artificial Generativa para Docentes"**.
 
 A lo largo de este recorrido aprenderás a integrar la inteligencia artificial en tu práctica docente con sentido pedagógico, utilizando herramientas útiles para resolver tareas reales del día a día: desde la redacción de documentos hasta el diseño de actividades y materiales.
 
