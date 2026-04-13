@@ -33,8 +33,8 @@ Todo ello se enmarca en la normativa vigente: la **LOMLOE** como referencia curr
 | **Título** | Herramientas de Inteligencia Artificial Generativa para Docentes |
 | **Código** | 26IA92IN017 |
 | **Modalidad** | Semipresencial |
-| **Duración total** | 30 horas |
-| **Distribución horaria** | 20 horas de trabajo en línea + 10 horas de sesiones síncronas |
+| **Duración total** | 32 horas |
+| **Distribución horaria** | 24 horas de trabajo en línea + 8 horas de sesiones síncronas |
 | **Plataforma de seguimiento** | Aules (Generalitat Valenciana) |
 | **Entidad organizadora** | CEFIRE · Generalitat Valenciana |
 | **Destinatarios** | Profesorado en activo de todas las etapas educativas |
@@ -101,19 +101,19 @@ El foro de cada bloque en **Aules** actúa como espacio de intercambio entre par
 
 | Componente | Horas |
 |:-----------|------:|
-| Trabajo autónomo en línea (asíncrono) | 20 h |
-| Sesiones síncronas (a través de Aules) | 10 h |
-| **Total** | **30 h** |
+| Trabajo autónomo en línea (asíncrono) | 24 h |
+| Sesiones síncronas (a través de Aules) | 8 h |
+| **Total** | **32 h** |
 
 ### Distribución por bloques  > >  
 
 | Bloque | Título | Sesión síncrona | Fecha | Horario | Horas síncronas | Horas en línea | Total bloque |
 |:------:|:-------|:---------------:|:-----:|:-------:|:---------------:|:--------------:|:------------:|
-| 1 | IA Colaborativa y Gestión GVA | 1 | 22/04/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
-| 2 | Prompting Avanzado y Gestión Documental | 2 | 29/04/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
-| 3 | Generación Multimodal | 3 | 06/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
-| 4 | Evaluación y Personalización | 4 | 13/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
-| | | | | **Totales** | **8 h** | **20 h** | **28 h** |
+| 1 | IA Colaborativa y Gestión GVA | 1 | 22/04/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| 2 | Prompting Avanzado y Gestión Documental | 2 | 29/04/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| 3 | Generación Multimodal | 3 | 06/05/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| 4 | Evaluación y Personalización | 4 | 13/05/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| | | | | **Totales** | **8 h** | **24 h** | **32 h** |
 
 Cada bloque se desarrolla a lo largo de una semana. La sesión síncrona abre el bloque con demostración, modelado y actividades grupales. El trabajo en línea se realiza en los días posteriores a la sesión, con entrega de actividades antes de la sesión siguiente.
 
