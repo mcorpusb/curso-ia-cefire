@@ -109,11 +109,11 @@ El foro de cada bloque en **Aules** actúa como espacio de intercambio entre par
 
 | Bloque | Título | Sesión síncrona | Fecha | Horario | Horas síncronas | Horas en línea | Total bloque |
 |:------:|:-------|:---------------:|:-----:|:-------:|:---------------:|:--------------:|:------------:|
-| 1 | IA Colaborativa y Gestión GVA | 1 | 22/04/2026 | 17:30–20:00 | 2,5 h | 5 h | 7,5 h |
-| 2 | Prompting Avanzado y Gestión Documental | 2 | 29/04/2026 | 17:30–20:00 | 2,5 h | 5 h | 7,5 h |
-| 3 | Generación Multimodal | 3 | 06/05/2026 | 17:30–20:00 | 2,5 h | 5 h | 7,5 h |
-| 4 | Evaluación y Personalización | 4 | 13/05/2026 | 17:30–20:00 | 2,5 h | 5 h | 7,5 h |
-| | | | | **Totales** | **10 h** | **20 h** | **30 h** |
+| 1 | IA Colaborativa y Gestión GVA | 1 | 22/04/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
+| 2 | Prompting Avanzado y Gestión Documental | 2 | 29/04/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
+| 3 | Generación Multimodal | 3 | 06/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
+| 4 | Evaluación y Personalización | 4 | 13/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
+| | | | | **Totales** | **8 h** | **20 h** | **28 h** |
 
 Cada bloque se desarrolla a lo largo de una semana. La sesión síncrona abre el bloque con demostración, modelado y actividades grupales. El trabajo en línea se realiza en los días posteriores a la sesión, con entrega de actividades antes de la sesión siguiente.
 
