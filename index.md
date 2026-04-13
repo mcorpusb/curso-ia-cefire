@@ -2,6 +2,7 @@
 layout: home
 title: Inicio
 nav_order: 1
+has_children: true
 ---
 
 # 🎓 Herramientas de Inteligencia Artificial Generativa para Docentes
@@ -60,6 +61,9 @@ Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de 
 ## 🚀 Primeros pasos antes de la primera sesión
 
 Para aprovechar el curso desde el primer día, sigue estos pasos:
+
+0. **Identidad digital y acceso**  
+   Antes de nada, asegúrate de que tu identidad digital está en orden. Consulta la [guía de identidad digital y acceso](primeros-pasos/identidad-digital.md) para verificar que puedes acceder a las plataformas del curso.
 
 1. **Accede a Microsoft Copilot**  
    Entra en [copilot.microsoft.com](https://copilot.microsoft.com/) e inicia sesión con tu cuenta **@edu.gva.es**.
