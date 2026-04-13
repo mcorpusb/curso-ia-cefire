@@ -105,7 +105,7 @@ El foro de cada bloque en **Aules** actúa como espacio de intercambio entre par
 | Sesiones síncronas (a través de Aules) | 10 h |
 | **Total** | **30 h** |
 
-### Distribución por bloques
+### Distribución por bloques  > **Nota:** 15' antes estará disponible el enlace de cada sesión en el curso de Aules. {: .note }
 
 | Bloque | Título | Sesión síncrona | Fecha | Horario | Horas síncronas | Horas en línea | Total bloque |
 |:------:|:-------|:---------------:|:-----:|:-------:|:---------------:|:--------------:|:------------:|
