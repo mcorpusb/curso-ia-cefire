@@ -52,9 +52,9 @@ Tu identidad digital se compone de varios elementos:
 
 Es tu cuenta principal para acceder a los servicios de Microsoft 365 (Copilot, Teams, Outlook, etc.). Si aún no la has utilizado, puedes activarla desde el portal de la GVA:
 
-1. Accede al [portal de gestión de identidad de la GVA](https://portal.edu.gva.es/).
-2. Introduce tu NIF y sigue las instrucciones para establecer tu contraseña.
-3. Una vez activada, podrás entrar en [copilot.microsoft.com](https://copilot.microsoft.com/) y en el resto de servicios.
+1. Accede a [office.com](https://www.office.com) o a [login.microsoftonline.com](https://login.microsoftonline.com).
+2. Introduce tu cuenta **@edu.gva.es** y sigue las instrucciones para establecer tu contraseña.
+3. Una vez activada, podrás entrar en Copilot y en el resto de servicios de Microsoft 365.
 
 ### ITACA 3
 
