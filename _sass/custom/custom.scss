@@ -67,3 +67,20 @@
   overflow-wrap: break-word;
   line-height: 1.35;
 }
+
+/* ── Sidebar: indicadores de bloqueo ── */
+
+.nav-list .nav-list-item a.is-locked,
+.site-nav a.is-locked {
+  opacity: 0.92;
+  cursor: default;
+}
+
+.nav-lock-date {
+  display: block;
+  font-size: 0.82em;
+  margin-top: 0.15rem;
+  opacity: 0.7;
+  font-style: italic;
+  line-height: 1.3;
+}

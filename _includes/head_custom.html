@@ -1,1 +1,6 @@
+<script>
+window.__releaseGates = [{% for p in site.pages %}{% if p.open_datetime %}
+  { url: "{{ p.url | relative_url }}", openAt: "{{ p.open_datetime }}" }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+];
+</script>
 <script defer src="{{ '/assets/js/release-gates.js' | relative_url }}"></script>
