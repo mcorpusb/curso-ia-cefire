@@ -3,6 +3,7 @@ layout: page
 title: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 2
 has_children: true
+open_datetime: 2026-04-22T17:30:00+02:00
 ---
 
 # Bloque 1 · IA Colaborativa y Gestión GVA
@@ -10,6 +11,17 @@ has_children: true
 
 Aprende a usar Microsoft Copilot como asistente integral para las tareas administrativas y organizativas del día a día en tu centro educativo.
 {: .fs-5 .fw-300 }
+
+<div class="release-gate" data-open-at="{{ page.open_datetime }}" data-block-title="{{ page.title }}">
+<div class="release-gate__notice" hidden>
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+🔒 <strong>Contenido disponible próximamente</strong><br>
+Este bloque se abrirá el <span class="release-gate__date"></span>.
+Mientras tanto, céntrate en completar el bloque actual.
+</div>
+<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
+</div>
+<div class="release-gate__content">
 
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
@@ -69,7 +81,7 @@ Puedes elegir entre dos opciones:
 
 Selecciona una de estas propuestas:
 
-- **Actividad 1.1 · Acta con Copilot**
+- **Actividad 1.2 · Acta con Copilot**
 - **Actividad 1.3 · Organización documental con IA**
 
 #### 🔹 Opción 2 · Aplicación por etapa educativa
@@ -183,7 +195,7 @@ de cada punto con acuerdos adoptados, y pie de firma del director/a y
 secretario/a. Usa un tono formal e impersonal.
 ```
 
-> **🚀 Reto Secundaria/FP:** Adapta el prompt para un **Departamento Didáctico** de Secundaria. Cambia los puntos del orden del día e incluye: *"Seguimiento de la programación del 2.º trimestre"* y *"Coordinación con FCT (Formación en Centros de Trabajo)"*.
+> **🚀 Reto:** Adapta el prompt para un **Departamento o Etapa o Nivel**. Cambia los puntos del orden del día e incluye, por ejemplo: *"Seguimiento de la programación del 2.º trimestre"* y *"Coordinación con FCT (Formación en Centros de Trabajo)"*.
 
 ### Comparativa entre herramientas
 
@@ -585,7 +597,7 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 | Tono y registro | | | |
 | Utilidad práctica inmediata | | | |
 
-**Entregable:** tabla completada + conclusión grupal (200 palabras) en el foro de Aules.
+**Entregable:** tabla completada + conclusión (200 palabras) en el foro de Aules.
 
 > 💡 **Reflexión de cierre del Bloque 1**
 >

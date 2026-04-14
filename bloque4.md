@@ -2,6 +2,7 @@
 layout: page
 title: "Bloque 4: Evaluación y Personalización"
 nav_order: 5
+open_datetime: 2026-05-13T17:30:00+02:00
 ---
 
 # Bloque 4 · Evaluación y Personalización
@@ -9,6 +10,17 @@ nav_order: 5
 
 Diseña rúbricas LOMLOE, genera adaptaciones curriculares rápidas y reflexiona sobre ética, privacidad y uso responsable de la IA en educación.
 {: .fs-5 .fw-300 }
+
+<div class="release-gate" data-open-at="{{ page.open_datetime }}" data-block-title="{{ page.title }}">
+<div class="release-gate__notice" hidden>
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+🔒 <strong>Contenido disponible próximamente</strong><br>
+Este bloque se abrirá el <span class="release-gate__date"></span>.
+Mientras tanto, céntrate en completar el bloque actual.
+</div>
+<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
+</div>
+<div class="release-gate__content">
 
 ---
 
@@ -626,6 +638,9 @@ Asegúrate de poder responder **sí** a todas estas preguntas antes de completar
 - [ ] He completado el portfolio integrador con elementos de los 4 bloques.
 
 ---
+
+</div><!-- /.release-gate__content -->
+</div><!-- /.release-gate -->
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
