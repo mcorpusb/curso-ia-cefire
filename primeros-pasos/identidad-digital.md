@@ -46,6 +46,21 @@ Tu identidad digital se compone de varios elementos:
 
 ---
 
+> ## 🚨 ADVERTENCIA DE SEGURIDAD ACTUALIZADA (14/04/2026)
+>
+> ### Caso Crítico: Brecha en la IA de McKinsey
+>
+> Hoy se ha confirmado una **filtración masiva en Lilli**, la IA de la consultora McKinsey, exponiendo más de **46 millones de conversaciones confidenciales**.
+>
+> **El origen del fallo:** No fue un virus, sino una vulnerabilidad en la **gestión de la identidad**. Los atacantes lograron "engañar" al sistema para que no reconociera los permisos de usuario, accediendo a datos de terceros.
+>
+> **Impacto para ti:** Esto demuestra que si tu identidad digital docente se ve comprometida (por una contraseña débil o un descuido), las herramientas de IA en las que confías pueden exponer datos de tus alumnos y de tu centro.
+>
+> ⚡ **Tu identidad es la primera y última línea de defensa.**
+{: .warning }
+
+---
+
 ## Cómo acceder y gestionar tu identidad
 
 ### Cuenta @edu.gva.es
@@ -100,6 +115,9 @@ Sigue estas recomendaciones para mantener tu identidad digital segura:
 - **Cierra sesión siempre** que utilices un dispositivo compartido.
 - **Activa la verificación en dos pasos** si la plataforma lo permite.
 - **Mantén actualizados tus datos de recuperación** (teléfono, correo alternativo).
+- 🔑 **MFA Obligatorio**: Activar siempre el **Segundo Factor de Autenticación** en las cuentas institucionales y de IA.
+- 🔒 **Cifrado de Extremo a Extremo**: Verificar que el dispositivo (Windows/Mac/Linux) tenga el **cifrado de disco activo** para evitar accesos físicos no autorizados.
+- 🧹 **Higiene de Prompts**: Nunca introducir datos de carácter personal (nombres, DNI, expedientes) en herramientas de IA que no garanticen la **soberanía de los datos**.
 
 ---
 
