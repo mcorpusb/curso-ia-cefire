@@ -20,6 +20,10 @@ Este curso parte de una idea sencilla: la **IA generativa no es un fin, sino un 
 
 El itinerario avanza en cuatro bloques, de lo más cotidiano a lo más avanzado:
 
+<p style="text-align: center; margin: 25px 0;">
+  <img src="{{ '/assets/img/estructura-curso-ia.png' | relative_url }}" alt="Estructura del curso de IA para docentes en 4 bloques" width="520">
+</p>
+
 - Del primer contacto con la IA y la gestión administrativa...
 - ...al diseño de prompts expertos, contenidos multimodales, evaluación competencial y reflexión ética.
 
@@ -115,6 +119,10 @@ Cada bloque sigue el mismo ciclo: ver cómo se hace → hacerlo tú → comparar
 
 </div>
 
+<p style="text-align: center; margin: 25px 0;">
+  <img src="{{ '/assets/img/ciclo-aprendizaje-ia.png' | relative_url }}" alt="Ciclo de aprendizaje con IA: ver, hacer, comparar y reflexionar" width="500">
+</p>
+
 ---
 
 ## Distribución temporal
@@ -165,12 +173,21 @@ Cada semana funciona igual: sesión síncrona el miércoles → trabajo autónom
 
 **Ejemplos de aplicación:** Generar un borrador de acta de departamento en 30 segundos; crear una plantilla de correo a familias en castellano y valenciano; diseñar un cuadrante de guardias con IA; organizar desde cero el sistema de carpetas del curso en OneDrive.
 
-**Entrega obligatoria del Bloque 1.** Para completar este bloque, debes entregar una de estas dos opciones:
+**Entrega obligatoria del Bloque 1.** Para completar este bloque, debes entregar **una única actividad individual**. Puedes elegir entre dos opciones:
+
+**Opción 1 · Tareas administrativas con IA.** Selecciona una de estas propuestas:
 
 - Actividad 1.1 · Acta con Copilot
 - Actividad 1.3 · Organización documental con IA
 
-La evidencia mínima será: un documento breve generado y revisado con Copilot, el prompt utilizado y una breve reflexión personal sobre el resultado.
+**Opción 2 · Aplicación por etapa educativa.** Selecciona una actividad adaptada a tu realidad docente:
+
+- Actividad Infantil
+- Actividad Primaria
+- Actividad Secundaria
+- Actividad Formación Profesional
+
+En todos los casos, la entrega debe incluir: un documento breve generado y revisado con IA, el prompt utilizado y una breve reflexión personal sobre el resultado. Elige la opción que tenga más sentido para tu práctica real como docente.
 
 ### Bloque 2 · Prompting Avanzado y Gestión Documental
 
@@ -261,6 +278,10 @@ Las herramientas externas (Gemini, NotebookLM, Kimi, Grok, ElevenLabs, Gamma, Sy
 La evaluación es **continua, formativa y orientada a evidencias**. No hay pruebas memorísticas: se valoran las competencias demostradas a lo largo de los cuatro bloques.
 
 ### Evaluar procesos, no solo productos
+
+<p style="text-align: center; margin: 25px 0;">
+  <img src="{{ '/assets/img/evaluacion-proceso-vs-producto.png' | relative_url }}" alt="Evaluación de procesos frente a evaluación de productos" width="520">
+</p>
 
 En un contexto donde la IA puede generar productos acabados en segundos, evaluar solo el resultado final es insuficiente. Este curso pone el foco en el **proceso**: los borradores, las decisiones tomadas, las fuentes consultadas, las revisiones realizadas y la reflexión sobre lo aprendido.
 

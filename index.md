@@ -11,6 +11,10 @@ has_children: true
 **Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 30h (24h en línea + 8h síncronas)
 {: .fs-5 .fw-300 }
 
+<p style="text-align: center; margin: 30px 0;">
+  <img src="{{ '/assets/img/portada-curso-ia-docentes.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700">
+</p>
+
 ---
 
 ## Presentación
