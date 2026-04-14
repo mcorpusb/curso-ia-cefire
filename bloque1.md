@@ -11,7 +11,17 @@ has_children: true
 Aprende a usar Microsoft Copilot como asistente integral para las tareas administrativas y organizativas del día a día en tu centro educativo.
 {: .fs-5 .fw-300 }
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Qué te llevas de este bloque</strong><br>
+En esta primera semana vas a comprobar que la IA puede ayudarte en tareas muy concretas de tu día a día: redactar documentos, organizar información y comunicarte mejor.  
+La meta no es dominar una herramienta, sino empezar a usarla con sentido y utilidad real.
+
+</div>
+
 ---
+
+Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
 
 ## Objetivos del bloque
 
@@ -130,6 +140,18 @@ Más que conocer toda la herramienta en profundidad desde el primer día, en est
 
 Redactar un acta de claustro, de CCP o de equipo docente es una tarea repetitiva que consume tiempo. Copilot puede generar un borrador estructurado a partir de unas pocas notas.
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+🎯 <strong>Cómo hacerlo paso a paso</strong><br>
+1. Piensa en una reunión real que hayas tenido recientemente.<br>
+2. Anota los puntos principales (orden del día, acuerdos, incidencias).<br>
+3. Copia el prompt y adapta el contexto a tu situación real.<br>
+4. Genera el borrador con Copilot.<br>
+5. Revisa el resultado: corrige datos y ajusta el tono.<br>
+6. Guarda el documento como plantilla para futuras reuniones.
+
+</div>
+
 ### Versión básica para empezar
 
 ```text
@@ -173,11 +195,30 @@ secretario/a. Usa un tono formal e impersonal.
 | Calidad del tono administrativo | Muy alta | Alta | Media | Media |
 | Acceso gratuito al docente GVA | ✅ (licencia corporativa) | ✅ (cuenta personal) | ✅ (cuenta personal) | ✅ (cuenta personal) |
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Idea clave</strong><br>
+La IA genera un buen borrador, pero la responsabilidad final sigue siendo tuya: revisa siempre los datos y adapta el documento al contexto real del centro.
+
+</div>
+
 ---
 
 ## 1.3 · Automatización de correos electrónicos
 
 Un docente envía cada semana numerosos correos: avisos a familias, coordinación con orientación, comunicaciones al equipo directivo o recordatorios al alumnado. Copilot puede ayudarte a generar borradores claros, formales y adaptados al contexto en pocos segundos.
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+🎯 <strong>Cómo aplicarlo en tu día a día</strong><br>
+1. Piensa en un correo real que tengas que enviar esta semana.<br>
+2. Define a quién va dirigido (familias, alumnado, equipo docente).<br>
+3. Adapta el prompt a tu contexto (curso, etapa, situación concreta).<br>
+4. Genera el borrador con Copilot.<br>
+5. Ajusta el tono y revisa la información antes de enviarlo.<br>
+6. Guarda el prompt para reutilizarlo en el futuro.
+
+</div>
 
 ### Versión básica para empezar
 
@@ -188,6 +229,14 @@ Contexto: Necesito informar a las familias sobre una actividad complementaria.
 
 Tarea: Redacta un correo claro, formal y cercano con la información esencial y el plazo de autorización.
 ```
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+🎯 <strong>Llévalo a tu realidad</strong><br>
+Antes de seguir, adapta este prompt a una situación real de tu aula y pruébalo.  
+El valor de la IA no está en el ejemplo, sino en cómo lo aplicas a tu día a día.
+
+</div>
 
 ### Versión ampliada del prompt
 
@@ -225,6 +274,14 @@ Ahora genera una versión del mismo correo en valenciano (normas de la AVL).
 Genera una versión abreviada para enviar como recordatorio por Web Família.
 ```
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Idea clave</strong><br>
+Cuanto mejor defines el contexto y el destinatario, mejor será el resultado.  
+La IA no sustituye tu criterio como docente: lo amplifica.
+
+</div>
+
 ---
 
 ## 1.4 · Cómo dar mejores instrucciones a la IA (sin complicarte)
@@ -236,6 +293,18 @@ No necesitas aprender nada complejo: basta con estructurar bien lo que le pides.
 
 ### 🧩 Estructura básica que funciona
 
+<p style="text-align: center; margin: 20px 0;">
+  <img src="{{ '/assets/img/prompt-estructura.png' | relative_url }}" alt="Estructura de prompt: rol, contexto y tarea" width="500">
+</p>
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Cómo leer este esquema</strong><br>
+Antes de escribir un prompt, piensa en estas tres preguntas:
+¿Quién quieres que sea la IA? · ¿En qué contexto estás? · ¿Qué necesitas exactamente?
+
+</div>
+
 En este curso utilizaremos una fórmula sencilla:
 
 **ROL + CONTEXTO + TAREA**
@@ -244,7 +313,11 @@ En este curso utilizaremos una fórmula sencilla:
 - **Contexto** → tu situación real como docente  
 - **Tarea** → lo que necesitas que haga  
 
+👉 Piensa siempre en estas tres piezas antes de escribir.
+
 ---
+
+Ahora vamos a ver cómo se traduce esta estructura en un ejemplo real.
 
 ### 🔍 Ejemplo aplicado (correo a familias)
 
@@ -301,6 +374,17 @@ Pégalo en Copilot y compara el resultado con el anterior.
 
 Copilot puede ayudarte a organizar elementos cotidianos que no son estrictamente pedagógicos, pero consumen tiempo.
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+🎯 <strong>Cómo sacarle partido desde hoy</strong><br>
+1. Elige una tarea organizativa que te quite tiempo (horarios, inventario, planificación…).<br>
+2. Adapta el prompt a tu centro y a tu rol real.<br>
+3. Genera una primera propuesta con Copilot.<br>
+4. Ajusta los detalles según tus necesidades.<br>
+5. Guarda el resultado como plantilla reutilizable.
+
+</div>
+
 ### 🏆 Prompt de Oro: Planificar horario de guardias
 
 ```text
@@ -321,6 +405,14 @@ Tarea:
 Formato de salida: tabla Markdown que pueda pegarse en un documento de Teams.
 ```
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Convierte esto en una plantilla</strong><br>
+No te quedes con este resultado como algo puntual.  
+Guarda el prompt y el formato generado: podrás reutilizarlo cada trimestre con pequeños ajustes.
+
+</div>
+
 ### 🏆 Prompt de Oro: Inventario de material del departamento
 
 ```text
@@ -337,6 +429,13 @@ con material típico de un taller de Tecnología de Secundaria.
 ```
 
 > **🚀 Reto Secundaria/FP:** Pide a Copilot que genere la misma tabla pero en formato CSV para importar directamente en Excel. Después abre ese CSV en Excel y comprueba que los campos se han separado correctamente.
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Idea clave</strong><br>
+La IA no solo te ayuda a hacer tareas más rápido, sino a crear sistemas de trabajo que puedes reutilizar a lo largo del curso.
+
+</div>
 
 ---
 
@@ -539,15 +638,31 @@ En el **Bloque 2** darás un paso más: aprenderás a diseñar instrucciones má
 
 ## ✅ Checklist de autoevaluación
 
-Antes de pasar al Bloque 2, asegúrate de que puedes responder **sí** a todas estas preguntas:
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
-- [ ] He superado el primer contacto con la IA generativa y he comprobado que es una herramienta accesible y conversacional.
+🎯 <strong>Cómo usar este checklist</strong><br>
+No se trata de marcar todo perfecto, sino de comprobar si ya puedes aplicar lo aprendido.  
+Si hay algún punto en el que dudas, vuelve a esa parte del bloque y revísala con calma.
+
+</div>
+
+Antes de pasar al Bloque 2, comprueba si puedes responder **sí** a estas preguntas:
+
+- [ ] He probado la IA generativa y he comprobado que es una herramienta accesible y conversacional.
 - [ ] Sé acceder a Copilot con mi cuenta `@edu.gva.es` y verificar que estoy en el entorno protegido.
 - [ ] Puedo redactar un acta estructurada usando un prompt bien definido.
 - [ ] Soy capaz de generar un correo formal para familias y pedir variantes (idioma, tono, longitud).
-- [ ] He organizado (o tengo un plan para organizar) mi documentación docente con una estructura inteligente creada con IA.
+- [ ] He organizado (o tengo un plan para organizar) mi documentación docente con ayuda de la IA.
 - [ ] Conozco las diferencias prácticas entre Copilot, Gemini, Kimi y Grok para tareas administrativas.
 - [ ] Entiendo por qué debo usar Copilot como herramienta prioritaria cuando manejo datos del centro.
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>¿Estás listo/a para el siguiente bloque?</strong><br>
+Si puedes responder "sí" a la mayoría de los puntos, ya tienes una base sólida para continuar.  
+No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA en tu práctica real.
+
+</div>
 
 ---
 
