@@ -15,7 +15,7 @@ Todo lo que necesitas saber sobre tu identidad digital como docente antes de com
 
 ## ¿Qué es la identidad digital?
 
-![Esquema de identidad digital](assets/img/identidad-digital.png)
+![Esquema de identidad digital](../assets/img/identidad-digital.png)
 
 Tu **identidad digital** es el conjunto de datos que te identifican en los sistemas y plataformas en línea. En el ámbito educativo, esta identidad te permite acceder de forma segura a las herramientas que utilizas en tu labor docente.
 
@@ -129,7 +129,7 @@ Además de proteger tus cuentas, es importante proteger los datos almacenados en
 
 ### ¿Qué es el cifrado?
 
-![Esquema de cifrado de datos](assets/img/cifrado-datos.png)
+![Esquema de cifrado de datos](../assets/img/cifrado-datos.png)
 
 El **cifrado** es un mecanismo que convierte la información de tu dispositivo en un formato ilegible para cualquier persona que no tenga la clave de acceso. Es como guardar tus documentos en una caja fuerte digital.
 
@@ -185,6 +185,6 @@ Además, la industria tecnológica está trabajando activamente para preparar es
 - Activar el cifrado del disco como se ha explicado en el apartado anterior.
 - Confiar en las actualizaciones de seguridad que recibes: están diseñadas para protegerte frente a amenazas actuales y futuras.
 
-![Uso responsable de la IA en educación](assets/img/uso-seguro-ia.png)
+![Uso responsable de la IA en educación](../assets/img/uso-seguro-ia.png)
 
 > 🔑 **Recuerda**: no necesitas ser experto/a en tecnología para estar protegido/a. Basta con seguir estas buenas prácticas y mantener tus herramientas al día.
