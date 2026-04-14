@@ -223,6 +223,14 @@ Contexto: Necesito informar a las familias sobre una excursión escolar.
 Tarea: Redacta un correo formal pero cercano con fecha, lugar, coste y plazo de autorización.
 ```
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+La IA puede ayudarte a ahorrar tiempo en tareas habituales, pero también puede hacer que delegues decisiones que antes tomabas de forma consciente.
+¿En qué momentos te está ayudando… y en cuáles podría estar sustituyendo tu propio criterio?
+
+</div>
+
 ---
 
 ### 🔄 ¿Por qué funciona mejor así?

@@ -5,10 +5,10 @@ nav_order: 1
 has_children: true
 ---
 
-# 🎓 Herramientas de Inteligencia Artificial Generativa para Docentes
+# 🎓 Herramientas de IA Generativa para Docentes
 {: .fs-9 }
 
-**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 30h (20h en línea + 10h síncronas)
+**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 30h (24h en línea + 8h síncronas)
 {: .fs-5 .fw-300 }
 
 ---
@@ -32,6 +32,14 @@ A lo largo del curso aprenderás a:
 - **Ahorrar tiempo en tareas docentes habituales**, como la redacción de documentos o la preparación de evaluaciones.
 - **Diseñar actividades y recursos más variados e inclusivos**, adaptados a diferentes perfiles de alumnado.
 - **Usar la IA con criterio pedagógico y seguridad**, revisando resultados y protegiendo los datos.
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+La inteligencia artificial puede facilitar muchas tareas docentes, pero no siempre es la mejor opción en todos los casos.
+Parte del uso responsable consiste en decidir cuándo aporta valor… y cuándo es mejor no utilizarla.
+
+</div>
 
 > ⚠️ **Uso seguro de la IA en el curso**
 >

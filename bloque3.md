@@ -104,6 +104,14 @@ Los cómics son una herramienta pedagógica potente: combinan narrativa visual y
 | **Gemini (Imagen 3)** | Generador de imágenes | ✅ Cuenta personal Google | Ilustraciones realistas, escenas complejas |
 | **Kimi** | Texto + análisis visual | ✅ Cuenta personal | Describir viñetas (como guionista) para usar en otro generador |
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+No todas las tareas educativas se benefician del uso de IA.
+En algunos casos, especialmente cuando hay decisiones importantes o procesos de aprendizaje clave, puede ser más adecuado no utilizarla.
+
+</div>
+
 ### 🏆 Prompt de Oro: Generar la ilustración de una viñeta con Copilot
 
 ```text

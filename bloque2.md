@@ -137,6 +137,14 @@ No siempre el primer resultado es perfecto. Estas **instrucciones de seguimiento
 | Normativa específica | *"Revisa la SA y comprueba que los criterios de evaluación coinciden literalmente con los del Decreto 106/2022 del DOGV."* |
 | Inclusión | *"Añade una adaptación específica para un alumno/a con discapacidad visual."* |
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+Las respuestas de la IA no son neutras: dependen de los datos con los que ha sido entrenada.
+Revisar críticamente lo que genera no es opcional, sino parte del uso profesional de estas herramientas.
+
+</div>
+
 ---
 
 ## 2.3 · NotebookLM: "entrena" a la IA con el currículo oficial

@@ -173,6 +173,14 @@ Formato: Tabla con columnas [Alumno/a | Nivel | Comentario motivador].
 
 > **💡 Consejo:** Revisa siempre el feedback generado antes de entregarlo. La IA produce borradores útiles, pero tú conoces a cada alumno/a y puedes añadir el toque personal que marca la diferencia.
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+Si solo evaluamos el resultado final de una tarea, la IA puede hacerlo por el alumnado.
+Cambiar el foco hacia el proceso permite que la herramienta siga siendo útil sin sustituir el aprendizaje.
+
+</div>
+
 ---
 
 ## 4.2 · Más instrumentos de evaluación con IA
@@ -403,6 +411,14 @@ Más allá de la privacidad y los sesgos, como docente de ESO/Bachillerato/FP de
 | ¿Agrava la brecha digital? | No todo el alumnado tiene el mismo acceso ni las mismas competencias digitales. |
 | ¿Cómo evalúo en un mundo con IA? | Las pruebas memorísticas pierden sentido. La evaluación competencial y auténtica gana peso. |
 | ¿Qué papel queda para el docente? | Más mentor, guía y curador que transmisor de información. |
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💭 <strong>Para pensar</strong><br>
+Evaluar borradores, decisiones, fuentes o el trabajo en clase ayuda a que el aprendizaje sea visible.
+En ese contexto, la IA se convierte en un apoyo, no en un sustituto.
+
+</div>
 
 ### 4.4.5 · Actividad ética: detección de sesgos
 
