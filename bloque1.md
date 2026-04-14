@@ -44,16 +44,51 @@ Al finalizar este bloque deberías haber conseguido, como mínimo:
 
 ### Entrega obligatoria del Bloque 1
 
-Para completar este bloque, debes entregar **una** de estas dos opciones:
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Idea clave</strong><br>
+Una única tarea, útil y aplicable a tu realidad docente.
+
+</div>
+
+Para completar este bloque, debes entregar **una única actividad individual**.
+
+Puedes elegir entre dos opciones:
+
+#### 🔹 Opción 1 · Tareas administrativas con IA
+
+Selecciona una de estas propuestas:
 
 - **Actividad 1.1 · Acta con Copilot**
 - **Actividad 1.3 · Organización documental con IA**
 
-La evidencia mínima será:
+#### 🔹 Opción 2 · Aplicación por etapa educativa
 
-- un documento breve generado y revisado con Copilot;
+Selecciona una actividad adaptada a tu realidad docente:
+
+- **Actividad Infantil**
+- **Actividad Primaria**
+- **Actividad Secundaria**
+- **Actividad Formación Profesional**
+
+👉 Estas actividades están diseñadas para aplicar la IA directamente en el aula según tu etapa.
+
+---
+
+#### 📄 Evidencia de aprendizaje
+
+En todos los casos, la entrega debe incluir:
+
+- un documento breve generado y revisado con IA;
 - el prompt utilizado;
 - y una breve reflexión personal sobre el resultado.
+
+---
+
+#### 💡 Recomendación
+
+Elige la opción que tenga más sentido para tu práctica real como docente.
+El objetivo no es hacer más tareas, sino **hacer una que realmente puedas aplicar en tu día a día**.
 
 
 > ⚠️ **Uso seguro en este bloque**
@@ -465,6 +500,14 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 ---
 
 ### 🌱 Actividades por etapa educativa (aplicación directa en el aula)
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Importante</strong><br>
+Las actividades de esta sección pueden utilizarse como entrega obligatoria del bloque.  
+Elige la que mejor se adapte a tu etapa educativa y a tu práctica docente real.
+
+</div>
 
 Si quieres llevar la IA directamente a tu práctica diaria, puedes probar estas actividades diseñadas específicamente para tu etapa:
 
