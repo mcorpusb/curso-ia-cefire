@@ -387,7 +387,7 @@ Dime en 5 puntos breves:
 ### Actividad 1.2 · Correo a familias en dos idiomas
 **Tipo:** individual / práctica recomendada
 
-   1. Antes de lanzar                   el prompt, reformúlalo siguiendo la estructura **Rol + Contexto + Tarea** trabajada en la sección 1.4.
+1. Antes de lanzar el prompt, reformúlalo siguiendo la estructura **Rol + Contexto + Tarea** trabajada en la sección 1.4.
 2. Redacta con Copilot un correo informativo sobre una actividad complementaria de tu área usando el prompt de la sección 1.3.
 3. Pide a Copilot la versión en **valenciano**.
 4. Compara el resultado con el que genera **Gemini** para el mismo prompt.
