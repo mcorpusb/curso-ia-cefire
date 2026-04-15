@@ -2,7 +2,7 @@
 layout: page
 title: "Bloque 3: Generación Multimodal"
 nav_order: 4
-open_datetime: 2026-05-06T17:30:00+02:00
+release_at: 2026-05-06T17:30:00+02:00
 ---
 
 # Bloque 3 · Generación Multimodal
@@ -11,7 +11,7 @@ open_datetime: 2026-05-06T17:30:00+02:00
 Crea presentaciones, cómics, audios realistas y vídeos educativos con herramientas de IA generativa para enriquecer tus situaciones de aprendizaje.
 {: .fs-5 .fw-300 }
 
-<div class="release-gate" data-open-at="{{ page.open_datetime }}" data-block-title="{{ page.title }}">
+<div class="release-gate" data-open-at="{{ page.release_at }}" data-block-title="{{ page.title }}">
 <div class="release-gate__notice" hidden>
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 🔒 <strong>Contenido disponible próximamente</strong><br>

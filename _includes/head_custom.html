@@ -1,6 +1,13 @@
 <script>
-window.__releaseGates = [{% for p in site.pages %}{% if p.open_datetime %}
-  { url: "{{ p.url | relative_url }}", openAt: "{{ p.open_datetime }}" }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+window.__releasePages = [
+{%- for p in site.pages -%}
+  {%- if p.title -%}
+  { url: {{ p.url | relative_url | jsonify }},
+    title: {{ p.title | jsonify }},
+    parent: {{ p.parent | jsonify }},
+    releaseAt: {{ p.release_at | jsonify }} },
+  {%- endif -%}
+{%- endfor -%}
 ];
 </script>
 <script defer src="{{ '/assets/js/release-gates.js' | relative_url }}"></script>

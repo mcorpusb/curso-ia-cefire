@@ -68,19 +68,32 @@
   line-height: 1.35;
 }
 
-/* ── Sidebar: indicadores de bloqueo ── */
+/* ── Sidebar: protección de release gates ── */
 
-.nav-list .nav-list-item a.is-locked,
-.site-nav a.is-locked {
-  opacity: 0.92;
-  cursor: default;
+/* Las páginas bloqueadas se ocultan vía JS (display:none en el <li>).
+   Este estilo suaviza el parpadeo mientras el JS carga. */
+.site-nav .nav-list {
+  transition: opacity 0.15s ease;
 }
 
-.nav-lock-date {
-  display: block;
-  font-size: 0.82em;
-  margin-top: 0.15rem;
-  opacity: 0.7;
-  font-style: italic;
-  line-height: 1.3;
+/* ── Aviso de contenido heredado (páginas hijas bloqueadas) ── */
+
+.release-gate-inherited {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  margin: 2rem 0;
+  background: #f5f7fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+}
+
+.release-gate-inherited__icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.release-gate-inherited__title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
 }

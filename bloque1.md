@@ -3,7 +3,7 @@ layout: page
 title: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 2
 has_children: true
-open_datetime: 2026-04-22T17:30:00+02:00
+release_at: 2026-04-22T17:30:00+02:00
 ---
 
 # Bloque 1 · IA Colaborativa y Gestión GVA
@@ -12,7 +12,7 @@ open_datetime: 2026-04-22T17:30:00+02:00
 Aprende a usar Microsoft Copilot como asistente integral para las tareas administrativas y organizativas del día a día en tu centro educativo.
 {: .fs-5 .fw-300 }
 
-<div class="release-gate" data-open-at="{{ page.open_datetime }}" data-block-title="{{ page.title }}">
+<div class="release-gate" data-open-at="{{ page.release_at }}" data-block-title="{{ page.title }}">
 <div class="release-gate__notice" hidden>
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 🔒 <strong>Contenido disponible próximamente</strong><br>
@@ -214,6 +214,18 @@ La IA genera un buen borrador, pero la responsabilidad final sigue siendo tuya: 
 
 </div>
 
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Accesibilidad</strong><br>
+Una vez generada el acta, puedes pedir a Copilot que extraiga solo los acuerdos en formato de lista numerada con lenguaje claro. Esa versión resumida es más fácil de consultar después —para ti, para el equipo docente y para cualquier persona que necesite acceder a la información sin tener que leer el documento completo.<br><br>
+Prueba a encadenar este microprompt justo después de generar el acta:
+
+</div>
+
+```text
+Resume esta acta en un máximo de 5 acuerdos clave, con frases cortas y formato de lista numerada.
+```
+
 ---
 
 ## 1.3 · Automatización de correos electrónicos
@@ -293,6 +305,17 @@ Cuanto mejor defines el contexto y el destinatario, mejor será el resultado.
 La IA no sustituye tu criterio como docente: lo amplifica.
 
 </div>
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Accesibilidad</strong><br>
+No todas las familias leen con la misma facilidad. Antes de enviar un correo importante, pide a Copilot que lo reformule con frases más cortas, vocabulario directo y la información esencial destacada. No se trata de simplificar el mensaje hasta perder su sentido, sino de que llegue con claridad a quien más lo necesita.
+
+</div>
+
+```text
+Reformula este correo con frases más cortas, lenguaje claro y estructura fácil de seguir para las familias.
+```
 
 ---
 
@@ -446,6 +469,13 @@ con material típico de un taller de Tecnología de Secundaria.
 
 💡 <strong>Idea clave</strong><br>
 La IA no solo te ayuda a hacer tareas más rápido, sino a crear sistemas de trabajo que puedes reutilizar a lo largo del curso.
+
+</div>
+
+<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💡 <strong>Accesibilidad</strong><br>
+Cuando generes tablas, cuadrantes o listados con Copilot, piensa en quién los va a usar después. Incluye encabezados descriptivos en cada columna, evita abreviaturas sin contexto y separa la información en bloques claros. Si vas a subir el documento a Aules, comprueba que cualquier docente del equipo pueda interpretarlo sin necesitar explicaciones adicionales. Un material bien organizado es, por definición, más accesible.
 
 </div>
 

@@ -1,119 +1,179 @@
+/**
+ * release-gates.js
+ * ────────────────
+ * Sistema global de puertas de publicación por fecha.
+ *
+ * Funciones:
+ *  1. Oculta del sidebar las páginas bloqueadas Y todos sus descendientes.
+ *  2. Alterna el contenido visible/oculto en páginas con div .release-gate.
+ *  3. Protege páginas hijas accedidas por URL directa cuyo ancestro
+ *     esté bloqueado (inyecta aviso sobre .main-content).
+ *  4. Programa un auto-refresh para el instante de la próxima apertura.
+ *
+ * Datos de entrada: window.__releasePages  (inyectado en head_custom.html)
+ *   [{ url, title, parent, releaseAt }, …]
+ *
+ * Parámetro GET  ?preview  desactiva todas las puertas (vista previa).
+ */
 (function () {
   "use strict";
 
   var preview = new URLSearchParams(window.location.search).has("preview");
+  var pages   = window.__releasePages || [];
+  var now     = new Date();
 
-  /* ── 1. Apertura del contenido de la página ── */
+  /* ═══════════════════════════════════════════════════
+     Índice de páginas por título
+     ═══════════════════════════════════════════════════ */
+  var byTitle = {};
+  pages.forEach(function (p) {
+    if (p.title) byTitle[p.title] = p;
+  });
 
+  /* ═══════════════════════════════════════════════════
+     Fecha efectiva de bloqueo (propia + heredada)
+     ═══════════════════════════════════════════════════ */
+  function effectiveDate(page, seen) {
+    if (!page) return null;
+    if (!seen) seen = {};
+    if (seen[page.title]) return null;       // evitar ciclos
+    seen[page.title] = true;
+
+    var own = page.releaseAt ? new Date(page.releaseAt) : null;
+    if (own && isNaN(own.getTime())) own = null;
+
+    var parentDate = null;
+    if (page.parent && byTitle[page.parent]) {
+      parentDate = effectiveDate(byTitle[page.parent], seen);
+    }
+
+    // Devolver la fecha más restrictiva (la más lejana)
+    if (own && parentDate) return own > parentDate ? own : parentDate;
+    return own || parentDate;
+  }
+
+  // Calcular estado de bloqueo para cada página
+  var nearestUnlock = Infinity;
+  pages.forEach(function (p) {
+    p._eff    = effectiveDate(p);
+    p._locked = !!(p._eff && now < p._eff && !preview);
+    if (p._locked && p._eff.getTime() < nearestUnlock) {
+      nearestUnlock = p._eff.getTime();
+    }
+  });
+
+  /* ═══════════════════════════════════════════════════
+     1. Ocultar páginas bloqueadas del sidebar
+     ═══════════════════════════════════════════════════ */
+  var navLinks = document.querySelectorAll(
+    ".site-nav a, .nav-list a, .navigation-list a"
+  );
+
+  pages.forEach(function (p) {
+    if (!p._locked) return;
+
+    var link = findNavLink(navLinks, p.url);
+    if (!link) return;
+
+    var li = link.closest("li");
+    if (li) li.style.display = "none";
+  });
+
+  /* ═══════════════════════════════════════════════════
+     2. Alternar divs .release-gate (contenido en página)
+     ═══════════════════════════════════════════════════ */
   document.querySelectorAll(".release-gate").forEach(function (gate) {
     var openAt = gate.getAttribute("data-open-at");
     if (!openAt) return;
 
     var openDate = new Date(openAt);
-    var now = new Date();
-    var notice = gate.querySelector(".release-gate__notice");
-    var content = gate.querySelector(".release-gate__content");
+    var notice   = gate.querySelector(".release-gate__notice");
+    var content  = gate.querySelector(".release-gate__content");
     var dateSpan = gate.querySelector(".release-gate__date");
 
     if (!notice || !content) return;
 
     if (preview || now >= openDate) {
-      notice.hidden = true;
+      notice.hidden  = true;
       content.hidden = false;
     } else {
-      notice.hidden = false;
+      notice.hidden  = false;
       content.hidden = true;
-
-      if (dateSpan) {
-        dateSpan.textContent = formatDateES(openDate);
-      }
+      if (dateSpan) dateSpan.textContent = formatDateES(openDate);
     }
   });
 
-  /* ── 2. Indicadores de bloqueo en el menú lateral ── */
-
-  var gates = window.__releaseGates;
-  if (!gates || !gates.length) return;
-
-  var now = new Date();
-
-  // Recoger todos los enlaces de navegación del sidebar
-  var navLinks = document.querySelectorAll(
-    ".site-nav a, .nav-list a, .navigation-list a"
-  );
-
-  gates.forEach(function (entry) {
-    var openDate = new Date(entry.openAt);
-    if (now >= openDate) return; // ya abierto, nada que hacer
-
-    // Buscar el enlace del sidebar cuyo href coincida
-    var link = findNavLink(navLinks, entry.url);
-    if (!link) return;
-
-    // Guardar título original y aplicar marca de bloqueo
-    var originalText = link.textContent.trim();
-    link.classList.add("is-locked");
-    link.setAttribute(
-      "title",
-      "Disponible el " + formatShortDateES(openDate)
-    );
-
-    // Construir contenido: 🔒 Título + fecha
-    link.textContent = "";
-
-    var titleSpan = document.createElement("span");
-    titleSpan.textContent = "\uD83D\uDD12 " + originalText;
-    link.appendChild(titleSpan);
-
-    var dateLine = document.createElement("span");
-    dateLine.className = "nav-lock-date";
-    dateLine.textContent = "Disponible el " + formatShortDateES(openDate);
-    link.appendChild(dateLine);
+  /* ═══════════════════════════════════════════════════
+     3. Protección de contenido por herencia
+        (páginas hijas sin .release-gate propio)
+     ═══════════════════════════════════════════════════ */
+  var currentPath = normUrl(window.location.pathname);
+  var currentPage = null;
+  pages.forEach(function (p) {
+    if (normUrl(p.url) === currentPath) currentPage = p;
   });
 
-  /* ── Helpers ── */
-
-  function formatDateES(date) {
-    var opts = {
-      day: "2-digit",
-      month: "2-digit",
-      year: "numeric",
-      hour: "2-digit",
-      minute: "2-digit",
-      timeZone: "Europe/Madrid"
-    };
-    return date.toLocaleDateString("es-ES", opts).replace(",", " a las");
+  if (currentPage && currentPage._locked) {
+    var hasGate = document.querySelector(".release-gate");
+    if (!hasGate) {
+      var main = document.querySelector(
+        ".main-content, #main-content, main .main-content-wrap"
+      );
+      if (main) {
+        var dateStr = formatDateES(currentPage._eff);
+        main.innerHTML =
+          '<div class="release-gate-inherited">' +
+            '<p class="release-gate-inherited__icon">🔒</p>' +
+            '<p class="release-gate-inherited__title">Contenido no disponible aún</p>' +
+            '<p>Este contenido se abrirá el <strong>' + dateStr + '</strong>.</p>' +
+            '<p style="margin-top:1em;opacity:.75;">Mientras tanto, ' +
+              'céntrate en completar el bloque actual.</p>' +
+          '</div>';
+      }
+    }
   }
 
-  function formatShortDateES(date) {
+  /* ═══════════════════════════════════════════════════
+     4. Auto-refresh en la próxima apertura
+     ═══════════════════════════════════════════════════ */
+  if (nearestUnlock < Infinity) {
+    var delay = nearestUnlock - now.getTime();
+    if (delay > 0 && delay < 86400000) {          // máximo 24 h
+      setTimeout(function () { window.location.reload(); }, delay + 2000);
+    }
+  }
+
+  /* ═══════════════════════════════════════════════════
+     Helpers
+     ═══════════════════════════════════════════════════ */
+  function normUrl(url) {
+    return (url || "")
+      .replace(/\/+$/, "")
+      .replace(/\.html$/, "")
+      .replace(/\/index$/, "");
+  }
+
+  function formatDateES(date) {
     return date.toLocaleDateString("es-ES", {
-      day: "2-digit",
-      month: "2-digit",
-      year: "numeric",
+      day:      "2-digit",
+      month:    "long",
+      year:     "numeric",
+      hour:     "2-digit",
+      minute:   "2-digit",
       timeZone: "Europe/Madrid"
-    });
+    }).replace(",", " a las");
   }
 
   function findNavLink(links, targetUrl) {
-    // Normaliza quitando trailing slash para comparar
-    var norm = function (url) {
-      return url.replace(/\/+$/, "").replace(/\.html$/, "");
-    };
-    var target = norm(targetUrl);
-
+    var target = normUrl(targetUrl);
     for (var i = 0; i < links.length; i++) {
       var href = links[i].getAttribute("href");
       if (!href) continue;
-      if (norm(href) === target || norm(links[i].href) === norm(window.location.origin + targetUrl)) {
-        return links[i];
-      }
-    }
-    // Fallback: buscar por pathname absoluto
-    for (var j = 0; j < links.length; j++) {
+      if (normUrl(href) === target) return links[i];
       try {
-        var linkPath = new URL(links[j].href, window.location.origin).pathname;
-        if (norm(linkPath) === target) return links[j];
-      } catch (e) { /* ignorar URLs inválidas */ }
+        var abs = new URL(links[i].href, window.location.origin).pathname;
+        if (normUrl(abs) === target) return links[i];
+      } catch (e) { /* ignorar */ }
     }
     return null;
   }
