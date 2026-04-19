@@ -11,7 +11,7 @@ Todo lo que necesitas saber sobre tu identidad digital como docente antes de com
 
 ## ¿Qué es la identidad digital?
 
-<img src="{{ '/assets/img/identidad-digital.png' | relative_url }}" alt="Esquema de identidad digital docente: usuario, contraseña, correo, perfil profesional, acceso seguro" class="page-illustration">
+<img src="{{ '/assets/img/identidad-digital.svg' | relative_url }}" alt="Esquema de identidad digital docente: usuario, contraseña, correo, perfil profesional, acceso seguro" class="page-illustration">
 
 Tu identidad digital es el conjunto de datos que te identifican en los sistemas y plataformas en línea. En el ámbito educativo, esta identidad te permite acceder de forma segura a las herramientas que utilizas en tu labor docente. Igual que en el mundo físico necesitas un DNI para identificarte, en el entorno digital utilizas un usuario y una contraseña para demostrar que eres tú.
 
