@@ -180,7 +180,7 @@ Si tienes problemas:
 
 ## Seguridad del dispositivo y cifrado
 
-<img src="{{ '/assets/img/cifrado-datos.svg' | relative_url }}" alt="Esquema de cifrado: dispositivo, disco cifrado, datos protegidos, acceso bloqueado, FileVault, BitLocker, Linux" class="page-illustration">
+<img src="{{ '/assets/img/cifrado-datos-1.png' | relative_url }}" alt="Esquema de cifrado: dispositivo, disco cifrado, datos protegidos, acceso bloqueado, FileVault, BitLocker, Linux" class="page-illustration">
 
 El cifrado protege tus datos frente a accesos físicos no autorizados. Es fundamental para salvaguardar información sensible como datos del alumnado, informes o comunicaciones.
 
