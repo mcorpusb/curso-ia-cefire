@@ -5,12 +5,6 @@ title: "Identidad digital y acceso"
 parent: Inicio
 nav_order: 0
 ---
-
----
-layout: default
-title: "Identidad digital y acceso"
-parent: Inicio
-
 # Identidad digital
 {: .fs-8 }
 
@@ -46,18 +40,17 @@ Te permite:
 
 Tu identidad digital se compone de varios elementos clave:
 
-| Componente        | Descripción                                               |
-|-------------------|----------------------------------------------------------|
-| Usuario           | Tu identificador personal (asociado a tu cuenta corporativa). |
-| Contraseña        | Clave secreta que protege tu acceso.                     |
-| Correo electrónico| Dirección @edu.gva.es como canal oficial.                |
-| Perfil profesional| Información asociada a tu puesto y centro.               |
+| Componente | Descripción |
+|------------|-------------|
+| Usuario | Tu identificador personal (asociado a tu cuenta corporativa). |
+| Contraseña | Clave secreta que protege tu acceso. |
+| Correo electrónico | Dirección @edu.gva.es como canal oficial. |
+| Perfil profesional | Información asociada a tu puesto y centro. |
 
 ---
 
 ### 🔄 Cómo funciona el acceso digital
 
-![Flujo de identidad digital]({{ '/assets/img/flujo-identidad.png' | relative_url }})
 ![Flujo de identidad digital]({{ '/assets/img/flujo-identidad.svg' | relative_url }})
 
 El proceso habitual es sencillo:
@@ -197,7 +190,6 @@ Tu cuenta es una puerta de acceso a información sensible. Si los permisos no es
 
 ### 🔴 Caso 2: Prompt injection en Copilot
 
-![Esquema de prompt injection]({{ '/assets/img/prompt-injection.png' | relative_url }})
 ![Esquema de prompt injection]({{ '/assets/img/prompt-injection.svg' | relative_url }})
 
 **Qué es**  
@@ -225,16 +217,15 @@ La IA puede confundir datos con instrucciones, generando respuestas manipuladas 
 
 ## 📊 Tabla comparativa de riesgos
 
-| Riesgo                  | Ejemplo real         | Qué puede pasar           | Qué hacer                                 |
-|-------------------------|---------------------|---------------------------|-------------------------------------------|
-| Gestión de identidad    | Lilli (McKinsey)    | Acceso indebido           | MFA + contraseñas seguras + revisar accesos |
-| Prompt injection        | Copilot             | Respuestas manipuladas    | Verificar resultados + no confiar ciegamente |
+| Riesgo | Ejemplo real | Qué puede pasar | Qué hacer |
+|--------|--------------|-----------------|-----------|
+| Gestión de identidad | Lilli (McKinsey) | Acceso indebido | MFA + contraseñas seguras + revisar accesos |
+| Prompt injection | Copilot | Respuestas manipuladas | Verificar resultados + no confiar ciegamente |
 
 ---
 
 ## 🔒 Seguridad del dispositivo y cifrado
 
-![Esquema de cifrado]({{ '/assets/img/cifrado-datos.png' | relative_url }})
 ![Esquema de cifrado]({{ '/assets/img/cifrado-datos.svg' | relative_url }})
 
 El cifrado protege tus datos frente a accesos físicos no autorizados. Es fundamental para salvaguardar información sensible como datos del alumnado, informes o comunicaciones.
@@ -268,7 +259,6 @@ Las herramientas y amenazas cambian constantemente. La tecnología ayuda, pero t
 - Aplicar buenas prácticas.
 - Usar la IA con criterio.
 
-![Uso responsable de IA]({{ '/assets/img/uso-seguro-ia.png' | relative_url }})
 ![Uso responsable de IA]({{ '/assets/img/uso-seguro-ia.svg' | relative_url }})
 
 🔑 **No necesitas ser experto/a para estar protegido/a. Tu identidad digital es tu primera línea de defensa.**
@@ -277,17 +267,41 @@ Las herramientas y amenazas cambian constantemente. La tecnología ayuda, pero t
 
 ## 🔎 Referencias y lecturas recomendadas
 
-### Lilli (McKinsey)
-- [Declaración oficial de McKinsey sobre el incidente de Lilli (marzo 2026)](https://www.mckinsey.com/es/news/lilli-security-update-2026)
+### 🔐 Seguridad e identidad digital
 
-### Copilot y seguridad en IA
-- [Microsoft Learn: privacidad y seguridad en Copilot](https://learn.microsoft.com/es-es/microsoft-365/copilot/security-privacy)
-- [Microsoft Security Blog: prompt injection y riesgos en IA](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/prompt-injection-in-ai/ba-p/XXXXXX)
-- [Guía sobre indirect prompt injection (OWASP)](https://owasp.org/www-community/attacks/Prompt_Injection)
-- [EchoLeak: investigación sobre filtrado de datos en IA](https://arxiv.org/abs/2402.00000)
-- [Reprompt: ataques indirectos a IA generativa](https://arxiv.org/abs/2401.00000)
-- [Investigaciones sobre manipulación en GitHub Copilot Chat](https://github.blog/2023-11-01-copilot-chat-security-research/)
+- INCIBE – Ciudadanía
+	https://www.incibe.es/ciudadania
 
+- Agencia Española de Protección de Datos (AEPD) – Guías
+	https://www.aepd.es/guias
+
+- NIST – AI Risk Management Framework
+	https://www.nist.gov/itl/ai-risk-management-framework
+
+### 🤖 Copilot y seguridad en IA
+
+- Microsoft Learn – Datos, privacidad y seguridad para Microsoft 365 Copilot
+	https://learn.microsoft.com/es-es/microsoft-365/copilot/microsoft-365-copilot-privacy
+
+- Microsoft Learn – Protección y privacidad de Copilot
+	https://learn.microsoft.com/es-es/copilot/privacy-and-protections
+
+- Microsoft Learn – Protección de datos empresariales
+	https://learn.microsoft.com/es-es/microsoft-365/copilot/enterprise-data-protection
+
+### ⚠️ Prompt injection y riesgos en IA
+
+- OWASP – Prompt Injection
+	https://owasp.org/www-community/attacks/PromptInjection
+
+- OWASP Top 10 for LLM Applications
+	https://owasp.org/www-project-top-10-for-large-language-model-applications/
+
+- OWASP Cheat Sheet – Prompt Injection Prevention
+	https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html
+
+- NIST – Generative AI Profile
+	https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
 ---
 
 ## 🧠 Mensaje final
