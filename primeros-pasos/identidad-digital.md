@@ -11,7 +11,7 @@ Todo lo que necesitas saber sobre tu identidad digital como docente antes de com
 
 ## ¿Qué es la identidad digital?
 
-<img src="{{ '/assets/img/identidad-digital.svg' | relative_url }}" alt="Esquema de identidad digital docente: usuario, contraseña, correo, perfil profesional, acceso seguro" class="page-illustration">
+![Esquema de identidad digital docente: usuario, contraseña, correo, perfil profesional, acceso seguro]({{ '/assets/img/identidad-digital.svg' | relative_url }})
 
 Tu identidad digital es el conjunto de datos que te identifican en los sistemas y plataformas en línea. En el ámbito educativo, esta identidad te permite acceder de forma segura a las herramientas que utilizas en tu labor docente. Igual que en el mundo físico necesitas un DNI para identificarte, en el entorno digital utilizas un usuario y una contraseña para demostrar que eres tú.
 
@@ -38,7 +38,7 @@ Tu identidad digital se compone de varios elementos clave:
 
 ## Cómo funciona el acceso digital
 
-<img src="{{ '/assets/img/flujo-identidad.svg' | relative_url }}" alt="Flujo de acceso digital: usuario, verificación, MFA, acceso, protección de datos" class="page-illustration">
+![Flujo de acceso digital: usuario, verificación, MFA, acceso, protección de datos]({{ '/assets/img/flujo-identidad.svg' | relative_url }})
 
 El proceso habitual es sencillo:
 
@@ -151,7 +151,7 @@ Si tienes problemas:
 
 ### Caso 2: Prompt injection en Copilot
 
-<img src="{{ '/assets/img/prompt-injection.svg' | relative_url }}" alt="Esquema de prompt injection: entrada externa, instrucciones ocultas, IA, manipulación, revisión humana" class="page-illustration">
+![Esquema de prompt injection: entrada externa, instrucciones ocultas, IA, manipulación, revisión humana]({{ '/assets/img/prompt-injection.svg' | relative_url }})
 
 **Qué es**: una técnica en la que se introducen instrucciones ocultas en textos, documentos o contenidos que la IA interpreta como órdenes válidas.  
 **Qué es la inyección indirecta**: ocurre cuando la IA recibe instrucciones camufladas en documentos, páginas web, correos, nombres de archivo o cualquier contenido externo.
@@ -180,7 +180,7 @@ Si tienes problemas:
 
 ## Seguridad del dispositivo y cifrado
 
-<img src="{{ '/assets/img/cifrado-datos-1.png' | relative_url }}" alt="Esquema de cifrado: dispositivo, disco cifrado, datos protegidos, acceso bloqueado, FileVault, BitLocker, Linux" class="page-illustration">
+![Esquema de cifrado: dispositivo, disco cifrado, datos protegidos, acceso bloqueado, FileVault, BitLocker, Linux]({{ '/assets/img/cifrado-datos-1.png' | relative_url }})
 
 El cifrado protege tus datos frente a accesos físicos no autorizados. Es fundamental para salvaguardar información sensible como datos del alumnado, informes o comunicaciones.
 
@@ -207,7 +207,7 @@ Las herramientas y amenazas cambian constantemente. La tecnología ayuda, pero t
 - Aplicar buenas prácticas.
 - Usar la IA con criterio.
 
-<img src="{{ '/assets/img/uso-seguro-ia.svg' | relative_url }}" alt="Checklist de uso seguro de IA: no datos sensibles, anonimizar, verificar, criterio profesional" class="page-illustration">
+![Checklist de uso seguro de IA: no datos sensibles, anonimizar, verificar, criterio profesional]({{ '/assets/img/uso-seguro-ia.svg' | relative_url }})
 
 🔑 **No necesitas ser experto/a para estar protegido/a. Tu identidad digital es tu primera línea de defensa.**
 
