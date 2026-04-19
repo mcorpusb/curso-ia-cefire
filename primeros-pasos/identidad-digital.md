@@ -1,3 +1,11 @@
+#
+---
+layout: default
+title: "Identidad digital y acceso"
+parent: Inicio
+nav_order: 0
+---
+
 ---
 layout: default
 title: "Identidad digital y acceso"
@@ -50,6 +58,7 @@ Tu identidad digital se compone de varios elementos clave:
 ### 🔄 Cómo funciona el acceso digital
 
 ![Flujo de identidad digital]({{ '/assets/img/flujo-identidad.png' | relative_url }})
+![Flujo de identidad digital]({{ '/assets/img/flujo-identidad.svg' | relative_url }})
 
 El proceso habitual es sencillo:
 
@@ -189,6 +198,7 @@ Tu cuenta es una puerta de acceso a información sensible. Si los permisos no es
 ### 🔴 Caso 2: Prompt injection en Copilot
 
 ![Esquema de prompt injection]({{ '/assets/img/prompt-injection.png' | relative_url }})
+![Esquema de prompt injection]({{ '/assets/img/prompt-injection.svg' | relative_url }})
 
 **Qué es**  
 El prompt injection es una técnica en la que se introducen instrucciones ocultas en textos, documentos o contenidos que la IA interpreta como órdenes válidas.
@@ -225,6 +235,7 @@ La IA puede confundir datos con instrucciones, generando respuestas manipuladas 
 ## 🔒 Seguridad del dispositivo y cifrado
 
 ![Esquema de cifrado]({{ '/assets/img/cifrado-datos.png' | relative_url }})
+![Esquema de cifrado]({{ '/assets/img/cifrado-datos.svg' | relative_url }})
 
 El cifrado protege tus datos frente a accesos físicos no autorizados. Es fundamental para salvaguardar información sensible como datos del alumnado, informes o comunicaciones.
 
@@ -258,6 +269,7 @@ Las herramientas y amenazas cambian constantemente. La tecnología ayuda, pero t
 - Usar la IA con criterio.
 
 ![Uso responsable de IA]({{ '/assets/img/uso-seguro-ia.png' | relative_url }})
+![Uso responsable de IA]({{ '/assets/img/uso-seguro-ia.svg' | relative_url }})
 
 🔑 **No necesitas ser experto/a para estar protegido/a. Tu identidad digital es tu primera línea de defensa.**
 

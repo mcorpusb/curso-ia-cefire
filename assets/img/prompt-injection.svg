@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#333">
+  <rect x="100" y="100" width="400" height="80" rx="20" fill="#E3F2FD" stroke="#1976D2" stroke-width="3"/>
+  <text x="300" y="155" text-anchor="middle">📄 Documento / web / correo externo</text>
+  <line x1="300" y1="180" x2="300" y2="240" stroke="#1976D2" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <rect x="100" y="240" width="400" height="80" rx="20" fill="#FFF3E0" stroke="#F57C00" stroke-width="3"/>
+  <text x="300" y="295" text-anchor="middle">Puede contener instrucciones ocultas</text>
+  <line x1="300" y1="320" x2="300" y2="380" stroke="#F57C00" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <rect x="100" y="380" width="400" height="80" rx="20" fill="#E8F5E9" stroke="#388E3C" stroke-width="3"/>
+  <text x="300" y="435" text-anchor="middle">🤖 La IA las interpreta como válidas</text>
+  <line x1="300" y1="460" x2="300" y2="520" stroke="#388E3C" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <rect x="100" y="520" width="400" height="80" rx="20" fill="#F3E5F5" stroke="#8E24AA" stroke-width="3"/>
+  <text x="300" y="575" text-anchor="middle">⚠️ Resultado alterado / fuga de contexto</text>
+
+  <rect x="600" y="700" width="900" height="70" rx="20" fill="#FFFDE7" stroke="#FBC02D" stroke-width="2"/>
+  <text x="1050" y="745" text-anchor="middle" fill="#FBC02D" font-size="32">La IA no siempre distingue entre datos e instrucciones</text>
+</g>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,10 L10,5 z" fill="#1976D2" />
+  </marker>
+</defs>
+</svg>
