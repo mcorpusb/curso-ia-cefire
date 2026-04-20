@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; display:block; margin-bottom:20px; border-radius:10px;">
+<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; display:block; margin:0 0 1.5rem 0; border-radius:10px;">
 
 
 
@@ -53,7 +53,7 @@ Parte del uso responsable consiste en decidir cuándo aporta valor… y cuándo 
 
 ## 📅 Calendario de sesiones síncronas
 
-Todas las sesiones se realizan en horario de **17:30 h a 20:00 h** a través de la sala virtual del curso en Aules.
+Todas las sesiones se realizan en horario de **17:30 h a 19:30 h** a través de la sala virtual del curso en Aules.
 
 | Sesión | Fecha | Bloque | Contenido clave |
 |:------:|:-----:|:------:|:----------------|
