@@ -12,16 +12,6 @@ release_at: 2026-04-20T14:00:00+02:00
 Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a "entrenar" a la IA con el currículo oficial usando NotebookLM.
 {: .fs-5 .fw-300 }
 
-<div class="release-gate" data-open-at="{{ page.release_at }}" data-block-title="{{ page.title }}">
-<div class="release-gate__notice" hidden>
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-🔒 <strong>Contenido disponible próximamente</strong><br>
-Este bloque se abrirá el <span class="release-gate__date"></span>.
-Mientras tanto, céntrate en completar el bloque actual.
-</div>
-<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
-</div>
-<div class="release-gate__content">
 
 ---
 
