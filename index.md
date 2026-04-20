@@ -8,7 +8,7 @@ has_children: true
 # 🎓 Herramientas de IA Generativa para Docentes
 {: .fs-9 }
 
-**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 30h (24h en línea + 8h síncronas)
+**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 32h (24h en línea + 8h síncronas)
 {: .fs-5 .fw-300 }
 
 <p style="text-align: center; margin: 30px 0;">
