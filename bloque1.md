@@ -167,6 +167,22 @@ Redactar un acta de claustro, de CCP o de equipo docente es una tarea repetitiva
 ### Versión básica para empezar
 
 ```text
+Actúa como [ROL DOCENTE] de un centro educativo de la Comunitat Valenciana.
+
+Contexto: Hemos celebrado una reunión de [TIPO DE REUNIÓN] y necesito ordenar la información principal.
+
+Tarea: Redacta un acta breve, clara y bien estructurada con los puntos tratados, los acuerdos adoptados y un cierre final.
+
+Ajusta el resultado según el rol:
+
+- secretario/a → tono formal y formato administrativo completo;
+- jefe/a de departamento → énfasis en acuerdos didácticos y coordinación;
+- tutor/a → tono más cercano y claridad para familias o alumnado.
+```
+
+### Por ejemplo: 
+
+```text
 Actúa como secretario/a de un centro educativo.
 
 Contexto: Hemos celebrado una reunión de claustro y necesito ordenar la información principal.
@@ -174,7 +190,35 @@ Contexto: Hemos celebrado una reunión de claustro y necesito ordenar la informa
 Tarea: Redacta un acta breve, formal y clara con los puntos tratados, los acuerdos adoptados y un cierre final.
 ```
 
+
 ### Versión ampliada del prompt
+
+```text
+Actúa como [ROL DOCENTE] de un centro público de la Comunitat Valenciana.
+
+Contexto: Se ha celebrado una reunión de [TIPO DE REUNIÓN] el [FECHA] a las [HORA].  
+Asistentes: [NÚMERO / DETALLE].  
+Puntos del orden del día que se han tratado:
+1. …
+2. …
+3. …
+
+Tarea: Redacta un acta completa con el formato habitual de un centro educativo, incluyendo:
+- encabezado (centro, fecha, hora inicio/fin, asistentes),
+- desarrollo de cada punto,
+- acuerdos adoptados,
+- y cierre final.
+
+Ajusta el resultado según el rol:
+- secretario/a → formato formal completo y registro administrativo;
+- jefe/a de departamento → énfasis en acuerdos didácticos, coordinación y decisiones pedagógicas;
+- tutor/a → claridad, tono cercano y utilidad para familias o alumnado.
+
+Tono: adecuado al contexto del rol.
+```
+
+
+### Por ejemplo: 
 
 ```text
 Actúa como el secretario/a de un centro público de Educación Primaria de la
