@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad F.P."
+title: "Actividad · F.P."
 parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 13
 ---
