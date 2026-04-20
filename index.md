@@ -8,8 +8,6 @@ has_children: true
 <img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; display:block; margin-bottom:20px; border-radius:10px;">
 
 
-**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 32h (24h en línea + 8h síncronas)
-{: .fs-5 .fw-300 }
 
 <p style="text-align: center; margin: 30px 0;">
  <!-- <img src="{{ '/assets/img/portada-curso-ia-docentes.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700"> -->
