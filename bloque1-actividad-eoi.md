@@ -2,7 +2,7 @@
 layout: page
 title: Actividad · EOI
 parent: "Bloque 1: IA Colaborativa y Gestión GVA"
-nav_order: 6
+nav_order: 14
 ---
 
 # Actividad · Escuela Oficial de Idiomas
