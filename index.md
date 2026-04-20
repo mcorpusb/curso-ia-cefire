@@ -93,7 +93,7 @@ Para aprovechar el curso desde el primer día, sigue estos pasos:
 - **No puedes acceder** → contacta con el SAI de tu centro.
 - **Alternativa temporal** → usa [Gemini](https://gemini.google.com/) con una cuenta personal.
 
-## 🧪 Tarea 0 · Tu primera interacción con la IA
+## 🧪 Tu primera interacción con la IA
 
 Antes de la primera sesión, realiza esta pequeña prueba.
 
@@ -118,14 +118,6 @@ Guarda el resultado: lo utilizaremos en la primera sesión para mejorar la calid
 > Durante el curso aprenderás a dar instrucciones claras a la IA para obtener respuestas más útiles y adaptadas a tu práctica docente.
 
 ---
-
-## ▶️ Siguiente paso
-
-Ya puedes:
-
-- **Acceder a Aules**
-- **Completar la Tarea 0**
-- **Prepararte para la primera sesión**
 
 Nos vemos en la primera sesión.
 
