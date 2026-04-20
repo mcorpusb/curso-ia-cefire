@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "♿ IA para accesibilidad e inclusión"
-nav_order: 6
+nav_order: 7
 ---
 
 ## ♿ IA para accesibilidad e inclusión en el aula
