@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad Bloque 1 · Secundaria"
+title: "Actividad · Secundaria"
 parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 12
 ---
