@@ -1,126 +1,101 @@
 ---
 layout: page
-title: Actividad · EOI
+title: "Actividad Bloque 1 · EOI"
 parent: "Bloque 1: IA Colaborativa y Gestión GVA"
-nav_order: 14
+nav_order: 12
 ---
 
-# Actividad · Escuela Oficial de Idiomas
+
+# Secuencia comunicativa multinivel con Copilot
 {: .fs-7 }
 
-Diseña una tarea comunicativa con rúbrica de evaluación alineada con el currículo de EOI y los descriptores del MCER, con ayuda de Copilot. 
+Diseña y aplica una secuencia comunicativa auténtica adaptada a la EOI, con tres itinerarios de apoyo, usando Microsoft Copilot como herramienta de andamiaje y personalización inmediata.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar Microsoft Copilot para diseñar una tarea o secuencia comunicativa completa para una unidad didáctica real de la Escuela Oficial de Idiomas, incluyendo una rúbrica de evaluación con criterios, indicadores de logro y niveles de desempeño ajustados al nivel del MCER y a las actividades de lengua trabajadas
+Crear y adaptar una secuencia comunicativa realista para el aula de EOI, integrando comprensión, producción, interacción y mediación, con tres niveles de apoyo y aprovechando Copilot para personalizar materiales y andamiaje lingüístico según el MCER/MCERL.
 
 ---
 
 ## 🧠 Situación real de aula
 
-Eres docente de una Escuela Oficial de Idiomas y estás preparando una unidad o secuencia didáctica para uno de tus grupos. Necesitas diseñar:
-
-Una tarea comunicativa auténtica que conecte el aprendizaje con una situación real o verosímil de uso de la lengua.
-Una rúbrica de evaluación con 4 niveles de desempeño, alineada con los descriptores del MCER/MCERL, los criterios de evaluación propios de las enseñanzas de idiomas de régimen especial y la normativa aplicable en la Comunitat Valenciana.
-
-Diseñar ambos elementos desde cero —tarea comunicativa bien contextualizada + rúbrica coherente y utilizable— suele llevar entre 1 y 2 horas. Con Copilot puedes obtener un borrador sólido en 15-20 minutos y dedicar el resto del tiempo a adaptarlo al idioma, al nivel real del grupo y a tu programación.
+Eres docente de EOI y necesitas una actividad comunicativa auténtica, adaptable a distintos niveles (A2, B1, B2…), que fomente el uso real de la lengua y permita la participación de todo el alumnado. Buscas una secuencia flexible, con apoyos diferenciados, que puedas aplicar y ajustar en tu aula, integrando comprensión, producción, interacción y mediación, y que sea viable en el contexto de enseñanzas de idiomas de régimen especial.
 
 ---
 
 ## ⚙️ Qué vas a hacer
 
-- Accede a Copilot con tu cuenta @edu.gva.es (o utiliza otra herramienta sin datos sensibles).
-- Elige una situación comunicativa relevante (viaje, gestión de problemas, conversación social…).
-- Define el nivel del grupo (A2, B1, B2…).
-- Completa el prompt con tu contexto real.
-- Genera la propuesta de actividad.
-- Revisa el resultado: ¿es realista?, ¿es adecuada al nivel?, ¿fomenta interacción real?
-- Ajusta mediante iteración.
-- Guarda la actividad final para aplicarla en el aula.
+- Accederás a Copilot y le pedirás una secuencia comunicativa auténtica para EOI, indicando nivel y contexto.
+- Recibirás una propuesta base y tres itinerarios: apoyo, estándar y ampliación.
+- Adaptarás la secuencia a tu grupo, ajustando apoyos y retos según el nivel MCER.
+- Aplicarás la actividad en el aula, observando la participación y el uso real de la lengua.
+- Iterarás la propuesta con Copilot para mejorarla o adaptarla a otros contextos.
 
 ---
 
 ## 💬 Prompt listo para usar
 
 ```text
-Actúa como un profesor/a de Escuela Oficial de Idiomas especialista en 
-enseñanza comunicativa y práctica de interacción oral.
+Actúa como docente de Escuela Oficial de Idiomas. Necesito una secuencia comunicativa auténtica para el aula, adaptada a nivel [A2/B1/B2] y centrada en [SITUACIÓN: gestión de reservas, reclamaciones, entrevistas, etc.].
 
-Contexto: Tengo un grupo de nivel [A2/B1/B2] y quiero trabajar una 
-situación comunicativa sobre [SITUACIÓN: viajar, resolver un problema, 
-entrevista, conversación social…].
+Genera:
+1. Descripción breve de la situación comunicativa (contexto realista y relevante para EOI).
+2. Secuencia de actividades que integre comprensión, producción, interacción y mediación.
+3. Tres itinerarios diferenciados:
+	- Itinerario de apoyo: con andamiaje lingüístico, ejemplos y frases clave.
+	- Itinerario estándar: desarrollo habitual, con apoyo moderado.
+	- Itinerario de ampliación: reto extra, mayor autonomía y creatividad.
+4. Sugerencias para adaptar la secuencia a distintos niveles MCER.
+5. Indicaciones para observar la participación y el uso real de la lengua.
 
-Tarea: Diseña una actividad de interacción oral simulada que incluya:
-
-1. Descripción de la situación comunicativa (contexto realista).
-2. Roles del alumnado (quién es cada participante).
-3. Objetivo de la interacción (qué deben conseguir).
-4. Desarrollo paso a paso de la actividad.
-5. Ejemplos de inicio de conversación.
-6. Posibles imprevistos o giros en la interacción.
-7. Recomendaciones lingüísticas (vocabulario o estructuras clave).
-8. Criterios para observar y evaluar la interacción oral.
-
-Nivel: adapta el lenguaje y la complejidad al nivel indicado.
-
-Formato: texto claro, estructurado y listo para aplicar en el aula.
-
+Formato: texto claro, estructurado y aplicable directamente en el aula EOI.
 ```
 
-🧪 Qué debes observar en la respuesta
-Actividad
-¿La situación es realista y significativa para el alumnado?
-¿La interacción exige reaccionar y no solo repetir estructuras?
-¿Los imprevistos generan negociación de significado?
-¿El nivel lingüístico es adecuado?
-Uso de IA
-¿La IA actúa como interlocutor realista?
-¿Permite variabilidad en las respuestas?
-🔄 Mejora del resultado (iteración guiada)
+
+## 🧪 Qué debes observar en la respuesta
+
+- ¿La situación es realista y relevante para el contexto EOI?
+- ¿La secuencia permite la participación de todo el alumnado, con apoyos diferenciados?
+- ¿Se integran comprensión, producción, interacción y mediación?
+- ¿El andamiaje lingüístico es suficiente para los niveles más bajos?
+- ¿El itinerario de ampliación supone un reto realista?
+- ¿La propuesta es viable y aplicable en tu aula?
+
+## 🔄 Mejora del resultado (iteración guiada)
 
 ```text
-Haz la interacción más compleja incluyendo malentendidos o cambios de situación.
-
-Simplifica la actividad para nivel A2 con apoyo lingüístico (frases guía).
-
-Añade una versión para trabajo en parejas sin uso de IA.
-
-Incluye una checklist de autoevaluación para el alumnado.
-
-Genera una variante centrada en mediación lingüística.
-
+Haz que Copilot adapte la secuencia para:
+- Añadir más andamiaje lingüístico en el itinerario de apoyo.
+- Proponer variantes para grupos multinivel.
+- Incluir tareas de mediación (resumir, traducir, explicar a terceros).
+- Generar ejemplos de frases útiles para cada itinerario.
+- Sugerir actividades de cierre o transferencia a la vida real.
 ```
-📦 Entregable
 
-Un documento Word (.docx) con:
+## 📦 Entregable
 
-la actividad de interacción oral completa;
-el prompt utilizado (adaptado a tu contexto);
-una breve reflexión (5-6 líneas) sobre:
-cómo ha respondido la IA;
-qué has tenido que ajustar;
-y cómo aplicarías la actividad en tu aula.
-💡 Aplicación inmediata
-En clase: utiliza la simulación como actividad de práctica oral.
-Después: repite la actividad sin IA para fomentar la espontaneidad.
-Evaluación: usa los criterios generados para dar feedback.
-Futuro: reutiliza el prompt cambiando la situación y el nivel.
+Un documento breve (Word, PDF o similar) que incluya:
+- La secuencia comunicativa adaptada y lista para aplicar.
+- El prompt utilizado (ajustado a tu contexto y nivel).
+- Una nota personal sobre cómo has adaptado los itinerarios y el andamiaje para tu grupo.
 
-🚀 Variante rápida (opcional)
+## 💡 Aplicación inmediata
+
+- Aplica la secuencia en clase, eligiendo el itinerario más adecuado para cada estudiante o grupo.
+- Usa Copilot para adaptar rápidamente la actividad a otros niveles, lenguas o situaciones.
+- Observa la participación y ajusta el andamiaje según la respuesta del alumnado.
+- Fomenta la reflexión sobre el uso real de la lengua y la transferencia fuera del aula.
+
+## 🚀 Variante rápida (opcional)
 
 ```text
-Adapta la actividad para incluir mediación lingüística entre dos lenguas 
-(por ejemplo, inglés-español o francés-español), incluyendo tareas de 
-traducción funcional y reformulación.
+Pide a Copilot una variante de la secuencia centrada en mediación lingüística (por ejemplo, explicar información a un tercero, traducir instrucciones, resumir un texto para otra persona, etc.).
 ```
 
-💡 Idea clave
-
-La IA no sustituye la interacción real, pero puede multiplicar las oportunidades de práctica.
-
-En EOI, su valor está en simular situaciones comunicativas que luego se transfieren al aula.
+<p class="fs-2 fw-300">
+Material elaborado en el marco del proyecto de formación en IA educativa de la Conselleria d'Educació, Universitats i Ocupació (GVA). Uso docente libre y adaptativo.</p>
 
 
