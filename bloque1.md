@@ -9,7 +9,7 @@ release_at: 2026-04-20T14:00:00+02:00
 # Bloque 1 · IA Colaborativa y Gestión GVA
 {: .fs-8 }
 
-Aprende a usar Microsoft Copilot como asistente integral para las tareas administrativas y organizativas del día a día en tu centro educativo.
+Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a "entrenar" a la IA con el currículo oficial usando NotebookLM.
 {: .fs-5 .fw-300 }
 
 <div class="release-gate" data-open-at="{{ page.release_at }}" data-block-title="{{ page.title }}">
@@ -19,16 +19,16 @@ Aprende a usar Microsoft Copilot como asistente integral para las tareas adminis
 Este bloque se abrirá el <span class="release-gate__date"></span>.
 Mientras tanto, céntrate en completar el bloque actual.
 </div>
-   <p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
+<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
 </div>
 <div class="release-gate__content">
+
+---
 
 
 💡 <strong>Qué te llevas de este bloque</strong><br>
 En esta primera semana vas a comprobar que la IA puede ayudarte en tareas muy concretas de tu día a día: redactar documentos, organizar información y comunicarte mejor.  
 La meta no es dominar una herramienta, sino empezar a usarla con sentido y utilidad real.
-
-
 
 Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
 
@@ -714,6 +714,7 @@ Si quieres llevar la IA directamente a tu práctica diaria, puedes probar estas 
 - [Actividad Infantil](bloque1-actividad-infantil.html)
 - [Actividad Primaria](bloque1-actividad-primaria.html)
 - [Actividad Secundaria](bloque1-actividad-secundaria.html)
+- [Actividad EOI](bloque1-actividad-eoi.html)
 - [Actividad Formación Profesional](bloque1-actividad-fp.html)
 
 ---
@@ -762,6 +763,8 @@ Antes de pasar al Bloque 2, comprueba si puedes responder **sí** a estas pregun
 💡 <strong>¿Estás listo/a para el siguiente bloque?</strong><br>
 Si puedes responder "sí" a la mayoría de los puntos, ya tienes una base sólida para continuar.  
 No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA en tu práctica real.
+
+</div>
 
 </div>
 </div>
