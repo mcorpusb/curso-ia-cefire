@@ -4,6 +4,7 @@ title: Inicio
 nav_order: 1
 has_children: true
 ---
+ <img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700"> 
 
 # 🎓 Herramientas de IA Generativa para Docentes
 {: .fs-9 }
@@ -12,7 +13,7 @@ has_children: true
 {: .fs-5 .fw-300 }
 
 <p style="text-align: center; margin: 30px 0;">
-  <img src="{{ '/assets/img/portada-curso-ia-docentes.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700">
+ <!-- <img src="{{ '/assets/img/portada-curso-ia-docentes.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700"> -->
 </p>
 
 ---
