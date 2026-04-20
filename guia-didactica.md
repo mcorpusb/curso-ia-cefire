@@ -135,7 +135,8 @@ Cada bloque sigue el mismo ciclo: ver cómo se hace → hacerlo tú → comparar
 | Sesiones síncronas (a través de Aules) | 8 h |
 | **Total** | **32 h** |
 
-### Distribución por bloques  > >  
+### Calendario de sesiones síncronas
+  > >  
 
 | Bloque | Título | Sesión síncrona | Fecha | Horario | Horas síncronas | Horas en línea | Total bloque |
 |:------:|:-------|:---------------:|:-----:|:-------:|:---------------:|:--------------:|:------------:|
