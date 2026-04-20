@@ -28,7 +28,6 @@ Mientras tanto, céntrate en completar el bloque actual.
 En esta primera semana vas a comprobar que la IA puede ayudarte en tareas muy concretas de tu día a día: redactar documentos, organizar información y comunicarte mejor.  
 La meta no es dominar una herramienta, sino empezar a usarla con sentido y utilidad real.
 
-</div>
 
 
 Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
@@ -765,6 +764,7 @@ Si puedes responder "sí" a la mayoría de los puntos, ya tienes una base sólid
 No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA en tu práctica real.
 
 </div>
+</div>
 
 ---
 
@@ -772,5 +772,4 @@ No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA
 Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
-</div>
-</div>
+
