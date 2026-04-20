@@ -8,34 +8,25 @@ nav_order: 6
 # Actividad · Escuela Oficial de Idiomas
 {: .fs-7 }
 
-Diseña una actividad de interacción oral simulada con apoyo de IA para desarrollar la competencia comunicativa en el aula de EOI.  
+Diseña una tarea comunicativa con rúbrica de evaluación alineada con el currículo de EOI y los descriptores del MCER, con ayuda de Copilot. 
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar herramientas de IA (Copilot u otras) para diseñar una **actividad de interacción oral simulada**, basada en situaciones reales, que permita al alumnado:
-
-- desarrollar la fluidez y la adecuación lingüística;
-- practicar la negociación de significado;
-- adaptarse a imprevistos comunicativos;
-- y reflexionar sobre su producción oral.
+Utilizar Microsoft Copilot para diseñar una tarea o secuencia comunicativa completa para una unidad didáctica real de la Escuela Oficial de Idiomas, incluyendo una rúbrica de evaluación con criterios, indicadores de logro y niveles de desempeño ajustados al nivel del MCER y a las actividades de lengua trabajadas
 
 ---
 
 ## 🧠 Situación real de aula
 
-Eres profesor/a de una Escuela Oficial de Idiomas y estás preparando una sesión de práctica oral para tu grupo de nivel [A2/B1/B2].
+Eres docente de una Escuela Oficial de Idiomas y estás preparando una unidad o secuencia didáctica para uno de tus grupos. Necesitas diseñar:
 
-Necesitas:
+Una tarea comunicativa auténtica que conecte el aprendizaje con una situación real o verosímil de uso de la lengua.
+Una rúbrica de evaluación con 4 niveles de desempeño, alineada con los descriptores del MCER/MCERL, los criterios de evaluación propios de las enseñanzas de idiomas de régimen especial y la normativa aplicable en la Comunitat Valenciana.
 
-- una situación comunicativa realista y significativa;
-- una simulación guiada donde el alumnado interactúe (con IA o entre iguales);
-- criterios claros para observar y valorar la interacción oral.
-
-Diseñar este tipo de actividad desde cero requiere tiempo.  
-Con IA puedes generar un primer diseño en pocos minutos y centrarte en adaptarlo a tu grupo.
+Diseñar ambos elementos desde cero —tarea comunicativa bien contextualizada + rúbrica coherente y utilizable— suele llevar entre 1 y 2 horas. Con Copilot puedes obtener un borrador sólido en 15-20 minutos y dedicar el resto del tiempo a adaptarlo al idioma, al nivel real del grupo y a tu programación.
 
 ---
 
