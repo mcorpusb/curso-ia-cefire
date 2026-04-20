@@ -62,9 +62,6 @@ Todas las sesiones se realizan en horario de **17:30 h a 19:30 h** a través de 
 | 3 | **06/05/2026** | Bloque 3 | Generación Multimodal: presentaciones, cómics, audio y vídeo educativo |
 | 4 | **13/05/2026** | Bloque 4 | Evaluación y Personalización: rúbricas LOMLOE, adaptaciones y ética |
 
----
-
-> Puedes acceder a cada bloque del curso desde el menú superior.
 
 ---
 
