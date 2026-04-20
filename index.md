@@ -4,8 +4,11 @@ title: Inicio
 nav_order: 1
 has_children: true
 ---
+<br>
 
-<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; display:block; margin:0 0 1.5rem 0; border-radius:10px;">
+<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; max-width:100%; display:block; margin:0 0 1.5rem 0;">
+
+**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Duración:** 32 horas
 
 
 
