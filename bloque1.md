@@ -9,7 +9,7 @@ release_at: 2026-04-20T14:00:00+02:00
 # Bloque 1 · IA Colaborativa y Gestión GVA
 {: .fs-8 }
 
-Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a "entrenar" a la IA con el currículo oficial usando NotebookLM.
+Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
 {: .fs-5 .fw-300 }
 
 
