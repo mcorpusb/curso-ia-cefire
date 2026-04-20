@@ -291,6 +291,23 @@ Un docente envía cada semana numerosos correos: avisos a familias, coordinació
 ### Versión básica para empezar
 
 ```text
+Actúa como [ROL DOCENTE] de un centro educativo de la Comunitat Valenciana.
+
+Contexto: Necesito informar a [DESTINATARIO] sobre una [TIPO DE COMUNICACIÓN].
+
+Tarea: Redacta un correo claro, bien estructurado y adecuado al contexto, incluyendo la información esencial y, si procede, plazos o instrucciones de respuesta.
+
+Ajusta el resultado según el rol:
+- tutor/a → tono cercano y comprensible para familias o alumnado;
+- jefe/a de departamento → tono profesional centrado en coordinación docente;
+- equipo directivo → tono institucional y formal.
+
+Tono: adecuado al destinatario y al contexto.
+```
+
+### Por ejemplo: 
+
+```text
 Actúa como tutor/a de un grupo de Secundaria.
 
 Contexto: Necesito informar a las familias sobre una actividad complementaria.
