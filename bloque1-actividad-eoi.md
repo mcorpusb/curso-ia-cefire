@@ -5,160 +5,131 @@ parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 6
 ---
 
-# Actividad: Simulación de interacción oral con apoyo de IA en la EOI
+# Actividad · Escuela Oficial de Idiomas
+{: .fs-7 }
 
-## Contexto
-
-En el contexto de la Escuela Oficial de Idiomas, el desarrollo de la competencia comunicativa requiere situaciones de práctica realista donde el alumnado pueda interactuar, negociar significado y adaptar su discurso a distintos contextos.
-
-La IA generativa permite crear escenarios comunicativos simulados que complementan la interacción en el aula, facilitando la práctica autónoma y la personalización del aprendizaje.
+Diseña una actividad de interacción oral simulada con apoyo de IA para desarrollar la competencia comunicativa en el aula de EOI.  
+{: .fs-5 .fw-300 }
 
 ---
 
-## Objetivo de la actividad
+## 🎯 Objetivo
 
-Diseñar y aplicar una actividad de **interacción oral simulada** en la que el alumnado utilice herramientas de IA como apoyo para:
+Utilizar herramientas de IA (Copilot u otras) para diseñar una **actividad de interacción oral simulada**, basada en situaciones reales, que permita al alumnado:
 
-- practicar situaciones comunicativas reales,
-- mejorar la fluidez y la adecuación lingüística,
-- desarrollar estrategias de interacción,
-- y reflexionar sobre el uso de la lengua.
-
----
-
-## Propuesta de tarea
-
-El alumnado participa en una **simulación de situación comunicativa realista**, utilizando la IA como interlocutor o generador de escenarios.
-
-Ejemplos de situaciones:
-- reservar un alojamiento en el extranjero,
-- resolver un problema en un servicio (hotel, transporte, restaurante),
-- participar en una entrevista informal,
-- gestionar una incidencia administrativa,
-- o mantener una conversación social en un contexto intercultural.
+- desarrollar la fluidez y la adecuación lingüística;
+- practicar la negociación de significado;
+- adaptarse a imprevistos comunicativos;
+- y reflexionar sobre su producción oral.
 
 ---
 
-## Desarrollo de la actividad
+## 🧠 Situación real de aula
 
-### 1. Activación y contextualización
+Eres profesor/a de una Escuela Oficial de Idiomas y estás preparando una sesión de práctica oral para tu grupo de nivel [A2/B1/B2].
 
-El profesorado:
-- presenta la situación comunicativa,
-- activa conocimientos previos (vocabulario, funciones comunicativas),
-- y establece los objetivos de la interacción.
+Necesitas:
 
----
+- una situación comunicativa realista y significativa;
+- una simulación guiada donde el alumnado interactúe (con IA o entre iguales);
+- criterios claros para observar y valorar la interacción oral.
 
-### 2. Preparación guiada
-
-El alumnado:
-- define el contexto (rol, situación, objetivo),
-- anticipa posibles respuestas,
-- y prepara expresiones clave.
-
-Se puede utilizar IA para:
-- generar ejemplos de diálogo,
-- proponer vocabulario relevante,
-- o reformular estructuras.
+Diseñar este tipo de actividad desde cero requiere tiempo.  
+Con IA puedes generar un primer diseño en pocos minutos y centrarte en adaptarlo a tu grupo.
 
 ---
 
-### 3. Interacción simulada con IA
+## ⚙️ Qué vas a hacer
 
-El alumnado interactúa con la IA mediante prompts como:
-
-> “Actúa como recepcionista de hotel. Estoy intentando hacer una reserva y tengo un problema con las fechas. Respóndeme en inglés nivel B1.”
-
-Durante esta fase:
-- el alumnado formula preguntas,
-- responde a imprevistos,
-- y adapta su discurso.
-
----
-
-### 4. Producción oral en el aula
-
-Tras la práctica con IA:
-- se realizan simulaciones en parejas o grupos,
-- se recrea la situación comunicativa sin apoyo de la IA,
-- y se fomenta la espontaneidad.
+- Accede a Copilot con tu cuenta @edu.gva.es (o utiliza otra herramienta sin datos sensibles).
+- Elige una situación comunicativa relevante (viaje, gestión de problemas, conversación social…).
+- Define el nivel del grupo (A2, B1, B2…).
+- Completa el prompt con tu contexto real.
+- Genera la propuesta de actividad.
+- Revisa el resultado: ¿es realista?, ¿es adecuada al nivel?, ¿fomenta interacción real?
+- Ajusta mediante iteración.
+- Guarda la actividad final para aplicarla en el aula.
 
 ---
 
-### 5. Reflexión y mejora
+## 💬 Prompt listo para usar
 
-El alumnado:
-- analiza sus producciones,
-- identifica errores o dificultades,
-- y mejora sus intervenciones.
+```text
+Actúa como un profesor/a de Escuela Oficial de Idiomas especialista en 
+enseñanza comunicativa y práctica de interacción oral.
 
-La IA puede utilizarse para:
-- sugerir reformulaciones,
-- ofrecer alternativas más naturales,
-- o explicar errores.
+Contexto: Tengo un grupo de nivel [A2/B1/B2] y quiero trabajar una 
+situación comunicativa sobre [SITUACIÓN: viajar, resolver un problema, 
+entrevista, conversación social…].
 
----
+Tarea: Diseña una actividad de interacción oral simulada que incluya:
 
-## Herramientas de IA recomendadas
+1. Descripción de la situación comunicativa (contexto realista).
+2. Roles del alumnado (quién es cada participante).
+3. Objetivo de la interacción (qué deben conseguir).
+4. Desarrollo paso a paso de la actividad.
+5. Ejemplos de inicio de conversación.
+6. Posibles imprevistos o giros en la interacción.
+7. Recomendaciones lingüísticas (vocabulario o estructuras clave).
+8. Criterios para observar y evaluar la interacción oral.
 
-- ChatGPT / Copilot (simulación de diálogo)
-- Herramientas de texto a voz (opcional)
-- Traductores con funciones de reformulación (uso controlado)
+Nivel: adapta el lenguaje y la complejidad al nivel indicado.
 
-💡 Utilizar siempre cuentas institucionales o herramientas autorizadas.
+Formato: texto claro, estructurado y listo para aplicar en el aula.
 
----
+```
 
-## Orientaciones para el profesorado
+🧪 Qué debes observar en la respuesta
+Actividad
+¿La situación es realista y significativa para el alumnado?
+¿La interacción exige reaccionar y no solo repetir estructuras?
+¿Los imprevistos generan negociación de significado?
+¿El nivel lingüístico es adecuado?
+Uso de IA
+¿La IA actúa como interlocutor realista?
+¿Permite variabilidad en las respuestas?
+🔄 Mejora del resultado (iteración guiada)
 
-- Ajustar la complejidad al nivel (A2, B1, B2…).
-- Priorizar la comunicación sobre la corrección absoluta.
-- Supervisar el uso de la IA y guiar los prompts.
-- Favorecer la transferencia de la práctica digital al aula real.
-- Integrar la actividad dentro de una secuencia didáctica coherente.
+```text
+Haz la interacción más compleja incluyendo malentendidos o cambios de situación.
 
----
+Simplifica la actividad para nivel A2 con apoyo lingüístico (frases guía).
 
-## Recomendaciones metodológicas
+Añade una versión para trabajo en parejas sin uso de IA.
 
-- Enfoque comunicativo centrado en la tarea.
-- Uso de situaciones auténticas y significativas.
-- Promoción de la autonomía del alumnado.
-- Trabajo por destrezas integradas (hablar, escuchar, mediar).
-- Feedback formativo y continuo.
+Incluye una checklist de autoevaluación para el alumnado.
 
----
+Genera una variante centrada en mediación lingüística.
 
-## Criterios de calidad de la actividad
+```
+📦 Entregable
 
-- Adecuación al nivel del alumnado.
-- Relevancia de la situación comunicativa.
-- Uso significativo de la IA (no decorativo).
-- Participación activa del alumnado.
-- Transferencia a situaciones reales de comunicación.
+Un documento Word (.docx) con:
 
----
+la actividad de interacción oral completa;
+el prompt utilizado (adaptado a tu contexto);
+una breve reflexión (5-6 líneas) sobre:
+cómo ha respondido la IA;
+qué has tenido que ajustar;
+y cómo aplicarías la actividad en tu aula.
+💡 Aplicación inmediata
+En clase: utiliza la simulación como actividad de práctica oral.
+Después: repite la actividad sin IA para fomentar la espontaneidad.
+Evaluación: usa los criterios generados para dar feedback.
+Futuro: reutiliza el prompt cambiando la situación y el nivel.
 
-## Uso responsable de la IA
+🚀 Variante rápida (opcional)
 
-⚠️ Recordar siempre:
+```text
+Adapta la actividad para incluir mediación lingüística entre dos lenguas 
+(por ejemplo, inglés-español o francés-español), incluyendo tareas de 
+traducción funcional y reformulación.
+```
 
-- No introducir datos personales o sensibles.
-- Revisar críticamente las respuestas generadas.
-- No asumir que la IA siempre ofrece respuestas correctas.
-- Supervisar el uso en todo momento.
-- Utilizar la IA como apoyo, no como sustituto del aprendizaje.
+💡 Idea clave
 
----
+La IA no sustituye la interacción real, pero puede multiplicar las oportunidades de práctica.
 
-## Cierre
+En EOI, su valor está en simular situaciones comunicativas que luego se transfieren al aula.
 
-La IA permite ampliar las oportunidades de práctica comunicativa más allá del aula, pero su valor depende del uso pedagógico que se haga de ella.
 
-En el contexto de la EOI, su integración debe orientarse a:
-- enriquecer la interacción,
-- favorecer la autonomía,
-- y acercar el aprendizaje a situaciones reales de uso de la lengua.
-
-🔑 La clave no es la herramienta, sino el diseño de la actividad.
