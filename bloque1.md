@@ -92,7 +92,7 @@ Selecciona una actividad adaptada a tu realidad docente:
 - **Actividad Primaria**
 - **Actividad Secundaria**
 - **Actividad Formación Profesional**
-- **Actividad EOI*
+- **Actividad EOI***
 
 👉 Estas actividades están diseñadas para aplicar la IA directamente en el aula según tu etapa.
 
@@ -774,3 +774,5 @@ No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA
 Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
+</div>
+</div>
