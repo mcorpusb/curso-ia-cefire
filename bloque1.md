@@ -19,11 +19,10 @@ Aprende a usar Microsoft Copilot como asistente integral para las tareas adminis
 Este bloque se abrirá el <span class="release-gate__date"></span>.
 Mientras tanto, céntrate en completar el bloque actual.
 </div>
-<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
+   <p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
 </div>
 <div class="release-gate__content">
 
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
 💡 <strong>Qué te llevas de este bloque</strong><br>
 En esta primera semana vas a comprobar que la IA puede ayudarte en tareas muy concretas de tu día a día: redactar documentos, organizar información y comunicarte mejor.  
@@ -31,7 +30,6 @@ La meta no es dominar una herramienta, sino empezar a usarla con sentido y utili
 
 </div>
 
----
 
 Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
 
