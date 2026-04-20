@@ -72,6 +72,182 @@ Formato: texto plano, con título del cuento, separación clara entre
 párrafos y la pregunta final destacada.
 ```
 
+--- Ejemplo de resultado
+
+**El miedo del pequeño Dino**
+
+Dino es un dinosaurio pequeño.  
+Tiene tres años.  
+Va a la escuela cada mañana.  
+Le gusta jugar con sus amigos.  
+Le gustan mucho, mucho los dinosaurios.  
+Ruge bajito: “¡Rrrr!”.
+
+Un día, en la clase, la seño trae una caja.  
+Dentro hay dinosaurios de juguete.  
+Hay uno grande.  
+Muy grande.  
+Tiene dientes largos.
+
+Dino lo mira.  
+Abre mucho los ojos.  
+Su corazón va rápido.  
+Sus manos se agarran fuerte.  
+Dino siente miedo.  
+Mucho miedo.
+
+El miedo está en su barriga.  
+El miedo está en su pecho.  
+Dino no quiere tocar el juguete.  
+Da un paso atrás.
+
+La seño se acerca despacio.  
+Habla suave.  
+—Dino, veo miedo —dice—.  
+Vamos juntos.
+
+La seño se sienta con Dino.  
+Respiran juntos.  
+Uno… dos… tres.  
+Respira, respira.  
+Poco a poco.
+
+La seño toca el dinosaurio grande.  
+—Mira, es de plástico —dice—.  
+No hace daño.
+
+Dino mira.  
+Mira otra vez.  
+El miedo se hace pequeño.  
+Más pequeño.
+
+Dino toca el dinosaurio con un dedo.  
+Luego con la mano.  
+Sonríe un poquito.  
+El miedo se va.
+
+—Ya no tengo miedo —dice Dino—.  
+Ahora estoy tranquilo.
+
+Dino juega.  
+Juega con el dinosaurio grande.  
+Juega con sus amigos.  
+Está contento.  
+Muy contento.
+
+El dinosaurio grande ahora es su amigo.
+
+***
+
+**¿Qué haces tú cuando sientes miedo para sentirte mejor?**
+------------
+### 🔄 Mejora del resultado
+
+```text
+genera un prompt exhaustivo/maestro para generar un cuento que acompañe este teste --- cuento ---
+```
+
+Ejemplo de prompt que me ha generado:
+
+```text
+
+
+
+## PROMPT MAESTRO – CÓMIC / CUENTO ILUSTRADO INFANTIL
+
+Actúa como una **ilustradora y narradora infantil especializada en Educación Infantil (3 años)**, educación emocional y literatura infantil temprana.
+
+Vas a crear un **cuento ilustrado en formato cómic o álbum secuencial**, basado en el cuento titulado **“El miedo del pequeño Dino”**, dirigido a **niños y niñas de 3 años** de un colegio público de la Comunitat Valenciana, dentro de un **proyecto sobre las emociones**.
+
+### OBJETIVO
+
+Acompañar el texto con **imágenes claras, tiernas y expresivas**, que ayuden a comprender la emoción del **miedo** y su regulación de forma segura y positiva.
+
+***
+
+### ESTILO VISUAL
+
+*   Ilustraciones **muy simples**, colores suaves y alegres.
+*   Estilo **infantil, tierno y no realista** (tipo álbum ilustrado o dibujos animados suaves).
+*   Personajes con **expresiones faciales muy claras** (ojos grandes, gestos exagerados).
+*   Escenarios reconocibles: aula infantil, alfombra de asamblea, juguetes.
+*   Dino debe ser un dinosaurio **pequeño, redondeado y simpático**, nunca aterrador.
+*   El dinosaurio grande debe parecer inicialmente imponente, pero **nunca agresivo**.
+
+***
+
+### ESTRUCTURA DEL CÓMIC
+
+Divide el cuento en **viñetas o páginas ilustradas**, una escena por cada parte del texto.
+
+Para cada viñeta incluye:
+
+1.  **Ilustración descrita con detalle**
+2.  **Texto breve**, exactamente el del cuento o resumido en frases muy cortas
+
+***
+
+### ESCENAS SUGERIDAS (GUÍA)
+
+1.  Dino pequeño en la clase, feliz, jugando.
+2.  La seño enseñando una caja cerrada.
+3.  Caja abierta con dinosaurios de juguete.
+4.  Aparición del dinosaurio grande.
+5.  Primer plano de Dino con cara de miedo.
+6.  Dino echándose atrás, manos tensas.
+7.  La seño acercándose con calma.
+8.  Dino y la seño respirando juntos (uno, dos, tres).
+9.  La seño tocando el dinosaurio grande.
+10. Dino tocándolo con un dedo.
+11. Dino sonriendo, tranquilo.
+12. Dino jugando feliz con amigos y dinosaurios.
+
+***
+
+### INDICACIONES EMOCIONALES
+
+*   Representar el miedo con:
+    *   Ojos muy abiertos
+    *   Cuerpo tenso
+    *   Colores suaves más apagados
+*   Representar la calma con:
+    *   Sonrisas
+    *   Posturas relajadas
+    *   Colores más cálidos y luminosos
+*   Mostrar claramente la **transición emocional** de miedo → tranquilidad.
+
+***
+
+### TEXTO
+
+*   Usar **frases muy cortas**.
+*   Mantener las **repeticiones** del cuento (“respira, respira”, “poco a poco”).
+*   Letra grande y clara, adecuada para Infantil.
+*   No añadir moralejas explícitas.
+
+***
+
+### FINAL DEL CUENTO
+
+La última página debe mostrar a Dino feliz y tranquilo, jugando, y cerrar con la pregunta:
+
+**“¿Qué haces tú cuando sientes miedo para sentirte mejor?”**
+
+***
+
+```
+
+---
+Ves a la opción de crear y pegas el Prompt que te ha dado Copilot
+También puedes seleccionar el Designer en la parte inferior
+
+
+Ejemplo de cuento generado:
+
+<img src="{{ '/assets/img/Cuento_infantil.png' | relative_url }}" alt="cuento" width="700">
+
+---
+
 ### Prompt 2 — Nota para las familias
 
 ```text
