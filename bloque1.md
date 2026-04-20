@@ -25,13 +25,6 @@ Mientras tanto, céntrate en completar el bloque actual.
 
 ---
 
-
-💡 <strong>Qué te llevas de este bloque</strong><br>
-En esta primera semana vas a comprobar que la IA puede ayudarte en tareas muy concretas de tu día a día: redactar documentos, organizar información y comunicarte mejor.  
-La meta no es dominar una herramienta, sino empezar a usarla con sentido y utilidad real.
-
-Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
-
 ## Objetivos del bloque
 
 Al finalizar este bloque serás capaz de:
