@@ -5,10 +5,8 @@ nav_order: 1
 has_children: true
 ---
 
- ![Banner del curso IA Generativa para Docentes]({{ '/assets/img/banner-curso-ia.png' | relative_url }})
+<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; display:block; margin-bottom:20px; border-radius:10px;">
 
-# 🎓 Herramientas de IA Generativa para Docentes
-{: .fs-9 }
 
 **Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Horas:** 32h (24h en línea + 8h síncronas)
 {: .fs-5 .fw-300 }
