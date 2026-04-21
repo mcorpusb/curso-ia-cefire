@@ -72,7 +72,7 @@ Selecciona una actividad adaptada a tu realidad docente:
 - **Actividad Primaria**
 - **Actividad Secundaria**
 - **Actividad Formación Profesional**
-- **Actividad EOI***
+- **Actividad EOI**
 
 👉 Estas actividades están diseñadas para aplicar la IA directamente en el aula según tu etapa.
 
