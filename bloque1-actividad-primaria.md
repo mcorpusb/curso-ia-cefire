@@ -5,6 +5,24 @@ parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 11
 ---
 
+tres niveles de comprensión lectora claramente diferenciados. Esta semana 
+trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de 
+literatura infantil", "una noticia adaptada"…] en el área de 
+[ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
+   con [TEMA].
+   - 4 preguntas de localización directa (la respuesta está explícita en 
+     el texto).
+   - Vocabulario sencillo, frases cortas.
+   - Incluir un ejemplo resuelto como modelo.
+   - 4 preguntas de comprensión inferencial (deducir, interpretar, 
+     relacionar).
+   - 1 pregunta de opinión personal breve.
+   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar 
+     con otros textos o situaciones).
+   - 1 actividad creativa breve (ej.: reescribir el final, crear un 
+listo para pegar en Word y dar formato de ficha imprimible. Incluye un 
+recuadro con el nombre del alumno/a y la fecha al inicio.
+
 # Actividad · Educación Primaria
 {: .fs-7 }
 
@@ -46,46 +64,154 @@ Preparar tres versiones de la misma ficha te llevaría toda la tarde. Con Copilo
 
 ## 💬 Prompt listo para usar
 
-```text
-Actúa como un maestro/a de Educación Primaria especialista en comprensión 
-lectora y atención a la diversidad, con experiencia en diseño universal 
-para el aprendizaje (DUA).
+### Prompt 1 — Ficha de comprensión lectora multinivel
 
-Contexto: Soy tutor/a de [CURSO: 3.º/4.º/5.º/6.º] de Primaria en un 
-colegio público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con 
-tres niveles de comprensión lectora claramente diferenciados. Esta semana 
-trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de 
-literatura infantil", "una noticia adaptada"…] en el área de 
-[ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
+```text
+Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
+
+Contexto: Soy tutor/a de [CURSO: 3.º/4.º/5.º/6.º] de Primaria en un colegio público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de literatura infantil", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
 
 Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
 
-1. **Texto base** (150-200 palabras), adecuado para [CURSO] y relacionado 
-   con [TEMA].
-
+1. **Texto base** (150-200 palabras), adecuado para [CURSO] y relacionado con [TEMA].
 2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
-   - 4 preguntas de localización directa (la respuesta está explícita en 
-     el texto).
+   - 4 preguntas de localización directa (la respuesta está explícita en el texto).
    - Vocabulario sencillo, frases cortas.
    - Incluir un ejemplo resuelto como modelo.
-
 3. **Nivel 2 — Estándar** (grupo ordinario):
-   - 4 preguntas de comprensión inferencial (deducir, interpretar, 
-     relacionar).
+   - 4 preguntas de comprensión inferencial (deducir, interpretar, relacionar).
    - 1 pregunta de opinión personal breve.
-
 4. **Nivel 3 — Ampliación** (alumnado avanzado):
-   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar 
-     con otros textos o situaciones).
-   - 1 actividad creativa breve (ej.: reescribir el final, crear un 
-     título alternativo, escribir una carta al personaje).
+   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
+   - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
 
-Formato: texto plano estructurado con encabezados claros para cada nivel, 
-listo para pegar en Word y dar formato de ficha imprimible. Incluye un 
-recuadro con el nombre del alumno/a y la fecha al inicio.
+Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
 ```
 
 ---
+
+### Ejemplo de prompt ya completado
+
+```text
+Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
+
+Contexto: Soy tutor/a de 4.º de Primaria en un colegio público de la Comunitat Valenciana. Tengo 24 alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo un texto narrativo-informativo sobre una salida a una marjal valenciana en el área de Lengua Castellana.
+
+Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
+
+1. **Texto base** (150-200 palabras), adecuado para 4.º y relacionado con una salida a la marjal.
+2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
+   - 4 preguntas de localización directa (la respuesta está explícita en el texto).
+   - Vocabulario sencillo, frases cortas.
+   - Incluir un ejemplo resuelto como modelo.
+3. **Nivel 2 — Estándar** (grupo ordinario):
+   - 4 preguntas de comprensión inferencial (deducir, interpretar, relacionar).
+   - 1 pregunta de opinión personal breve.
+4. **Nivel 3 — Ampliación** (alumnado avanzado):
+   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
+   - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
+
+Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
+```
+
+---
+
+### Ejemplo de respuesta de Copilot
+
+**Ficha de comprensión lectora multinivel — 4.º de Primaria**
+
+**Nombre:** ____________________________   **Fecha:** _______________
+
+---
+
+#### Texto base
+
+El pasado jueves, la clase de 4.º de Primaria visitó la marjal de Almenara, un humedal muy especial de la Comunitat Valenciana. Salimos temprano del colegio y, tras un corto viaje en autobús, llegamos rodeados de campos verdes y agua por todas partes. Un guía nos explicó que la marjal es el hogar de muchas aves, como garzas, patos y fochas, y que es muy importante cuidar estos espacios naturales.
+
+Durante el paseo, observamos plantas acuáticas, escuchamos el canto de los pájaros y vimos cómo algunos agricultores trabajaban en los arrozales. Al final, hicimos un pequeño dibujo de lo que más nos había gustado y compartimos nuestras impresiones en grupo. Fue una experiencia divertida y aprendimos mucho sobre la naturaleza cercana a nuestro pueblo.
+
+---
+
+#### Nivel 1 — Apoyo
+
+1. ¿A dónde fue la clase de 4.º de Primaria?
+2. ¿Cómo llegaron hasta la marjal?
+3. ¿Qué animales viven en la marjal?
+4. ¿Qué actividad hicieron al final de la visita?
+
+**Ejemplo resuelto:**
+
+Pregunta: ¿Qué plantas observaron durante el paseo?
+Respuesta: Plantas acuáticas.
+
+---
+
+#### Nivel 2 — Estándar
+
+1. ¿Por qué crees que es importante cuidar la marjal?
+2. ¿Qué aprendiste sobre los agricultores que trabajan en los arrozales?
+3. ¿Cómo se sintieron los alumnos/as durante la visita? Explica tu respuesta.
+4. ¿Qué relación hay entre las aves y el agua de la marjal?
+5. ¿Qué te ha parecido la experiencia de visitar un espacio natural?
+
+---
+
+#### Nivel 3 — Ampliación
+
+1. Compara la marjal con otro espacio natural que conozcas. ¿En qué se parecen y en qué se diferencian?
+2. ¿Qué pasaría si no cuidáramos los humedales como la marjal?
+3. ¿Cómo podrías explicar a un compañero/a más pequeño por qué es importante proteger estos lugares?
+4. Inventa un final alternativo para la visita y descríbelo brevemente.
+
+---
+
+### Mejora del resultado
+
+Si el resultado inicial te convence, puedes pedir a Copilot que te ayude a transformarlo en un recurso más visual y atractivo para el alumnado.
+
+Por ejemplo, puedes solicitar un **prompt maestro** para convertir el texto base en un cuento visual o cómic educativo.
+
+---
+
+### Ejemplo de prompt maestro para cuento visual
+
+```text
+Actúa como ilustrador/a educativo y diseñador/a de materiales didácticos para Primaria.
+
+Vas a transformar el texto base de una ficha de comprensión lectora sobre una salida a la marjal valenciana (alumnado de 4.º de Primaria) en un **cuento visual o cómic educativo** de 8 viñetas.
+
+Para cada viñeta, incluye:
+- Descripción visual detallada de la escena (personajes, entorno, acción principal).
+- Texto breve y claro para el alumnado.
+- Coherencia entre personajes y escenarios a lo largo de la historia.
+
+Estilo visual:
+- Amable, colorido y claro, sin recargar.
+- Apropiado para niños y niñas de 8–10 años.
+- Expresiones faciales claras y composición limpia.
+- Si hay texto integrado, usa tipografía grande y legible.
+
+Finaliza el cuento visual con una pregunta de reflexión para la clase.
+```
+
+---
+
+### Cómo usar el prompt maestro en Copilot Create o Designer
+
+Ve a la opción de **Crear** y pega el prompt que te ha dado Copilot.
+
+También puedes seleccionar **Designer** en la parte inferior si quieres obtener un resultado más visual.
+
+Revisa siempre que las imágenes sean adecuadas para la edad y coherentes con el texto trabajado.
+
+---
+
+### Ejemplo de cuento visual generado
+
+*Aquí puedes insertar la captura del cuento visual generado en Copilot para mostrar un ejemplo real de resultado.*
+
+---
+
 
 ## 🧪 Qué debes observar en la respuesta
 
@@ -109,7 +235,8 @@ recuadro con el nombre del alumno/a y la fecha al inicio.
 
 ---
 
-## 🔄 Mejora del resultado (iteración guiada)
+
+## 🔄 Iteración guiada
 
 Después de revisar la primera versión, prueba estas instrucciones en la misma conversación:
 
@@ -137,6 +264,7 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 
 ---
 
+
 ## 📦 Entregable
 
 - Un documento Word (.docx) con:
@@ -146,6 +274,7 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 
 ---
 
+
 ## 💡 Aplicación inmediata
 
 - **Mañana en el aula:** imprime las tres versiones de la ficha. Reparte a cada alumno/a la versión adecuada a su nivel sin que sea evidente (misma maquetación, diferente contenido). Trabaja la comprensión lectora en la sesión ordinaria.
@@ -153,6 +282,7 @@ criterios de evaluación de cada nivel y las respuestas esperadas.
 - **Próximas semanas:** reutiliza el mismo prompt cambiando solo el texto base y el tema para generar fichas de otras unidades didácticas en minutos.
 
 ---
+
 
 ## 🚀 Variante rápida (opcional)
 

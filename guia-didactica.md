@@ -125,7 +125,22 @@ Cada bloque sigue el mismo ciclo: ver cómo se hace → hacerlo tú → comparar
 
 ---
 
+
 ## Distribución temporal
+
+### Distribución semanal
+
+La siguiente tabla recoge la planificación semanal del curso, con los módulos, fechas clave, entregas y sesiones principales.
+
+| Módulo                                             | Periodo                  | Entrega de actividades | Contenidos | Tareas | Videoconferencia                 |
+| -------------------------------------------------- | ------------------------ | ---------------------: | ---------: | -----: | -------------------------------- |
+| Módulo 0 · Presentación                            | —                        |                      — |     30 min | 30 min | —                                |
+| Módulo 1 · IA Colaborativa y Gestión GVA           | 22 al 28 de abril        |               28/04/26 |        2 h |    2 h | Miércoles 22/04/26 · 17:30–19:30 |
+| Módulo 2 · Prompting Avanzado y Gestión Documental | 29 de abril al 5 de mayo |               05/05/26 |        3 h |    4 h | Miércoles 29/04/26 · 17:30–19:30 |
+| Módulo 3 · Generación Multimodal                   | 6 al 12 de mayo          |               12/05/26 |        3 h |    4 h | Miércoles 06/05/26 · 17:30–19:30 |
+| Módulo 4 · Evaluación y Personalización            | 13 al 19 de mayo         |               19/05/26 |        2 h |    2 h | Miércoles 13/05/26 · 17:30–19:30 |
+| Cierre del curso                                   | 20 al 25 de mayo         |               26/05/26 |     30 min | 30 min | —                                |
+
 
 ### Resumen global
 

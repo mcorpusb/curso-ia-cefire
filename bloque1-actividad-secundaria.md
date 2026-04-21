@@ -5,166 +5,253 @@ parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 12
 ---
 
+
 # Actividad · Educación Secundaria
 {: .fs-7 }
 
-Diseña una actividad competencial con rúbrica de evaluación alineada con la LOMLOE, con ayuda de Copilot.
+Diseña una actividad competencial contextualizada y transfórmala en un recurso visual claro para tu alumnado, con ayuda de Copilot.
 {: .fs-5 .fw-300 }
+
+---
+
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar Microsoft Copilot para diseñar una actividad competencial completa para una unidad didáctica real de tu asignatura, incluyendo la rúbrica de evaluación con criterios, indicadores de logro y niveles de desempeño.
+Utilizar Microsoft Copilot para diseñar una actividad competencial realista y viable para tu grupo, revisarla y transformarla en un recurso visual educativo (infografía, póster o esquema) que ayude al alumnado a comprender los contenidos clave.
+
+---
+
 
 ---
 
 ## 🧠 Situación real de aula
 
-Eres profesor/a de una asignatura de ESO o Bachillerato. Estás preparando una situación de aprendizaje y necesitas:
+Eres profesor/a de ESO o Bachillerato. Estás preparando una situación de aprendizaje y necesitas:
 
-1. Una actividad competencial que conecte el contenido curricular con un contexto real y significativo para el alumnado.
-2. Una rúbrica de evaluación con 4 niveles de desempeño, alineada con los criterios de evaluación de la LOMLOE y la normativa de la Comunitat Valenciana.
+1. Una actividad competencial que conecte el contenido curricular con un contexto real y motivador para tu alumnado.
+2. Un producto final claro y útil para el grupo.
+3. Un recurso visual que ayude a sintetizar y comunicar los contenidos clave de la actividad.
 
-Diseñar ambos elementos desde cero —actividad bien contextualizada + rúbrica coherente— suele llevar entre 1 y 2 horas. Con Copilot puedes tener un borrador sólido en 15-20 minutos y dedicar el resto del tiempo a personalizarlo y ajustarlo a tu grupo.
+Diseñar una actividad sólida y acompañarla de un apoyo visual puede llevar mucho tiempo. Con Copilot puedes obtener un borrador de calidad en menos de 20 minutos y dedicar el resto a personalizarlo y adaptarlo a tu grupo.
+
+---
+
 
 ---
 
 ## ⚙️ Qué vas a hacer
 
 1. Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
-2. Elige una unidad didáctica o situación de aprendizaje que tengas en marcha o que vayas a empezar próximamente.
-3. Identifica el criterio de evaluación concreto (de tu programación o del currículo LOMLOE) que quieres trabajar.
-4. Completa el prompt con los datos reales de tu asignatura, nivel y contexto.
-5. Lanza el prompt en Copilot y lee la actividad generada.
-6. Revisa la rúbrica: ¿los niveles de desempeño son realmente progresivos? ¿Los indicadores son observables y evaluables?
-7. Contrasta la rúbrica con el criterio de evaluación oficial del currículo: ¿están alineados?
-8. Usa las instrucciones de iteración para ajustar el resultado.
-9. Copia todo en un documento Word y guárdalo en tu OneDrive.
+2. Elige una unidad didáctica o situación de aprendizaje relevante para tu grupo.
+3. Completa el prompt principal con los datos reales de tu asignatura, nivel y contexto.
+4. Lanza el prompt en Copilot y revisa la actividad generada.
+5. Ajusta la propuesta para que sea clara, motivadora y viable para tu alumnado.
+6. Solicita a Copilot un prompt maestro para transformar los contenidos clave en un recurso visual (infografía, póster, esquema, etc.).
+7. Genera el recurso visual y revisa su claridad y adecuación.
+8. Guarda la actividad y el recurso para usarlos en clase.
+
+---
+
 
 ---
 
 ## 💬 Prompt listo para usar
 
+### Prompt 1 — Diseño de actividad competencial
+
 ```text
-Actúa como un profesor/a de Educación Secundaria especialista en diseño 
-de actividades competenciales y evaluación formativa, con conocimiento 
-del currículo LOMLOE de la Comunitat Valenciana.
+Actúa como un profesor/a de Educación Secundaria especialista en diseño de actividades competenciales y aprendizaje activo.
 
-Contexto: Soy profesor/a de [ASIGNATURA] en [CURSO: 1.º/2.º/3.º/4.º ESO 
-o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. 
-Estoy trabajando la situación de aprendizaje sobre [TEMA O CONTENIDO]. 
-El criterio de evaluación que quiero abordar es: [PEGAR O DESCRIBIR EL 
-CRITERIO DE EVALUACIÓN]. Tengo [NÚMERO] alumnos/as, de los cuales 
-[NÚMERO] tienen adaptaciones curriculares significativas.
+Contexto: Soy profesor/a de [ASIGNATURA] en [CURSO: 1.º/2.º/3.º/4.º ESO o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. Estoy trabajando la situación de aprendizaje sobre [TEMA O CONTENIDO]. Tengo [NÚMERO] alumnos/as, grupo heterogéneo.
 
-Tarea: Diseña lo siguiente:
-
-1. **Actividad competencial** que incluya:
-   - Título motivador para el alumnado.
-   - Contextualización: situación real o simulada que dé sentido a la 
-     tarea (problema, reto, pregunta guía).
-   - Descripción de la tarea paso a paso (qué debe hacer el alumnado).
-   - Producto final esperado (informe, presentación, mapa conceptual, 
-     debate, póster…).
-   - Temporalización estimada (número de sesiones).
-   - Recursos necesarios.
-
-2. **Rúbrica de evaluación** con:
-   - 4 criterios observables derivados del criterio de evaluación 
-     proporcionado.
-   - 4 niveles de desempeño: Iniciado (1-2) | En desarrollo (3-4) | 
-     Adecuado (5-6) | Avanzado (7-8).
-   - Descriptores específicos y observables para cada celda.
-   - Formato tabla Markdown.
-
-3. **Adaptación para alumnado con NEAE:**
-   - Indica qué modificaciones concretas harías en la actividad y en 
-     la rúbrica para los [NÚMERO] alumnos/as con adaptaciones.
-
-Formato: texto plano estructurado con encabezados claros, listo para 
-pegar en Word.
+Tarea: Diseña una actividad competencial que incluya:
+- Contexto motivador y realista para el alumnado.
+- Objetivo de aprendizaje claro.
+- Producto final concreto (ej.: infografía, póster, presentación, debate, línea del tiempo, etc.).
+- Temporalización estimada (número de sesiones).
+- Pasos de trabajo detallados.
+- Materiales necesarios.
+- Propuesta de atención a la diversidad.
+- Formato claro y listo para llevar al aula.
 ```
 
 ---
 
-## 🧪 Qué debes observar en la respuesta
+### Ejemplo de prompt ya completado
 
-- **Actividad competencial:**
-  - ¿La contextualización es motivadora y creíble para la edad del alumnado?
-  - ¿La tarea exige realmente movilizar competencias o se queda en reproducción de contenidos?
-  - ¿El producto final es evaluable con la rúbrica proporcionada?
-  - ¿La temporalización es realista?
+```text
+Actúa como un profesor/a de Educación Secundaria especialista en aprendizaje activo y diseño de actividades competenciales.
 
-- **Rúbrica:**
-  - ¿Los 4 niveles de desempeño son realmente progresivos (no solo "bien/mal")?
-  - ¿Los descriptores son específicos y observables, o son genéricos ("demuestra conocimiento")?
-  - ¿Está alineada con el criterio de evaluación del currículo?
-  - ¿Sería utilizable tal cual en una sesión de evaluación?
+Contexto: Soy profesor/a de Geografía e Historia en 3.º ESO en un IES público de la Comunitat Valenciana. Tengo 28 alumnos/as, grupo heterogéneo. Estoy trabajando el tema de la Revolución Industrial y sus consecuencias sociales.
 
-- **Adaptación NEAE:**
-  - ¿Las modificaciones son concretas y viables?
-  - ¿Mantienen la esencia competencial de la actividad?
+Tarea: Diseña una actividad competencial que incluya:
+- Contexto motivador y realista para el alumnado.
+- Objetivo de aprendizaje claro.
+- Producto final concreto (ej.: infografía, póster, presentación, debate, línea del tiempo, etc.).
+- Temporalización estimada (número de sesiones).
+- Pasos de trabajo detallados.
+- Materiales necesarios.
+- Propuesta de atención a la diversidad.
+- Formato claro y listo para llevar al aula.
+```
 
 ---
+
+### Ejemplo de respuesta de Copilot
+
+**Título de la actividad:**
+La Revolución Industrial: Cambios y consecuencias
+
+**Contexto o reto:**
+El alumnado debe investigar cómo la Revolución Industrial transformó la vida de las personas y la sociedad, conectando esos cambios con situaciones actuales.
+
+**Objetivo:**
+Comprender las causas, los avances tecnológicos y las consecuencias sociales de la Revolución Industrial, y comunicarlo de forma visual y clara.
+
+**Producto final:**
+Infografía educativa o póster visual para exponer en el aula.
+
+**Temporalización:**
+2 sesiones de 50 minutos.
+
+**Desarrollo por fases:**
+1. Introducción al tema y lluvia de ideas sobre cambios históricos.
+2. Investigación en grupos sobre causas, inventos, transformaciones sociales y consecuencias.
+3. Selección de la información más relevante y organización en bloques visuales.
+4. Diseño de la infografía o póster (puede ser digital o en papel).
+5. Exposición oral breve y puesta en común.
+
+**Materiales:**
+Libros de texto, recursos digitales, papel, rotuladores, acceso a ordenador o tablet.
+
+**Atención a la diversidad:**
+Grupos heterogéneos, apoyos visuales, plantillas de organización, posibilidad de adaptar el producto final (esquema guiado, presentación oral breve, etc.).
+
+**Cierre:**
+Exposición de los pósteres y reflexión final sobre el impacto de la Revolución Industrial en la vida cotidiana.
+
+---
+
+### Mejora del resultado
+
+Si el borrador inicial te convence, puedes pedir a Copilot que lo refine, lo haga más claro para el alumnado o lo transforme en un recurso complementario más visual.
+
+Por ejemplo, puedes solicitar un **prompt maestro** para crear una infografía educativa o póster visual a partir de los contenidos clave de la actividad.
+
+---
+
+### Ejemplo de prompt maestro para generar un recurso visual
+
+```text
+Actúa como diseñador/a de materiales didácticos para Secundaria.
+
+Vas a transformar los contenidos clave de una actividad sobre la Revolución Industrial (3.º ESO) en una **infografía educativa o póster visual** para alumnado de 14–15 años.
+
+Organiza la información en bloques visuales diferenciados:
+- Causas principales
+- Cambios tecnológicos
+- Transformaciones sociales
+- Consecuencias para la población
+
+Usa lenguaje claro y sintético, rigor histórico y nivel adecuado para Secundaria.
+Evita saturación visual y mantén jerarquía tipográfica clara.
+Sugiere iconos o escenas visuales coherentes para cada bloque.
+Incluye un bloque final con una pregunta de reflexión para la clase.
+```
+
+---
+
+### Cómo usar el prompt maestro en Copilot Create / Designer
+
+Pega el prompt maestro en la opción de **Crear** de Copilot.
+
+También puedes usar **Designer** si prefieres una salida más visual.
+
+Revisa siempre la claridad, la exactitud histórica y la adecuación de las imágenes al nivel del alumnado. Ajusta el resultado antes de llevarlo al aula.
+
+---
+
+### Ejemplo de recurso visual generado
+
+*Aquí puedes insertar la captura del recurso visual generado en Copilot para mostrar un ejemplo real de resultado.*
+
+---
+
+---
+
+
+## 🧪 Qué debes observar en la respuesta
+
+- ¿La actividad es viable y motivadora para el grupo?
+- ¿El reto propuesto tiene sentido y está bien contextualizado?
+- ¿El producto final es claro y útil?
+- ¿La secuencia de trabajo es realista y bien planteada?
+- ¿La adaptación a la diversidad es concreta y viable?
+- ¿El recurso visual resume bien lo importante?
+- ¿El diseño visual ayuda a comprender o distrae?
+
+---
+
+entregarlo, basada en los criterios de la rúbrica.
+adaptación curricular significativa: mismo contexto, pero con andamiaje 
+(guías de apoyo, modelo parcialmente resuelto, vocabulario clave).
 
 ## 🔄 Mejora del resultado (iteración guiada)
 
 Después de revisar la primera versión, prueba estas instrucciones:
 
 ```text
-Los descriptores del nivel "Iniciado" son demasiado vagos. Reescríbelos 
-con indicadores más concretos y observables, indicando exactamente qué 
-se espera del alumno/a en ese nivel.
+Simplifica las instrucciones para que sean más accesibles para todo el grupo.
 ```
 
 ```text
-Añade a la actividad una fase de autoevaluación: diseña una checklist 
-que el alumnado pueda usar para revisar su propio trabajo antes de 
-entregarlo, basada en los criterios de la rúbrica.
+Ajusta la temporalización para que la actividad pueda hacerse en una sola sesión.
 ```
 
 ```text
-Genera una versión simplificada de la actividad para los alumnos/as con 
-adaptación curricular significativa: mismo contexto, pero con andamiaje 
-(guías de apoyo, modelo parcialmente resuelto, vocabulario clave).
+Añade apoyos visuales o plantillas para facilitar la organización de la información.
 ```
 
 ```text
-Crea una versión de la rúbrica en valenciano (normas AVL) para poder 
-compartirla con el alumnado en la lengua vehicular de la asignatura.
+Genera una versión de la actividad y el recurso visual en valenciano (normas AVL).
+```
+
+```text
+Convierte los contenidos clave en un esquema visual en vez de infografía.
 ```
 
 ---
+
 
 ## 📦 Entregable
 
 - Un documento Word (.docx) con:
   - la actividad competencial completa;
-  - la rúbrica de evaluación en formato tabla;
   - el prompt utilizado (con tus adaptaciones reales);
-  - una nota breve indicando el criterio de evaluación LOMLOE de referencia.
+  - la versión refinada de la actividad;
+  - el recurso visual generado o preparado para generar.
 
 ---
+
 
 ## 💡 Aplicación inmediata
 
-- **Esta semana:** presenta la actividad competencial a tu grupo y reparte la rúbrica para que el alumnado conozca los criterios de antemano (evaluación transparente).
-- **En la evaluación:** usa la rúbrica para calificar de forma rápida y coherente. Cada celda ya tiene el descriptor, solo tienes que marcar el nivel.
-- **Próximas unidades:** reutiliza el prompt cambiando la asignatura, el tema y el criterio de evaluación para generar rúbricas de otras situaciones de aprendizaje.
+- **Esta semana:** presenta la actividad competencial a tu grupo y muestra el recurso visual generado para facilitar la comprensión.
+- **En la sesión:** utiliza el recurso visual como apoyo para explicar los contenidos clave y guiar el trabajo del alumnado.
+- **Próximas unidades:** reutiliza el prompt cambiando la asignatura o el tema para generar nuevas actividades y recursos visuales en minutos.
 
 ---
+
+bilingües y un andamiaje lingüístico (sentence starters, word bank) 
 
 ## 🚀 Variante rápida (opcional)
 
 Si necesitas adaptar la actividad para un **grupo bilingüe** o un **programa CLIL/AICLE**, pide a Copilot:
 
 ```text
-Adapta la actividad anterior para un grupo de [CURSO] en programa CLIL 
-(Content and Language Integrated Learning). Mantén el contenido 
-competencial, pero incluye: vocabulario clave en inglés, instrucciones 
-bilingües y un andamiaje lingüístico (sentence starters, word bank) 
-para que el alumnado pueda completar la tarea en inglés.
+Adapta la actividad anterior para un grupo de [CURSO] en programa CLIL (Content and Language Integrated Learning). Mantén el contenido competencial, pero incluye: vocabulario clave en inglés, instrucciones bilingües y un andamiaje lingüístico (sentence starters, word bank) para que el alumnado pueda completar la tarea en inglés.
 ```
 
 ---
