@@ -1,3 +1,8 @@
+---
+parent: "Novedades"
+nav_order: 1
+---
+
 # Novedades de ChatGPT para docentes
 
 ## Nueva generación de imágenes y usos educativos

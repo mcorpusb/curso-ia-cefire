@@ -1,4 +1,9 @@
-# Novedades relevantes en inteligencia artificial
+---
+parent: "Novedades"
+nav_order: 2
+---
+
+# Novedades relevantes en inteligencia artificial.
 
 ## Entender lo que realmente importa en la IA actual
 
