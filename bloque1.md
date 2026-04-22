@@ -749,8 +749,6 @@ No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA
 
 </div>
 
-</div>
-</div>
 
 ---
 
