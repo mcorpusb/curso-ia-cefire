@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Bloque 2: Prompting Avanzado y Gestión Documental"
+title: "Bloque 2: Prompting avanzado y gestión documental"
 nav_order: 3
 release_at: 2026-04-29T17:30:00+02:00
 ---
 
-# Bloque 2 · Prompting Avanzado y Gestión Documental
+# Bloque 2 · Prompting avanzado y gestión documental
 {: .fs-8 }
 
 Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a "entrenar" a la IA con el currículo oficial usando NotebookLM.
@@ -29,7 +29,7 @@ Mientras tanto, céntrate en completar el bloque actual.
 Al finalizar este bloque serás capaz de:
 
 1. **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, posicionando a la IA como experta pedagógica alineada con tus necesidades educativas.
-2. Aplicar técnicas de **cadena de pensamiento** (*chain-of-thought*) y **few-shot prompting** en contextos pedagógicos.
+2. Aplicar técnicas de razonamiento guiado paso a paso y **few-shot prompting** en contextos pedagógicos.
 3. Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo.
 4. Comparar la calidad de las respuestas curriculares entre **Copilot**, **Gemini**, **NotebookLM**, **Kimi** y **Grok**.
 5. Crear una **biblioteca personal de prompts** reutilizables para tu área y etapa educativa.
@@ -105,23 +105,23 @@ Restricciones: No inventes saberes básicos que no estén en el currículo. Si n
 estás seguro, indícalo.
 ```
 
-### 2.2.2 · Chain-of-thought (cadena de razonamiento)
 
-Pides a la IA que **razone paso a paso** antes de dar la respuesta final. Esto es especialmente útil para diseñar situaciones de aprendizaje complejas:
+### 2.2.2 · Razonamiento guiado paso a paso
+
+Pides a la IA que **organice la respuesta paso a paso antes de redactar la propuesta final**. Esto es especialmente útil para diseñar situaciones de aprendizaje complejas:
 
 ### 🏆 Prompt de Oro: Situación de aprendizaje paso a paso
 
 ```text
-Actúa como un docente experto en diseño de Situaciones de Aprendizaje (SA) 
+Actúa como un docente experto en diseño de situaciones de aprendizaje (SA) 
 según la LOMLOE.
 
 Contexto: 2.º de Educación Primaria, área de Conocimiento del Medio Natural, 
 Social y Cultural. Centro público de Castellón, Comunitat Valenciana. 
 22 alumnos, 1 con TEA y 2 de incorporación tardía.
 
-Tarea: Diseña una Situación de Aprendizaje titulada "Los seres vivos de 
-nuestro patio" siguiendo estos pasos (piensa en voz alta antes de dar cada 
-respuesta):
+Tarea: Diseña una situación de aprendizaje titulada "Los seres vivos de 
+nuestro patio" siguiendo estos pasos (organiza la respuesta paso a paso antes de redactar la propuesta final):
 
 Paso 1: Identifica las competencias específicas del área que se trabajan.
 Paso 2: Selecciona los saberes básicos relacionados.
@@ -346,7 +346,7 @@ RESTRICCIONES:
 
 ### Actividad 2.1 — Mi primer prompt pedagógico avanzado *(individual)*
 
-1. Elige una **Situación de Aprendizaje** que necesites diseñar realmente para tu aula.
+1. Elige una **Situación de Aprendizaje** que necesites diseñar realmente para tu aula y define brevemente: etapa, curso, área o materia, número aproximado de sesiones y características relevantes del grupo.
 2. Escribe un prompt completo con los **5 campos** (Rol + Contexto + Tarea + Formato + Restricciones).
 3. Lánzalo en **Copilot** y guarda la respuesta.
 4. Itera al menos **2 veces** con prompts de refinamiento (sección 2.2.3).
@@ -369,7 +369,7 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 ```
 
 4. Corrige la SA con la información de NotebookLM.
-5. **Entregable:** documento comparativo con las correcciones realizadas.
+5. **Entregable:** documento con tres partes: versión inicial de la situación de aprendizaje, comprobaciones y correcciones señaladas por NotebookLM, y versión final revisada.
 
 ### Actividad 2.3 — Mi biblioteca de prompts *(individual + compartida)*
 
@@ -392,11 +392,277 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 | Cita de fuentes / referencias | | | |
 | Utilidad global para programar | | | |
 
-4. **Entregable:** tabla + conclusión grupal (200 palabras) en el foro.
+4. Tras completar la tabla, en grupo identificad al menos dos aciertos y dos limitaciones de cada herramienta (Copilot, Gemini y NotebookLM). Anotadlo de forma breve y concreta.
+5. **Entregable:** tabla comparativa y síntesis grupal con los aciertos y limitaciones de cada herramienta (máx. 200 palabras) en el foro.
+
+* * *
+
+---
+
+## Antes de la actividad final: del análisis documental al diseño didáctico
+
+Hasta este punto del bloque hemos trabajado cómo formular buenos prompts, cómo refinar respuestas, cómo verificar información curricular y cómo utilizar herramientas como NotebookLM para consultar y sintetizar fuentes. El siguiente paso consiste en dar un uso más pedagógico y aplicado a ese trabajo: pasar del análisis documental al diseño de una propuesta real de aula.
+
+La actividad final de este bloque no consiste solo en “usar una herramienta de IA”, sino en emplearla con criterio docente para construir una **situación de aprendizaje** fundamentada, coherente y aplicable.
+
+### Qué es un cuaderno docente en NotebookLM
+
+Un cuaderno docente en NotebookLM no es simplemente un espacio donde acumular documentos. Debe funcionar como una **base de trabajo estructurada**, creada con una intención pedagógica clara.
+
+Su valor no está en la cantidad de archivos que contiene, sino en su capacidad para ayudar al profesorado a:
+
+- comprender mejor un tema o enfoque,
+- relacionar normativa, metodología y evaluación,
+- extraer ideas útiles para el aula,
+- tomar decisiones didácticas mejor fundamentadas.
+
+Por eso, antes de crear un cuaderno, conviene definir con claridad **para qué se quiere usar** y **qué tipo de propuesta se desea construir a partir de él**.
+
+### Cómo seleccionar buenas fuentes
+
+NotebookLM trabaja únicamente con las fuentes que se incorporan al cuaderno. Esto significa que la calidad del resultado dependerá directamente de la calidad de esas fuentes.
+
+Para esta actividad conviene priorizar materiales:
+
+- relevantes para el nivel y la etapa educativa,
+- claros y bien estructurados,
+- conectados con la práctica docente real,
+- útiles para diseñar una situación de aprendizaje.
+
+Es recomendable combinar varios tipos de fuentes, por ejemplo:
+
+- normativa o currículo,
+- orientaciones metodológicas,
+- materiales sobre evaluación,
+- documentos sobre atención a la diversidad o DUA,
+- recursos sobre uso ético y pedagógico de la IA,
+- materiales propios del profesorado.
+
+También conviene recordar que algunas páginas web pueden no cargarse bien y que los PDF escaneados o poco legibles pueden dar problemas. Siempre que sea posible, trabaja con textos claros, accesibles y bien organizados.
+
+### Ejemplo de selección básica de fuentes
+
+Un cuaderno inicial en NotebookLM puede construirse con una combinación mínima de documentos clave. Por ejemplo, puedes incluir el decreto curricular de tu etapa educativa, una guía breve sobre evaluación competencial, un recurso sobre DUA o atención a la diversidad y algún material metodológico relacionado con el tipo de situación de aprendizaje que quieras diseñar. Esta selección te permitirá disponer de una base sólida y variada para fundamentar tus propuestas didácticas y adaptar la actividad a las necesidades reales del aula.
+
+### Utilizar NotebookLM para analizar, no para copiar
+
+El objetivo de esta herramienta no es copiar respuestas ni delegar en la IA las decisiones docentes. Su función en este bloque es ayudar a:
+
+- resumir documentos,
+- formular preguntas útiles,
+- detectar ideas clave,
+- relacionar varias fuentes,
+- extraer propuestas o criterios,
+- y apoyar el diseño de una situación de aprendizaje mejor fundamentada.
+
+Por eso, cualquier respuesta obtenida debe revisarse críticamente. La IA puede ayudar a organizar, sintetizar y sugerir, pero el juicio pedagógico sigue correspondiendo al profesorado.
+
+### Ejemplos de consultas útiles en NotebookLM
+
+Algunas preguntas prácticas que puedes plantear en NotebookLM para diseñar tu situación de aprendizaje:
+
+- Resume las ideas clave de estas fuentes para diseñar una situación de aprendizaje.
+- Relaciona estas orientaciones metodológicas con el currículo de tu nivel.
+- Extrae posibles productos finales adecuados para este tema y etapa.
+- Identifica medidas de atención a la diversidad presentes en las fuentes.
+- Sugiere qué instrumento de evaluación encaja mejor con este planteamiento.
+
+
+### Del cuaderno a la situación de aprendizaje
+
+El cuaderno es el punto de partida, no el producto final. A partir de las fuentes seleccionadas y del análisis realizado con NotebookLM, el profesorado debe transformar esa información en una propuesta didáctica coherente.
+
+Eso implica tomar decisiones sobre:
+
+- el tema o contenido a trabajar,
+- el nivel educativo,
+- el reto o producto final,
+- la secuencia de actividades,
+- la evaluación,
+- la atención a la diversidad,
+- y el papel que tendrá la IA en el proceso.
+
+### Qué debe incluir una situación de aprendizaje
+
+Para esta actividad final, la situación de aprendizaje debe incluir al menos:
+
+- tema y nivel educativo,
+- reto o producto final,
+- objetivos didácticos,
+- desarrollo de la actividad,
+- uso de NotebookLM en el proceso,
+- instrumentos de evaluación, con al menos uno desarrollado,
+- medidas de atención a la diversidad,
+- propuesta de uso de la IA en el aula.
+
+Es importante recordar que una situación de aprendizaje no es una actividad aislada. Debe mantener coherencia entre lo que se pretende conseguir, lo que se hace en el aula, el producto que realiza el alumnado y la forma en que se evalúa.
+
+### Sobre el producto final
+
+El producto final puede adoptar formatos diversos, como un podcast, una infografía, un vídeo, una presentación, un cartel digital o cualquier otro formato adecuado al contexto.
+
+Lo importante no es que el producto sea vistoso, sino que tenga sentido pedagógico, sea realizable y permita evidenciar aprendizaje de forma clara.
+
+### Sobre la evaluación
+
+La evaluación debe estar conectada con lo que el alumnado hace y produce. No basta con indicar que “se evaluará con una rúbrica”; en esta actividad debe aparecer **al menos un instrumento concreto y utilizable**.
+
+Puede ser, por ejemplo:
+
+- una rúbrica,
+- una lista de cotejo,
+- una escala de observación,
+- o una tabla de criterios con indicadores.
+
+### Sobre la atención a la diversidad
+
+La propuesta debe contemplar medidas reales de inclusión y accesibilidad. Esto puede traducirse en:
+
+- diferentes formas de acceso a la información,
+- apoyos visuales o plantillas,
+- opciones diversas para expresar el aprendizaje,
+- productos finales flexibles,
+- andamiajes o ayudas graduadas,
+- agrupamientos variados,
+- adaptaciones según necesidades del alumnado.
+
+### Sobre el uso de la IA en el aula
+
+La integración de la IA debe ser ética, crítica y pedagógicamente justificada. No se trata de usarla por novedad, sino de pensar con claridad:
+
+- para qué tiene sentido usarla,
+- qué riesgos puede tener,
+- cómo se verificará la información generada,
+- qué papel mantendrá el profesorado,
+- y cómo se evitarán usos poco reflexivos o dependientes.
+
+Antes de realizar la actividad final, asegúrate de haber definido el propósito de tu cuaderno, de haber seleccionado fuentes realmente útiles y de tener una idea clara del tipo de situación de aprendizaje que quieres diseñar.
+
+* * *
+
+## Actividad final del bloque — Crea un cuaderno docente con NotebookLM y diseña una situación de aprendizaje con IA
+
+### 🎯 Objetivo global
+
+Diseñar un cuaderno docente en NotebookLM que funcione como apoyo para la creación de situaciones de aprendizaje y, a partir de este, elaborar una situación de aprendizaje real, significativa y aplicable al aula, incorporando la IA de manera ética, crítica y pedagógica.
+
+### 🪜 FASE 1 – Creación del cuaderno en NotebookLM (producto 1)
+
+Debes crear un cuaderno en NotebookLM con la función de:
+
+👉 Ayudar al profesorado a diseñar situaciones de aprendizaje a partir de fuentes documentales.
+
+### El cuaderno debe incluir:
+
+- título claro,
+- objetivo pedagógico,
+- fuentes relevantes y bien seleccionadas,
+- organización coherente de la información.
+
+### Puedes incorporar:
+
+- documentos propios,
+- textos elaborados,
+- normativa,
+- materiales didácticos,
+- artículos o recursos educativos.
+
+> ⚠️ **Importante**  
+> NotebookLM solo trabaja con las fuentes que incorporas. No genera información externa como otras herramientas de chat. Por tanto, la calidad del cuaderno dependerá directamente de las fuentes seleccionadas.
+
+### Ten en cuenta que:
+
+- algunas webs pueden no cargarse correctamente,
+- los PDF escaneados pueden dar problemas,
+- funciona mejor con textos claros y bien estructurados.
+
+### 🧩 Uso del cuaderno
+
+Utiliza NotebookLM para:
+
+- generar resúmenes,
+- formular preguntas,
+- extraer ideas clave,
+- relacionar información,
+- proponer ideas para el aula.
+
+### El cuaderno debe permitir:
+
+- proponer actividades o retos significativos,
+- sugerir instrumentos de evaluación,
+- atender a la diversidad,
+- seleccionar recursos educativos,
+- integrar un uso responsable de la IA,
+- proponer productos finales como podcasts, infografías, vídeos u otros formatos digitales para el alumnado.
+
+### 🪜 FASE 2 – Diseño de la situación de aprendizaje (producto 2)
+
+A partir del trabajo realizado con el cuaderno, diseña una situación de aprendizaje completa que incluya:
+
+- tema y nivel educativo,
+- reto o producto final,
+- objetivos didácticos,
+- desarrollo de la actividad,
+- uso de NotebookLM en el proceso,
+- instrumentos de evaluación, con al menos uno desarrollado,
+- medidas de atención a la diversidad,
+- propuesta de uso de la IA en el aula.
+
+### 🧠 Reflexión final
+
+Incluye una breve reflexión docente sobre:
+
+- cómo has utilizado NotebookLM,
+- limitaciones encontradas,
+- valor educativo de la herramienta.
+
+### 📄 Entrega
+
+Debes entregar un único documento, preferiblemente en formato Word o PDF, que incluya:
+
+- capturas de pantalla del cuaderno,
+- explicación de las fuentes utilizadas,
+- situación de aprendizaje completa,
+- reflexión final.
+
+### Orientaciones para la entrega
+
+El documento final debería incluir, como mínimo:
+
+- entre 4 y 8 fuentes bien justificadas,
+- al menos 3 capturas de pantalla del cuaderno,
+- una situación de aprendizaje desarrollada de forma completa,
+- un instrumento de evaluación utilizable,
+- y una reflexión final breve de entre 150 y 300 palabras.
+
+El enlace al cuaderno es opcional.
+
+### 📌 Recomendaciones
+
+- prioriza la calidad de las fuentes frente a la cantidad,
+- utiliza la herramienta para analizar, no copiar,
+- piensa siempre en la aplicación real en el aula.
+
+### Criterios de valoración
+
+| Aspecto | Qué se valorará |
+|---------|-----------------|
+| Coherencia global | Relación entre el objetivo del cuaderno, las fuentes seleccionadas y la situación de aprendizaje diseñada |
+| Calidad de las fuentes | Selección de fuentes relevantes, actualizadas y adecuadas al contexto educativo |
+| Uso de NotebookLM | Empleo crítico y pedagógico de la herramienta para fundamentar el diseño |
+| Claridad y viabilidad | Presentación clara y aplicable de la situación de aprendizaje propuesta |
+| Instrumento de evaluación | Inclusión y desarrollo realista de un instrumento de evaluación adecuado |
+| Atención a la diversidad | Presencia de medidas concretas para atender a la diversidad del alumnado |
+| Integración ética de la IA | Justificación y uso ético de la inteligencia artificial en la propuesta |
+
+
+
+> Esta actividad final integra todo lo trabajado en el bloque: formulación de prompts, verificación curricular, análisis documental y diseño didáctico con apoyo de IA.
 
 ---
 
 ## 📚 Recursos complementarios
+
 
 - [NotebookLM — Acceso directo](https://notebooklm.google.com)
 - [Guía de Prompt Engineering de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering) *(aplicable a cualquier herramienta)*
@@ -404,6 +670,7 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 - [Decreto 106/2022 — Currículo de Primaria CV](https://dogv.gva.es/)
 - [Decreto 107/2022 — Currículo de ESO y Bachillerato CV](https://dogv.gva.es/)
 - [Guías DUA — CAST](https://www.cast.org/impact/universal-design-for-learning-udl)
+- [Banco de rúbricas de evaluación — INTEF](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha.html)
 
 ---
 
@@ -413,9 +680,8 @@ Antes de pasar al Bloque 3, asegúrate de poder responder **sí** a todas estas 
 
 - [ ] Sé escribir un prompt completo con los 5 campos (Rol, Contexto, Tarea, Formato, Restricciones).
 - [ ] He experimentado la evolución desde un prompt simple hasta uno avanzado y he comprobado la diferencia de resultados.
-- [ ] Conozco y he practicado las técnicas de few-shot y chain-of-thought.
+- [ ] Conozco y he practicado las técnicas de few-shot y razonamiento guiado paso a paso.
 - [ ] He configurado NotebookLM con al menos un decreto curricular de mi etapa.
-- [ ] He creado un agente personalizado (Copilot GPT o Gemini Gem) adaptado a mi asignatura y estilo docente.
 - [ ] Sé diferenciar cuándo usar Copilot (creatividad, gestión) y cuándo NotebookLM (verificación curricular).
 - [ ] He creado al menos 3 fichas para mi biblioteca personal de prompts.
 - [ ] Comprendo las diferencias de fiabilidad curricular entre Copilot, Gemini, NotebookLM, Kimi y Grok.
