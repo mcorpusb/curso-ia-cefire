@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Módulo 0: ¿Qué es la IA?"
+title: "Bloque 0: ¿Qué es la IA?"
 nav_order: 2
 ---
 
-# Módulo 0: ¿Qué es la IA?
+# Bloque 0: ¿Qué es la IA?
 
 Antes de empezar a usar herramientas como Copilot, ChatGPT, Gemini o NotebookLM, conviene detenerse un momento en una pregunta básica: **qué entendemos realmente por inteligencia artificial**.
 

@@ -134,7 +134,7 @@ La siguiente tabla recoge la planificación semanal del curso, con los módulos,
 
 | Módulo                                             | Periodo                  | Entrega de actividades | Contenidos | Tareas | Videoconferencia                 |
 | -------------------------------------------------- | ------------------------ | ---------------------: | ---------: | -----: | -------------------------------- |
-| Módulo 0 · Presentación                            | —                        |                      — |     30 min | 30 min | —                                |
+| Bloque 0 · Presentación                            | —                        |                      — |     30 min | 30 min | —                                |
 | Módulo 1 · IA Colaborativa y Gestión GVA           | 22 al 28 de abril        |               28/04/26 |        2 h |    2 h | Miércoles 22/04/26 · 17:30–19:30 |
 | Módulo 2 · Prompting Avanzado y Gestión Documental | 29 de abril al 5 de mayo |               05/05/26 |        3 h |    4 h | Miércoles 29/04/26 · 17:30–19:30 |
 | Módulo 3 · Generación Multimodal                   | 6 al 12 de mayo          |               12/05/26 |        3 h |    4 h | Miércoles 06/05/26 · 17:30–19:30 |
