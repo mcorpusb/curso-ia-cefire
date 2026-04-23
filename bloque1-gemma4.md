@@ -3,7 +3,7 @@ parent: "Novedades"
 nav_order: 3
 ---
 
-# Gema 4
+# Gemma 4
 
 ## Introducción
 
