@@ -340,6 +340,12 @@ En educación, la IA puede ser una ayuda muy valiosa, pero siempre debe situarse
 
 ## 🌍 La IA en educación: marco de referencia (UNESCO)
 
+> **Resumen visual del enfoque UNESCO sobre IA en educación**
+
+<p align="center">
+    <img src="assets/img/Marco-unesco.png" alt="Marco de competencias en IA para docentes según la UNESCO" width="80%">
+</p>
+
 La incorporación de la inteligencia artificial en la educación no es solo una cuestión técnica. Implica también reflexión pedagógica, ética y profesional. Por eso, organismos internacionales como la UNESCO han desarrollado marcos de referencia para orientar a los sistemas educativos y al profesorado.
 
 La UNESCO ha publicado el **Marco de competencias para docentes en materia de IA**, que define los conocimientos, habilidades y valores que el profesorado necesita para desenvolverse con criterio en la era de la inteligencia artificial.
