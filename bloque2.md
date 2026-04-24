@@ -72,6 +72,11 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 
 > 💡Cuantos más campos rellenes, mejor será la respuesta. Para tareas sencillas (un correo, un listado), basta con Rol + Contexto + Tarea. Para situaciones de aprendizaje completas, usa los cinco campos.
 
+
+<div style="text-align:center; margin: 16px 0;">
+  <img src="/assets/img/anatomia-prompt.png" alt="Anatomía del Prompt Pedagógico" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #0001;" />
+  <br><span style="color:gray; font-size:0.95em;">Anatomía visual del prompt pedagógico</span>
+</div>
 ---
 
 ## 2.2 · Técnicas avanzadas de prompting
