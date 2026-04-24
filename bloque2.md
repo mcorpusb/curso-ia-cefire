@@ -62,15 +62,15 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 ├─────────────────────────────────────────────────────┤
 │  🏫 CONTEXTO     ¿Dónde, cuándo, con quién?         │
 ├─────────────────────────────────────────────────────┤
-│  📋 TAREA        ¿Qué tiene que hacer exactamente?   │
+│  📋 TAREA        ¿Qué tiene que hacer exactamente?  │
 ├─────────────────────────────────────────────────────┤
-│  📐 FORMATO      ¿Cómo quiero la respuesta?          │
+│  📐 FORMATO      ¿Cómo quiero la respuesta?         │
 ├─────────────────────────────────────────────────────┤
-│  🚫 RESTRICCIONES ¿Qué límites hay?                  │
+│  🚫 RESTRICCIONES ¿Qué límites hay?                 │
 └─────────────────────────────────────────────────────┘
 ```
 
-> **💡 Ejemplo Primaria:** Cuantos más campos rellenes, mejor será la respuesta. Para tareas sencillas (un correo, un listado), basta con Rol + Contexto + Tarea. Para situaciones de aprendizaje completas, usa los cinco campos.
+> 💡Cuantos más campos rellenes, mejor será la respuesta. Para tareas sencillas (un correo, un listado), basta con Rol + Contexto + Tarea. Para situaciones de aprendizaje completas, usa los cinco campos.
 
 ---
 
@@ -80,7 +80,7 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 
 En lugar de dar solo la instrucción, le proporcionas **uno o dos ejemplos** del resultado esperado para que la IA entienda el patrón:
 
-### 🏆 Prompt de Oro: Generar criterios de evaluación con few-shot
+### 🧩 Prompt: Generar criterios de evaluación con few-shot
 
 ```text
 Actúa como un especialista en evaluación educativa alineada con la LOMLOE.
@@ -104,7 +104,56 @@ los saberes básicos del Bloque 2: "Las sociedades medievales".
 Restricciones: No inventes saberes básicos que no estén en el currículo. Si no 
 estás seguro, indícalo.
 ```
+> 🧠 **Plantilla reutilizable**
+> Este prompt te servirá para cualquier etapa educativa (Infantil, Primaria, ESO, FP, EOI). Guárdalo y reutilízalo.
+### 🏆 Prompt genérico para criterios de evaluación (LOMLOE)
+```text
+ROL
+Actúa como un especialista en evaluación educativa alineada con la LOMLOE, con conocimiento del currículo oficial vigente en [ETAPA EDUCATIVA] de la [COMUNIDAD AUTÓNOMA].
 
+CONTEXTO
+Necesito criterios de evaluación para [CURSO/NIVEL], en el área/materia de [ÁREA/MÓDULO].  
+Sigo la normativa: [DECRETO / LEY / CURRÍCULO OFICIAL].
+
+EJEMPLO DE FORMATO (respétalo exactamente)
+
+- Saberes básicos: "[EJEMPLO DE SABER]"
+- Criterio de evaluación: "[EJEMPLO DE CRITERIO]"
+- Indicador de logro: "[EJEMPLO DE INDICADOR]"
+
+TAREA
+Genera [NÚMERO] criterios de evaluación siguiendo exactamente el formato del ejemplo para los saberes básicos de: "[BLOQUE / UNIDAD / CONTENIDO]".
+
+FORMATO
+Lista estructurada con los tres elementos:
+
+- Saberes básicos  
+- Criterio de evaluación  
+- Indicador de logro  
+
+RESTRICCIONES
+
+- No inventes saberes básicos que no estén en el currículo oficial.  
+- Si no estás seguro de algún elemento, indícalo explícitamente.  
+- Utiliza lenguaje claro, evaluable y coherente con la LOMLOE.  
+- Mantén coherencia entre saber, criterio e indicador.  
+```
+
+### ⚡ Uso rápido
+1. Sustituye los campos entre [ ]  
+2. Copia el prompt en Copilot / ChatGPT / Gemini  
+3. Revisa el resultado (especialmente los saberes básicos)  
+4. Si es necesario, refina con:  
+   - "Adáptalo a alumnado con NEAE"  
+   - "Reduce a lenguaje más sencillo"  
+   - 
+### 🔁 Adaptación por etapas
+
+- **Infantil:** usa indicadores de desarrollo / observación en lugar de criterios formales  
+- **Primaria:** referencia el Decreto 106/2022 (CV)  
+- **ESO/Bach:** utiliza el Decreto 107/2022  
+- **FP:** adapta el prompt a resultados de aprendizaje y criterios de evaluación del módulo.
+- **EOI:** especifica nivel (A2, B1, B2…) y destreza (comprensión, expresión, interacción)  
 
 ### 2.2.2 · Razonamiento guiado paso a paso
 
@@ -134,7 +183,7 @@ Paso 6: Propón un instrumento de evaluación (rúbrica o lista de cotejo).
 Formato: Desarrolla cada paso en un apartado numerado con encabezado claro.
 ```
 
-> **🚀 Reto Secundaria/FP:** Adapta el prompt anterior para un módulo de **Formación y Orientación Laboral (FOL)** en un CFGM. Cambia la SA a *"Mi primer contrato de trabajo"* y añade como restricción: *"Las actividades deben incluir análisis de un contrato real (anonimizado)"*.
+> **🚀 Secundaria/FP:** Adapta el prompt anterior para un módulo de **Formación y Orientación Laboral (FOL)** en un CFGM. Cambia la SA a *"Mi primer contrato de trabajo"* y añade como restricción: *"Las actividades deben incluir análisis de un contrato real (anonimizado)"*.
 
 ### 2.2.3 · Prompt de refinamiento iterativo
 
@@ -186,9 +235,13 @@ Revisar críticamente lo que genera no es opcional, sino parte del uso profesion
 | Decreto 108/2022 (currículo FP CV) | [DOGV](https://dogv.gva.es/) |
 | LOMLOE (Ley Orgánica 3/2020) | [BOE](https://www.boe.es/) |
 | Marco DUA (guía CAST) | [cast.org](https://www.cast.org/) |
+| Instrucciones de inicio de curso para Infantil y Primaria | [Instrucciones de inicio de curso para Infantil y Primaria](https://ceice.gva.es/es/web/ordenacion-academica/primaria/instrucciones-de-funcionamiento?utm_source=chatgpt.com) |
+| Instrucciones de inicio de curso para Secundaria y Bachillerato | [Instrucciones de inicio de curso para Secundaria y Bachillerato](https://ceice.gva.es/es/web/ordenacion-academica/secundaria/normativa/instrucciones-de-inicio-de-curso) |
+| Instrucciones de inicio de curso para FP | [Instrucciones de inicio de curso para FP](https://ceice.gva.es/va/web/formacion-profesional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos) |
 
-4. Espera a que NotebookLM **procese** los documentos (puede tardar 1-2 minutos).
-5. Ahora ya puedes hacer preguntas y la IA responderá **exclusivamente** a partir de tus fuentes.
+
+1. Espera a que NotebookLM **procese** los documentos (puede tardar 1-2 minutos).
+2. Ahora ya puedes hacer preguntas y la IA responderá **exclusivamente** a partir de tus fuentes.
 
 > **⚠️ Seguridad GVA:** NotebookLM es un producto de Google y **no forma parte del entorno corporativo de la GVA**. Úsalo **solo con documentos públicos** (legislación, currículos publicados en el DOGV). **Nunca subas documentos internos del centro con datos del alumnado.**
 
