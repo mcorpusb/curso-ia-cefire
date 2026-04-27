@@ -28,11 +28,11 @@ Mientras tanto, céntrate en completar el bloque actual.
 
 Al finalizar este bloque serás capaz de:
 
-1. **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, posicionando a la IA como experta pedagógica alineada con tus necesidades educativas.
-2. Aplicar técnicas de razonamiento guiado paso a paso y **few-shot prompting** en contextos pedagógicos.
-3. Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo.
-4. Comparar la calidad de las respuestas curriculares entre **Copilot**, **Gemini**, **NotebookLM**, **Kimi** y **Grok**.
-5. Crear una **biblioteca personal de prompts** reutilizables para tu área y etapa educativa.
+- **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, posicionando a la IA como experta pedagógica alineada con tus necesidades educativas
+- Aplicar técnicas de razonamiento guiado paso a paso y **few-shot prompting** en contextos pedagógicos.
+- Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo.
+- Comparar la calidad de las respuestas curriculares entre **Copilot**, **Gemini**, **NotebookLM**, **Kimi** y **Grok**.
+- Crear una **biblioteca personal de prompts** reutilizables para tu área y etapa educativa.
 
 > **⚠️ Seguridad GVA:** En este bloque trabajaremos con documentos curriculares **públicos** (DOGV, BOE). Aun así, recuerda: si subes documentos internos del centro (PEC, PGA, actas) a NotebookLM u otras herramientas externas, **anonimiza previamente** cualquier dato personal.
 
@@ -75,9 +75,9 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 
 <div style="text-align:center; margin: 16px 0;">
   <img src="/assets/img/anatomia-prompt.png" alt="Anatomía del Prompt Pedagógico" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #0001;" />
-  <br><span style="color:gray; font-size:0.95em;">Anatomía visual del prompt pedagógico</span>
+
 </div>
----
+
 
 ## 2.2 · Técnicas avanzadas de prompting
 
@@ -145,13 +145,13 @@ RESTRICCIONES
 ```
 
 ### ⚡ Uso rápido
-1. Sustituye los campos entre [ ]  
-2. Copia el prompt en Copilot / ChatGPT / Gemini  
-3. Revisa el resultado (especialmente los saberes básicos)  
-4. Si es necesario, refina con:  
+- Sustituye los campos entre [ ]  
+- Copia el prompt en Copilot / ChatGPT / Gemini  
+- Revisa el resultado (especialmente los saberes básicos)  
+- Si es necesario, refina con:  
    - "Adáptalo a alumnado con NEAE"  
    - "Reduce a lenguaje más sencillo"  
-   - 
+  
 ### 🔁 Adaptación por etapas
 
 - **Infantil:** usa indicadores de desarrollo / observación en lugar de criterios formales  
@@ -164,7 +164,7 @@ RESTRICCIONES
 
 Pides a la IA que **organice la respuesta paso a paso antes de redactar la propuesta final**. Esto es especialmente útil para diseñar situaciones de aprendizaje complejas:
 
-### 🏆 Prompt de Oro: Situación de aprendizaje paso a paso
+### 🧩 Prompt de Oro: Situación de aprendizaje paso a paso
 
 ```text
 Actúa como un docente experto en diseño de situaciones de aprendizaje (SA) 
@@ -188,7 +188,42 @@ Paso 6: Propón un instrumento de evaluación (rúbrica o lista de cotejo).
 Formato: Desarrolla cada paso en un apartado numerado con encabezado claro.
 ```
 
-> **🚀 Secundaria/FP:** Adapta el prompt anterior para un módulo de **Formación y Orientación Laboral (FOL)** en un CFGM. Cambia la SA a *"Mi primer contrato de trabajo"* y añade como restricción: *"Las actividades deben incluir análisis de un contrato real (anonimizado)"*.
+### 🏆 Prompt genérico: Situación de aprendizaje paso a paso
+
+```text
+
+Actúa como un docente experto en diseño de situaciones de aprendizaje (SA) según la LOMLOE, con conocimiento del currículo oficial vigente en **[COMUNIDAD AUTÓNOMA]** para **[ETAPA EDUCATIVA]**.
+
+**Contexto:**
+[CURSO/NIVEL] de **[ETAPA EDUCATIVA]**, área/materia/módulo de **[ÁREA / MATERIA / MÓDULO]**.
+Centro **[TIPO DE CENTRO]** situado en **[LOCALIDAD / PROVINCIA / COMUNIDAD AUTÓNOMA]**.
+Grupo de **[NÚMERO]** alumnos/as, con **[CARACTERÍSTICAS RELEVANTES DEL GRUPO: NEAE, incorporación tardía, diversidad lingüística, altas capacidades, etc.]**.
+Temporalización aproximada: **[NÚMERO DE SESIONES]** sesiones de **[DURACIÓN]** minutos.
+
+**Tarea:**
+Diseña una situación de aprendizaje titulada **"[TÍTULO DE LA SA]"** siguiendo estos pasos. Organiza primero la respuesta paso a paso antes de redactar la propuesta final:
+
+**Paso 1:** Identifica las competencias específicas del área/materia/módulo que se trabajan.
+**Paso 2:** Selecciona los saberes básicos relacionados.
+**Paso 3:** Define los criterios de evaluación.
+**Paso 4:** Describe la secuencia de actividades, con un mínimo de **[NÚMERO]** sesiones.
+**Paso 5:** Indica las adaptaciones DUA y las medidas de atención a la diversidad para **[PERFIL DEL ALUMNADO / NECESIDADES DETECTADAS]**.
+**Paso 6:** Propón un instrumento de evaluación: **[RÚBRICA / LISTA DE COTEJO / ESCALA DE OBSERVACIÓN]**.
+
+**Formato:**
+Desarrolla cada paso en un apartado numerado con encabezado claro.
+Incluye la secuencia de actividades en una tabla con las columnas:
+**[Sesión · Actividad · Agrupamiento · Recursos · Evidencia de aprendizaje · Evaluación]**.
+
+```
+>**🚀 Restricciones:**
+
+* Ajusta la propuesta a la LOMLOE y al currículo de **[COMUNIDAD AUTÓNOMA]**.
+* No inventes criterios de evaluación si no estás seguro: indica qué elementos deben verificarse en el currículo oficial.
+* Propón actividades realistas para un aula de **[ETAPA / NIVEL]**.
+* Incluye medidas inclusivas y accesibles.
+* Evita recursos de pago o difíciles de conseguir.
+
 
 ### 2.2.3 · Prompt de refinamiento iterativo
 
@@ -229,9 +264,9 @@ Revisar críticamente lo que genera no es opcional, sino parte del uso profesion
 
 ### Paso a paso: configurar NotebookLM con el currículo de la CV
 
-1. Accede a [notebooklm.google.com](https://notebooklm.google.com) con una cuenta de Google.
-2. Crea un **nuevo notebook** y ponle un nombre descriptivo: *"Currículo LOMLOE – Primaria CV"*.
-3. Sube las **fuentes**. Puedes añadir hasta 50 documentos. Fuentes recomendadas:
+- Accede a [notebooklm.google.com](https://notebooklm.google.com) con una cuenta de Google.
+- Crea un **nuevo notebook** y ponle un nombre descriptivo: *"Currículo LOMLOE – Primaria CV"*.
+- Sube las **fuentes**. Puedes añadir hasta 50 documentos. Fuentes recomendadas:
 
 | Documento | Dónde encontrarlo |
 |:----------|:-------------------|
@@ -245,8 +280,8 @@ Revisar críticamente lo que genera no es opcional, sino parte del uso profesion
 | Instrucciones de inicio de curso para FP | [Instrucciones de inicio de curso para FP](https://ceice.gva.es/va/web/formacion-profesional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos) |
 
 
-1. Espera a que NotebookLM **procese** los documentos (puede tardar 1-2 minutos).
-2. Ahora ya puedes hacer preguntas y la IA responderá **exclusivamente** a partir de tus fuentes.
+- Espera a que NotebookLM **procese** los documentos (puede tardar 1-2 minutos).
+- Ahora ya puedes hacer preguntas y la IA responderá **exclusivamente** a partir de tus fuentes.
 
 > **⚠️ Seguridad GVA:** NotebookLM es un producto de Google y **no forma parte del entorno corporativo de la GVA**. Úsalo **solo con documentos públicos** (legislación, currículos publicados en el DOGV). **Nunca subas documentos internos del centro con datos del alumnado.**
 
