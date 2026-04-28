@@ -78,175 +78,673 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 
 </div>
 
+### Actividad 2.1 — Construyo y analizo mi primer prompt pedagógico avanzado
 
+#### Objetivo de la actividad
+
+El objetivo de esta actividad es aprender a construir un **prompt pedagógico avanzado**, adaptado a tu propia realidad docente, y comprobar cómo mejora la respuesta de la IA cuando añadimos progresivamente más información: rol, contexto, nivel, materia, formato, restricciones y criterios de calidad.
+
+No se trata solo de obtener una respuesta de la IA, sino de analizar **por qué unas respuestas son más útiles que otras** y cómo puedes reutilizar un buen prompt en tu práctica profesional.
+
+---
+
+#### Qué vas a aprender
+
+Con esta actividad aprenderás a:
+
+- diseñar un prompt desde una instrucción sencilla hasta una versión avanzada;
+- adaptar el prompt a tu etapa, nivel, materia, módulo, ámbito o idioma;
+- probar el mismo prompt en distintas herramientas de IA;
+- comparar respuestas de forma crítica;
+- identificar qué elementos del prompt mejoran la calidad de la respuesta;
+- revisar y mejorar tu prompt final para poder reutilizarlo.
+
+---
+
+#### Antes de empezar: define tu contexto docente
+
+Completa estos datos antes de redactar los prompts:
+
+- **Etapa educativa:** [Infantil / Primaria / ESO / Bachillerato / FP / EOI / otra]
+- **Nivel o curso:** [indica el nivel concreto]
+- **Materia, módulo, ámbito o idioma:** [indica tu área de trabajo]
+- **Perfil general del alumnado:** [edad, nivel, diversidad, intereses, necesidades relevantes]
+- **Tarea docente elegida:** [actividad, explicación, rúbrica, situación breve, caso práctico, dinámica oral, etc.]
+
+---
+
+## Fase 1 · Elige una tarea docente real
+
+Elige una tarea que tenga sentido en tu práctica docente. Debe ser concreta y aplicable al aula.
+
+Puedes elegir, por ejemplo:
+
+- diseñar una actividad de aula;
+- crear una situación de aprendizaje breve;
+- preparar una explicación adaptada al alumnado;
+- elaborar una rúbrica;
+- diseñar una actividad de repaso;
+- crear una dinámica de expresión oral;
+- preparar un caso práctico;
+- adaptar una actividad para alumnado con necesidades específicas;
+- generar preguntas de comprensión;
+- crear una tarea competencial.
+
+#### Ejemplos según etapa
+
+| Etapa | Ejemplo de tarea docente |
+|---|---|
+| Educación Infantil | Diseñar una actividad sensorial para trabajar las emociones. |
+| Educación Primaria | Crear una actividad manipulativa para trabajar las fracciones. |
+| ESO / Bachillerato | Diseñar una actividad de debate sobre cambio climático. |
+| Formación Profesional | Crear un caso práctico sobre atención al cliente o prevención de riesgos laborales. |
+| Escuelas Oficiales de Idiomas | Diseñar una actividad de interacción oral para alumnado de nivel B1. |
+
+---
+
+## Fase 2 · Crea cuatro versiones progresivas del prompt
+
+Vas a construir el mismo prompt en cuatro versiones. Cada versión debe mejorar la anterior.
+
+---
+
+### Versión 1 · Prompt básico
+
+Escribe una instrucción sencilla, sin rol ni mucho contexto.
+
+**Plantilla:**
+
+> Crea una actividad para trabajar **[tema o contenido]** con alumnado de **[nivel o curso]**.
+
+**Ejemplos:**
+
+- Crea una actividad para trabajar las emociones en Educación Infantil.
+- Crea una actividad para trabajar las fracciones en 5.º de Primaria.
+- Crea una actividad sobre cambio climático para 3.º de ESO.
+- Crea un caso práctico sobre atención al cliente para un ciclo formativo de Grado Medio.
+- Crea una actividad de interacción oral para alumnado de nivel B1 de inglés.
+
+---
+
+### Versión 2 · Prompt con rol
+
+Añade un rol específico para orientar mejor la respuesta de la IA.
+
+**Plantilla:**
+
+> Actúa como **[rol docente o experto]**.  
+> Crea una actividad para trabajar **[tema o contenido]** con alumnado de **[nivel o curso]**.
+
+**Ejemplos:**
+
+- Actúa como maestra de Educación Infantil especializada en desarrollo emocional. Crea una actividad para trabajar las emociones con alumnado de 5 años.
+- Actúa como maestro de Matemáticas de Educación Primaria. Crea una actividad para trabajar las fracciones en 5.º de Primaria.
+- Actúa como docente de Biología y Geología de Secundaria. Crea una actividad sobre cambio climático para 3.º de ESO.
+- Actúa como docente de Formación Profesional de la familia profesional de Comercio y Marketing. Crea un caso práctico sobre atención al cliente.
+- Actúa como profesora de inglés en una Escuela Oficial de Idiomas. Crea una actividad de interacción oral para alumnado de nivel B1.
+
+---
+
+### Versión 3 · Prompt con rol, contexto, estilo y tono
+
+Añade información sobre el contexto educativo y sobre cómo quieres que sea la respuesta.
+
+**Plantilla:**
+
+> Actúa como **[rol docente o experto]**.  
+> Estoy trabajando con alumnado de **[nivel o curso]** de **[etapa educativa]**, en **[materia/módulo/ámbito/idioma]**.  
+> El grupo tiene **[características relevantes del alumnado]**.  
+> Crea **[tipo de actividad o recurso]** para trabajar **[tema o contenido]**.  
+> Utiliza un estilo **[claro, práctico, visual, comunicativo, profesional...]** y un tono **[cercano, motivador, reflexivo, formal...]**.
+
+---
+
+### Versión 4 · Prompt pedagógico avanzado
+
+Crea una versión completa del prompt incorporando todos los elementos posibles.
+
+**Plantilla:**
+
+> Actúa como **[rol docente o experto]**.  
+> Diseña **[tipo de recurso, actividad, situación breve, caso práctico, dinámica, rúbrica...]** para **[etapa educativa]**, **[nivel o curso]**, en **[materia/módulo/ámbito/idioma]**.  
+> El grupo está formado por **[perfil general del alumnado]**.  
+> El objetivo didáctico es **[objetivo concreto]**.  
+> La propuesta debe incluir **[elementos obligatorios]**.  
+> Preséntala en formato **[tabla, ficha de aula, secuencia de actividades, rúbrica, situación de aprendizaje resumida...]**.  
+> Utiliza un estilo **[estilo deseado]** y un tono **[tono deseado]**.  
+> Ten en cuenta estas restricciones: **[duración, recursos disponibles, agrupamientos, nivel de dificultad, normativa, accesibilidad...]**.  
+> Añade adaptaciones o medidas de inclusión para **[necesidades del grupo o perfiles concretos]**.  
+> Incluye **[criterios de evaluación, indicadores de logro, lista de cotejo o rúbrica breve]**.
+
+---
+
+#### Ejemplos de prompt pedagógico avanzado por etapa
+
+**Educación Infantil**
+
+> Actúa como maestra de Educación Infantil especializada en educación emocional. Diseña una actividad para alumnado de 5 años centrada en reconocer y expresar emociones básicas. El grupo está formado por 20 niños y niñas con distintos ritmos de desarrollo y algunos con dificultades para expresar verbalmente cómo se sienten. El objetivo es que el alumnado identifique emociones como alegría, tristeza, miedo y enfado, y las relacione con situaciones cotidianas. La actividad debe incluir una dinámica inicial, una propuesta manipulativa, una puesta en común y una forma sencilla de observación docente. Preséntala en formato de ficha de aula. Utiliza un estilo claro, visual y práctico, con un tono cercano y afectivo. Ten en cuenta que debe durar 30 minutos y usar materiales sencillos. Añade medidas de apoyo visual y alternativas de expresión no verbal.
+
+**Educación Primaria**
+
+> Actúa como maestro de Matemáticas de Educación Primaria. Diseña una actividad manipulativa para trabajar las fracciones en 5.º de Primaria. El grupo está formado por 24 alumnos y alumnas con distintos niveles de competencia matemática. El objetivo es que comprendan la fracción como parte de un todo y puedan representar fracciones equivalentes. La actividad debe incluir explicación inicial, trabajo en parejas, material manipulativo, una breve puesta en común y evaluación sencilla. Preséntala en una tabla con los apartados: objetivo, desarrollo, materiales, agrupamiento, duración, atención a la diversidad y evaluación. Utiliza un estilo claro y práctico, con un tono motivador. La actividad debe poder realizarse en 45 minutos y sin recursos digitales de pago. Incluye una adaptación para alumnado con dificultades de comprensión matemática.
+
+**ESO / Bachillerato**
+
+> Actúa como docente de Geografía e Historia de Educación Secundaria. Diseña una actividad sobre cambio climático para 3.º de ESO. El grupo tiene niveles diversos de participación y comprensión lectora. El objetivo es que el alumnado identifique causas y consecuencias del cambio climático y proponga medidas de actuación desde su entorno cercano. La actividad debe incluir una introducción, análisis de información, debate guiado y producto final breve. Preséntala como una situación de aprendizaje resumida con objetivos, desarrollo, recursos, agrupamientos, producto final y criterios de evaluación. Utiliza un estilo claro y estructurado, con un tono reflexivo y motivador. Debe poder desarrollarse en dos sesiones de 55 minutos. Incluye apoyos para alumnado con dificultades de comprensión y una propuesta de ampliación.
+
+**Formación Profesional**
+
+> Actúa como docente de Formación Profesional especializado en el módulo de Atención al Cliente. Diseña un caso práctico para alumnado de un ciclo formativo de Grado Medio sobre la gestión de una reclamación de un cliente insatisfecho. El objetivo es que el alumnado practique comunicación profesional, escucha activa, resolución de conflictos y aplicación de protocolos básicos. La actividad debe incluir contexto del caso, roles del alumnado, instrucciones de trabajo, producto final esperado y una rúbrica breve. Preséntala en formato claro y aplicable en aula-taller. Utiliza un estilo práctico y orientado al entorno laboral, con un tono profesional y realista. La actividad debe durar 60 minutos y fomentar el trabajo en parejas. Añade una adaptación para alumnado con dificultades en la expresión oral.
+
+**Escuelas Oficiales de Idiomas**
+
+> Actúa como docente de inglés en una Escuela Oficial de Idiomas. Diseña una actividad de interacción oral para alumnado de nivel B1 centrada en expresar opiniones, mostrar acuerdo y desacuerdo, y justificar preferencias. El objetivo es mejorar la fluidez oral y el uso de funciones comunicativas en una situación realista. La actividad debe incluir situación comunicativa, instrucciones para el alumnado, expresiones útiles, organización de la interacción, duración aproximada y criterios de observación. Preséntala en formato de ficha de aula. Utiliza un estilo comunicativo y claro, con un tono participativo y motivador. La actividad debe poder realizarse en 30 minutos y favorecer que todo el alumnado hable. Incluye una variante de apoyo para alumnado con menor fluidez y una variante de ampliación para alumnado con mayor dominio oral.
+
+---
+
+## Fase 3 · Prueba los prompts en herramientas de IA
+
+Copia cada una de las cuatro versiones del prompt en dos o tres herramientas de IA generativa.
+
+Herramientas recomendadas:
+
+- Microsoft Copilot
+- Google Gemini
+- ChatGPT
+
+#### Instrucciones
+
+1. Usa exactamente el mismo prompt en cada herramienta.
+2. No mejores el prompt entre una herramienta y otra.
+3. Guarda la respuesta completa o una parte representativa.
+4. Si la respuesta es muy extensa, puedes resumirla, pero indica que es un resumen.
+5. Observa si la respuesta es general, concreta, creativa, práctica, estructurada o ajustada al contexto.
+
+---
+
+## Fase 4 · Registra las respuestas
+
+Organiza los resultados en una tabla como esta:
+
+| Versión del prompt | Herramienta utilizada | Resumen de la respuesta | Puntos fuertes | Limitaciones | Cambios observados respecto a la versión anterior |
+|---|---|---|---|---|---|
+| Versión 1 | Copilot |  |  |  |  |
+| Versión 1 | Gemini |  |  |  |  |
+| Versión 1 | ChatGPT |  |  |  |  |
+| Versión 2 | Copilot |  |  |  |  |
+| Versión 2 | Gemini |  |  |  |  |
+| Versión 2 | ChatGPT |  |  |  |  |
+| Versión 3 | Copilot |  |  |  |  |
+| Versión 3 | Gemini |  |  |  |  |
+| Versión 3 | ChatGPT |  |  |  |  |
+| Versión 4 | Copilot |  |  |  |  |
+| Versión 4 | Gemini |  |  |  |  |
+| Versión 4 | ChatGPT |  |  |  |  |
+
+> Si solo utilizas dos herramientas, elimina las filas que no necesites.
+
+---
+
+## Fase 5 · Analiza las diferencias
+
+Después de registrar las respuestas, analiza qué ha ocurrido al mejorar el prompt.
+
+Puedes fijarte en estos aspectos:
+
+- si las respuestas son más concretas o más generales;
+- si se adaptan mejor al nivel educativo;
+- si incluyen detalles útiles para el aula;
+- si respetan el formato solicitado;
+- si el tono se ajusta a la tarea;
+- si incorporan criterios de evaluación o indicadores;
+- si incluyen medidas de inclusión;
+- si aparecen diferencias relevantes entre herramientas.
+
+No se trata solo de decir qué respuesta te gusta más. Debes justificar cuál es más útil, aplicable y ajustada a tu contexto docente.
+
+---
+
+## Fase 6 · Mejora tu prompt final
+
+A partir del análisis anterior, revisa la versión 4 de tu prompt.
+
+Puedes mejorarla añadiendo:
+
+- más información sobre el grupo;
+- un formato de salida más claro;
+- restricciones más concretas;
+- criterios de evaluación mejor definidos;
+- medidas de inclusión más realistas;
+- indicaciones sobre duración, materiales o agrupamientos;
+- una petición explícita para que la IA no invente datos curriculares si no está segura.
+
+#### Prompt final revisado
+
+Pega aquí tu versión final mejorada:
+
+> [Escribe aquí tu prompt pedagógico avanzado final]
+
+---
+
+## Reflexión final
+
+Responde de forma breve a estas preguntas:
+
+1. ¿Qué cambió al añadir un rol?
+2. ¿Qué cambió al concretar el contexto educativo?
+3. ¿Qué efecto tuvo indicar estilo y tono?
+4. ¿Qué mejoró al pedir un formato concreto?
+5. ¿Qué restricciones fueron más útiles?
+6. ¿Qué diferencias observaste entre Copilot, Gemini y ChatGPT?
+7. ¿Qué herramienta ofreció una respuesta más útil para tu caso?
+8. ¿Qué versión del prompt fue más eficaz?
+9. ¿Qué mejorarías en tu prompt final?
+10. ¿Cómo podrías reutilizar este prompt en tu práctica docente?
+11. ¿Has observado diferencias importantes en las respuestas según el tipo de prompt utilizado?
+
+---
+
+## Entregable
+
+Entrega un documento en PDF que incluya:
+
+- tu contexto docente;
+- la tarea docente elegida;
+- las cuatro versiones del prompt;
+- las respuestas o resúmenes obtenidos en las herramientas utilizadas;
+- la tabla de registro;
+- el análisis comparativo;
+- la versión final revisada del prompt;
+- la reflexión final.
+
+---
+
+## Criterios de valoración
+
+| Aspecto | Qué se valorará |
+|---|---|
+| Definición del contexto docente | Claridad al indicar etapa, nivel, materia/módulo/idioma y perfil del alumnado. |
+| Progresión del prompt | Mejora visible desde la versión básica hasta la versión avanzada. |
+| Adecuación pedagógica | Relación entre la tarea elegida, el objetivo didáctico y el contexto real del aula. |
+| Uso crítico de herramientas | Comparación razonada de las respuestas obtenidas, no simple copia. |
+| Análisis comparativo | Identificación de puntos fuertes, limitaciones y cambios entre versiones. |
+| Mejora del prompt final | Revisión consciente del prompt a partir de los resultados observados. |
+| Atención a la diversidad | Inclusión de medidas realistas y aplicables. |
+| Reflexión final | Capacidad para valorar cómo reutilizar el prompt en la práctica docente. |
+
+---
+
+## Checklist de autoevaluación
+
+Antes de entregar, comprueba que puedes responder “sí” a estas preguntas:
+
+- [ ] He definido mi contexto docente.
+- [ ] He elegido una tarea realista y aplicable a mi práctica.
+- [ ] He creado cuatro versiones progresivas del mismo prompt.
+- [ ] He probado los prompts en dos o tres herramientas de IA.
+- [ ] He registrado las respuestas de forma ordenada.
+- [ ] He comparado las respuestas de manera crítica.
+- [ ] He identificado qué elementos del prompt mejoran la respuesta.
+- [ ] He revisado y mejorado mi prompt final.
+- [ ] He incluido medidas de atención a la diversidad.
+- [ ] He redactado una reflexión final personal y útil.
+
+---
+
+💡 **Idea clave:** no existe un prompt único válido para todo el profesorado. Un buen prompt pedagógico debe ajustarse al rol docente, al contexto, al nivel, a la materia y a las necesidades reales del alumnado.
+
+---
+
+💡 **Antes de avanzar…**
+
+Acabas de comprobar cómo la calidad de un prompt mejora cuando añades información progresivamente: rol, contexto, formato, restricciones…
+
+Pero aún puedes ir más allá.
+
+En muchos casos, no basta con dar instrucciones: es necesario **guiar el razonamiento de la IA** o mostrarle ejemplos del resultado esperado.
+
+👉 Para eso existen las **técnicas avanzadas de prompting**.
+
+---
 ## 2.2 · Técnicas avanzadas de prompting
 
-### 2.2.1 · Few-shot prompting (aprendizaje por ejemplos)
+Ahora que ya has construido y analizado tu primer **prompt pedagógico avanzado** en la Actividad 2.1, es momento de ir un paso más allá.
 
-En lugar de dar solo la instrucción, le proporcionas **uno o dos ejemplos** del resultado esperado para que la IA entienda el patrón:
+Hasta ahora has mejorado tus prompts añadiendo **rol, contexto, formato o restricciones**.  
+Sin embargo, en muchas situaciones educativas esto no es suficiente.
 
-### 🧩 Prompt: Generar criterios de evaluación con few-shot
+👉 A veces necesitamos:
+- mostrar a la IA cómo queremos que responda,
+- organizar mejor la respuesta,
+- o mejorar progresivamente lo que ya ha generado.
+
+Para ello existen las **técnicas avanzadas de prompting**, que te permitirán obtener respuestas más útiles, precisas y aplicables al aula.
+
+---
+
+### 2.2.1 · Few-shot prompting: enseñar con ejemplos
+
+#### ¿Qué es?
+
+El *few-shot prompting* consiste en **dar uno o varios ejemplos del resultado esperado** para que la IA imite ese formato o estilo.
+
+👉 No solo le dices qué hacer, sino **cómo hacerlo**.
+
+---
+
+#### ¿Cuándo usarlo?
+
+Utilízalo cuando:
+
+- necesitas un formato muy concreto (rúbrica, ficha, lista, criterios…);
+- la IA responde de forma demasiado general;
+- quieres coherencia en respuestas repetitivas;
+- el resultado no se ajusta a lo que necesitas en el aula.
+
+---
+
+#### Ejemplo pedagógico (adaptable)
 
 ```text
-Actúa como un especialista en evaluación educativa alineada con la LOMLOE.
-
-Contexto: Necesito criterios de evaluación para 3.º de ESO, área de Geografía 
-e Historia, Comunitat Valenciana. Sigo el Decreto 107/2022.
+Actúa como docente.
 
 Te doy un ejemplo del formato que quiero:
 
 EJEMPLO:
-- Saberes básicos: "Los climas del mundo: elementos y factores."
-- Criterio de evaluación: "Analizar y comparar los principales tipos de clima 
-  relacionándolos con su distribución geográfica, utilizando mapas temáticos y 
-  gráficos climáticos."
-- Indicador de logro: "El alumno/a identifica al menos 4 tipos de clima y los 
-  sitúa correctamente en un mapa mudo."
+- Actividad: [...]
+- Objetivo: [...]
+- Evaluación: [...]
 
-Tarea: Genera 5 criterios de evaluación siguiendo exactamente ese formato para 
-los saberes básicos del Bloque 2: "Las sociedades medievales".
-
-Restricciones: No inventes saberes básicos que no estén en el currículo. Si no 
-estás seguro, indícalo.
+Tarea: Genera 2 actividades similares para [contenido].
 ```
-> 🧠 **Plantilla reutilizable**
-> Este prompt te servirá para cualquier etapa educativa (Infantil, Primaria, ESO, FP, EOI). Guárdalo y reutilízalo.
-### 🏆 Prompt genérico para criterios de evaluación (LOMLOE)
+
+---
+
+#### Ejemplos por etapa
+
+**Educación Infantil**
 ```text
-ROL
-Actúa como un especialista en evaluación educativa alineada con la LOMLOE, con conocimiento del currículo oficial vigente en [ETAPA EDUCATIVA] de la [COMUNIDAD AUTÓNOMA].
+EJEMPLO:
+- Actividad: Juego de emociones con tarjetas
+- Objetivo: Identificar emociones básicas
+- Observación: Expresa emociones con apoyo visual
 
-CONTEXTO
-Necesito criterios de evaluación para [CURSO/NIVEL], en el área/materia de [ÁREA/MÓDULO].  
-Sigo la normativa: [DECRETO / LEY / CURRÍCULO OFICIAL].
-
-EJEMPLO DE FORMATO (respétalo exactamente)
-
-- Saberes básicos: "[EJEMPLO DE SABER]"
-- Criterio de evaluación: "[EJEMPLO DE CRITERIO]"
-- Indicador de logro: "[EJEMPLO DE INDICADOR]"
-
-TAREA
-Genera [NÚMERO] criterios de evaluación siguiendo exactamente el formato del ejemplo para los saberes básicos de: "[BLOQUE / UNIDAD / CONTENIDO]".
-
-FORMATO
-Lista estructurada con los tres elementos:
-
-- Saberes básicos  
-- Criterio de evaluación  
-- Indicador de logro  
-
-RESTRICCIONES
-
-- No inventes saberes básicos que no estén en el currículo oficial.  
-- Si no estás seguro de algún elemento, indícalo explícitamente.  
-- Utiliza lenguaje claro, evaluable y coherente con la LOMLOE.  
-- Mantén coherencia entre saber, criterio e indicador.  
+Tarea: Genera 2 actividades similares.
 ```
 
-### ⚡ Uso rápido
-- Sustituye los campos entre [ ]  
-- Copia el prompt en Copilot / ChatGPT / Gemini  
-- Revisa el resultado (especialmente los saberes básicos)  
-- Si es necesario, refina con:  
-   - "Adáptalo a alumnado con NEAE"  
-   - "Reduce a lenguaje más sencillo"  
-  
-### 🔁 Adaptación por etapas
+**ESO / Bachillerato**
+```text
+EJEMPLO:
+- Criterio: Analizar causas del cambio climático
+- Indicador: Explica 3 causas con ejemplos
 
-- **Infantil:** usa indicadores de desarrollo / observación en lugar de criterios formales  
-- **Primaria:** referencia el Decreto 106/2022 (CV)  
-- **ESO/Bach:** utiliza el Decreto 107/2022  
-- **FP:** adapta el prompt a resultados de aprendizaje y criterios de evaluación del módulo.
-- **EOI:** especifica nivel (A2, B1, B2…) y destreza (comprensión, expresión, interacción)  
+Tarea: Genera 3 criterios similares.
+```
+
+**Formación Profesional**
+```text
+EJEMPLO:
+- Situación: Cliente insatisfecho
+- Tarea: Resolver reclamación
+- Evaluación: Uso de lenguaje profesional
+
+Tarea: Genera 2 casos prácticos similares.
+```
+
+**EOI**
+```text
+EJEMPLO:
+- Situación: Debate sobre viajes
+- Función: Expresar opinión
+- Expresiones: "I think...", "In my opinion..."
+
+Tarea: Genera 2 actividades similares.
+```
+
+---
+
+#### Plantilla reutilizable
+
+```text
+Te doy un ejemplo del formato que quiero:
+
+EJEMPLO:
+[Ejemplo claro]
+
+Tarea: Genera [número] ejemplos similares sobre [contenido].
+```
+
+---
+
+#### Conexión con la Actividad 2.1
+
+👉 Vuelve a tu **prompt final** y añade un ejemplo.
+
+Esto suele hacer que la respuesta sea:
+- más estructurada,
+- más precisa,
+- más útil para el aula.
+
+---
+
+#### ⚠️ Advertencia
+
+- Un mal ejemplo genera malas respuestas.
+- El ejemplo debe ser claro, correcto y pedagógicamente válido.
+- Revisa siempre el resultado.
+
+---
 
 ### 2.2.2 · Razonamiento guiado paso a paso
 
-Pides a la IA que **organice la respuesta paso a paso antes de redactar la propuesta final**. Esto es especialmente útil para diseñar situaciones de aprendizaje complejas:
+#### ¿Qué es?
 
-### 🧩 Prompt de Oro: Situación de aprendizaje paso a paso
+Consiste en pedir a la IA que **organice la respuesta en pasos visibles** antes de generar el resultado final.
 
-```text
-Actúa como un docente experto en diseño de situaciones de aprendizaje (SA) 
-según la LOMLOE.
-
-Contexto: 2.º de Educación Primaria, área de Conocimiento del Medio Natural, 
-Social y Cultural. Centro público de Castellón, Comunitat Valenciana. 
-22 alumnos, 1 con TEA y 2 de incorporación tardía.
-
-Tarea: Diseña una situación de aprendizaje titulada "Los seres vivos de 
-nuestro patio" siguiendo estos pasos (organiza la respuesta paso a paso antes de redactar la propuesta final):
-
-Paso 1: Identifica las competencias específicas del área que se trabajan.
-Paso 2: Selecciona los saberes básicos relacionados.
-Paso 3: Define los criterios de evaluación.
-Paso 4: Describe la secuencia de actividades (mínimo 4 sesiones).
-Paso 5: Indica las adaptaciones DUA para el alumno con TEA y los alumnos 
-de incorporación tardía.
-Paso 6: Propón un instrumento de evaluación (rúbrica o lista de cotejo).
-
-Formato: Desarrolla cada paso en un apartado numerado con encabezado claro.
-```
-
-### 🏆 Prompt genérico: Situación de aprendizaje paso a paso
-
-```text
-
-Actúa como un docente experto en diseño de situaciones de aprendizaje (SA) según la LOMLOE, con conocimiento del currículo oficial vigente en **[COMUNIDAD AUTÓNOMA]** para **[ETAPA EDUCATIVA]**.
-
-**Contexto:**
-[CURSO/NIVEL] de **[ETAPA EDUCATIVA]**, área/materia/módulo de **[ÁREA / MATERIA / MÓDULO]**.
-Centro **[TIPO DE CENTRO]** situado en **[LOCALIDAD / PROVINCIA / COMUNIDAD AUTÓNOMA]**.
-Grupo de **[NÚMERO]** alumnos/as, con **[CARACTERÍSTICAS RELEVANTES DEL GRUPO: NEAE, incorporación tardía, diversidad lingüística, altas capacidades, etc.]**.
-Temporalización aproximada: **[NÚMERO DE SESIONES]** sesiones de **[DURACIÓN]** minutos.
-
-**Tarea:**
-Diseña una situación de aprendizaje titulada **"[TÍTULO DE LA SA]"** siguiendo estos pasos. Organiza primero la respuesta paso a paso antes de redactar la propuesta final:
-
-**Paso 1:** Identifica las competencias específicas del área/materia/módulo que se trabajan.
-**Paso 2:** Selecciona los saberes básicos relacionados.
-**Paso 3:** Define los criterios de evaluación.
-**Paso 4:** Describe la secuencia de actividades, con un mínimo de **[NÚMERO]** sesiones.
-**Paso 5:** Indica las adaptaciones DUA y las medidas de atención a la diversidad para **[PERFIL DEL ALUMNADO / NECESIDADES DETECTADAS]**.
-**Paso 6:** Propón un instrumento de evaluación: **[RÚBRICA / LISTA DE COTEJO / ESCALA DE OBSERVACIÓN]**.
-
-**Formato:**
-Desarrolla cada paso en un apartado numerado con encabezado claro.
-Incluye la secuencia de actividades en una tabla con las columnas:
-**[Sesión · Actividad · Agrupamiento · Recursos · Evidencia de aprendizaje · Evaluación]**.
-
-```
->**🚀 Restricciones:**
-
-* Ajusta la propuesta a la LOMLOE y al currículo de **[COMUNIDAD AUTÓNOMA]**.
-* No inventes criterios de evaluación si no estás seguro: indica qué elementos deben verificarse en el currículo oficial.
-* Propón actividades realistas para un aula de **[ETAPA / NIVEL]**.
-* Incluye medidas inclusivas y accesibles.
-* Evita recursos de pago o difíciles de conseguir.
-
-
-### 2.2.3 · Prompt de refinamiento iterativo
-
-No siempre el primer resultado es perfecto. Estas **instrucciones de seguimiento** te permiten mejorar la respuesta sin reescribir todo desde cero:
-
-| Necesidad | Prompt de seguimiento |
-|:----------|:----------------------|
-| Más detalle | *"Amplía la actividad 3 con instrucciones paso a paso para el profesor/a."* |
-| Simplificar | *"Reescribe la SA para que un docente novel la pueda aplicar sin experiencia previa en ABP."* |
-| Otra etapa | *"Ahora adapta toda la SA para 4.º de ESO, manteniendo el mismo enfoque."* |
-| Formato diferente | *"Convierte la secuencia de actividades en una tabla con columnas [Sesión · Actividad · Agrupamiento · Material · Evaluación]."* |
-| Normativa específica | *"Revisa la SA y comprueba que los criterios de evaluación coinciden literalmente con los del Decreto 106/2022 del DOGV."* |
-| Inclusión | *"Añade una adaptación específica para un alumno/a con discapacidad visual."* |
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💭 <strong>Para pensar</strong><br>
-Las respuestas de la IA no son neutras: dependen de los datos con los que ha sido entrenada.
-Revisar críticamente lo que genera no es opcional, sino parte del uso profesional de estas herramientas.
-
-</div>
+👉 No se trata de que “piense mejor”, sino de que **estructure mejor la respuesta**.
 
 ---
+
+#### ¿Cuándo usarlo?
+
+- diseño de situaciones de aprendizaje;
+- tareas complejas;
+- necesidad de coherencia entre objetivos, actividades y evaluación;
+- cuando la respuesta es desordenada o superficial.
+
+---
+
+#### Ejemplo
+
+```text
+Actúa como docente.
+
+Diseña una actividad siguiendo estos pasos:
+
+Paso 1: Objetivo
+Paso 2: Desarrollo
+Paso 3: Recursos
+Paso 4: Evaluación
+
+Formato: desarrolla cada paso claramente.
+```
+
+---
+
+#### Plantilla reutilizable
+
+```text
+Tarea: Diseña [actividad] siguiendo estos pasos:
+
+Paso 1: [...]
+Paso 2: [...]
+Paso 3: [...]
+
+Formato: apartados claros y ordenados.
+```
+
+---
+
+#### Por qué es útil en educación
+
+Permite:
+
+- organizar mejor las propuestas;
+- alinear objetivos, actividades y evaluación;
+- facilitar la aplicación en el aula;
+- evitar respuestas incoherentes.
+
+---
+
+#### ⚠️ Advertencia
+
+- No pidas “explica tu razonamiento interno”.
+- Pide estructura visible (pasos, apartados, fases).
+
+---
+
+### 2.2.3 · Refinamiento iterativo: mejorar sin empezar de cero
+
+#### ¿Qué es?
+
+Consiste en mejorar una respuesta mediante nuevas instrucciones, sin rehacer el prompt desde cero.
+
+👉 Es la forma más realista de trabajar con IA en el aula.
+
+---
+
+#### ¿Cuándo usarlo?
+
+- cuando la respuesta es útil pero incompleta;
+- cuando necesitas adaptar a otro nivel;
+- cuando quieres mejorar claridad, inclusión o evaluación.
+
+---
+
+#### Prompts de seguimiento útiles
+
+| Necesidad | Prompt |
+|----------|-------|
+| Más detalle | "Amplía la actividad con instrucciones paso a paso." |
+| Simplificar | "Adáptalo a alumnado con menor nivel." |
+| Inclusión | "Añade adaptaciones para NEAE." |
+| Evaluación | "Incluye una rúbrica sencilla." |
+| Otra etapa | "Adáptalo a 2.º de Primaria / FP / B2." |
+| Duración | "Reduce a una sesión de 45 minutos." |
+| Formato | "Convierte la respuesta en tabla." |
+| Currículo | "Ajusta al currículo oficial." |
+
+---
+
+#### Conexión con la Actividad 2.1
+
+👉 Después de comparar respuestas:
+
+No te quedes con una.
+
+👉 Mejora tu prompt usando estas instrucciones.
+
+---
+
+#### ⚠️ Advertencia
+
+- La primera respuesta rara vez es la mejor.
+- La calidad final depende de tu criterio docente.
+
+---
+
+### 2.2.4 · Cómo elegir la técnica adecuada
+
+| Necesidad | Técnica recomendada | Ejemplo |
+|----------|------------------|--------|
+| Imitar formato | Few-shot | Rúbrica |
+| Diseñar algo complejo | Razonamiento guiado | Situación de aprendizaje |
+| Mejorar respuesta | Refinamiento iterativo | Añadir evaluación |
+| Adaptar a diversidad | Refinamiento iterativo | Adaptaciones |
+| Verificar currículo | NotebookLM | Revisión normativa |
+
+---
+
+### 2.2.5 · Mini-práctica opcional
+
+Vuelve a tu prompt final de la Actividad 2.1 y mejora una versión:
+
+Elige una opción:
+
+- añade un ejemplo (few-shot);
+- añade pasos (razonamiento guiado);
+- mejora con un prompt de seguimiento.
+
+👉 Compara el resultado con el anterior.
+
+---
+
+## 💡 Idea clave
+
+La calidad de la respuesta **no depende solo de la herramienta**, sino de cómo defines y guías la tarea.
+
+👉 La IA propone.  
+👉 El criterio pedagógico es siempre del docente.
+
+---
+
+---
+
+## 🧩 Prompt pedagógico avanzado reutilizable
+
+Después de trabajar con distintos ejemplos y técnicas, puedes utilizar esta plantilla como base para crear prompts en tu práctica docente.
+
+👉 Adáptala a tu contexto y reutilízala cuando lo necesites.
+
+---
+
+**Plantilla general**
+
+Actúa como **[rol docente o experto]**.
+
+Diseña **[tipo de recurso: actividad, situación de aprendizaje, explicación, rúbrica, caso práctico…]** para **[etapa educativa]**, **[nivel o curso]**, en **[materia/módulo/ámbito/idioma]**.
+
+El grupo está formado por **[perfil del alumnado: nivel, diversidad, necesidades, características relevantes]**.
+
+El objetivo es **[objetivo didáctico concreto]**.
+
+La propuesta debe incluir:
+- **[elementos clave: actividades, fases, producto final, evaluación…]**
+
+Preséntala en formato **[tabla, ficha, secuencia, rúbrica…]**.
+
+Utiliza un estilo **[claro, práctico, visual, comunicativo…]** y un tono **[cercano, motivador, profesional…]**.
+
+Ten en cuenta estas restricciones:
+- **[duración, recursos, contexto, normativa, condiciones del aula…]**
+
+Añade medidas de atención a la diversidad para:
+- **[NEAE, ritmos distintos, dificultades, ampliación…]**
+
+Incluye:
+- **[criterios de evaluación, indicadores de logro o instrumento de evaluación]**
+
+---
+
+💡 **Cómo mejorarlo aún más**
+
+Puedes combinar esta plantilla con:
+
+- un ejemplo → *few-shot prompting*  
+- una estructura por pasos → *razonamiento guiado*  
+- ajustes posteriores → *refinamiento iterativo*  
+
+---
+
+💡 **Idea clave**
+
+No existe un prompt único válido para todo.
+
+👉 Un buen prompt pedagógico es el que se adapta a:
+- tu contexto,
+- tu alumnado,
+- y tu objetivo didáctico.
+
 
 ## 2.3 · NotebookLM: "entrena" a la IA con el currículo oficial
 
@@ -548,7 +1046,7 @@ Diseñar una actividad para practicar vocabulario y funciones comunicativas.
 
 A partir de la misma tarea docente, crea cuatro versiones del prompt. Cada versión debe mejorar o ampliar la anterior.
 
-##### Versión 1 · Prompt sencillo
+Versión 1 · Prompt sencillo
 
 Escribe un prompt que contenga solo la instrucción, sin asignar ningún rol ni añadir contexto.
 
@@ -566,7 +1064,7 @@ Crea un caso práctico sobre atención al cliente para un ciclo formativo de Gra
 
 Crea una actividad de expresión oral para alumnado de nivel B1 de inglés.
 
-##### Versión 2 · Prompt con rol
+Versión 2 · Prompt con rol
 
 Escribe un prompt que incluya un rol específico para el modelo.
 
@@ -575,7 +1073,7 @@ Ejemplo general:
 Actúa como docente de [etapa/materia/módulo/idioma]. Crea una actividad para trabajar [tema] con alumnado de [nivel].
 ```
 
-##### Ejemplos adaptados:
+Ejemplos adaptados:
 Actúa como maestro de Ciencias Naturales de Educación Primaria. Crea una actividad para trabajar la fotosíntesis en 5.º de Primaria.
 
 Actúa como profesora de Matemáticas de Secundaria. Crea una actividad para explicar las ecuaciones de primer grado en 2.º de ESO.
@@ -586,7 +1084,7 @@ Crea un caso práctico sobre atención al cliente para un ciclo formativo de Gra
 
 Actúa como profesora de inglés en una Escuela Oficial de Idiomas. Crea una actividad de expresión oral para alumnado de nivel B1.
 
-##### Versión 3 · Prompt con rol, estilo y tono
+Versión 3 · Prompt con rol, estilo y tono
 
 Escribe un prompt que incluya rol, estilo y tono.
 
@@ -596,7 +1094,7 @@ Ejemplo general:
 Actúa como docente de [etapa/materia/módulo/idioma]. Crea una actividad para trabajar [tema] con alumnado de [nivel]. Utiliza un estilo claro, práctico y estructurado, con un tono cercano y motivador.
 ```
 
-##### Ejemplos adaptados:
+Ejemplos adaptados:
 
 Actúa como maestro de Ciencias Naturales de Educación Primaria. Crea una actividad para trabajar la fotosíntesis en 5.º de Primaria. Utiliza un estilo claro, práctico y visual, con un tono cercano y motivador.
 
@@ -606,7 +1104,7 @@ Actúa como docente de Formación Profesional. Crea una simulación profesional 
 
 Actúa como profesora de francés en una Escuela Oficial de Idiomas. Crea una actividad de interacción oral para alumnado de nivel A2. Utiliza un estilo comunicativo y dinámico, con un tono amable y participativo.
 
-##### Versión 4 · Prompt pedagógico avanzado
+Versión 4 · Prompt pedagógico avanzado
 
 Crea una versión final más completa, incorporando los elementos de un prompt pedagógico avanzado.
 
@@ -652,8 +1150,8 @@ Actúa como docente de inglés en una Escuela Oficial de Idiomas. Diseña una ac
 
 Copia cada una de las cuatro versiones del prompt en las tres herramientas:
 
-- Microsoft Copilot
-- Gemini / ChatGPT
+Microsoft Copilot
+Google Gemini / ChatGPT
 
 Debes utilizar el mismo prompt en las dos/tres herramientas para poder comparar las respuestas.
 
