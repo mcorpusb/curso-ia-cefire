@@ -395,8 +395,6 @@ Antes de entregar, comprueba que puedes responder “sí” a estas preguntas:
 
 ---
 
----
-
 💡 **Antes de avanzar…**
 
 Acabas de comprobar cómo la calidad de un prompt mejora cuando añades información progresivamente: rol, contexto, formato, restricciones…
