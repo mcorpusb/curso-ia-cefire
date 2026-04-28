@@ -548,7 +548,7 @@ Diseñar una actividad para practicar vocabulario y funciones comunicativas.
 
 A partir de la misma tarea docente, crea cuatro versiones del prompt. Cada versión debe mejorar o ampliar la anterior.
 
-Versión 1 · Prompt sencillo
+##### Versión 1 · Prompt sencillo
 
 Escribe un prompt que contenga solo la instrucción, sin asignar ningún rol ni añadir contexto.
 
@@ -566,7 +566,7 @@ Crea un caso práctico sobre atención al cliente para un ciclo formativo de Gra
 
 Crea una actividad de expresión oral para alumnado de nivel B1 de inglés.
 
-Versión 2 · Prompt con rol
+##### Versión 2 · Prompt con rol
 
 Escribe un prompt que incluya un rol específico para el modelo.
 
@@ -575,7 +575,7 @@ Ejemplo general:
 Actúa como docente de [etapa/materia/módulo/idioma]. Crea una actividad para trabajar [tema] con alumnado de [nivel].
 ```
 
-Ejemplos adaptados:
+##### Ejemplos adaptados:
 Actúa como maestro de Ciencias Naturales de Educación Primaria. Crea una actividad para trabajar la fotosíntesis en 5.º de Primaria.
 
 Actúa como profesora de Matemáticas de Secundaria. Crea una actividad para explicar las ecuaciones de primer grado en 2.º de ESO.
@@ -586,7 +586,7 @@ Crea un caso práctico sobre atención al cliente para un ciclo formativo de Gra
 
 Actúa como profesora de inglés en una Escuela Oficial de Idiomas. Crea una actividad de expresión oral para alumnado de nivel B1.
 
-Versión 3 · Prompt con rol, estilo y tono
+##### Versión 3 · Prompt con rol, estilo y tono
 
 Escribe un prompt que incluya rol, estilo y tono.
 
@@ -596,7 +596,7 @@ Ejemplo general:
 Actúa como docente de [etapa/materia/módulo/idioma]. Crea una actividad para trabajar [tema] con alumnado de [nivel]. Utiliza un estilo claro, práctico y estructurado, con un tono cercano y motivador.
 ```
 
-Ejemplos adaptados:
+##### Ejemplos adaptados:
 
 Actúa como maestro de Ciencias Naturales de Educación Primaria. Crea una actividad para trabajar la fotosíntesis en 5.º de Primaria. Utiliza un estilo claro, práctico y visual, con un tono cercano y motivador.
 
@@ -606,7 +606,7 @@ Actúa como docente de Formación Profesional. Crea una simulación profesional 
 
 Actúa como profesora de francés en una Escuela Oficial de Idiomas. Crea una actividad de interacción oral para alumnado de nivel A2. Utiliza un estilo comunicativo y dinámico, con un tono amable y participativo.
 
-Versión 4 · Prompt pedagógico avanzado
+##### Versión 4 · Prompt pedagógico avanzado
 
 Crea una versión final más completa, incorporando los elementos de un prompt pedagógico avanzado.
 
@@ -652,8 +652,8 @@ Actúa como docente de inglés en una Escuela Oficial de Idiomas. Diseña una ac
 
 Copia cada una de las cuatro versiones del prompt en las tres herramientas:
 
-Microsoft Copilot
-Google Gemini / ChatGPT
+- Microsoft Copilot
+- Gemini / ChatGPT
 
 Debes utilizar el mismo prompt en las dos/tres herramientas para poder comparar las respuestas.
 
