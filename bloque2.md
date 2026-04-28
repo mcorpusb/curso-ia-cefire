@@ -959,26 +959,10 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 3. Comenta la ficha de, al menos, **2 compañeros/as** con sugerencias de mejora.
 4. **Entregable:** las 3 fichas en un documento y los comentarios en el foro.
 
-### Actividad 2.4 — Comparativa de respuestas curriculares *(grupal, sesión síncrona)*
 
-1. En grupos de 3-4, elegid un **área y curso concreto**.
-2. Formulad el mismo prompt curricular y lanzadlo en **Copilot**, **Gemini** y **NotebookLM**.
-3. Completad esta tabla:
-
-| Criterio (1-5) | Copilot | Gemini | NotebookLM |
-|:----------------|:-------:|:------:|:----------:|
-| Precisión de competencias específicas | | | |
-| Exactitud de saberes básicos | | | |
-| Formulación de criterios de evaluación | | | |
-| Cita de fuentes / referencias | | | |
-| Utilidad global para programar | | | |
-
-4. Tras completar la tabla, en grupo identificad al menos dos aciertos y dos limitaciones de cada herramienta (Copilot, Gemini y NotebookLM). Anotadlo de forma breve y concreta.
-5. **Entregable:** tabla comparativa y síntesis grupal con los aciertos y limitaciones de cada herramienta (máx. 200 palabras) en el foro.
 
 * * *
 
----
 
 ## Antes de la actividad final: del análisis documental al diseño didáctico
 
