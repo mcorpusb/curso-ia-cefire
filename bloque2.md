@@ -63,7 +63,7 @@ ROL + CONTEXTO + TAREA + FORMATO + RESTRICCIONES
 
 
 <div style="text-align:center; margin: 16px 0;">
-  <img src="/assets/img/anatomia-prompt.png" alt="Anatomía del Prompt Pedagógico" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #0001;" />
+  <img src="assets/img/anatomia-prompt.png" alt="Anatomía del Prompt Pedagógico" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #0001;" />
 
 </div>
 
