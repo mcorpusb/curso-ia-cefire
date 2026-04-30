@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: "Bloque 3: Generación Multimodal"
@@ -400,7 +401,43 @@ El verdadero valor de estas herramientas aparece cuando las combinas dentro de u
 
 > **🚀 Reto Secundaria/FP:** Diseña una SA de tu área combinando al menos **3 recursos multimodales IA**. Explica en una tabla como la anterior qué herramienta usarías, en qué sesión y qué principio DUA atiende cada recurso.
 
+--- 
+
+### Uso ético de audio y vídeo con IA en el aula
+
+La generación de audio y vídeo con IA abre muchas posibilidades educativas, pero también plantea riesgos importantes relacionados con la identidad digital, la privacidad y la confianza. No basta con evitar datos personales: es necesario usar estas herramientas con criterios éticos claros.
+
+| Situación | ¿Está permitido? | Condiciones / buenas prácticas |
+|---|---|---|
+| Voz IA genérica (no basada en nadie real) | ✅ Sí | Opción recomendada para narraciones educativas. |
+| Uso de voz del docente | ⚠️ Depende | Requiere consentimiento informado y uso limitado. |
+| Clonación de voz (replicar voz real) | ❌ No | Riesgo de suplantación y uso indebido. |
+| Uso de avatares IA genéricos | ✅ Sí | No deben representar a personas reales. |
+| Uso de imagen del docente | ⚠️ Depende | Solo con consentimiento y finalidad educativa clara. |
+| Uso de imagen del alumnado | ❌ No | Protección de menores y datos personales. |
+| Vídeos realistas tipo deepfake | ❌ No | Pueden generar desinformación o suplantación. |
+
+**Riesgos a tener en cuenta:**
+
+- Suplantación de identidad (voz o imagen).
+- Generación de deepfakes difíciles de detectar.
+- Pérdida de confianza si no se informa del uso de IA.
+- Uso indebido fuera del contexto educativo.
+- Exposición involuntaria de datos personales.
+
+**Buenas prácticas en el aula:**
+
+- Informa siempre al alumnado cuando uses voz o vídeo generado con IA.
+- Evita simular personas reales (docentes, alumnado o terceros).
+- Solicita consentimiento informado si usas tu propia voz o imagen.
+- Prioriza herramientas con avatares y voces genéricas.
+- Usa la IA cuando aporte valor pedagógico, no solo estético.
+
+**Ejemplo correcto:** crear un vídeo explicativo con un avatar genérico y voz IA para introducir un tema en Aules.
+
+**Ejemplo incorrecto:** clonar la voz de un docente o usar la imagen de alumnado para generar un vídeo sin consentimiento.
 ---
+
 
 ## 📝 Actividades prácticas del Bloque 3
 
