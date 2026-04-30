@@ -49,8 +49,8 @@ Al finalizar este bloque serás capaz de:
 
 > > 🎁 **Acceso a Gamma (invitación)**
 >
-> Puedes unirte directamente desde este enlace:
-> https://gamma.app/workspaces/ef1fs84es7tf0g1/join?code=6esccgwc6yh76gt
+> Puedes unirte directamente desde este enlace: [enlace]([https://gamma.app](https://gamma.app/workspaces/ef1fs84es7tf0g1/join?code=6esccgwc6yh76gt))
+> 
 
 
 | Característica | Gamma | Copilot en PowerPoint |
@@ -83,7 +83,9 @@ Requisitos:
 
 Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
 ```
+📂 Ejemplo generado con Gamma: [Infantil](https://habitos-saludables-opx9lpz.gamma.site)
 
+  
 ### 🏆 Prompt: Presentación con Gamma para Primaria
 
 ```text
@@ -103,6 +105,7 @@ Requisitos:
 Estilo: colorido, con lenguaje adaptado a 10-11 años. Incluye iconos y poca 
 cantidad de texto por diapositiva (máximo 40 palabras).
 ```
+📂 Ejemplo generado con Gamma: [Primaria](https://el-ciclo-del-agua-ps7ciiw.gamma.site)
 
 ### 🏆 Prompt: Presentación con Gamma para Secundaria
 
@@ -123,6 +126,8 @@ Requisitos:
 
 Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
 ```
+📂 Ejemplo generado con Gamma: [Secundaria](https://el-ciclo-del-agua-ps7ciiw.gamma.site](https://los-cambios-fisicos-y-qu-2x954pp.gamma.site)
+
 ### 🏆 Prompt: Presentación con Gamma para EOI
 
 ```text
@@ -141,6 +146,8 @@ Requisitos:
 
 Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de diálogo e iconos. Todo el contenido debe estar en inglés nivel B1, con frases breves y máximo 50 palabras por diapositiva.
 ```
+📂 Ejemplo generado con Gamma: [EOI](https://making-complaints-polite-4mlefkb.gamma.site)
+
 ### 🏆 Prompt: Presentación con Gamma para Formación Profesional
 
 ```text
@@ -160,6 +167,8 @@ Requisitos:
 
 Estilo: profesional, claro y visual, con iconos técnicos, fotografías realistas y poco texto. Lenguaje adaptado a alumnado de FP. Máximo 40 palabras por diapositiva.
 ```
+📂 Ejemplo generado con Gamma: [FP](https://prevencion-de-riesgos-la-hq3kz8r.gamma.site)
+
 > **💡 Consejo práctico:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
 
 ### 🏆 Prompt de Oro: Presentación con Copilot en PowerPoint
