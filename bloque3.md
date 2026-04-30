@@ -126,7 +126,7 @@ Requisitos:
 
 Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
 ```
-📂 Ejemplo generado con Gamma: [Secundaria](https://el-ciclo-del-agua-ps7ciiw.gamma.site](https://los-cambios-fisicos-y-qu-2x954pp.gamma.site)
+📂 Ejemplo generado con Gamma: [Secundaria](https://los-cambios-fisicos-y-qu-2x954pp.gamma.site)
 
 ### 🏆 Prompt: Presentación con Gamma para EOI
 
