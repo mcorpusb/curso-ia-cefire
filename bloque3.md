@@ -160,7 +160,7 @@ Requisitos:
 
 Estilo: profesional, claro y visual, con iconos técnicos, fotografías realistas y poco texto. Lenguaje adaptado a alumnado de FP. Máximo 40 palabras por diapositiva.
 ```
->> **💡 Consejo práctico:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
+> **💡 Consejo práctico:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
 
 ### 🏆 Prompt de Oro: Presentación con Copilot en PowerPoint
 
