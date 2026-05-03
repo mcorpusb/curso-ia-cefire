@@ -834,13 +834,298 @@ Para evaluar la fiabilidad curricular de cada herramienta, hemos probado el mism
 | **Alucinaciones detectadas** | Medio | Bajo | Muy bajo | Medio-alto | Alto |
 | **Idioma valenciano** | Aceptable | Bueno | Depende de fuentes | Limitado | Limitado |
 
-> **🚀 Reto Secundaria/FP:** Haz la prueba tú mismo/a. Lanza el mismo prompt curricular en las tres herramientas a las que tengas acceso y comprueba cuál es más precisa para tu área. Documenta los errores que encuentres.
+> **🚀 Reto:** Haz la prueba tú mismo/a. Lanza el mismo prompt curricular en las tres herramientas a las que tengas acceso y comprueba cuál es más precisa para tu área. Documenta los errores que encuentres.
 
 ---
-
 ## 2.6 · Construye tu biblioteca de "Prompts de Oro"
 
-Un docente eficaz con IA no improvisa un prompt cada vez: **reutiliza y mejora** una colección propia. Te proponemos esta estructura para organizar tu biblioteca:
+> En los apartados anteriores has visto cómo estructurar buenos prompts.  
+> Ahora vamos a dar un paso más práctico: guardar y reutilizar lo que te funciona.
+
+### El baúl de prompts: guarda lo que te funciona
+
+Cuando empiezas a usar la IA, es normal escribir cada vez una instrucción nueva. Pero, poco a poco, descubres que hay algunas frases que te funcionan especialmente bien.
+
+Un **baúl de prompts** es como una libreta donde guardas las instrucciones que mejor te funcionan para pedirle cosas a la IA.
+
+No se trata de crear una base de datos complicada ni de saber mucho de informática. La idea es mucho más sencilla: guardar aquellas frases que te ayudan en tu día a día docente para poder reutilizarlas cuando las necesites.
+
+Es como tener tus **“frases mágicas”** guardadas.
+
+### ¿Qué es un baúl de prompts?
+
+Un baúl de prompts es una colección personal de instrucciones útiles para usar con herramientas de IA como **Copilot**, ChatGPT, Gemini o NotebookLM.
+
+Sirve para:
+
+- No empezar de cero cada vez.
+- Copiar, pegar y adaptar.
+- Ahorrar tiempo.
+- Mejorar tus resultados.
+- Guardar lo que ya sabes que funciona.
+- Compartir ideas con otros docentes.
+
+> **Consejo:** No intentes tener el baúl perfecto desde el primer día. Empieza con pocos prompts y ve ampliándolo poco a poco.
+
+### Baúl de prompts y Prompts de Oro
+
+No todo lo que guardes en tu baúl será igual de útil. Algunas instrucciones serán pruebas, otras estarán pendientes de mejorar y otras se convertirán en auténticos **Prompts de Oro**.
+
+| Concepto | Qué es | Ejemplo |
+|---|---|---|
+| Baúl de prompts | Lugar donde guardo prompts que pueden servirme. | Un prompt para resumir textos, otro para crear actividades y otro para mejorar correos. |
+| Prompt de Oro | Prompt probado, mejorado y que sé que me funciona bien. | Un prompt que uso siempre para crear rúbricas porque me da buenos resultados. |
+
+Dicho de otra forma:
+
+- En el **baúl** guardo todo lo que puede serme útil.
+- Como **Prompt de Oro** marco solo aquello que ya he probado, ajustado y reutilizaría.
+
+### ¿Por qué le sirve a un docente?
+
+Un baúl de prompts puede ayudarte a:
+
+- Preparar clases.
+- Diseñar actividades.
+- Crear rúbricas.
+- Adaptar materiales.
+- Resumir textos.
+- Mejorar correos a familias.
+- Preparar explicaciones para distintos niveles.
+- Atender mejor a la diversidad.
+- Compartir ideas con compañeros de ciclo, departamento o claustro.
+
+La clave está en guardar aquello que realmente te ahorra tiempo.
+
+### Paso 1: empieza con algo sencillo
+
+No necesitas ninguna herramienta complicada. Puedes crear tu baúl en:
+
+- Un documento de Word.
+- Google Docs.
+- OneNote.
+- Notion.
+- Una libreta física.
+- Una carpeta compartida del departamento.
+- Una tabla sencilla.
+
+Lo importante no es la herramienta. Lo importante es **guardar lo que funciona**.
+
+> **Consejo:** Si no sabes por dónde empezar, crea un documento llamado **“Mi baúl de prompts”** y empieza ahí.
+
+### Paso 2: usa una ficha básica
+
+Para que tu baúl sea fácil de consultar, puedes guardar cada prompt con una ficha sencilla:
+
+```text
+Nombre:
+Para qué sirve:
+Prompt:
+Cuándo usarlo:
+Herramienta recomendada:
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras:
+```
+
+Cada apartado tiene una función:
+
+- **Nombre:** una etiqueta breve para reconocer el prompt.
+- **Para qué sirve:** qué problema resuelve o en qué te ayuda.
+- **Prompt:** la instrucción que copiarás y pegarás en la IA.
+- **Cuándo usarlo:** en qué situación docente te puede servir.
+- **Herramienta recomendada:** Copilot, NotebookLM, ChatGPT, Gemini u otra.
+- **¿Es Prompt de Oro?:** marca si ya lo has probado y te funciona bien.
+- **Notas o mejoras:** ajustes que harías la próxima vez.
+
+### Paso 3: empieza con pocos prompts
+
+No necesitas tener muchos prompts. Con **5 o 10 bien pensados** ya puedes empezar a trabajar mejor.
+
+Mejor pocos prompts útiles que muchos prompts que nunca vuelves a abrir.
+
+### Ejemplos docentes para tu baúl
+
+#### 1. Explicar un tema difícil
+
+```text
+Nombre: Explicar fácil
+Para qué sirve: Convertir un contenido complejo en una explicación sencilla.
+Prompt:
+Explícame {tema} para alumnado de {curso}, usando un lenguaje claro, ejemplos cercanos y una pequeña actividad final de comprobación.
+Cuándo usarlo: Antes de introducir un tema nuevo.
+Herramienta recomendada: Copilot o ChatGPT.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: Añadir el área o materia para ajustar mejor la respuesta.
+```
+
+#### 2. Resumir un texto
+
+```text
+Nombre: Resumen docente
+Para qué sirve: Extraer las ideas principales de un texto.
+Prompt:
+Resume el siguiente texto en 5 ideas clave. Después, propón 3 preguntas para comprobar si el alumnado lo ha entendido: {texto}
+Cuándo usarlo: Para preparar lecturas, apuntes o materiales de estudio.
+Herramienta recomendada: Copilot, ChatGPT o NotebookLM.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: Indicar el nivel del alumnado.
+```
+
+#### 3. Mejorar un correo a familias
+
+```text
+Nombre: Correo claro a familias
+Para qué sirve: Redactar comunicaciones de forma clara y amable.
+Prompt:
+Reescribe este mensaje para familias con un tono claro, respetuoso y cercano. Mantén la información importante y evita que suene brusco: {texto}
+Cuándo usarlo: Antes de enviar comunicaciones delicadas o importantes.
+Herramienta recomendada: Copilot.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: Revisar siempre antes de enviar.
+```
+
+#### 4. Crear una actividad de aula
+
+```text
+Nombre: Actividad lista para clase
+Para qué sirve: Diseñar una actividad práctica.
+Prompt:
+Actúa como docente de {área}. Diseña una actividad de {duración} minutos sobre {tema} para alumnado de {curso}. Incluye objetivo, materiales, desarrollo paso a paso y cierre final.
+Cuándo usarlo: Para preparar sesiones de aula.
+Herramienta recomendada: Copilot o ChatGPT.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: Añadir si se quiere trabajo individual, por parejas o en grupo.
+```
+
+#### 5. Adaptar una actividad
+
+```text
+Nombre: Adaptar para distintos niveles
+Para qué sirve: Ajustar una actividad a diferentes ritmos de aprendizaje.
+Prompt:
+Adapta esta actividad para alumnado con diferentes niveles de competencia. Propón una versión básica, una versión estándar y una versión de ampliación: {actividad}
+Cuándo usarlo: Cuando necesito atender a la diversidad.
+Herramienta recomendada: Copilot.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: No incluir datos personales del alumnado.
+```
+
+#### 6. Crear una rúbrica sencilla
+
+```text
+Nombre: Rúbrica rápida
+Para qué sirve: Crear criterios de evaluación claros.
+Prompt:
+Crea una rúbrica sencilla para evaluar {actividad} en {curso}. Incluye 4 criterios relacionados con {criterio de evaluación} y 3 niveles de logro: inicial, adecuado y avanzado.
+Cuándo usarlo: Al preparar tareas evaluables.
+Herramienta recomendada: Copilot o ChatGPT.
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras: Revisar que los criterios coincidan con la programación.
+```
+
+### Paso 4: reutiliza y adapta
+
+El baúl funciona porque no tienes que inventar la instrucción cada vez.
+
+Solo tienes que:
+
+1. Copiar el prompt.
+2. Cambiar las partes entre llaves.
+3. Pegar el prompt en Copilot u otra IA.
+4. Revisar la respuesta.
+5. Guardar la versión mejorada.
+
+Ejemplo:
+
+**Prompt base:**  
+Explícame {tema} para alumnado de {curso} con ejemplos sencillos.
+
+**Prompt adaptado:**  
+Explícame las fracciones para alumnado de 5.º de Primaria con ejemplos sencillos.
+
+### Paso 5: organiza sin obsesionarte
+
+Puedes organizar tu baúl por categorías sencillas:
+
+- Programación didáctica.
+- Actividades.
+- Evaluación.
+- Comunicación con familias.
+- Inclusión y atención a la diversidad.
+- Gestión docente.
+- Resúmenes y estudio.
+- Creatividad.
+- Normativa y currículo.
+
+No hace falta hacerlo perfecto desde el principio. Lo importante es que puedas encontrar tus prompts cuando los necesites.
+
+### Paso 6: convierte un prompt normal en Prompt de Oro
+
+Un Prompt de Oro no nace perfecto. Se mejora con el uso.
+
+**Versión inicial:**  
+Hazme una actividad sobre el agua.
+
+**Versión mejorada:**  
+Actúa como docente de Ciencias Naturales. Diseña una actividad de 45 minutos sobre el ciclo del agua para alumnado de 4.º de Primaria. Incluye objetivo, materiales, desarrollo paso a paso, adaptación para alumnado con dificultades y una pregunta final de reflexión.
+
+La segunda versión funciona mejor porque:
+
+- Define el rol.
+- Indica el área.
+- Indica el tema.
+- Indica el curso.
+- Indica la duración.
+- Pide un formato concreto.
+- Incluye adaptación.
+
+Eso ayuda a que la respuesta sea más útil desde el primer intento.
+
+### Errores frecuentes
+
+Evita estos errores:
+
+- Guardar prompts demasiado largos que luego no usarás.
+- No poner nombre al prompt.
+- No indicar cuándo usarlo.
+- Guardar demasiados prompts de golpe.
+- No revisar la respuesta de la IA.
+- Copiar prompts de internet sin adaptarlos.
+- Introducir datos personales del alumnado.
+- Confiar en la respuesta sin verificarla.
+
+> **Importante:** No introduzcas datos personales del alumnado ni información sensible del centro en herramientas externas. Si trabajas con documentos reales, anonimiza antes la información.
+
+### Práctica: crea tu primer baúl de prompts
+
+Crea un documento llamado **“Mi baúl de prompts”**.
+
+Incluye 3 prompts que puedan servirte en tu práctica docente. Usa la ficha básica:
+
+```text
+Nombre:
+Para qué sirve:
+Prompt:
+Cuándo usarlo:
+Herramienta recomendada:
+¿Es Prompt de Oro? Sí / No
+Notas o mejoras:
+```
+
+Después:
+
+1. Prueba uno de ellos en Copilot.
+2. Revisa la respuesta.
+3. Mejora el prompt si es necesario.
+4. Marca uno como **Prompt de Oro**.
+5. Comparte uno con tu grupo, foro, ciclo o departamento.
+
+
+### Idea final
+
+> No se trata de saber mucho de IA. Se trata de guardar lo que te ayuda y volver a usarlo cuando lo necesitas.
+
+Te proponemos esta estructura para organizar tu biblioteca:
 
 ### Plantilla de ficha de prompt
 
@@ -940,14 +1225,6 @@ Indica con [✅ CORRECTO] o [❌ ERROR + corrección] cada elemento.
 
 4. Corrige la SA con la información de NotebookLM.
 5. **Entregable:** documento con tres partes: versión inicial de la situación de aprendizaje, comprobaciones y correcciones señaladas por NotebookLM, y versión final revisada.
-
-### Actividad 2.3 — Mi biblioteca de prompts 
-
-1. Crea **3 fichas de prompts** usando la plantilla de la sección 2.6 para tres tareas habituales de tu práctica docente.
-2. Comparte al menos **1 ficha** en el foro del Bloque 2 en Aules.
-3. Comenta la ficha de, al menos, **2 compañeros/as** con sugerencias de mejora.
-4. **Entregable:** las 3 fichas en un documento y los comentarios en el foro.
-
 
 
 * * *
