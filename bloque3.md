@@ -185,7 +185,7 @@ Estilo: profesional, claro y visual, con iconos técnicos, fotografías realista
 
 <a href="https://prevencion-de-riesgos-la-hq3kz8r.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
 <a href="https://docs.google.com/presentation/d/1PKpx-laXsDTYlVwwjWGnABsf5iTjHJqM/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="" target="_blank" rel="noopener noreferrer">CHATGPT</a>
+<a href="https://docs.google.com/presentation/d/1VCZaiD1gzDzMI7j2qTTMmlj85Z7WEt1g/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
 
 > **💡 Consejo:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
 
