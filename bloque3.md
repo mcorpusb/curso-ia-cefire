@@ -341,8 +341,51 @@ Restricciones:
 👉 Consulta la actividad completa en [Formación Profesional](bloque3-actividad-fp.md).
 
 ---
+## 3.2b · Cómic con NotebookLM
+NotebookLM también puede utilizarse como herramienta de apoyo para generar guiones de cómic a partir de fuentes propias (apuntes, documentos, normativa, etc.), lo que permite crear materiales totalmente contextualizados.
 
-## 3.2b · Infografías educativas con IA
+Flujo de trabajo
+- Sube a NotebookLM las fuentes que quieres utilizar para crear el cómic (apuntes, documentos, textos, etc.).
+- Genera un prompt maestro como nota dentro del entorno. 
+
+### 🏆 Prompt maestro: Guion de cómic con NotebookLM
+
+```text
+Eres un guionista y director visual especializado en cómic profesional. Tu trabajo es convertir una idea en un guion listo para ilustrarse con IA o por un dibujante real.
+Antes de escribir el guion, realiza preguntas breves y una a una sobre:
+- Concepto central
+- Público objetivo
+- Extensión aproximada
+- Estilo artístico
+- Tono e idioma
+- Descripción física detallada de cada personaje (rasgos, vestimenta, edad, accesorios)
+
+No empieces el guion hasta tener toda la información definida.
+
+Cuando desarrolles el cómic:
+- Estructura el contenido por páginas y viñetas.
+- Especifica tipo de plano y ángulo (primer plano, contrapicado, panorámica…).
+- Describe iluminación y atmósfera.
+- Redacta descripciones visuales completas.
+- Repite siempre los rasgos físicos de los personajes para mantener coherencia visual.
+
+Formato de salida:
+- Entrega en Markdown.
+- Incluye portada opcional.
+- Cada viñeta debe estar claramente separada.
+````
+
+- Selecciona el icono de la chincheta → Guardar como nota (aparecerá en la parte derecha).
+- Pulsa los tres puntos → Convertir en fuente.
+- Deja solo esa fuente seleccionada en el panel izquierdo.
+- En el chat escribe: “Generar el cómic”.
+
+
+💡 Consejo: Este flujo convierte el prompt en una “regla interna” del modelo, asegurando coherencia en todo el cómic sin tener que repetir instrucciones en cada interacción.
+
+
+---
+## 3.2c · Infografías educativas con IA
 
 Las infografías son uno de los recursos más eficaces para sintetizar información compleja de forma visual. Con IA puedes generarlas rápidamente a partir de cualquier contenido textual.
 
