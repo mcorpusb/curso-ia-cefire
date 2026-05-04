@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · EOI"
+title: Actividad · EOI
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 14
 ---
@@ -8,98 +8,303 @@ nav_order: 14
 # Actividad · Escuela Oficial de Idiomas
 {: .fs-7 }
 
-Diseña un cómic comunicativo de 6 viñetas en inglés (nivel B1) para practicar una situación cotidiana real e ilustra cada escena con herramientas de IA generativa.
+Diseña un cómic para practicar funciones comunicativas, situaciones reales y producción oral o escrita en una lengua extranjera con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
----
+## ⚙️ Qué vas a hacer (paso a paso)
 
-## 🎯 Objetivo
+1. Pido un prompt exhaustivo adaptando el que tengo listo para usar usando Copilot, ChatGPT o Gemini.
 
-Utilizar Copilot o ChatGPT para generar el guion de un cómic comunicativo de 6 viñetas en inglés nivel B1, a partir de una situación cotidiana auténtica, y producir las ilustraciones con Copilot Image Creator, ChatGPT o Canva para obtener un recurso visual que refuerce la comprensión y la producción oral o escrita.
+2. Con el prompt que me devuelve voy a generar el guion completo del cómic, revisando la adecuación al nivel, la función comunicativa, el vocabulario, la interacción y la corrección lingüística.
 
----
+3. Uso el cómic como recurso de aula para practicar conversación, mediación, escritura guiada, dramatización o revisión de expresiones útiles.
 
-## 🧠 Situación de aula
+## 💬 AJUSTA ESTE PROMPT listo para usar
 
-Eres docente de idiomas en la Escuela Oficial de Idiomas y quieres presentar una función comunicativa (quejarse de forma educada, hacer una petición, pedir disculpas, proponer alternativas…) a través de un cómic que muestre la situación en su contexto real: una tienda, un hotel, un aeropuerto, una cita médica.
+Dame un prompt exhaustivo para crear un cómic sobre:
 
-El cómic permite mostrar el lenguaje en uso, con matices pragmáticos que difícilmente aparecen en los diálogos de un manual: el lenguaje cortés frente al directo, la reformulación, los malentendidos. Con IA puedes generar en minutos un guion completamente en inglés nivel B1, funcional y explotable directamente en clase.
+Contexto: Necesito un cómic de [N] viñetas para practicar una situación comunicativa sobre [TEMA] en el nivel [NIVEL] de [IDIOMA].
 
----
+Actúa como un diseñador de cómics didácticos para alumnado de Escuela Oficial de Idiomas.
 
-## ⚙️ Qué vas a hacer
+Tarea: Genera un guion con enfoque comunicativo y práctico. Para cada viñeta incluye:
 
-1. Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**, o bien a **ChatGPT** si trabajas con cuenta personal.
-2. Elige la situación comunicativa que quieres trabajar y sustituye `[TEMA]` por tu elección.
-3. Lanza el prompt. El guion se generará completamente en inglés nivel B1.
-4. Lee el guion: ¿las expresiones son naturales y útiles para el alumnado? ¿Los diálogos de cada viñeta no superan las 20 palabras? ¿La función comunicativa de cada viñeta está clara?
-5. Ajusta el guion si algún diálogo usa gramática de nivel C1 o si las expresiones son demasiado formales o coloquiales para el nivel B1.
-6. Para cada viñeta, genera la ilustración con **Copilot Image Creator** (cuenta `@edu.gva.es`) o con **ChatGPT**: describe la escena en español para la generación de imagen.
-7. Monta el cómic en **Canva**, añade los bocadillos con los diálogos en inglés y exporta en PDF.
-8. Usa el cómic como input de comprensión, modelo para role-play o ficha de práctica escrita en clase.
+- VIÑETA [N]:
+  - Escena: [Estación, hotel, restaurante, aeropuerto, consulta médica, tienda, oficina de turismo…]
+  - Personajes: [Estudiante de idiomas, viajero/a, empleado/a, cliente, recepcionista, compañero/a…]
+  - Acción: [Situación comunicativa concreta]
+  - Diálogo/Texto: [Máximo 30 palabras, adecuado al nivel]
+  - Objetivo didáctico o competencia trabajada: [Función comunicativa, vocabulario, interacción, mediación, pronunciación…]
 
-> **⚠️ Seguridad GVA:** Usa personajes ficticios. No incluyas datos personales del alumnado ni situaciones basadas en personas reales.
+Estructura:
 
----
+1. Situación comunicativa real.
+2. Necesidad de interacción.
+3. Malentendido, duda lingüística o problema comunicativo.
+4. Uso de estrategias comunicativas.
+5. Resolución de la situación.
+6. Expresión final útil o reflexión lingüística.
 
-## 💬 Prompt listo para usar
+Restricciones:
 
-```text
-Actúa como un creador de cómics educativos para alumnado de Escuela Oficial de Idiomas, nivel B1.
-
-Contexto: Necesito un cómic de 6 viñetas para trabajar la situación comunicativa "[TEMA]" en inglés.
-
-Tarea: Genera el guion completamente en inglés. Para cada viñeta incluye:
-
-- PANEL [N]:
-  - Scene: [Brief visual description]
-  - Characters: [Who appears]
-  - Dialogue: [Natural B1-level English, maximum 20 words]
-  - Communicative function: [Requesting, complaining, apologising, suggesting, agreeing, refusing…]
-
-Structure:
-1. Initial everyday situation.
-2. A communication problem appears.
-3. First interaction.
-4. Clarification or polite reformulation.
-5. Resolution.
-6. Useful final expression or takeaway phrase.
-
-Restrictions:
-- Use B1-level English.
-- Use natural, useful expressions.
-- Avoid complex grammar.
-- Include polite and realistic communication.
-- Do not use real people or personal data.
-```
-
----
+- Lenguaje adecuado al nivel indicado.
+- Enfoque comunicativo y práctico.
+- Diálogos breves y naturales.
+- Incluir expresiones útiles.
+- Evitar teoría gramatical extensa.
+- No incluir datos personales, centros reales ni marcas reales.
+- Personajes ficticios.
+- Estilo cartoon educativo.
+- Sin texto en la imagen, salvo que se indique lo contrario.
 
 ## 🖼️ Ejemplo de uso
 
-**Situación:** Making a polite complaint in a shop · **Nivel:** B1 · **Función comunicativa:** Quejarse de forma educada.
+Dame un prompt exhaustivo para crear un cómic sobre:
 
-Lanza el prompt con `[TEMA]` = "making a polite complaint in a shop". Obtendrás un guion que lleva al alumnado desde la situación inicial (un producto defectuoso) hasta la resolución satisfactoria, pasando por la reformulación educada y la expresión de disculpa del vendedor. Para las ilustraciones, describe cada escena en Copilot Image Creator:
+Contexto: Necesito un cómic de 6 viñetas para practicar una situación comunicativa sobre pedir información en una estación de tren en nivel A2/B1 de inglés.
+
+Actúa como un diseñador de cómics didácticos para alumnado de Escuela Oficial de Idiomas.
+
+Tarea: Genera un guion con enfoque comunicativo y práctico. Para cada viñeta incluye:
+
+- VIÑETA [N]:
+  - Escena: [Estación, hotel, restaurante, aeropuerto, consulta médica, tienda, oficina de turismo…]
+  - Personajes: [Estudiante de idiomas, viajero/a, empleado/a, cliente, recepcionista, compañero/a…]
+  - Acción: [Situación comunicativa concreta]
+  - Diálogo/Texto: [Máximo 30 palabras, adecuado al nivel]
+  - Objetivo didáctico o competencia trabajada: [Función comunicativa, vocabulario, interacción, mediación, pronunciación…]
+
+Estructura:
+
+1. Situación comunicativa real.
+2. Necesidad de interacción.
+3. Malentendido, duda lingüística o problema comunicativo.
+4. Uso de estrategias comunicativas.
+5. Resolución de la situación.
+6. Expresión final útil o reflexión lingüística.
+
+Restricciones:
+
+- Lenguaje adecuado al nivel A2/B1.
+- Enfoque comunicativo y práctico.
+- Diálogos breves y naturales.
+- Incluir expresiones útiles en inglés.
+- Evitar teoría gramatical extensa.
+- No incluir datos personales, centros reales ni marcas reales.
+- Personajes ficticios.
+- Estilo cartoon educativo.
+- Sin texto en la imagen.
+
+## 💡 Obtengo el prompt listo para usar
+
+Actúa como un diseñador de cómics didácticos para alumnado de Escuela Oficial de Idiomas, nivel A2/B1 de inglés.
+
+## Contexto
+
+Necesito un cómic de **6 viñetas** para practicar una situación comunicativa sobre **pedir información en una estación de tren**.
+
+La historia debe desarrollarse en una **estación de tren realista**, en una situación de viaje en la que una persona necesita preguntar por horarios, andén y billete.
+
+## Objetivo didáctico
+
+El cómic debe ayudar al alumnado a:
+
+* pedir información de forma educada;
+* comprender respuestas breves en una estación;
+* usar vocabulario básico de viajes y transporte;
+* pedir aclaración cuando no entiende;
+* cerrar una interacción de forma adecuada.
+
+## Tarea
+
+Genera un guion con enfoque comunicativo y práctico. Para cada viñeta incluye:
+
+* **VIÑETA [N]:**
+  * **Escena:** entorno realista de estación de tren.
+  * **Personajes:** viajero/a ficticio y empleado/a de estación.
+  * **Acción:** situación comunicativa relacionada con pedir información.
+  * **Diálogo/Texto:** máximo 30 palabras, en inglés A2/B1.
+  * **Objetivo didáctico o competencia trabajada:** función comunicativa, vocabulario, interacción, mediación o pronunciación.
+
+## Estructura obligatoria
+
+1. Situación comunicativa real: una persona llega a una estación y necesita viajar a otra ciudad.
+2. Necesidad de interacción: pregunta por el próximo tren.
+3. Duda lingüística o problema comunicativo: no entiende bien el andén o la hora.
+4. Estrategia comunicativa: pide repetición o aclaración de forma educada.
+5. Resolución: confirma la información y compra o valida el billete.
+6. Expresión final útil: agradece y resume la información recibida.
+
+## Aspectos específicos que deben aparecer
+
+Incluye cuando sea adecuado:
+
+* estación de tren;
+* mostrador de información;
+* pantalla de horarios;
+* andén;
+* billete;
+* pregunta educada;
+* petición de repetición;
+* agradecimiento final.
+
+## Restricciones
+
+* Lenguaje adecuado a nivel A2/B1.
+* Diálogos breves y naturales.
+* Enfoque comunicativo y práctico.
+* Incluir expresiones útiles en inglés.
+* Evitar teoría gramatical extensa.
+* No incluir datos personales, centros reales ni marcas reales.
+* Personajes ficticios.
+* Estilo cartoon educativo.
+* Sin texto dentro de la imagen.
+
+## Formato de salida
+
+Devuelve el resultado así:
+
+### Título del cómic
+
+### Guion del cómic
+
+#### VIÑETA 1
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 2
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 3
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 4
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 5
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 6
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+### Prompts visuales para generar las imágenes
+
+Después del guion, crea un prompt visual para cada viñeta.
+
+Cada prompt debe:
+
+* describir claramente la escena;
+* indicar “estilo cómic educativo”;
+* mostrar una estación de tren realista;
+* mantener coherencia visual entre personajes;
+* evitar texto dentro de la imagen;
+* evitar marcas comerciales;
+* mantener personajes ficticios.
+
+## 👉 Cuando le doy el prompt a la IA obtengo el resultado:
 
 ```text
-Ilustración estilo cómic realista. Una clienta joven en una tienda de 
-ropa muestra a un dependiente una camiseta con una mancha. El dependiente 
-la mira con expresión atenta y amable. Fondo de tienda con estanterías. 
-Estilo cartoon limpio. Sin texto en la imagen.
-```
+Genera el cómic:
 
-Después puedes usar el cómic como base para un role-play en parejas, pidiendo al alumnado que adapte la situación a un hotel o a un restaurante.
+### Título del cómic
+
+**“At the train station”**
 
 ---
 
-## 💡 Flujo recomendado
+### Guion del cómic
 
-1. Genera el **guion completo** en inglés con Copilot o ChatGPT.
-2. Crea las **ilustraciones** viñeta a viñeta con Copilot Image Creator o ChatGPT.
-3. **Monta el cómic** en Canva o PowerPoint con bocadillos en inglés.
-4. Revisa las **expresiones comunicativas**, el nivel B1 y la naturalidad del diálogo.
-5. Usa el cómic como input, modelo de role-play o punto de partida para una tarea de producción escrita u oral.
+#### VIÑETA 1
 
+* **Escena:** Estación de tren con viajeros y pantalla de horarios.
+* **Personajes:** Viajera y empleado de información.
+* **Acción:** La viajera llega con una maleta y mira la pantalla.
+* **Diálogo/Texto:** “Excuse me, is there a train to Oxford today?”
+* **Objetivo didáctico o competencia trabajada:** Iniciar una interacción educada.
+
+---
+
+#### VIÑETA 2
+
+* **Escena:** Mostrador de información de la estación.
+* **Personajes:** Viajera y empleado.
+* **Acción:** La viajera pregunta por el próximo tren.
+* **Diálogo/Texto:** “What time is the next train, please?”
+* **Objetivo didáctico o competencia trabajada:** Pedir información sobre horarios.
+
+---
+
+#### VIÑETA 3
+
+* **Escena:** El empleado señala una pantalla con horarios.
+* **Personajes:** Viajera y empleado.
+* **Acción:** La viajera no entiende bien el número de andén.
+* **Diálogo/Texto:** “Sorry, could you repeat the platform number?”
+* **Objetivo didáctico o competencia trabajada:** Pedir repetición o aclaración.
+
+---
+
+#### VIÑETA 4
+
+* **Escena:** El empleado explica con gesto amable.
+* **Personajes:** Viajera y empleado.
+* **Acción:** El empleado repite la información más despacio.
+* **Diálogo/Texto:** “Platform five. The train leaves at ten thirty.”
+* **Objetivo didáctico o competencia trabajada:** Comprensión de información práctica.
+
+---
+
+#### VIÑETA 5
+
+* **Escena:** Máquina o mostrador de billetes.
+* **Personajes:** Viajera y empleado.
+* **Acción:** La viajera confirma la información y compra el billete.
+* **Diálogo/Texto:** “So, platform five at ten thirty. One ticket, please.”
+* **Objetivo didáctico o competencia trabajada:** Confirmar información antes de actuar.
+
+---
+
+#### VIÑETA 6
+
+* **Escena:** Andén de la estación con la viajera esperando.
+* **Personajes:** Viajera.
+* **Acción:** La viajera sonríe con el billete en la mano.
+* **Diálogo/Texto:** “Thank you. Now I know where to go.”
+* **Objetivo didáctico o competencia trabajada:** Cierre adecuado de una interacción.
+```
+
+Resultado con ChatGPT:
+
+[![Cómic EOI generado con ChatGPT](/assets/img/Comic_eoi_chatGPT.png)](/assets/img/Comic_eoi_chatGPT.png)
 ---
 
 [← Volver a Bloque 3: Generación Multimodal](bloque3.md)

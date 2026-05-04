@@ -57,6 +57,7 @@ Restricciones:
 - Personajes ficticios.
 - Estilo cartoon educativo.
 - Sin texto en la imagen.
+
 ```
 
 ## 🖼️ Ejemplo de uso:
@@ -306,7 +307,8 @@ Genera el cómic:
 ```
 Resultado con ChatGPT:
 
-[![Cómic Infantil generado con ChatGPT](/assets/img/Comic_infantil_chatGPT.png)](/assets/img/Comic_infantil_chatGPT.png
+[![Cómic Secundaria generado con ChatGPT](/assets/img/Comic_infantil_chatGPT.png)](/assets/img/Comic_infantil_chatGPT.png)
+
 
 ---
 

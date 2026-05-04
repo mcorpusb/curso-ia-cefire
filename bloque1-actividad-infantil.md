@@ -244,7 +244,8 @@ También puedes seleccionar el Designer en la parte inferior
 
 Ejemplo de cuento generado:
 
-<img src="{{ '/assets/img/Gemini_cuento infantil.png' | relative_url }}" alt="cuento">
+<img src="'/assets/img/Gemini_cuento infantil.png' " alt="cuento">
+
 
 ---
 
