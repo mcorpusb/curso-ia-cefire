@@ -272,9 +272,193 @@ Restricciones:
 - La última viñeta debe incluir un mensaje reflexivo o una pregunta.
 ```
 
-> **💡 Ejemplo Primaria:** Una vez tengas el guion, genera cada viñeta en Copilot Image Creator o ChatGPT adaptando la descripción de escena. Después, monta el cómic con las imágenes en **Canva** (usa la plantilla gratuita "Comic Strip").
+### 🏆 Prompts de Oro: Cómic educativo por etapas
 
-> **🚀 Reto Secundaria/FP:** Adapta el cómic para un módulo de **Prevención de Riesgos Laborales** en FP. Cambia el tema a *"Equipos de Protección Individual en el taller"* y el estilo visual a *"infografía técnica con viñetas de humor"*.
+A continuación tienes prompts adaptados por etapa educativa. La idea es generar primero el **guion del cómic** y después crear las imágenes viñeta a viñeta con Copilot Image Creator, ChatGPT o Canva.
+
+---
+
+#### 🧸 Educación Infantil
+
+```text
+Actúa como un creador de cómics educativos para alumnado de Educación Infantil (4-5 años).
+
+Contexto: Necesito un cómic de 4 viñetas para trabajar [TEMA] de forma visual, sencilla y positiva.
+
+Tarea: Escribe el guion del cómic con esta estructura para cada viñeta:
+
+- VIÑETA [N]:
+  - Escena: [Descripción visual muy sencilla]
+  - Personajes: [1-2 personajes ficticios]
+  - Acción: [Qué ocurre en la viñeta]
+  - Texto: [Frase muy corta, máximo 5 palabras]
+  - Emoción: [Alegría, sorpresa, calma, curiosidad…]
+
+Restricciones:
+- Lenguaje muy simple.
+- Máximo 5 palabras por viñeta.
+- Situaciones cotidianas reconocibles.
+- Estilo visual cartoon, amable y colorido.
+- No incluir personajes reales ni alumnado identificable.
+```
+
+**Ejemplo de uso:**  
+Crea un cómic de 4 viñetas para Educación Infantil sobre **lavarse las manos antes de comer**. El objetivo es que el alumnado entienda cuándo y por qué debe hacerlo.
+
+---
+
+#### 📘 Educación Primaria
+
+```text
+Actúa como un guionista de cómics educativos para alumnado de Educación Primaria (8-10 años).
+
+Contexto: Necesito un cómic de 6 viñetas para explicar [TEMA] en el área de [ASIGNATURA].
+
+Tarea: Escribe el guion con esta estructura para cada viñeta:
+
+- VIÑETA [N]:
+  - Escena: [Descripción visual clara]
+  - Personajes: [Quién aparece y qué hace]
+  - Diálogo/Texto: [Bocadillos breves, máximo 15 palabras]
+  - Objetivo didáctico: [Qué aprende el alumnado]
+  - Emoción: [Curiosidad, sorpresa, humor, reflexión…]
+
+Estructura:
+1. Presentación del tema con una pregunta.
+2. Aparición de un problema o duda.
+3. Explicación mediante ejemplo visual.
+4. Aplicación en una situación cotidiana.
+5. Resolución o aprendizaje.
+6. Cierre con pregunta reflexiva.
+
+Restricciones:
+- Lenguaje claro y cercano.
+- Personajes ficticios.
+- Humor ligero.
+- Relación con una situación real del aula o de la vida cotidiana.
+```
+
+**Ejemplo de uso:**  
+Crea un cómic de 6 viñetas para 3.º de Primaria sobre **la importancia del reciclaje** en el área de Conocimiento del Medio.
+
+---
+
+#### 🧪 Educación Secundaria
+
+```text
+Actúa como un creador de cómics educativos para alumnado de Educación Secundaria (12-16 años).
+
+Contexto: Necesito un cómic de 6-8 viñetas para explicar [TEMA] en la asignatura de [ASIGNATURA].
+
+Tarea: Genera un guion estructurado con esta información para cada viñeta:
+
+- VIÑETA [N]:
+  - Escena: [Contexto visual detallado]
+  - Personajes: [Alumnado, docente, científico/a, personaje histórico, etc.]
+  - Diálogo/Texto: [Máximo 25 palabras]
+  - Concepto clave: [Idea principal que se trabaja]
+  - Recurso visual sugerido: [Icono, esquema, objeto o escena]
+
+Estructura:
+1. Situación inicial o problema.
+2. Planteamiento de una duda.
+3. Explicación del concepto.
+4. Ejemplo aplicado.
+5. Error común del alumnado.
+6. Corrección del error.
+7. Aplicación práctica.
+8. Cierre con reflexión o pregunta crítica.
+
+Restricciones:
+- Lenguaje académico accesible.
+- Incluir al menos un ejemplo real.
+- Fomentar pensamiento crítico.
+- Evitar exceso de texto.
+```
+
+**Ejemplo de uso:**  
+Crea un cómic de 8 viñetas para 2.º de ESO sobre **la diferencia entre cambio físico y cambio químico** en Física y Química.
+
+---
+
+#### 🛠️ Formación Profesional
+
+```text
+Actúa como un diseñador de cómics formativos para alumnado de Formación Profesional.
+
+Contexto: Necesito un cómic de 6 viñetas para explicar una situación profesional sobre [TEMA] en el módulo de [MÓDULO].
+
+Tarea: Genera un guion con enfoque práctico y profesional. Para cada viñeta incluye:
+
+- VIÑETA [N]:
+  - Escena: [Entorno profesional realista: taller, oficina, cocina, laboratorio, aula técnica…]
+  - Personajes: [Rol profesional: técnico/a, cliente, compañero/a, responsable…]
+  - Acción: [Situación laboral concreta]
+  - Diálogo/Texto: [Máximo 30 palabras]
+  - Competencia trabajada: [Habilidad, norma o conocimiento profesional]
+
+Estructura:
+1. Situación real de trabajo.
+2. Aparición de un problema o riesgo.
+3. Decisión incorrecta o duda profesional.
+4. Intervención correcta.
+5. Resolución segura o eficaz.
+6. Conclusión profesional o norma clave.
+
+Restricciones:
+- Lenguaje técnico accesible.
+- Enfoque práctico y aplicado.
+- Evitar teoría abstracta.
+- Mostrar buenas prácticas profesionales.
+- No incluir empresas reales ni datos personales.
+```
+
+**Ejemplo de uso:**  
+Crea un cómic de 6 viñetas para FP sobre **el uso correcto de los equipos de protección individual en un taller** dentro del módulo de Prevención de Riesgos Laborales.
+
+---
+
+#### 🌍 Escuela Oficial de Idiomas
+
+```text
+Actúa como un creador de cómics educativos para alumnado de Escuela Oficial de Idiomas, nivel B1.
+
+Contexto: Necesito un cómic de 6 viñetas para trabajar la situación comunicativa "[TEMA]" en inglés.
+
+Tarea: Genera el guion completamente en inglés. Para cada viñeta incluye:
+
+- PANEL [N]:
+  - Scene: [Brief visual description]
+  - Characters: [Who appears]
+  - Dialogue: [Natural B1-level English, maximum 20 words]
+  - Communicative function: [Requesting, complaining, apologising, suggesting, agreeing, refusing…]
+
+Structure:
+1. Initial everyday situation.
+2. A communication problem appears.
+3. First interaction.
+4. Clarification or polite reformulation.
+5. Resolution.
+6. Useful final expression or takeaway phrase.
+
+Restrictions:
+- Use B1-level English.
+- Use natural, useful expressions.
+- Avoid complex grammar.
+- Include polite and realistic communication.
+- Do not use real people or personal data.
+```
+
+**Ejemplo de uso:**  
+Create a 6-panel comic for B1 English students about **making a polite complaint in a shop**.
+
+---
+
+💡 **Flujo recomendado:**  
+1. Genera el guion con Copilot o ChatGPT.  
+2. Crea las imágenes viñeta a viñeta con Copilot Image Creator o ChatGPT.  
+3. Monta el cómic en Canva, PowerPoint o una plantilla de cómic.  
+4. Revisa lenguaje, accesibilidad, tamaño de letra y adecuación al nivel del alumnado.
 
 ---
 
