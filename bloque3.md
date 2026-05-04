@@ -47,10 +47,9 @@ Al finalizar este bloque serás capaz de:
 
 **Gamma** ([gamma.app](https://gamma.app)) es una herramienta de IA que genera presentaciones, documentos y páginas web completas a partir de una descripción en lenguaje natural. Ofrece diseños visuales modernos sin necesidad de plantillas previas.
 
-> > 🎁 **Acceso a Gamma (invitación)**
->
+>  🎁 **Acceso a Gamma (invitación)**
 > Puedes unirte directamente desde este enlace: [enlace]([https://gamma.app](https://gamma.app/workspaces/ef1fs84es7tf0g1/join?code=6esccgwc6yh76gt))
-> 
+
 
 
 | Característica | Gamma | Copilot en PowerPoint |
@@ -207,6 +206,7 @@ Los cómics son una herramienta pedagógica potente: combinan narrativa visual y
 | **Canva + IA** | Diseño gráfico + generación IA | Freemium (plan educativo gratuito) | Cómics, pósteres, infografías con plantillas |
 | **Gemini (Imagen 3)** | Generador de imágenes | ✅ Cuenta personal Google | Ilustraciones realistas, escenas complejas |
 | **Kimi** | Texto + análisis visual | ✅ Cuenta personal | Describir viñetas (como guionista) para usar en otro generador |
+| **ChatGPT (imágenes)** | Generación de imágenes integrada | Cuenta OpenAI | Ilustraciones educativas, escenas y variaciones de prompt |
 
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
@@ -225,6 +225,7 @@ sistema solar. En la pizarra hay un dibujo de los planetas. Tres alumnos
 levantan la mano con entusiasmo. Colores vivos, estilo cartoon amigable. 
 No incluyas texto ni letras en la imagen.
 ```
+>💡 Este mismo prompt puede usarse en ChatGPT para generar la imagen directamente.
 
 > **⚠️ Seguridad GVA:** Copilot con tu cuenta `@edu.gva.es` utiliza DALL-E 3 con filtros de contenido corporativo. Es la opción más segura para generar imágenes. **Nunca pidas que genere imágenes que se parezcan a personas reales, alumnado concreto o menores identificables.**
 
@@ -252,7 +253,7 @@ Restricciones:
 - La última viñeta debe incluir un mensaje reflexivo o una pregunta.
 ```
 
-> **💡 Ejemplo Primaria:** Una vez tengas el guion, genera cada viñeta en Copilot Image Creator adaptando la descripción de escena. Después, monta el cómic con las imágenes en **Canva** (usa la plantilla gratuita "Comic Strip").
+> **💡 Ejemplo Primaria:** Una vez tengas el guion, genera cada viñeta en Copilot Image Creator o ChatGPT adaptando la descripción de escena. Después, monta el cómic con las imágenes en **Canva** (usa la plantilla gratuita "Comic Strip").
 
 > **🚀 Reto Secundaria/FP:** Adapta el cómic para un módulo de **Prevención de Riesgos Laborales** en FP. Cambia el tema a *"Equipos de Protección Individual en el taller"* y el estilo visual a *"infografía técnica con viñetas de humor"*.
 
