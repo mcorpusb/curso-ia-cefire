@@ -19,7 +19,9 @@ Diseña un cómic para practicar funciones comunicativas, situaciones reales y p
 
 3. Uso el cómic como recurso de aula para practicar conversación, mediación, escritura guiada, dramatización o revisión de expresiones útiles.
 
-## 💬 AJUSTA ESTE PROMPT listo para usar
+## 💬 AJUSTA ESTE PROMPT listo para usar:
+
+```text
 
 Dame un prompt exhaustivo para crear un cómic sobre:
 
@@ -56,9 +58,11 @@ Restricciones:
 - Personajes ficticios.
 - Estilo cartoon educativo.
 - Sin texto en la imagen, salvo que se indique lo contrario.
+```
 
-## 🖼️ Ejemplo de uso
+## 🖼️ Ejemplo de uso:
 
+```text
 Dame un prompt exhaustivo para crear un cómic sobre:
 
 Contexto: Necesito un cómic de 6 viñetas para practicar una situación comunicativa sobre pedir información en una estación de tren en nivel A2/B1 de inglés.
@@ -94,8 +98,11 @@ Restricciones:
 - Personajes ficticios.
 - Estilo cartoon educativo.
 - Sin texto en la imagen.
+```
 
-## 💡 Obtengo el prompt listo para usar
+## 💡 Obtengo el prompt listo para usar:
+
+```text 
 
 Actúa como un diseñador de cómics didácticos para alumnado de Escuela Oficial de Idiomas, nivel A2/B1 de inglés.
 
@@ -229,6 +236,7 @@ Cada prompt debe:
 * evitar texto dentro de la imagen;
 * evitar marcas comerciales;
 * mantener personajes ficticios.
+```
 
 ## 👉 Cuando le doy el prompt a la IA obtengo el resultado:
 
