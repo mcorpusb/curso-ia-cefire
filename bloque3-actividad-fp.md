@@ -310,7 +310,8 @@ Genera el cómic:
 
 Resultado con ChatGPT:
 
-![Cómic FP generado con ChatGPT]({{ '/assets/img/Comic_fp_chatGPT.png' | relative_url }})
+![Cómic FP generado con ChatGPT](/assets/img/Comic_fp_chatGPT.png)
+
 
 ---
 
