@@ -65,130 +65,15 @@ Al finalizar este bloque serás capaz de:
 
 > ⭐ Gamma funciona mejor cuando el prompt concreta la etapa, el nivel del alumnado, el objetivo didáctico, la estructura de la presentación y el estilo visual. No es lo mismo diseñar para Infantil que para FP: cambian el lenguaje, el ritmo, la cantidad de texto y el tipo de interacción.
 
-### 🏆 Prompt: Presentación con Gamma para Educación Infantil
+## Actividades de presentaciones por etapa
 
-```text
-Crea una presentación de 8 diapositivas para Educación Infantil (5 años) sobre "Los hábitos saludables".
+Para facilitar la navegación, las actividades de creación de presentaciones educativas con IA se han separado por etapa. En esta página dejamos los prompts generales y la comparativa de herramientas, y las actividades completas quedan enlazadas en sus páginas correspondientes.
 
-Requisitos:
-1. Diapositiva 1: portada con título sencillo e imagen alegre.
-2. Diapositiva 2: pregunta motivadora: "¿Qué hacemos para cuidar nuestro cuerpo?"
-3. Diapositiva 3: lavarse las manos, con imagen clara y pocos elementos.
-4. Diapositiva 4: comer frutas y verduras, con iconos grandes.
-5. Diapositiva 5: dormir bien, con escena tranquila.
-6. Diapositiva 6: moverse y jugar, con niños realizando actividad física.
-7. Diapositiva 7: actividad oral: "¿Qué hábito saludable haces tú cada día?"
-8. Diapositiva 8: resumen visual con 4 pictogramas: manos, comida sana, sueño y movimiento.
-
-Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
-```
-📂 Ejemplo de infantil generado con:  
-<a href="https://habitos-saludables-opx9lpz.gamma.site" target="_blank" rel="noopener noreferrer">GAMMA</a> ·  
-<a href="https://docs.google.com/presentation/d/1ScfrW3A06-32hqU4vuHGY9wsobX4EeXO/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="https://docs.google.com/presentation/d/1aTRCvwnDajPTUYALhJeoynltJ8yKZdYo/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
-
-### 🏆 Prompt: Presentación con Gamma para Primaria
-
-```text
-Crea una presentación de 10 diapositivas para una clase de Ciencias Naturales 
-de 5.º de Primaria sobre "El ciclo del agua".
-
-Requisitos:
-1. Diapositiva 1: portada con título atractivo e imagen.
-2. Diapositiva 2: pregunta motivadora ("¿A dónde va la lluvia?").
-3. Diapositivas 3-7: explicación del ciclo (evaporación, condensación, 
-   precipitación, escorrentía, infiltración), una fase por diapositiva, 
-   con imagen o diagrama ilustrativo.
-4. Diapositiva 8: actividad interactiva para el alumnado.
-5. Diapositiva 9: resumen visual (infografía del ciclo completo).
-6. Diapositiva 10: bibliografía y créditos.
-
-Estilo: colorido, con lenguaje adaptado a 10-11 años. Incluye iconos y poca 
-cantidad de texto por diapositiva (máximo 40 palabras).
-```
-
-📂 Ejemplo de primaria generado:  
-<a href="https://el-ciclo-del-agua-ps7ciiw.gamma.site" target="_blank" rel="noopener noreferrer">GAMMA</a> ·  
-<a href="https://docs.google.com/presentation/d/1_whlRKBwQcA-ZKe6H17jZGDa6pzDB27Y/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="https://docs.google.com/presentation/d/1z9DgpzupEy_y0V42g0m7xWAvnNBPP1H0/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
-
-
-### 🏆 Prompt: Presentación con Gamma para Secundaria
-
-```text
-Crea una presentación de 10 diapositivas para 2.º de ESO, asignatura de Física y Química, sobre "Los cambios físicos y químicos de la materia".
-
-Requisitos:
-1. Diapositiva 1: portada con título e imagen relacionada con un laboratorio escolar.
-2. Diapositiva 2: pregunta motivadora: "¿Por qué se derrite el hielo pero el papel quemado no vuelve a ser papel?"
-3. Diapositiva 3: definición sencilla de cambio físico con 2 ejemplos cotidianos.
-4. Diapositiva 4: definición sencilla de cambio químico con 2 ejemplos cotidianos.
-5. Diapositiva 5: tabla comparativa visual entre cambio físico y cambio químico.
-6. Diapositiva 6: experimento seguro de aula: disolver sal en agua.
-7. Diapositiva 7: experimento demostrativo: reacción con vinagre y bicarbonato.
-8. Diapositiva 8: errores frecuentes del alumnado y cómo evitarlos.
-9. Diapositiva 9: actividad interactiva: clasificar 8 situaciones en cambio físico o químico.
-10. Diapositiva 10: resumen final con 3 ideas clave y pregunta de reflexión.
-
-Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
-```
-
-📂 Ejemplo de secundaria generado con:  
-<a href="https://los-cambios-fisicos-y-qu-2x954pp.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
-<a href="https://docs.google.com/presentation/d/1Jh8H224Pe4aZY8wAq5HlSK-I4bwSnuzk/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="https://docs.google.com/presentation/d/1iUiDbGGjlc0YOYRQC4lLxw6GCvEbPPlz/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
-
-
-### 🏆 Prompt: Presentación con Gamma para EOI
-
-```text
-Crea una presentación de 9 diapositivas para alumnado de Escuela Oficial de Idiomas, nivel B1 de inglés, sobre "Making complaints politely in everyday situations".
-
-Requisitos:
-1. Diapositiva 1: portada con título e imagen de una situación cotidiana de atención al cliente.
-2. Diapositiva 2: situación inicial: "You bought something online and it arrived damaged."
-3. Diapositiva 3: expresiones útiles para quejarse de forma educada.
-4. Diapositiva 4: diferencia entre lenguaje directo y lenguaje cortés.
-5. Diapositiva 5: ejemplo de diálogo breve entre cliente y dependiente.
-6. Diapositiva 6: actividad guiada: completar frases con expresiones adecuadas.
-7. Diapositiva 7: role-play por parejas: reclamar en una tienda, hotel o restaurante.
-8. Diapositiva 8: mediación: explicar el problema de otra persona de forma clara y respetuosa.
-9. Diapositiva 9: checklist final con 5 frases útiles para recordar.
-
-Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de diálogo e iconos. Todo el contenido debe estar en inglés nivel B1, con frases breves y máximo 50 palabras por diapositiva.
-```
-📂 Ejemplo de EOI generado con: 
-
-<a href="https://making-complaints-polite-4mlefkb.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
-<a href="https://docs.google.com/presentation/d/1QVXwQd6y52mvAU_xuOrSuWCKa-px3z5H/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="https://docs.google.com/presentation/d/1yPdc6jQChrUg4Z0ss58IGqEgin_zYhs5/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
-
-### 🏆 Prompt: Presentación con Gamma para Formación Profesional
-
-```text
-Crea una presentación de 10 diapositivas para un ciclo formativo de Grado Medio, módulo de Formación y Orientación Laboral, sobre "Prevención de riesgos laborales en el taller".
-
-Requisitos:
-1. Diapositiva 1: portada con título e imagen de un taller profesional.
-2. Diapositiva 2: pregunta motivadora: "¿Qué accidente podría evitarse con una buena prevención?"
-3. Diapositiva 3: definición breve de riesgo laboral y ejemplo en el taller.
-4. Diapositiva 4: principales riesgos: cortes, golpes, caídas, ruido y productos químicos.
-5. Diapositiva 5: equipos de protección individual: guantes, gafas, calzado y protección auditiva.
-6. Diapositiva 6: señalización básica de seguridad con iconos.
-7. Diapositiva 7: procedimiento seguro antes de empezar una tarea.
-8. Diapositiva 8: caso práctico: detectar 5 riesgos en una imagen de taller.
-9. Diapositiva 9: reto en grupo: diseñar un cartel de seguridad para el aula-taller.
-10. Diapositiva 10: resumen final con 5 normas imprescindibles.
-
-Estilo: profesional, claro y visual, con iconos técnicos, fotografías realistas y poco texto. Lenguaje adaptado a alumnado de FP. Máximo 40 palabras por diapositiva.
-```
-📂 Ejemplo de FP generado con:
-
-<a href="https://prevencion-de-riesgos-la-hq3kz8r.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
-<a href="https://docs.google.com/presentation/d/1PKpx-laXsDTYlVwwjWGnABsf5iTjHJqM/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
-<a href="https://docs.google.com/presentation/d/1VCZaiD1gzDzMI7j2qTTMmlj85Z7WEt1g/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
-
-> **💡 Consejo:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
+- [Educación Infantil](bloque3-actividad-infantil.md)
+- [Educación Primaria](bloque3-actividad-primaria.md)
+- [Educación Secundaria](bloque3-actividad-secundaria.md)
+- [Formación Profesional](bloque3-actividad-fp.md)
+- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
 
 ### 🏆 Prompt de Oro: Presentación educativa con IA (genérico)
 

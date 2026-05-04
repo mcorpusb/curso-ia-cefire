@@ -7,6 +7,40 @@ nav_order: 12
 
 # Actividad · Educación Secundaria
 {: .fs-7 }
+## Presentación educativa con IA: Gamma, Copilot y ChatGPT
+
+### Objetivo
+
+Crear una presentación educativa adaptada a la etapa usando IA generativa y comparar el resultado obtenido con Gamma, Copilot en PowerPoint y ChatGPT.
+
+### Prompt de ejemplo
+
+```text
+Crea una presentación de 10 diapositivas para 2.º de ESO, asignatura de Física y Química, sobre "Los cambios físicos y químicos de la materia".
+
+Requisitos:
+1. Diapositiva 1: portada con título e imagen relacionada con un laboratorio escolar.
+2. Diapositiva 2: pregunta motivadora: "¿Por qué se derrite el hielo pero el papel quemado no vuelve a ser papel?"
+3. Diapositiva 3: definición sencilla de cambio físico con 2 ejemplos cotidianos.
+4. Diapositiva 4: definición sencilla de cambio químico con 2 ejemplos cotidianos.
+5. Diapositiva 5: tabla comparativa visual entre cambio físico y cambio químico.
+6. Diapositiva 6: experimento seguro de aula: disolver sal en agua.
+7. Diapositiva 7: experimento demostrativo: reacción con vinagre y bicarbonato.
+8. Diapositiva 8: errores frecuentes del alumnado y cómo evitarlos.
+9. Diapositiva 9: actividad interactiva: clasificar 8 situaciones en cambio físico o químico.
+10. Diapositiva 10: resumen final con 3 ideas clave y pregunta de reflexión.
+
+Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
+```
+
+### Ejemplos generados
+
+- Gamma: <a href="https://los-cambios-fisicos-y-qu-2x954pp.gamma.site" rel="noopener noreferrer">Cambios físicos y químicos (Gamma)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1Jh8H224Pe4aZY8wAq5HlSK-I4bwSnuzk/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Cambios físicos y químicos (Copilot)</a>
+- ChatGPT: <a href="https://docs.google.com/presentation/d/1iUiDbGGjlc0YOYRQC4lLxw6GCvEbPPlz/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Cambios físicos y químicos (ChatGPT)</a>
+
+---
+
 
 Diseña un cómic argumentativo, científico, histórico, ético o social para trabajar pensamiento crítico y comunicación visual con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
@@ -319,6 +353,7 @@ Resultado con ChatGPT:
 [![Cómic Secundaria generado con ChatGPT](/assets/img/Comic_secundaria_chatGPT.png)](/assets/img/Comic_secundaria_chatGPT.png)
 
 ---
+
 
 [← Volver a Bloque 3: Generación Multimodal](bloque3.md)
 

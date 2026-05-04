@@ -11,6 +11,38 @@ nav_order: 10
 Diseña un cómic visual, sencillo y emocional para trabajar rutinas, convivencia o hábitos cotidianos con ayuda de herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
+## Presentación educativa con IA: Gamma, Copilot y ChatGPT
+
+### Objetivo
+
+Crear una presentación educativa adaptada a la etapa usando IA generativa y comparar el resultado obtenido con Gamma, Copilot en PowerPoint y ChatGPT.
+
+### Prompt de ejemplo
+
+```text
+Crea una presentación de 8 diapositivas para Educación Infantil (5 años) sobre "Los hábitos saludables".
+
+Requisitos:
+1. Diapositiva 1: portada con título sencillo e imagen alegre.
+2. Diapositiva 2: pregunta motivadora: "¿Qué hacemos para cuidar nuestro cuerpo?"
+3. Diapositiva 3: lavarse las manos, con imagen clara y pocos elementos.
+4. Diapositiva 4: comer frutas y verduras, con iconos grandes.
+5. Diapositiva 5: dormir bien, con escena tranquila.
+6. Diapositiva 6: moverse y jugar, con niños realizando actividad física.
+7. Diapositiva 7: actividad oral: "¿Qué hábito saludable haces tú cada día?"
+8. Diapositiva 8: resumen visual con 4 pictogramas: manos, comida sana, sueño y movimiento.
+
+Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
+```
+
+### Ejemplos generados
+
+- Gamma: <a href="https://habitos-saludables-opx9lpz.gamma.site" target="_blank" rel="noopener noreferrer">Hábitos saludables (Gamma)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1ScfrW3A06-32hqU4vuHGY9wsobX4EeXO/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Hábitos saludables (Copilot)</a>
+- ChatGPT: <a href="https://docs.google.com/presentation/d/1aTRCvwnDajPTUYALhJeoynltJ8yKZdYo/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Hábitos saludables (ChatGPT)</a>
+
+---
+
 ## ⚙️ Qué vas a hacer (paso a paso)
 
 1. Pido un prompt exhaustivo adaptando el que tengo listo para usar usando Copilot, ChatGPT o Gemini.
@@ -308,7 +340,6 @@ Genera el cómic:
 Resultado con ChatGPT:
 
 [![Cómic Secundaria generado con ChatGPT](/assets/img/Comic_infantil_chatGPT.png)](/assets/img/Comic_infantil_chatGPT.png)
-
 
 ---
 

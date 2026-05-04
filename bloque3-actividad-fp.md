@@ -8,6 +8,41 @@ nav_order: 13
 # Actividad · Formación Profesional
 {: .fs-7 }
 
+## Presentación educativa con IA: Gamma, Copilot y ChatGPT
+
+### Objetivo
+
+Crear una presentación educativa adaptada a la etapa usando IA generativa y comparar el resultado obtenido con Gamma, Copilot en PowerPoint y ChatGPT.
+
+### Prompt de ejemplo
+
+```text
+Crea una presentación de 10 diapositivas para un ciclo formativo de Grado Medio, módulo de Formación y Orientación Laboral, sobre "Prevención de riesgos laborales en el taller".
+
+Requisitos:
+1. Diapositiva 1: portada con título e imagen de un taller profesional.
+2. Diapositiva 2: pregunta motivadora: "¿Qué accidente podría evitarse con una buena prevención?"
+3. Diapositiva 3: definición breve de riesgo laboral y ejemplo en el taller.
+4. Diapositiva 4: principales riesgos: cortes, golpes, caídas, ruido y productos químicos.
+5. Diapositiva 5: equipos de protección individual: guantes, gafas, calzado y protección auditiva.
+6. Diapositiva 6: señalización básica de seguridad con iconos.
+7. Diapositiva 7: procedimiento seguro antes de empezar una tarea.
+8. Diapositiva 8: caso práctico: detectar 5 riesgos en una imagen de taller.
+9. Diapositiva 9: reto en grupo: diseñar un cartel de seguridad para el aula-taller.
+10. Diapositiva 10: resumen final con 5 normas imprescindibles.
+
+Estilo: profesional, claro y visual, con iconos técnicos, fotografías realistas y poco texto. Lenguaje adaptado a alumnado de FP. Máximo 40 palabras por diapositiva.
+```
+
+### Ejemplos generados
+
+- Gamma: <a href="https://prevencion-de-riesgos-la-hq3kz8r.gamma.site" rel="noopener noreferrer">Prevención de riesgos laborales (Gamma)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1PKpx-laXsDTYlVwwjWGnABsf5iTjHJqM/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Prevención de riesgos laborales (Copilot)</a>
+- ChatGPT: <a href="https://docs.google.com/presentation/d/1VCZaiD1gzDzMI7j2qTTMmlj85Z7WEt1g/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Prevención de riesgos laborales (ChatGPT)</a>
+
+  
+---
+
 Diseña un cómic formativo sobre una situación profesional real de tu módulo e ilustra cada escena con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
@@ -305,10 +340,10 @@ Genera el cómic:
 
 Resultado con ChatGPT:
 
-![Cómic FP generado con ChatGPT](/assets/img/Comic_fp_chatGPT.png)
-
+![Cómic FP generado con ChatGPT]({{ '/assets/img/Comic_fp_chatGPT.png' | relative_url }})
 
 ---
+
 
 [← Volver a Bloque 3: Generación Multimodal](bloque3.md)
 

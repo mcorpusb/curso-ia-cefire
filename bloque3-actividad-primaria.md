@@ -8,6 +8,42 @@ nav_order: 11
 # Actividad · Educación Primaria
 {: .fs-7 }
 
+
+## Presentación educativa con IA: Gamma, Copilot y ChatGPT
+
+### Objetivo
+
+Crear una presentación educativa adaptada a la etapa usando IA generativa y comparar el resultado obtenido con Gamma, Copilot en PowerPoint y ChatGPT.
+
+### Prompt de ejemplo
+
+```text
+Crea una presentación de 10 diapositivas para una clase de Ciencias Naturales 
+de 5.º de Primaria sobre "El ciclo del agua".
+
+Requisitos:
+1. Diapositiva 1: portada con título atractivo e imagen.
+2. Diapositiva 2: pregunta motivadora ("¿A dónde va la lluvia?").
+3. Diapositivas 3-7: explicación del ciclo (evaporación, condensación, 
+   precipitación, escorrentía, infiltración), una fase por diapositiva, 
+   con imagen o diagrama ilustrativo.
+4. Diapositiva 8: actividad interactiva para el alumnado.
+5. Diapositiva 9: resumen visual (infografía del ciclo completo).
+6. Diapositiva 10: bibliografía y créditos.
+
+Estilo: colorido, con lenguaje adaptado a 10-11 años. Incluye iconos y poca 
+cantidad de texto por diapositiva (máximo 40 palabras).
+```
+
+### Ejemplos generados
+
+- Gamma: <a href="https://el-ciclo-del-agua-ps7ciiw.gamma.site" target="_blank" rel="noopener noreferrer">El ciclo del agua (Gamma)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1_whlRKBwQcA-ZKe6H17jZGDa6pzDB27Y/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">El ciclo del agua (Copilot)</a>
+- ChatGPT: <a href="https://docs.google.com/presentation/d/1z9DgpzupEy_y0V42g0m7xWAvnNBPP1H0/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">El ciclo del agua (ChatGPT)</a>
+
+
+---
+
 Diseña un cómic didáctico para explicar una situación cercana al alumnado y trabajar competencias, convivencia o resolución de problemas con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
@@ -317,6 +353,7 @@ Resultado con ChatGPT:
 [![Cómic Primaria generado con ChatGPT](/assets/img/Comic_primaria_chatGPT.png)](/assets/img/Comic_primaria_chatGPT.png)
 
 ---
+
 
 [← Volver a Bloque 3: Generación Multimodal](bloque3.md)
 

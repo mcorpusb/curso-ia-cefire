@@ -8,6 +8,41 @@ nav_order: 14
 # Actividad · Escuela Oficial de Idiomas
 {: .fs-7 }
 
+
+## Presentación educativa con IA: Gamma, Copilot y ChatGPT
+
+### Objetivo
+
+Crear una presentación educativa adaptada a la etapa usando IA generativa y comparar el resultado obtenido con Gamma, Copilot en PowerPoint y ChatGPT.
+
+### Prompt de ejemplo
+
+```text
+Crea una presentación de 9 diapositivas para alumnado de Escuela Oficial de Idiomas, nivel B1 de inglés, sobre "Making complaints politely in everyday situations".
+
+Requisitos:
+1. Diapositiva 1: portada con título e imagen de una situación cotidiana de atención al cliente.
+2. Diapositiva 2: situación inicial: "You bought something online and it arrived damaged."
+3. Diapositiva 3: expresiones útiles para quejarse de forma educada.
+4. Diapositiva 4: diferencia entre lenguaje directo y lenguaje cortés.
+5. Diapositiva 5: ejemplo de diálogo breve entre cliente y dependiente.
+6. Diapositiva 6: actividad guiada: completar frases con expresiones adecuadas.
+7. Diapositiva 7: role-play por parejas: reclamar en una tienda, hotel o restaurante.
+8. Diapositiva 8: mediación: explicar el problema de otra persona de forma clara y respetuosa.
+9. Diapositiva 9: checklist final con 5 frases útiles para recordar.
+
+Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de diálogo e iconos. Todo el contenido debe estar en inglés nivel B1, con frases breves y máximo 50 palabras por diapositiva.
+```
+
+### Ejemplos generados
+
+- Gamma: <a href="https://making-complaints-polite-4mlefkb.gamma.site" rel="noopener noreferrer">Making complaints politely (Gamma)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1QVXwQd6y52mvAU_xuOrSuWCKa-px3z5H/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Making complaints politely (Copilot)</a>
+- ChatGPT: <a href="https://docs.google.com/presentation/d/1yPdc6jQChrUg4Z0ss58IGqEgin_zYhs5/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Making complaints politely (ChatGPT)</a>
+
+
+---
+
 Diseña un cómic para practicar funciones comunicativas, situaciones reales y producción oral o escrita en una lengua extranjera con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
@@ -313,7 +348,9 @@ Genera el cómic:
 Resultado con ChatGPT:
 
 [![Cómic EOI generado con ChatGPT](/assets/img/Comic_eoi_chatGPT.png)](/assets/img/Comic_eoi_chatGPT.png)
+
 ---
+
 
 [← Volver a Bloque 3: Generación Multimodal](bloque3.md)
 
