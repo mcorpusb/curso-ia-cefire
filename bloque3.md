@@ -48,7 +48,7 @@ Al finalizar este bloque serás capaz de:
 **Gamma** ([gamma.app](https://gamma.app)) es una herramienta de IA que genera presentaciones, documentos y páginas web completas a partir de una descripción en lenguaje natural. Ofrece diseños visuales modernos sin necesidad de plantillas previas.
 
 >  🎁 **Acceso a Gamma (invitación)**
-> Puedes unirte directamente desde este enlace: [enlace]([https://gamma.app](https://gamma.app/workspaces/ef1fs84es7tf0g1/join?code=6esccgwc6yh76gt))
+> Puedes unirte directamente desde este enlace: [INVITACIÓN](https://gamma.app/workspaces/ef1fs84es7tf0g1/join?code=6esccgwc6yh76gt)
 
 
 
