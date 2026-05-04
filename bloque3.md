@@ -83,6 +83,7 @@ Requisitos:
 Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
 ```
 📂 Ejemplo generado con GAMMA: [Infantil](https://habitos-saludables-opx9lpz.gamma.site)
+
 📂 Ejemplo generado con COPILOT: [Infantil](https://gvaedu-my.sharepoint.com/personal/mc_baronbautista_edu_gva_es/_layouts/15/Doc.aspx?sourcedoc=%7B78324828-4817-473C-B09D-988B500681DF%7D&file=Habitos_saludables_Infantil_5_anos.pptx&action=edit&mobileredirect=true)
 
   
