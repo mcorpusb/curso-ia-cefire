@@ -82,11 +82,13 @@ Requisitos:
 
 Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
 ```
-📂 Ejemplo generado con GAMMA: [Infantil](https://habitos-saludables-opx9lpz.gamma.site)
+📂 Ejemplo de infantil generado:  
+<a href="https://habitos-saludables-opx9lpz.gamma.site" target="_blank" rel="noopener noreferrer">GAMMA</a>
 
-📂 Ejemplo generado con COPILOT: [Infantil](https://gvaedu-my.sharepoint.com/:p:/g/personal/mc_baronbautista_edu_gva_es/IQAn4A39Fqf0Q6S3PbUTHX3oAXixiJOIakgDyVYO-a_WNYk?e=Z5acfa)
+<a href="https://docs.google.com/presentation/d/1ScfrW3A06-32hqU4vuHGY9wsobX4EeXO/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a>
+ 
+<a href="https://docs.google.com/presentation/d/1aTRCvwnDajPTUYALhJeoynltJ8yKZdYo/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
 
-  
 ### 🏆 Prompt: Presentación con Gamma para Primaria
 
 ```text
