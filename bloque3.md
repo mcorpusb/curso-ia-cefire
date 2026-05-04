@@ -84,7 +84,7 @@ Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 pa
 ```
 📂 Ejemplo generado con GAMMA: [Infantil](https://habitos-saludables-opx9lpz.gamma.site)
 
-📂 Ejemplo generado con COPILOT: [Infantil](https://gvaedu-my.sharepoint.com/personal/mc_baronbautista_edu_gva_es/_layouts/15/Doc.aspx?sourcedoc=%7B78324828-4817-473C-B09D-988B500681DF%7D&file=Habitos_saludables_Infantil_5_anos.pptx&action=edit&mobileredirect=true)
+📂 Ejemplo generado con COPILOT: [Infantil](https://gvaedu-my.sharepoint.com/:p:/g/personal/mc_baronbautista_edu_gva_es/IQAn4A39Fqf0Q6S3PbUTHX3oAXixiJOIakgDyVYO-a_WNYk?e=Z5acfa)
 
   
 ### 🏆 Prompt: Presentación con Gamma para Primaria
