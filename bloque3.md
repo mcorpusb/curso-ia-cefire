@@ -378,7 +378,7 @@ Formato de salida:
 - Selecciona el icono de la chincheta → Guardar como nota (aparecerá en la parte derecha).
 - Pulsa los tres puntos → Convertir en fuente.
 - Deja solo esa fuente seleccionada en el panel izquierdo.
-- En el chat escribe: “Generar el cómic”.
+- En el chat escribe: “Con la presentación del cuaderno, crea la versión final del cómic con la maquetación de las viñetas listo para leer”.
 
 
 💡 Consejo: Este flujo convierte el prompt en una “regla interna” del modelo, asegurando coherencia en todo el cómic sin tener que repetir instrucciones en cada interacción.
