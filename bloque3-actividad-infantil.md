@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · Infantil"
+title: Actividad · Infantil
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 10
 ---
@@ -8,89 +8,301 @@ nav_order: 10
 # Actividad · Educación Infantil
 {: .fs-7 }
 
-Crea el guion de un cómic educativo para tu grupo de Infantil y genera las ilustraciones viñeta a viñeta con herramientas de IA generativa.
+Diseña un cómic visual, sencillo y emocional para trabajar rutinas, convivencia o hábitos cotidianos con ayuda de herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
----
+## ⚙️ Qué vas a hacer (paso a paso)
 
-## 🎯 Objetivo
+1. Pido un prompt exhaustivo adaptando el que tengo listo para usar usando Copilot, ChatGPT o Gemini.
 
-Utilizar Copilot o ChatGPT para generar el guion de un cómic de 4 viñetas adaptado a Educación Infantil (4-5 años) y, a continuación, producir las imágenes con Copilot Image Creator, ChatGPT o Canva para obtener un recurso visual listo para usar en el aula.
+2. Con el prompt que me devuelve voy a generar el guion completo del cómic, revisando la adecuación al nivel, el lenguaje, la emoción trabajada y la claridad visual de cada escena.
 
----
+3. Uso el cómic como recurso de aula para anticipar rutinas, trabajar hábitos, iniciar una conversación o reforzar la convivencia en el grupo.
 
-## 🧠 Situación de aula
+## 💬 AJUSTA ESTE PROMPT listo para usar
 
-Eres docente de Educación Infantil y quieres reforzar visualmente un contenido del proyecto o de la rutina semanal: hábitos saludables, emociones, convivencia, el entorno natural… El alumnado de estas edades aprende mejor cuando la información llega a través de imágenes secuenciadas, personajes cercanos y textos muy breves.
+Dame un prompt exhaustivo para crear un cómic sobre:
 
-Diseñar a mano un cómic coherente —con escenas claras, lenguaje adaptado y un mensaje positivo— puede llevar mucho tiempo. Con IA puedes obtener un guion sólido en pocos minutos y dedicar el esfuerzo a revisarlo, personalizarlo y elegir las imágenes que mejor encajen con tu grupo.
+Contexto: Necesito un cómic de [N] viñetas para explicar una situación cotidiana sobre [TEMA] en el nivel de [NIVEL].
 
----
+Actúa como un diseñador de cómics didácticos para alumnado de Educación Infantil.
 
-## ⚙️ Qué vas a hacer
-
-1. Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**, o bien a **ChatGPT** si trabajas con cuenta personal.
-2. Decide el tema del cómic: algo que estés trabajando esta semana en el aula (hábitos, emociones, estaciones, animales, etc.).
-3. Sustituye `[TEMA]` en el prompt por tu tema real y lánzalo.
-4. Lee el guion generado: ¿las escenas son reconocibles para el alumnado de 4-5 años? ¿El texto de cada viñeta es muy breve?
-5. Ajusta el guion si alguna viñeta tiene demasiadas palabras o una acción poco clara.
-6. Para cada viñeta, crea la ilustración con **Copilot Image Creator** (cuenta `@edu.gva.es`) o con **ChatGPT** (cuenta personal): describe la escena de la viñeta como prompt de imagen.
-7. Monta el cómic en **Canva** usando una plantilla de cómic de 4 panel, añade los textos y exporta en PDF.
-8. Imprime el cómic o súbelo a Aules como recurso de aula.
-
-> **⚠️ Seguridad GVA:** No subas fotografías de alumnado ni datos personales a ninguna herramienta externa. Usa siempre personajes ficticios inventados en el prompt.
-
----
-
-## 💬 Prompt listo para usar
-
-```text
-Actúa como un creador de cómics educativos para alumnado de Educación Infantil (4-5 años).
-
-Contexto: Necesito un cómic de 4 viñetas para trabajar [TEMA] de forma visual, sencilla y positiva.
-
-Tarea: Escribe el guion del cómic con esta estructura para cada viñeta:
+Tarea: Genera un guion con enfoque visual, emocional y educativo. Para cada viñeta incluye:
 
 - VIÑETA [N]:
-  - Escena: [Descripción visual muy sencilla]
-  - Personajes: [1-2 personajes ficticios]
-  - Acción: [Qué ocurre en la viñeta]
-  - Texto: [Frase muy corta, máximo 5 palabras]
-  - Emoción: [Alegría, sorpresa, calma, curiosidad…]
+  - Escena: [Aula, patio, asamblea, rincón de juego, comedor, baño, entrada o salida del centro…]
+  - Personajes: [Niños/as, docente, mascota de aula, grupo de compañeros/as…]
+  - Acción: [Situación cotidiana concreta]
+  - Diálogo/Texto: [Máximo 15 palabras, lenguaje muy sencillo]
+  - Objetivo didáctico o competencia trabajada: [Rutina, emoción, convivencia, autonomía o hábito]
+
+Estructura:
+
+1. Situación cotidiana o rutina.
+2. Aparición de una emoción, dificultad o conflicto sencillo.
+3. Duda o conducta poco adecuada.
+4. Ayuda del adulto o del grupo.
+5. Resolución positiva.
+6. Mensaje final sencillo.
 
 Restricciones:
-- Lenguaje muy simple.
-- Máximo 5 palabras por viñeta.
-- Situaciones cotidianas reconocibles.
-- Estilo visual cartoon, amable y colorido.
-- No incluir personajes reales ni alumnado identificable.
-```
 
----
+- Lenguaje muy claro y adaptado a Infantil.
+- Diálogos breves.
+- Situaciones visuales y fácilmente reconocibles.
+- Evitar teoría abstracta.
+- Mostrar hábitos positivos.
+- No incluir datos personales ni centros reales.
+- Personajes ficticios.
+- Estilo cartoon educativo.
+- Sin texto en la imagen.
 
 ## 🖼️ Ejemplo de uso
 
-**Tema:** Lavarse las manos antes de comer.
+Dame un prompt exhaustivo para crear un cómic sobre:
 
-Lanza el prompt con `[TEMA]` = "lavarse las manos antes de comer". El objetivo es que el alumnado entienda cuándo y por qué debe hacerlo. Copilot generará cuatro escenas con personajes animales o infantiles que siguen la secuencia de forma positiva.
+Contexto: Necesito un cómic de 6 viñetas para explicar una situación cotidiana sobre recoger los juguetes después del juego en Infantil 4 años.
 
-Para las ilustraciones, usa este tipo de descripción por viñeta en **Copilot Image Creator**:
+Actúa como un diseñador de cómics didácticos para alumnado de Educación Infantil.
+
+Tarea: Genera un guion con enfoque visual, emocional y educativo. Para cada viñeta incluye:
+
+- VIÑETA [N]:
+  - Escena: [Aula, patio, asamblea, rincón de juego, comedor, baño, entrada o salida del centro…]
+  - Personajes: [Niños/as, docente, mascota de aula, grupo de compañeros/as…]
+  - Acción: [Situación cotidiana concreta]
+  - Diálogo/Texto: [Máximo 15 palabras, lenguaje muy sencillo]
+  - Objetivo didáctico o competencia trabajada: [Rutina, emoción, convivencia, autonomía o hábito]
+
+Estructura:
+
+1. Situación cotidiana o rutina.
+2. Aparición de una emoción, dificultad o conflicto sencillo.
+3. Duda o conducta poco adecuada.
+4. Ayuda del adulto o del grupo.
+5. Resolución positiva.
+6. Mensaje final sencillo.
+
+Restricciones:
+
+- Lenguaje muy claro y adaptado a Infantil.
+- Diálogos breves.
+- Situaciones visuales y fácilmente reconocibles.
+- Evitar teoría abstracta.
+- Mostrar hábitos positivos.
+- No incluir datos personales ni centros reales.
+- Personajes ficticios.
+- Estilo cartoon educativo.
+- Sin texto en la imagen.
+
+## 💡 Obtengo el prompt listo para usar
+
+Actúa como un diseñador de cómics didácticos para alumnado de Educación Infantil.
+
+## Contexto
+
+Necesito un cómic de **6 viñetas** para explicar una situación cotidiana sobre **recoger los juguetes después del juego**.
+
+La historia debe desarrollarse en un **aula de Infantil de 4 años**, concretamente en el rincón de construcciones y juego simbólico, después de un momento de juego libre.
+
+## Objetivo didáctico
+
+El cómic debe ayudar al alumnado a:
+
+* reconocer la rutina de recoger después de jugar;
+* comprender que el aula se cuida entre todos;
+* identificar una emoción sencilla relacionada con el orden y la colaboración;
+* practicar la autonomía personal;
+* reforzar la convivencia positiva en el grupo.
+
+## Tarea
+
+Genera un guion con enfoque visual, emocional y educativo. Para cada viñeta incluye:
+
+* **VIÑETA [N]:**
+  * **Escena:** entorno escolar reconocible para Infantil.
+  * **Personajes:** niños/as ficticios, docente y mascota de aula.
+  * **Acción:** situación cotidiana relacionada con el juego y la recogida.
+  * **Diálogo/Texto:** máximo 15 palabras, lenguaje muy sencillo.
+  * **Objetivo didáctico o competencia trabajada:** rutina, autonomía, emoción o convivencia.
+
+## Estructura obligatoria
+
+1. Situación cotidiana: el grupo termina de jugar en el rincón de construcciones.
+2. Aparición de una dificultad: hay piezas, muñecos y cajas por el suelo.
+3. Conducta poco adecuada: un niño quiere irse sin recoger.
+4. Ayuda del adulto o del grupo: la docente y la mascota recuerdan la rutina.
+5. Resolución positiva: todos colaboran y guardan cada cosa en su lugar.
+6. Mensaje final sencillo: recoger juntos ayuda a cuidar el aula.
+
+## Aspectos específicos que deben aparecer
+
+Incluye cuando sea adecuado:
+
+* rincón de juego;
+* piezas de construcción;
+* cajas o cestas de colores;
+* alfombra de aula;
+* docente acompañando;
+* mascota de aula;
+* niños/as colaborando;
+* aula ordenada al final.
+
+## Restricciones
+
+* Lenguaje muy claro y adaptado a Infantil.
+* Diálogos breves y naturales.
+* Situación visual y fácilmente reconocible.
+* Evitar teoría abstracta.
+* Mostrar hábitos positivos.
+* Personajes ficticios.
+* No incluir datos personales ni centros reales.
+* Estilo cartoon educativo.
+* Sin texto dentro de la imagen.
+
+## Formato de salida
+
+Devuelve el resultado así:
+
+### Título del cómic
+
+### Guion del cómic
+
+#### VIÑETA 1
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 2
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 3
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 4
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 5
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+#### VIÑETA 6
+
+* **Escena:**
+* **Personajes:**
+* **Acción:**
+* **Diálogo/Texto:**
+* **Objetivo didáctico o competencia trabajada:**
+
+### Prompts visuales para generar las imágenes
+
+Después del guion, crea un prompt visual para cada viñeta.
+
+Cada prompt debe:
+
+* describir claramente la escena;
+* indicar “estilo cómic educativo”;
+* mostrar un aula de Infantil acogedora y realista;
+* mantener coherencia visual entre personajes;
+* evitar texto dentro de la imagen;
+* mantener personajes ficticios.
+
+## 👉 Cuando le doy el prompt a la IA obtengo el resultado:
 
 ```text
-Ilustración estilo cómic infantil colorido. Un conejo pequeño con delantal 
-llega corriendo a un lavabo de colores. Sus manos están sucias de barro. 
-Estilo cartoon amable, fondo alegre. Sin texto en la imagen.
-```
+Genera el cómic:
+
+### Título del cómic
+
+**“Recogemos juntos”**
 
 ---
 
-## 💡 Flujo recomendado
+### Guion del cómic
 
-1. Genera el **guion completo** del cómic con Copilot o ChatGPT.
-2. Crea las **imágenes** viñeta a viñeta con Copilot Image Creator o ChatGPT.
-3. **Monta el cómic** en Canva, PowerPoint o una plantilla imprimible de cómic.
-4. Revisa el **lenguaje**, el tamaño de letra y la adecuación visual al nivel del alumnado.
-5. Imprime o incorpora el cómic a tu Situación de Aprendizaje en Aules.
+#### VIÑETA 1
+
+* **Escena:** Aula de Infantil, rincón de construcciones con una alfombra grande.
+* **Personajes:** Tres niños, docente y mascota de aula.
+* **Acción:** El grupo termina de jugar con piezas de colores.
+* **Diálogo/Texto:** “¡Qué torre tan alta hemos hecho!”
+* **Objetivo didáctico o competencia trabajada:** Participación en el juego compartido.
+
+---
+
+#### VIÑETA 2
+
+* **Escena:** El rincón queda lleno de piezas, muñecos y cajas abiertas.
+* **Personajes:** Niños y docente.
+* **Acción:** La docente observa el suelo desordenado.
+* **Diálogo/Texto:** “Ahora toca recoger.”
+* **Objetivo didáctico o competencia trabajada:** Reconocimiento de rutinas de aula.
+
+---
+
+#### VIÑETA 3
+
+* **Escena:** Un niño se aleja hacia la asamblea sin guardar sus piezas.
+* **Personajes:** Niño, compañeros y mascota.
+* **Acción:** El niño duda y mira los juguetes en el suelo.
+* **Diálogo/Texto:** “Yo quiero ir ya.”
+* **Objetivo didáctico o competencia trabajada:** Identificación de una conducta poco adecuada.
+
+---
+
+#### VIÑETA 4
+
+* **Escena:** La docente se agacha junto al grupo y señala las cajas.
+* **Personajes:** Docente, niños y mascota.
+* **Acción:** La docente recuerda la rutina con calma.
+* **Diálogo/Texto:** “Cada cosa vuelve a su sitio.”
+* **Objetivo didáctico o competencia trabajada:** Desarrollo de autonomía y responsabilidad.
+
+---
+
+#### VIÑETA 5
+
+* **Escena:** Los niños guardan piezas en cajas de colores.
+* **Personajes:** Grupo de niños y docente.
+* **Acción:** Cada niño ayuda a recoger una parte del rincón.
+* **Diálogo/Texto:** “¡Yo guardo las piezas azules!”
+* **Objetivo didáctico o competencia trabajada:** Colaboración y cuidado del aula.
+
+---
+
+#### VIÑETA 6
+
+* **Escena:** Aula ordenada, grupo sentado contento en la alfombra.
+* **Personajes:** Niños, docente y mascota.
+* **Acción:** El grupo celebra que el rincón ha quedado limpio.
+* **Diálogo/Texto:** “Recoger juntos es más fácil.”
+* **Objetivo didáctico o competencia trabajada:** Interiorización de un hábito positivo.
+```
+Resultado con ChatGPT:
+
+[![Cómic Infantil generado con ChatGPT](/assets/img/Comic_infantil_chatGPT.png)](/assets/img/Comic_infantil_chatGPT.png
 
 ---
 

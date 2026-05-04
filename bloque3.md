@@ -82,7 +82,7 @@ Requisitos:
 
 Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 palabras por diapositiva. Lenguaje adaptado a alumnado de 5 años. No incluyas textos largos.
 ```
-📂 Ejemplo de infantil generado:  
+📂 Ejemplo de infantil generado con:  
 <a href="https://habitos-saludables-opx9lpz.gamma.site" target="_blank" rel="noopener noreferrer">GAMMA</a> ·  
 <a href="https://docs.google.com/presentation/d/1ScfrW3A06-32hqU4vuHGY9wsobX4EeXO/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
 <a href="https://docs.google.com/presentation/d/1aTRCvwnDajPTUYALhJeoynltJ8yKZdYo/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
@@ -133,7 +133,7 @@ Requisitos:
 Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
 ```
 
-📂 Ejemplo de secundaria generado:  
+📂 Ejemplo de secundaria generado con:  
 <a href="https://los-cambios-fisicos-y-qu-2x954pp.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
 <a href="https://docs.google.com/presentation/d/1Jh8H224Pe4aZY8wAq5HlSK-I4bwSnuzk/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
 <a href="https://docs.google.com/presentation/d/1iUiDbGGjlc0YOYRQC4lLxw6GCvEbPPlz/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
@@ -157,7 +157,8 @@ Requisitos:
 
 Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de diálogo e iconos. Todo el contenido debe estar en inglés nivel B1, con frases breves y máximo 50 palabras por diapositiva.
 ```
-📂 Ejemplo de EOI generado por: 
+📂 Ejemplo de EOI generado con: 
+
 <a href="https://making-complaints-polite-4mlefkb.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
 <a href="https://docs.google.com/presentation/d/1QVXwQd6y52mvAU_xuOrSuWCKa-px3z5H/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
 <a href="https://docs.google.com/presentation/d/1yPdc6jQChrUg4Z0ss58IGqEgin_zYhs5/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
@@ -253,23 +254,41 @@ No incluyas texto ni letras en la imagen.
 Usa este prompt para generar el **guion** del cómic, y después crea las imágenes viñeta a viñeta:
 
 ```text
-Actúa como un guionista de cómics educativos para alumnado de 3.º de Primaria.
+Actúa como un guionista de cómics educativos especializado en crear materiales para alumnado de [Nivel/Etapa].
 
-Contexto: Necesito un cómic de 6 viñetas para explicar la importancia del 
-reciclaje, vinculado al área de Conocimiento del Medio (LOMLOE, Comunitat 
-Valenciana).
+## Objetivo
 
-Tarea: Escribe el guion con esta estructura para cada viñeta:
-- VIÑETA [N]:
-  - Escena: [Descripción visual detallada]
-  - Personajes: [Quién aparece y qué hace]
-  - Diálogo/Texto: [Bocadillos de texto]
-  - Emoción: [Tono de la viñeta: curiosidad, sorpresa, humor…]
+Crear un cómic educativo de [NUM] viñetas para explicar [Tema], relacionado con [Área o materia], adaptado al nivel madurativo, lingüístico y curricular del alumnado de [Nivel/Etapa].
 
-Restricciones:
-- Personajes ficticios (no basados en personas reales).
-- Lenguaje adaptado a 8-9 años.
-- La última viñeta debe incluir un mensaje reflexivo o una pregunta.
+## Contexto educativo
+
+El cómic debe poder utilizarse como recurso didáctico en el aula dentro de [Asignatura/Área], siguiendo el enfoque competencial de [Normativa o marco educativo] en [Territorio/Comunidad].
+
+## Tarea
+
+Escribe el guion completo del cómic siguiendo esta estructura en cada viñeta:
+
+### VIÑETA [N]
+
+- Escena: Descripción visual detallada de la situación, el lugar, los objetos importantes y la acción principal.
+- Personajes: Personajes ficticios que aparecen, qué hacen, qué sienten y cómo interactúan.
+- Diálogo/Texto: Bocadillos, cartelas o textos breves. El lenguaje debe estar adaptado a [Edad o nivel].
+- Emoción: Tono de la viñeta: curiosidad, sorpresa, humor, tensión, cooperación, descubrimiento, reflexión, etc.
+- Idea clave: Aprendizaje principal que transmite la viñeta.
+
+## Restricciones
+
+- Los personajes deben ser ficticios y adecuados para un contexto escolar.
+- No uses personajes reales, famosos ni marcas comerciales.
+- El lenguaje debe ser claro, cercano y adaptado a [Nivel/Etapa].
+- Cada viñeta debe tener una función narrativa o didáctica clara.
+- El cómic debe combinar aprendizaje, diálogo y elementos visuales atractivos.
+- La última viñeta debe cerrar con una conclusión, mensaje reflexivo o pregunta abierta.
+- Evita textos extensos dentro de los bocadillos.
+
+## Formato de salida
+
+Presenta el resultado en formato de guion, dividido por viñetas, con apartados claros y ordenados.
 ```
 
 ### Actividades de cómic por etapa
