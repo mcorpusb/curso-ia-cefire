@@ -190,23 +190,94 @@ Estilo: profesional, claro y visual, con iconos técnicos, fotografías realista
 
 > **💡 Consejo:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
 
+### 🏆 Prompt de Oro: Presentación educativa con IA (genérico)
+
+```text
+Actúa como un diseñador de presentaciones educativas especializado en crear materiales claros, visuales y adaptados al alumnado.
+
+## Contexto
+
+Necesito una presentación para:
+- Asignatura: [ASIGNATURA]
+- Curso/Nivel: [CURSO / ETAPA]
+- Tema: [TEMA]
+
+## Objetivo didáctico
+
+El alumnado debe comprender:
+[OBJETIVO DE APRENDIZAJE]
+
+## Tarea
+
+Crea una presentación de [NÚMERO] diapositivas con la siguiente estructura:
+
+1. Portada con título atractivo e imagen sugerida.
+2. Pregunta motivadora o situación inicial.
+3. Desarrollo del contenido en varias diapositivas (una idea clave por diapositiva).
+4. Ejemplos claros y cercanos al alumnado.
+5. Una actividad interactiva o pregunta para el alumnado.
+6. Resumen final con ideas clave.
+7. (Opcional) Bibliografía o recursos.
+
+## Requisitos
+
+- Lenguaje adaptado al nivel indicado.
+- Máximo [X] palabras por diapositiva.
+- Incluir sugerencias visuales en cada diapositiva [IMAGEN: ...].
+- Usar listas claras, evitar párrafos largos.
+- Incluir iconos o elementos visuales cuando sea posible.
+- Mantener coherencia visual y pedagógica.
+
+## Formato de salida
+
+DIAPOSITIVA 1: Título
+- Texto: …
+- Imagen sugerida: …
+
+DIAPOSITIVA 2: …
+
+## Estilo
+
+[Ej: visual, minimalista, científico, colorido, profesional…]
+
+## Restricciones
+
+- No incluir texto excesivo.
+- No usar lenguaje demasiado técnico si no es necesario.
+- Adaptar ejemplos al contexto del alumnado.
+```
+
 ### 🏆 Prompt de Oro: Presentación con Copilot en PowerPoint
 
 Si prefieres trabajar directamente en el ecosistema Microsoft:
 
+
 ```text
-Crea una presentación sobre "La España del siglo XIX: del Antiguo Régimen 
-al liberalismo" para 4.º de ESO, asignatura de Geografía e Historia.
+Crea una presentación sobre "[TEMA]" para [CURSO / NIVEL], asignatura de [ASIGNATURA].
 
 Estructura:
-- Portada con título y subtítulo.
-- Línea temporal de los eventos clave (1808-1874).
-- 1 diapositiva por etapa: Guerra de Independencia, Cortes de Cádiz, 
-  reinados de Fernando VII e Isabel II, Sexenio Democrático.
-- Cada diapositiva: título, 3-4 puntos clave, imagen representativa.
-- Diapositiva final: preguntas de reflexión para debate en el aula.
+- Portada con título y subtítulo claro.
+- Diapositiva 2: pregunta motivadora o situación inicial.
+- Desarrollo del contenido en [NÚMERO] diapositivas (una idea clave por diapositiva).
+- Diapositiva con ejemplos prácticos o casos reales.
+- Diapositiva con actividad para el alumnado.
+- Diapositiva final con resumen (3-5 ideas clave) y una pregunta de reflexión.
 
-Tono: académico pero accesible para 15-16 años.
+Requisitos por diapositiva:
+- Título claro.
+- 3-4 puntos clave en formato lista.
+- Imagen sugerida relacionada con el contenido.
+- Lenguaje adaptado al nivel del alumnado.
+
+Estilo:
+- Claro, visual y estructurado.
+- Evitar párrafos largos.
+- Usar esquemas, tablas o comparativas cuando sea útil.
+
+Restricciones:
+- Máximo [X] palabras por diapositiva.
+- No usar lenguaje excesivamente técnico sin explicación.
+- Mantener coherencia entre diapositivas.
 ```
 
 > **🚀 Reto:** Genera la misma presentación en Gamma y en Copilot PowerPoint. Compara: ¿cuál tiene mejor diseño visual? ¿Cuál es más precisa en los contenidos históricos? ¿Cuál exporta mejor a PDF para compartir por Aules?
@@ -401,8 +472,7 @@ Las infografías son uno de los recursos más eficaces para sintetizar informaci
 ### 🏆 Prompt de Oro: Transformar un texto en infografía
 
 ```text
-Actúa como un diseñador de infografías educativas para alumnado de 
-ESO/Bachillerato.
+Actúa como un diseñador de infografías educativas para alumnado de [Nivel educativo].
 
 Contexto: Necesito transformar el siguiente texto de apuntes de 
 [TU ASIGNATURA] ([CURSO]) en una infografía visual y atractiva.
