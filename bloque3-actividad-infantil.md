@@ -57,8 +57,9 @@ Restricciones:
 - Estilo cartoon educativo.
 - Sin texto en la imagen.
 
-## 🖼️ Ejemplo de uso
+## 🖼️ Ejemplo de uso:
 
+```text
 Dame un prompt exhaustivo para crear un cómic sobre:
 
 Contexto: Necesito un cómic de 6 viñetas para explicar una situación cotidiana sobre recoger los juguetes después del juego en Infantil 4 años.
@@ -228,6 +229,7 @@ Cada prompt debe:
 * mantener coherencia visual entre personajes;
 * evitar texto dentro de la imagen;
 * mantener personajes ficticios.
+```
 
 ## 👉 Cuando le doy el prompt a la IA obtengo el resultado:
 
