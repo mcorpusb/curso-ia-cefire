@@ -19,8 +19,9 @@ Diseña un cómic visual, sencillo y emocional para trabajar rutinas, convivenci
 
 3. Uso el cómic como recurso de aula para anticipar rutinas, trabajar hábitos, iniciar una conversación o reforzar la convivencia en el grupo.
 
-## 💬 AJUSTA ESTE PROMPT listo para usar
+## 💬 AJUSTA ESTE PROMPT listo para usar:
 
+```text
 Dame un prompt exhaustivo para crear un cómic sobre:
 
 Contexto: Necesito un cómic de [N] viñetas para explicar una situación cotidiana sobre [TEMA] en el nivel de [NIVEL].
@@ -56,6 +57,7 @@ Restricciones:
 - Personajes ficticios.
 - Estilo cartoon educativo.
 - Sin texto en la imagen.
+```
 
 ## 🖼️ Ejemplo de uso:
 
