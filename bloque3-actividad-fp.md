@@ -13,20 +13,12 @@ Diseña un cómic formativo sobre una situación profesional real de tu módulo 
 
 ---
 
-## 🎯 Objetivo
-
-Utilizar Copilot o ChatGPT para generar el guion de un cómic formativo de 6 viñetas ambientado en un entorno profesional real y, a continuación, producir las ilustraciones viñeta a viñeta con Copilot Image Creator, ChatGPT o Canva para obtener un recurso visual aplicado y listo para usar en el aula-taller.
-
----
-
 
 ## ⚙️ Qué vas a hacer ( paso a paso)
 
-1. Genera el **guion completo** del cómic con Copilot o ChatGPT.
-2. Crea las **imágenes** viñeta a viñeta con Copilot Image Creator o ChatGPT.
-3. **Monta el cómic** en Canva, PowerPoint o una plantilla de 6 paneles.
-4. Revisa el **vocabulario técnico**, la precisión de los procedimientos y la adecuación al perfil profesional.
-5. Usa el cómic como material de seguridad, ficha de aula o recurso de repaso de buenas prácticas profesionales.
+1. Pido un prompt exhaustivo adaptando el que tengo listo para usar usando Copilot, ChatGPT o Gemini.
+2. Con el prompt que me devuelve voy a generar el **guion completo** del cómic, por lo que revisa el **vocabulario técnico**, la precisión de los procedimientos y la adecuación al perfil profesional.
+3. Usa el cómic como material de seguridad, ficha de aula o recurso de repaso de buenas prácticas profesionales.
 
 ## 💬 AJUSTA ESTE PROMPT  listo para usar
 
@@ -64,7 +56,7 @@ Restricciones:
 
 ---
 
-## 🖼️ Ejemplo de uso
+### 🖼️ Ejemplo de uso
 
 
 ```text
@@ -100,7 +92,8 @@ Restricciones:
 Estilo cartoon realista, entorno técnico. Sin texto en la imagen.
 ```
 
-Obtengo el prompt listo para usar:
+### 💡 Obtengo el prompt listo para usar:
+
 
 ```text
 
@@ -236,7 +229,9 @@ Cada prompt debe:
 * mantener personajes ficticios.
 ´´´
 
-Cuando le doy el promt a la IA obtengo el resultado:
+### 👉 Cuando le doy el promt a la IA obtengo el resultado:
+
+
 ```text
 Genera el cómic:
 
