@@ -106,7 +106,12 @@ Requisitos:
 Estilo: colorido, con lenguaje adaptado a 10-11 años. Incluye iconos y poca 
 cantidad de texto por diapositiva (máximo 40 palabras).
 ```
-📂 Ejemplo generado con Gamma: [Primaria](https://el-ciclo-del-agua-ps7ciiw.gamma.site)
+
+📂 Ejemplo de primaria generado:  
+<a href="https://el-ciclo-del-agua-ps7ciiw.gamma.site" target="_blank" rel="noopener noreferrer">GAMMA</a> ·  
+<a href="https://docs.google.com/presentation/d/1_whlRKBwQcA-ZKe6H17jZGDa6pzDB27Y/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
+<a href="https://docs.google.com/presentation/d/1z9DgpzupEy_y0V42g0m7xWAvnNBPP1H0/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
+
 
 ### 🏆 Prompt: Presentación con Gamma para Secundaria
 
@@ -127,7 +132,12 @@ Requisitos:
 
 Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagramas. Lenguaje adaptado a 13-14 años. Máximo 45 palabras por diapositiva.
 ```
-📂 Ejemplo generado con Gamma: [Secundaria](https://los-cambios-fisicos-y-qu-2x954pp.gamma.site)
+
+📂 Ejemplo de secundaria generado:  
+<a href="https://los-cambios-fisicos-y-qu-2x954pp.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
+<a href="https://docs.google.com/presentation/d/1Jh8H224Pe4aZY8wAq5HlSK-I4bwSnuzk/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
+<a href="https://docs.google.com/presentation/d/1iUiDbGGjlc0YOYRQC4lLxw6GCvEbPPlz/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
+
 
 ### 🏆 Prompt: Presentación con Gamma para EOI
 
@@ -147,7 +157,10 @@ Requisitos:
 
 Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de diálogo e iconos. Todo el contenido debe estar en inglés nivel B1, con frases breves y máximo 50 palabras por diapositiva.
 ```
-📂 Ejemplo generado con Gamma: [EOI](https://making-complaints-polite-4mlefkb.gamma.site)
+📂 Ejemplo de EOI generado por: 
+<a href="https://making-complaints-polite-4mlefkb.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
+<a href="https://docs.google.com/presentation/d/1QVXwQd6y52mvAU_xuOrSuWCKa-px3z5H/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
+<a href="https://docs.google.com/presentation/d/1yPdc6jQChrUg4Z0ss58IGqEgin_zYhs5/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">CHATGPT</a>
 
 ### 🏆 Prompt: Presentación con Gamma para Formación Profesional
 
@@ -168,9 +181,13 @@ Requisitos:
 
 Estilo: profesional, claro y visual, con iconos técnicos, fotografías realistas y poco texto. Lenguaje adaptado a alumnado de FP. Máximo 40 palabras por diapositiva.
 ```
-📂 Ejemplo generado con Gamma: [FP](https://prevencion-de-riesgos-la-hq3kz8r.gamma.site)
+📂 Ejemplo de FP generado con:
 
-> **💡 Consejo práctico:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
+<a href="https://prevencion-de-riesgos-la-hq3kz8r.gamma.site" rel="noopener noreferrer">GAMMA</a> ·  
+<a href="https://docs.google.com/presentation/d/1PKpx-laXsDTYlVwwjWGnABsf5iTjHJqM/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">COPILOT</a> ·  
+<a href="" target="_blank" rel="noopener noreferrer">CHATGPT</a>
+
+> **💡 Consejo:** Revisa siempre la presentación generada antes de usarla en clase. Ajusta contenidos, imágenes, accesibilidad, tamaño de letra y ejemplos para que respondan al grupo real, no solo al resultado automático de la IA.
 
 ### 🏆 Prompt de Oro: Presentación con Copilot en PowerPoint
 
