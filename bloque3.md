@@ -272,15 +272,54 @@ Restricciones:
 - La última viñeta debe incluir un mensaje reflexivo o una pregunta.
 ```
 
-## Actividades de cómic por etapa
+### Actividades de cómic por etapa
 
-Para facilitar la navegación, las actividades de cómic educativo se han separado por etapa:
+Para facilitar la navegación, las actividades de cómic educativo se han separado por etapa. En esta página dejamos un ejemplo destacado de FP como modelo, y el resto de actividades completas quedan enlazadas.
 
-* [Educación Infantil](bloque3-actividad-infantil.md)
-* [Educación Primaria](bloque3-actividad-primaria.md)
-* [Educación Secundaria](bloque3-actividad-secundaria.md)
-* [Formación Profesional](bloque3-actividad-fp.md)
-* [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
+- [Educación Infantil](bloque3-actividad-infantil.md)
+- [Educación Primaria](bloque3-actividad-primaria.md)
+- [Educación Secundaria](bloque3-actividad-secundaria.md)
+- [Formación Profesional](bloque3-actividad-fp.md)
+- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
+
+#### Ejemplo destacado: Formación Profesional
+
+**Actividad:** Cómic sobre prevención de riesgos laborales en el taller.
+
+**Objetivo:** Crear un cómic breve que ayude al alumnado de FP a identificar riesgos habituales y aplicar buenas prácticas de seguridad.
+
+**Prompt de ejemplo:**
+
+```text
+Actúa como un diseñador de cómics formativos para alumnado de Formación Profesional.
+
+Crea un cómic de 6 viñetas sobre el uso correcto de los equipos de protección individual en un taller.
+
+Para cada viñeta incluye:
+- Escena
+- Personajes
+- Acción
+- Diálogo breve
+- Competencia profesional trabajada
+
+Estructura:
+1. Situación real de trabajo.
+2. Aparición de un riesgo.
+3. Duda o decisión incorrecta.
+4. Intervención correcta.
+5. Resolución segura.
+6. Norma clave final.
+
+Restricciones:
+- Lenguaje técnico accesible.
+- Enfoque práctico.
+- Personajes ficticios.
+- No incluir empresas reales ni datos personales.
+```
+
+**Producto final:** cómic en PDF o presentación visual con 6 viñetas.
+
+👉 Consulta la actividad completa en [Formación Profesional](bloque3-actividad-fp.md).
 
 ---
 
