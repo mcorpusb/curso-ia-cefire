@@ -574,12 +574,13 @@ La generación de audio y vídeo con IA abre muchas posibilidades educativas, pe
 - Prioriza herramientas con avatares y voces genéricas.
 - Usa la IA cuando aporte valor pedagógico, no solo estético.
 
-**Ejemplo correcto:** crear un vídeo explicativo con un avatar genérico y voz IA para introducir un tema en Aules.
+✅ **Ejemplo correcto:** crear un vídeo explicativo con un avatar genérico y voz IA para introducir un tema en Aules.
 
-**Ejemplo incorrecto:** clonar la voz de un docente o usar la imagen de alumnado para generar un vídeo sin consentimiento.
+⚠️ **Ejemplo incorrecto:** clonar la voz de un docente o usar la imagen de alumnado para generar un vídeo sin consentimiento.
+
 ---
 
-## 📝 ctividad · Creación de recursos multimodales con IA para el aula
+## 📝  Actividad · Creación de recursos multimodales con IA para el aula
 
 ### Objetivo
 
