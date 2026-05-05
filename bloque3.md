@@ -352,6 +352,83 @@ palabras totales en la infografía (es visual, no textual).
 
 > **💡 Flujo de trabajo rápido:** 1) Genera la estructura con Copilot → 2) Crea la infografía en Canva usando la descripción como guía → 3) Exporta en PDF y sube a Aules.
 
+### Podemos generar infografías con NotebookLM presionando un botón
+
+
+## INFOGRAFÍAS INTERACTIVAS
+
+Prompt para generar infografía con ChatGPT o Gemini
+
+```text
+Animate this vertical 9:16 premium educational infographic poster about [SUBJECT NAME] into a smooth professional science explainer reel.
+
+Keep the same exact poster layout, same central [SUBJECT NAME], same headline, same infographic panels, same expert presenter character, same background, same colors, and same composition. Do not change the design, do not replace the subject, and do not add random objects.
+
+Start with the full infographic poster visible in a clean front-facing view. Use a slow gentle camera push-in with very subtle parallax depth between the central subject, callout panels, connector lines, presenter character, and background.
+
+First, animate the top headline and subtitle with a smooth fade-in and slight slide-down motion.
+
+Then animate the main [SUBJECT NAME] with subtle natural idle movement based on the creature, such as tiny breathing motion, slight head movement, eye blink, soft feather shimmer, gentle tentacle movement, tiny tail movement, subtle body shift, or slow fin movement.
+
+The subject should remain mostly stable and realistic, not overanimated.
+
+Next, animate the infographic connector lines drawing outward from the body parts to the information panels. Reveal the callout panels one by one using soft scale-up and fade-in animation.
+
+Small icons, numbered badges, mini diagrams, circular thumbnails, and chart elements inside the panels should pop in smoothly with clean motion-graphics timing.
+
+Add subtle highlight pulses on important body parts when their panel appears.
+
+The expert presenter character should make a minimal presenter gesture, such as a small arm movement, pointing gesture, slight head nod, or tiny posture shift, while staying in the same position.
+
+The bottom quick facts strip should reveal near the end with smooth slide-in motion, small icon pop-ups, and subtle highlight animation.
+
+Keep the animation clean, premium, educational, modern, social-media optimized, bright, polished, readable, and smooth.
+
+Use bright studio lighting, soft shadows, crisp highlights, realistic 3D subject details, clean infographic UI, and modern science-poster aesthetics.
+
+End with a clean final hold shot showing the full completed infographic clearly.
+
+Negative prompt: camera shake, fast zoom, scene change, subject morphing, text distortion, flickering panels, broken infographic layout, random extra objects, messy animation, distorted body parts, warped callout lines, low quality, dark lighting, excessive movement, chaotic transitions, unreadable text, bad typography, unstable parallax.
+
+```
+### Ejemplo de uso: Mariposa
+
+
+Vamos a Google Labs FLOW: https://labs.google/fx/tools/flow
+
+### Prompt para darle vida
+
+```text
+Animate this vertical 9:16 premium educational infographic poster about [SUBJECT NAME] into a smooth professional science explainer reel.
+
+Keep the same exact poster layout, same central [SUBJECT NAME], same headline, same infographic panels, same expert presenter character, same background, same colors, and same composition. Do not change the design, do not replace the subject, and do not add random objects.
+
+Start with the full infographic poster visible in a clean front-facing view. Use a slow gentle camera push-in with very subtle parallax depth between the central subject, callout panels, connector lines, presenter character, and background.
+
+First, animate the top headline and subtitle with a smooth fade-in and slight slide-down motion.
+
+Then animate the main [SUBJECT NAME] with subtle natural idle movement based on the creature, such as tiny breathing motion, slight head movement, eye blink, soft feather shimmer, gentle tentacle movement, tiny tail movement, subtle body shift, or slow fin movement.
+
+The subject should remain mostly stable and realistic, not overanimated.
+
+Next, animate the infographic connector lines drawing outward from the body parts to the information panels. Reveal the callout panels one by one using soft scale-up and fade-in animation.
+
+Small icons, numbered badges, mini diagrams, circular thumbnails, and chart elements inside the panels should pop in smoothly with clean motion-graphics timing.
+
+Add subtle highlight pulses on important body parts when their panel appears.
+
+The expert presenter character should make a minimal presenter gesture, such as a small arm movement, pointing gesture, slight head nod, or tiny posture shift, while staying in the same position.
+
+The bottom quick facts strip should reveal near the end with smooth slide-in motion, small icon pop-ups, and subtle highlight animation.
+
+Keep the animation clean, premium, educational, modern, social-media optimized, bright, polished, readable, and smooth.
+
+Use bright studio lighting, soft shadows, crisp highlights, realistic 3D subject details, clean infographic UI, and modern science-poster aesthetics.
+
+End with a clean final hold shot showing the full completed infographic clearly.
+
+Negative prompt: camera shake, fast zoom, scene change, subject morphing, text distortion, flickering panels, broken infographic layout, random extra objects, messy animation, distorted body parts, warped callout lines, low quality, dark lighting, excessive movement, chaotic transitions, unreadable text, bad typography, unstable parallax.
+```
 ---
 
 ## 3.3 · Audios realistas: narración, podcasts y accesibilidad
