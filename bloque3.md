@@ -2,7 +2,7 @@
 layout: page
 title: "Bloque 3: Generación Multimodal"
 nav_order: 4
-release_at: 2026-05-06T17:30:00+02:00
+release_at: 2026-05-05T00:00:00+02:00
 ---
 
 # Bloque 3 · Generación Multimodal
