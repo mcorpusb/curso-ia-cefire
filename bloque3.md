@@ -52,16 +52,6 @@ Al finalizar este bloque serás capaz de:
 
 > ⭐ Gamma funciona mejor cuando el prompt concreta la etapa, el nivel del alumnado, el objetivo didáctico, la estructura de la presentación y el estilo visual. No es lo mismo diseñar para Infantil que para FP: cambian el lenguaje, el ritmo, la cantidad de texto y el tipo de interacción.
 
-## Actividades de presentaciones por etapa
-
-Para facilitar la navegación, las actividades de creación de presentaciones educativas con IA se han separado por etapa. En esta página dejamos los prompts generales y la comparativa de herramientas, y las actividades completas quedan enlazadas en sus páginas correspondientes.
-
-- [Educación Infantil](bloque3-actividad-infantil.md)
-- [Educación Primaria](bloque3-actividad-primaria.md)
-- [Educación Secundaria](bloque3-actividad-secundaria.md)
-- [Formación Profesional](bloque3-actividad-fp.md)
-- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
-
 ### 🏆 Prompt de Oro: Presentación educativa con IA (genérico)
 
 ```text
@@ -154,6 +144,21 @@ Restricciones:
 
 > **🚀 Reto:** Genera la misma presentación en Gamma y en Copilot PowerPoint. Compara: ¿cuál tiene mejor diseño visual? ¿Cuál es más precisa en los contenidos históricos? ¿Cuál exporta mejor a PDF para compartir por Aules?
 
+
+## Actividades de presentaciones por etapa
+
+Para facilitar la navegación, las actividades de creación de presentaciones educativas con IA se han separado por etapa. En esta página dejamos los prompts generales y la comparativa de herramientas, y las actividades completas quedan enlazadas en sus páginas correspondientes.
+
+- [Educación Infantil](bloque3-actividad-infantil.md)
+- [Educación Primaria](bloque3-actividad-primaria.md)
+- [Educación Secundaria](bloque3-actividad-secundaria.md)
+- [Formación Profesional](bloque3-actividad-fp.md)
+- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
+  
+
+> 💡 También puedes crear presentaciones educativas con IA usando Kimi: https://www.kimi.com
+, una alternativa útil para generar contenidos visuales y estructurados a partir de texto.
+
 ---
 
 ## 3.2 · Cómics e ilustraciones educativas con IA
@@ -163,13 +168,17 @@ Los cómics son una herramienta pedagógica potente: combinan narrativa visual y
 ### 3.2.1 · Herramientas recomendadas
 
 | Herramienta | Tipo | Acceso | Ideal para |
-|:------------|:-----|:-------|:-----------|
-| **Copilot (Designer / Image Creator)** | Generador de imágenes (DALL-E 3) | ✅ Cuenta `@edu.gva.es` | Ilustraciones individuales, portadas, infografías |
-| **Pixton** | Creador de cómics con avatares | Freemium | Cómics con personajes estilo cartoon, diálogos |
-| **Canva + IA** | Diseño gráfico + generación IA | Freemium (plan educativo gratuito) | Cómics, pósteres, infografías con plantillas |
-| **Gemini (Imagen 3)** | Generador de imágenes | ✅ Cuenta personal Google | Ilustraciones realistas, escenas complejas |
-| **Kimi** | Texto + análisis visual | ✅ Cuenta personal | Describir viñetas (como guionista) para usar en otro generador |
-| **ChatGPT (imágenes)** | Generación de imágenes integrada | Cuenta OpenAI | Ilustraciones educativas, escenas y variaciones de prompt |
+|---|---|---|---|
+| 🔷 Gemini | 🖼️ Multimodal + imágenes | Cuenta Google (⚠️ sin datos del alumnado) | Ilustraciones complejas, escenas ricas y generación visual avanzada *(funciones recientes; verificar disponibilidad)* |
+| 💬 ChatGPT | 🎨 Imágenes + guion | Cuenta OpenAI externa (⚠️ sin datos personales) | Cómics, viñetas, ilustraciones educativas y mejora de prompts |
+| 🟦 Copilot | 🎨 Imágenes (DALL·E) | ✅ `@edu.gva.es` (🔒 entorno GVA) | Ilustraciones, portadas, infografías con mayor seguridad |
+| 📚 NotebookLM | 🧠 Análisis + guion | Cuenta Google (⚠️ solo contenido no sensible) | Guiones de cómic y transformación de apuntes en narrativa visual |
+| 🧍 Pixton | 🗨️ Cómics con avatares | Freemium / cuenta externa | Cómics con personajes, diálogos y escenas guiadas |
+| 🎨 Canva + IA | 🖌️ Diseño + IA | Freemium / Educación (cuenta externa) | Cómics, pósteres, infografías y maquetación final |
+| 🧩 Kimi | ✍️ Texto + apoyo visual | Cuenta externa | Descripción de viñetas y estructuración de escenas |
+| 📊 Gamma | 📑 Presentaciones IA | Freemium / cuenta externa | Convertir ideas en materiales visuales estructurados |
+| 🧠 Napkin AI | 🔗 Esquemas visuales | Freemium / cuenta externa | Transformar apuntes en diagramas e infografías |
+| 🧪 Google Labs / Flow | 🎬 Imagen + vídeo experimental | Cuenta Google (⚠️ variable) | Animar infografías y recursos visuales *(funciones recientes; verificar disponibilidad)* |
 
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
@@ -243,45 +252,6 @@ Para facilitar la navegación, las actividades de cómic educativo se han separa
 - [Educación Secundaria](bloque3-actividad-secundaria.md)
 - [Formación Profesional](bloque3-actividad-fp.md)
 - [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
-
-#### Ejemplo destacado: Formación Profesional
-
-**Actividad:** Cómic sobre prevención de riesgos laborales en el taller.
-
-**Objetivo:** Crear un cómic breve que ayude al alumnado de FP a identificar riesgos habituales y aplicar buenas prácticas de seguridad.
-
-**Prompt de ejemplo:**
-
-```text
-Actúa como un diseñador de cómics formativos para alumnado de Formación Profesional.
-
-Crea un cómic de 6 viñetas sobre el uso correcto de los equipos de protección individual en un taller.
-
-Para cada viñeta incluye:
-- Escena
-- Personajes
-- Acción
-- Diálogo breve
-- Competencia profesional trabajada
-
-Estructura:
-1. Situación real de trabajo.
-2. Aparición de un riesgo.
-3. Duda o decisión incorrecta.
-4. Intervención correcta.
-5. Resolución segura.
-6. Norma clave final.
-
-Restricciones:
-- Lenguaje técnico accesible.
-- Enfoque práctico.
-- Personajes ficticios.
-- No incluir empresas reales ni datos personales.
-```
-
-**Producto final:** cómic en PDF o presentación visual con 6 viñetas.
-
-👉 Consulta la actividad completa en [Formación Profesional](bloque3-actividad-fp.md).
 
 ---
 ## 3.2b · Cómic con NotebookLM
@@ -480,7 +450,10 @@ términos históricos esenciales (que debes definir brevemente).
 5. Pulsa **"Generate"** y descarga el archivo `.mp3`.
 6. Sube el audio a **Aules** como material de apoyo en la Situación de Aprendizaje.
 
-> **💡 Ejemplo Primaria:** Crea un audio por cada tema del trimestre. Súbelos a Aules como "Apuntes sonoros" dentro de la sección de recursos. El alumnado con dificultades lectoras podrá escucharlos como alternativa al texto escrito — esto es **DUA en acción** (principio de múltiples medios de representación).
+> **💡 Ejemplo:** Vamos a pedir guión para obtener el audio de cada uno de los cómics que hemos generado: " Quiero que me des un prompt exhaustivo para generar audio mediante ElevenLabs para este cómic que te paso; algo que pueda copiar y pegar, y que me genere el audio. Asegúrate de que no pase de 5000 caracteres."
+
+
+> **Otro ejemplo:** Crea un audio por cada tema del trimestre. Súbelos a Aules como "Apuntes sonoros" dentro de la sección de recursos. El alumnado con dificultades lectoras podrá escucharlos como alternativa al texto escrito — esto es **DUA en acción** (principio de múltiples medios de representación).
 
 ### 🏆 Prompt de Oro: Podcast educativo con NotebookLM
 
@@ -540,6 +513,7 @@ Restricciones:
 - No usar más de 2 fórmulas matemáticas por pantalla.
 - Indicar momentos donde el alumno debe pausar.
 ```
+Vídeo generado con el prompt: https://gvaedu-my.sharepoint.com/:v:/g/personal/mc_baronbautista_edu_gva_es/IQBYM0-wYI7tQI0L-IZOdEccAajSGc4L7dw441T1EJvw2lM
 
 ### Paso a paso: vídeo con subtítulos en Clipchamp (entorno GVA)
 
@@ -552,7 +526,7 @@ Restricciones:
 5. Activa **"Text to Speech"** para añadir narración IA en español a diapositivas o secciones sin voz.
 6. Exporta y sube el vídeo a **Aules** o a **Microsoft Stream** (entorno GVA).
 
-> **🚀 Reto Secundaria/FP:** Graba una explicación de 5 minutos sobre un tema de tu asignatura. Súbela a Clipchamp, genera subtítulos automáticos y corrige los errores. Después, usa **HeyGen** para generar una versión del vídeo traducida al inglés con avatar IA. Compara la calidad de los subtítulos y la traducción.
+> **🚀 Reto:** Graba una explicación de 5 minutos sobre un tema de tu asignatura. Súbela a Clipchamp, genera subtítulos automáticos y corrige los errores. Después, usa **HeyGen** para generar una versión del vídeo traducida al inglés con avatar IA. Compara la calidad de los subtítulos y la traducción.
 
 ### 3.4.2 · Vídeos con avatar IA (Synthesia / HeyGen)
 
@@ -583,7 +557,149 @@ Tono: motivador, cercano, sin infantilizar. Máximo 200 palabras.
 
 ---
 
-## 3.5 · Comparativa multimodal: todas las herramientas de un vistazo
+## 3.5 · Apps educativas sencillas con IA: Gemini Canvas y Canva Code
+
+La creación de pequeñas apps educativas ya no requiere saber programar. Con herramientas como **Gemini Canvas** y **Canva Code** podemos generar prototipos interactivos a partir de un prompt: cuestionarios, juegos de repaso, simuladores sencillos, tarjetas autocorregibles, ruletas, actividades de clasificación o mini escape rooms.
+
+Estas apps no sustituyen a plataformas educativas como Aules, pero pueden enriquecer una situación de aprendizaje con recursos interactivos rápidos, visuales y adaptados al nivel del alumnado.
+
+La idea no es crear una aplicación profesional, sino un recurso educativo funcional, sencillo y útil para el aula.
+
+### Herramientas recomendadas
+
+| Herramienta   | Tipo                                                  | Acceso                  | Ideal para                                                         |
+| ------------- | ----------------------------------------------------- | ----------------------- | ------------------------------------------------------------------ |
+| Gemini Canvas | Generación de apps, juegos y prototipos desde prompt  | Cuenta Google / Gemini  | Quizzes, juegos, prototipos interactivos y páginas sencillas       |
+| Canva Code    | Creación de experiencias interactivas dentro de Canva | Canva / Canva Educación | Juegos visuales, tarjetas, ruletas y actividades manipulativas     |
+| Copilot       | Apoyo al diseño del prompt y revisión pedagógica      | Cuenta @edu.gva.es      | Generar instrucciones, contenidos, criterios y variantes por nivel |
+
+### Ejemplos de apps educativas sencillas
+
+* Quiz interactivo de repaso.
+* Juego de emparejar conceptos y definiciones.
+* Ruleta de preguntas.
+* Tarjetas de vocabulario autocorregibles.
+* Clasificador de elementos.
+* Simulador sencillo de toma de decisiones.
+* Mini escape room digital.
+* Generador de retos por niveles.
+* Actividad de verdadero/falso con feedback.
+* Línea temporal interactiva.
+
+### 🏆 Prompt de Oro: Crear una app educativa con Gemini Canvas o Canva Code
+
+```text
+Actúa como un diseñador de apps educativas sencillas para docentes.
+
+Necesito crear una app interactiva para el aula con este contexto:
+
+- Etapa educativa: [ETAPA]
+- Curso/nivel: [CURSO]
+- Materia, módulo, ámbito o idioma: [MATERIA]
+- Tema: [TEMA]
+- Objetivo didáctico: [OBJETIVO]
+- Perfil del alumnado: [PERFIL]
+- Tipo de app: [QUIZ / JUEGO DE EMPAREJAR / RULETA / TARJETAS / ESCAPE ROOM / SIMULADOR / CLASIFICADOR / OTRO]
+- Nivel de dificultad: [REFUERZO / ESTÁNDAR / AMPLIACIÓN]
+- Idioma de la app: [CASTELLANO / VALENCIANO / INGLÉS / OTRO]
+- Duración prevista de uso en clase: [MINUTOS]
+- Dispositivo previsto: [PIZARRA DIGITAL / TABLET / ORDENADOR / MÓVIL / AULES]
+
+La app debe incluir:
+
+1. Pantalla inicial con título e instrucciones claras.
+2. Actividad interactiva adaptada al nivel del alumnado.
+3. Retroalimentación inmediata cuando el alumnado acierte o falle.
+4. Diseño visual claro, accesible y atractivo.
+5. Lenguaje adecuado a la edad.
+6. Puntuación, barra de progreso o mensaje final motivador.
+7. Posibilidad de usarla en clase, en pizarra digital o como enlace en Aules.
+
+Requisitos pedagógicos:
+
+- El contenido debe estar alineado con el objetivo didáctico.
+- Las preguntas o retos deben ir de menor a mayor dificultad.
+- La app debe favorecer la participación activa del alumnado.
+- Debe incluir feedback formativo, no solo "correcto" o "incorrecto".
+- Debe poder utilizarse en una sesión real de aula sin explicación larga.
+
+Requisitos de accesibilidad:
+
+- Botones grandes.
+- Textos breves.
+- Contraste claro.
+- Instrucciones visibles.
+- Evitar sobrecarga visual.
+- No depender solo del color para indicar aciertos o errores.
+- Usar lenguaje claro y directo.
+
+Restricciones de seguridad:
+
+- No recopilar datos personales.
+- No pedir nombre, correo ni información del alumnado.
+- No usar imágenes reales del alumnado.
+- No incluir información interna del centro.
+- No utilizar marcas, personajes famosos ni contenidos con derechos de autor.
+- Evitar publicidad, enlaces externos innecesarios o contenidos sensibles.
+
+Genera la app como prototipo interactivo listo para revisar y adaptar.
+
+Además, incluye al final:
+
+- Breve explicación de cómo usarla en clase.
+- Posibles mejoras.
+- Variante de refuerzo.
+- Variante de ampliación.
+```
+
+### Flujo de trabajo recomendado
+
+1. Define primero la idea educativa: objetivo, alumnado y tipo de interacción.
+2. Genera o revisa el contenido con Copilot, Gemini u otra IA.
+3. Crea el prototipo en Gemini Canvas o Canva Code.
+4. Prueba la app como si fueras el alumnado.
+5. Revisa errores, claridad, accesibilidad y adecuación curricular.
+6. Comprueba que no solicita datos personales ni incluye enlaces externos innecesarios.
+7. Comparte el enlace, exporta el resultado o captura evidencias para integrarlo en Aules.
+
+### Ejemplo rápido
+
+**App:** juego de emparejar conceptos.
+**Tema:** partes de la célula.
+**Nivel:** 1.º ESO.
+**Objetivo:** relacionar orgánulos celulares con su función.
+**Uso:** repaso en pizarra digital al final de la sesión.
+
+Prompt breve de ejemplo:
+
+```text
+Crea una app educativa tipo juego de emparejar para alumnado de 1.º de ESO sobre las partes de la célula.
+
+Debe mostrar una lista de orgánulos y una lista de funciones. El alumnado debe emparejar cada orgánulo con su función correcta.
+
+Incluye instrucciones claras, feedback inmediato, puntuación final y un mensaje motivador. Usa lenguaje sencillo, diseño accesible y no pidas ningún dato personal.
+```
+
+### ⚠️ Seguridad GVA
+
+Gemini Canvas y Canva Code son herramientas externas al ecosistema GVA. No introduzcas datos personales del alumnado, fotografías reales, información interna del centro ni documentos sensibles.
+
+Usa ejemplos ficticios, contenidos curriculares generales o materiales con licencia abierta. Antes de compartir una app con el alumnado, revisa siempre que no recopile datos, no incluya enlaces no deseados y no solicite registro al alumnado.
+
+### Actividad propuesta
+
+Crea una app educativa sencilla con Gemini Canvas o Canva Code.
+
+El entregable debe incluir:
+
+* Enlace o captura de la app.
+* Prompt utilizado.
+* Breve explicación del uso en el aula.
+* Reflexión docente de 100-150 palabras indicando qué aporta la interacción frente a una ficha tradicional.
+
+---
+
+## 3.6 · Comparativa multimodal: todas las herramientas de un vistazo
 
 | Tipo de contenido | Herramienta GVA (prioridad) | Alternativa externa (sin datos personales) | Comparativa rápida |
 |:-------------------|:---------------------------|:------------------------------------------|:-------------------|
@@ -592,6 +708,7 @@ Tono: motivador, cercano, sin infantilizar. Máximo 200 palabras.
 | **Audio/Narración** | Edge "Leer en voz alta" | ElevenLabs, NotebookLM | ElevenLabs mejor calidad; Edge más accesible |
 | **Vídeo** | Clipchamp | Synthesia, HeyGen, CapCut | Clipchamp más seguro; Synthesia más impactante |
 | **Cómic (guion)** | Copilot (texto) | Kimi, Grok (texto) | Similar calidad; Copilot mejor en español |
+| **Apps interactivas** | Copilot para diseñar el prompt y revisar contenido | Gemini Canvas, Canva Code | Canvas y Canva permiten prototipos rápidos; Copilot ayuda a controlar calidad pedagógica y seguridad |
 
 ### ¿Cuándo usar cada herramienta?
 
@@ -601,7 +718,7 @@ Tono: motivador, cercano, sin infantilizar. Máximo 200 palabras.
 
 ---
 
-## 3.6 · Integración multimodal en Situaciones de Aprendizaje
+## 3.7 · Integración multimodal en Situaciones de Aprendizaje
 
 El verdadero valor de estas herramientas aparece cuando las combinas dentro de una **Situación de Aprendizaje LOMLOE** completa. Veamos un ejemplo integrador:
 
@@ -614,6 +731,7 @@ El verdadero valor de estas herramientas aparece cuando las combinas dentro de u
 | Audio "Los ecosistemas explicados" | ElevenLabs | Sesiones 1-4: material alternativo al texto para alumnado NEAE | Representación (auditiva) |
 | Vídeo resumen con subtítulos | Clipchamp | Sesión 5: repaso antes de la evaluación | Representación (multimedia) |
 | Podcast de ampliación | NotebookLM Audio Overview | Extensión: para alumnado con interés especial | Compromiso (opcionalidad) |
+| App interactiva de repaso | Gemini Canvas o Canva Code | Sesión 5: juego de repaso o clasificación antes de la evaluación | Acción y expresión / Compromiso |
 
 > **💡 Ejemplo Primaria:** No necesitas generar todos los recursos para una misma SA. Elige **2-3 formatos** que aporten diversidad a tu secuencia de actividades. El DUA no exige "todo", sino **opciones**.
 
@@ -688,6 +806,7 @@ Puedes elegir uno o varios formatos, según lo que tenga más sentido para tu au
 - **Imagen o cartel didáctico:** para apoyar visualmente una idea clave.
 - **Ficha adaptada:** para trabajar un contenido con apoyo visual o instrucciones claras.
 - **Material multinivel:** para generar versiones de refuerzo, estándar y ampliación.
+- **App educativa interactiva:** para repasar, clasificar, emparejar conceptos o generar retos autocorregibles.
 
 No es necesario crear todos los formatos. Elige aquellos que realmente puedan resultar útiles en tu práctica docente.
 
@@ -717,7 +836,7 @@ Necesito crear un recurso educativo con IA para el siguiente contexto:
 - Tema: [TEMA]
 - Objetivo didáctico: [OBJETIVO]
 - Perfil del alumnado: [PERFIL]
-- Formato elegido: [PRESENTACIÓN / INFOGRAFÍA / CÓMIC / AUDIO / VÍDEO / FICHA / OTRO]
+- Formato elegido: [PRESENTACIÓN / INFOGRAFÍA / CÓMIC / AUDIO / VÍDEO / FICHA / APP INTERACTIVA / OTRO]
 - Nivel de dificultad: [REFUERZO / ESTÁNDAR / AMPLIACIÓN]
 
 Crea un recurso adaptado a este contexto.
@@ -795,7 +914,7 @@ Para cada versión incluye:
 
 Cada participante deberá entregar:
 
-- Recurso final en formato `.pptx`, `.pdf`, `.mp3`, `.mp4`, imagen o enlace.
+- Recurso final en formato `.pptx`, `.pdf`, `.mp3`, `.mp4`, `.html`, imagen o enlace interactivo.
 - Prompt utilizado.
 - Captura o enlace del resultado generado.
 - Breve reflexión docente de 100-150 palabras.
@@ -828,6 +947,7 @@ Al finalizar la actividad, cada docente tendrá un recurso multimodal revisado, 
 - [Canva para Educación](https://www.canva.com/education/) *(plan gratuito para docentes)*
 - [Synthesia — Vídeos con avatares IA](https://www.synthesia.io)
 - [HeyGen — Traducción de vídeo con IA](https://www.heygen.com)
+- [Gemini Canvas — Crear apps y prototipos interactivos con IA](https://gemini.google.com/)
 - [Guías DUA — CAST](https://www.cast.org/impact/universal-design-for-learning-udl)
 
 ---
@@ -844,6 +964,7 @@ Antes de pasar al Bloque 4, asegúrate de poder responder **sí** a todas estas 
 - [ ] Sé transformar un texto de apuntes en un recurso visual (infografía) de forma rápida.
 - [ ] Sé distinguir qué herramientas son seguras para datos del centro y cuáles solo para contenido público/ficticio.
 - [ ] Puedo planificar la integración de recursos multimodales IA dentro de una Situación de Aprendizaje LOMLOE.
+- [ ] Sé crear una app educativa sencilla con Gemini Canvas o Canva Code, revisando su accesibilidad, seguridad y utilidad didáctica.
 
 ---
 

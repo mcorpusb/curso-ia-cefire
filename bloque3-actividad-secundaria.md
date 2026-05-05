@@ -41,6 +41,7 @@ Estilo: claro, visual y científico, con iconos, fotografías sencillas y diagra
 
 ---
 
+## EL CÓMIC
 
 Diseña un cómic argumentativo, científico, histórico, ético o social para trabajar pensamiento crítico y comunicación visual con herramientas de IA generativa.
 {: .fs-5 .fw-300 }

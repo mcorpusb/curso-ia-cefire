@@ -42,6 +42,7 @@ Estilo: muy visual, colorido, con imágenes grandes, letra clara y máximo 10 pa
 - ChatGPT: <a href="https://docs.google.com/presentation/d/1aTRCvwnDajPTUYALhJeoynltJ8yKZdYo/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Hábitos saludables (ChatGPT)</a>
 
 ---
+## EL CÓMIC
 
 ## ⚙️ Qué vas a hacer (paso a paso)
 

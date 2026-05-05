@@ -39,14 +39,13 @@ Estilo: profesional, claro y visual, con iconos técnicos, fotografías realista
 - Gamma: <a href="https://prevencion-de-riesgos-la-hq3kz8r.gamma.site" rel="noopener noreferrer">Prevención de riesgos laborales (Gamma)</a>
 - Copilot: <a href="https://docs.google.com/presentation/d/1PKpx-laXsDTYlVwwjWGnABsf5iTjHJqM/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Prevención de riesgos laborales (Copilot)</a>
 - ChatGPT: <a href="https://docs.google.com/presentation/d/1VCZaiD1gzDzMI7j2qTTMmlj85Z7WEt1g/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Prevención de riesgos laborales (ChatGPT)</a>
-
   
 ---
 
+## EL CÓMIC
+
 Diseña un cómic formativo sobre una situación profesional real de tu módulo e ilustra cada escena con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
-
----
 
 
 ## ⚙️ Qué vas a hacer ( paso a paso)

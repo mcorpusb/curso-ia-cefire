@@ -43,6 +43,8 @@ Estilo: funcional, limpio y comunicativo. Usa escenas realistas, bocadillos de d
 
 ---
 
+## EL CÓMIC
+
 Diseña un cómic para practicar funciones comunicativas, situaciones reales y producción oral o escrita en una lengua extranjera con herramientas de IA generativa.
 {: .fs-5 .fw-300 }
 
