@@ -9,21 +9,9 @@ release_at: 2026-05-06T17:30:00+02:00
 # Bloque 3 · Generación Multimodal
 {: .fs-8 }
 
-Crea presentaciones, cómics, audios realistas y vídeos educativos con herramientas de IA generativa para enriquecer tus situaciones de aprendizaje.
+Crea presentaciones, cómics, infografías, podcasts, audios realistas y vídeos educativos con herramientas de IA generativa para enriquecer tus situaciones de aprendizaje.
 {: .fs-5 .fw-300 }
 
-<div class="release-gate" data-open-at="{{ page.release_at }}" data-block-title="{{ page.title }}">
-<div class="release-gate__notice" hidden>
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-🔒 <strong>Contenido disponible próximamente</strong><br>
-Este bloque se abrirá el <span class="release-gate__date"></span>.
-Mientras tanto, céntrate en completar el bloque actual.
-</div>
-<p>Puedes consultar mientras tanto el bloque anterior y la guía didáctica del curso.</p>
-</div>
-<div class="release-gate__content">
-
----
 
 ## Objetivos del bloque
 
@@ -592,99 +580,166 @@ La generación de audio y vídeo con IA abre muchas posibilidades educativas, pe
 **Ejemplo incorrecto:** clonar la voz de un docente o usar la imagen de alumnado para generar un vídeo sin consentimiento.
 ---
 
+## 📝 ctividad · Creación de recursos multimodales con IA para el aula
 
-## 📝 Actividades prácticas del Bloque 3
+### Objetivo
 
-### Actividad 3.1 — Presentación educativa con Gamma *(individual)*
+Diseñar al menos un recurso educativo multimodal con IA que pueda utilizarse en una situación real de aula, adaptado a la etapa educativa, materia, nivel del alumnado y diversidad del grupo.
 
-1. Elige un tema de tu área y curso.
-2. Usa el Prompt de Oro de la sección 3.1 (adaptándolo a tu contexto) para generar una presentación en **Gamma**.
-3. Descarga en `.pptx` y ábrela en PowerPoint para ajustes.
-4. **Entregable:** archivo `.pptx` subido a Aules + captura de pantalla del resultado original en Gamma.
+### Descripción de la tarea
 
-### Actividad 3.2 — Cómic educativo de 6 viñetas *(individual)*
+Cada docente deberá elegir:
 
-1. Genera un **guion de cómic** con Copilot usando el prompt de la sección 3.2.
-2. Crea las **ilustraciones** de cada viñeta con Copilot Image Creator (o Gemini / Canva).
-3. Monta las viñetas en un **documento visual** (Canva, PowerPoint o incluso Word).
-4. **Entregable:** cómic en formato PDF subido a Aules.
+- Etapa educativa.
+- Curso o nivel.
+- Materia, ámbito, módulo o idioma.
+- Tema concreto.
+- Objetivo didáctico.
+- Perfil del alumnado o necesidad de adaptación.
 
-### Actividad 3.3 — Audio educativo accesible *(individual)*
+A partir de ese contexto, generará uno o varios recursos multimodales con ayuda de IA.
 
-1. Genera un **guion de narración** de 2-3 minutos sobre un tema de tu área usando el prompt de la sección 3.3.
-2. Convierte el guion a audio con **ElevenLabs** (o lee con Edge "Leer en voz alta" y graba la pantalla).
-3. Escucha el resultado y valora: ¿es comprensible? ¿Se adapta al nivel del alumnado?
-4. **Entregable:** archivo `.mp3` + breve reflexión (100 palabras) sobre utilidad para alumnado NEAE.
+### Recursos posibles
 
-### Actividad 3.4 — Infografía a partir de apuntes *(individual)*
+Puedes elegir uno o varios formatos, según lo que tenga más sentido para tu aula:
 
-**Objetivo:** Transformar contenido textual en un recurso visual dinámico.
+- **Presentación educativa:** para introducir, explicar o repasar un tema.
+- **Infografía:** para sintetizar contenidos de forma visual.
+- **Cómic o cuento ilustrado:** para narrar, ejemplificar o explicar conceptos mediante una historia.
+- **Audio explicativo o podcast breve:** para ofrecer una alternativa auditiva accesible.
+- **Vídeo educativo corto:** para explicar un procedimiento, concepto o reto.
+- **Imagen o cartel didáctico:** para apoyar visualmente una idea clave.
+- **Ficha adaptada:** para trabajar un contenido con apoyo visual o instrucciones claras.
+- **Material multinivel:** para generar versiones de refuerzo, estándar y ampliación.
 
-1. Elige un tema de tu área que normalmente expliques con texto (apuntes, resumen, esquema).
-2. Usa el Prompt de Oro de la sección 3.2b para generar la **estructura de la infografía** con Copilot.
-3. Crea la infografía en **Canva** (plan educativo) o **PowerPoint** siguiendo la estructura generada.
-4. **Entregable:** infografía final en PDF + el prompt utilizado + breve reflexión (80 palabras) sobre si el resultado es más atractivo que el texto original.
+No es necesario crear todos los formatos. Elige aquellos que realmente puedan resultar útiles en tu práctica docente.
 
-### Actividad 3.5 — Personaliza materiales para 3 niveles *(individual)*
+### Requisitos del recurso
 
-**Objetivo:** Personalizar el aprendizaje ajustando materiales multimodales a la diversidad de niveles del aula de forma rápida y escalable.
+El recurso generado debe:
 
-1. Elige un tema concreto de tu asignatura y genera una **explicación base** con Copilot o Gemini.
-2. Usa el siguiente prompt para crear **3 versiones adaptadas** del mismo contenido:
+- Estar adaptado a la etapa y edad del alumnado.
+- Usar lenguaje adecuado al nivel.
+- Tener una finalidad didáctica clara.
+- Incluir apoyo visual, auditivo o narrativo.
+- Ser aplicable en el aula o en Aules.
+- Respetar los principios del DUA.
+- Evitar datos personales, imágenes reales del alumnado o información sensible.
+- Revisarse antes de su uso en clase.
+
+### Prompt base para el docente
 
 ```text
-Actúa como un especialista en atención a la diversidad y Diseño 
-Universal para el Aprendizaje (DUA).
+Actúa como un/a diseñador/a de recursos educativos multimodales especializado/a en crear materiales claros, accesibles y adaptados al aula.
 
-Contexto: Enseño [TU ASIGNATURA] en [CURSO]. Tengo un grupo diverso 
-con alumnado de distintos niveles de competencia curricular.
+Necesito crear un recurso educativo con IA para el siguiente contexto:
 
-Texto base (explicación del tema):
-[PEGAR LA EXPLICACIÓN GENERADA]
+- Etapa educativa: [ETAPA]
+- Curso/nivel: [CURSO]
+- Materia, módulo, ámbito o idioma: [MATERIA]
+- Tema: [TEMA]
+- Objetivo didáctico: [OBJETIVO]
+- Perfil del alumnado: [PERFIL]
+- Formato elegido: [PRESENTACIÓN / INFOGRAFÍA / CÓMIC / AUDIO / VÍDEO / FICHA / OTRO]
+- Nivel de dificultad: [REFUERZO / ESTÁNDAR / AMPLIACIÓN]
 
-Tarea: Genera 3 versiones del mismo contenido adaptadas a niveles 
-diferentes:
+Crea un recurso adaptado a este contexto.
 
-VERSIÓN A – Refuerzo:
-- Lenguaje simplificado (frases cortas, vocabulario básico).
-- Apoyo visual: sugiere un icono o imagen para cada concepto clave.
-- Incluye 2 preguntas de comprensión tipo verdadero/falso.
-- Máximo 200 palabras.
+El recurso debe incluir:
+- Estructura clara.
+- Contenidos principales.
+- Lenguaje adecuado al nivel del alumnado.
+- Sugerencias visuales, auditivas o narrativas según el formato elegido.
+- Una actividad breve para el alumnado.
+- Adaptaciones por nivel si procede.
+- Producto final listo para revisar y llevar al aula.
 
-VERSIÓN B – Estándar:
-- Mantiene el nivel original pero mejora la claridad.
-- Añade 1 ejemplo práctico cotidiano.
-- Incluye 2 preguntas de comprensión de respuesta breve.
-- Máximo 350 palabras.
+Ten en cuenta:
+- No incluyas datos personales.
+- No uses imágenes reales de alumnado.
+- Evita información sensible del centro.
+- Prioriza claridad, accesibilidad y utilidad didáctica.
+````
+### Variante multinivel
 
-VERSIÓN C – Ampliación:
-- Añade profundidad y conexiones interdisciplinares.
-- Propone 1 reto de investigación autónoma.
-- Incluye 2 preguntas de análisis crítico.
-- Máximo 500 palabras.
+```text
+Actúa como especialista en atención a la diversidad y Diseño Universal para el Aprendizaje.
 
-Formato: Tres bloques claramente separados con el encabezado de 
-cada versión.
+A partir del siguiente tema:
+
+- Etapa: [ETAPA]
+- Curso/nivel: [CURSO]
+- Materia: [MATERIA]
+- Tema: [TEMA]
+- Objetivo didáctico: [OBJETIVO]
+
+Genera tres versiones del mismo contenido:
+
+VERSIÓN A — Refuerzo:
+- Lenguaje sencillo.
+- Frases breves.
+- Vocabulario básico.
+- Apoyos visuales sugeridos.
+- Ejemplos muy cercanos.
+- Actividad guiada.
+
+VERSIÓN B — Estándar:
+- Lenguaje adecuado al nivel.
+- Explicación clara.
+- Ejemplos prácticos.
+- Actividad de aplicación.
+
+VERSIÓN C — Ampliación:
+- Mayor profundidad.
+- Conexiones con otros contenidos.
+- Preguntas de reflexión.
+- Reto o tarea autónoma.
+
+Para cada versión incluye:
+- Explicación adaptada.
+- Sugerencias visuales.
+- Actividad para el alumnado.
+- Producto final recomendado.
+
 ```
 
-3. Convierte la **Versión A** a audio con ElevenLabs o Edge "Leer en voz alta" (accesibilidad).
-4. Crea una **mini-infografía** de la Versión B con Canva (atención visual).
-5. **Entregable:** las 3 versiones en un documento + el audio de la Versión A (.mp3) + la infografía de la Versión B (PDF) + reflexión (150 palabras) sobre cómo esta técnica puede escalar a todo un trimestre.
+### Paso a paso
 
-### Actividad 3.6 — Plan multimodal para una SA *(grupal, sesión síncrona)*
+1. Elige tema y contexto educativo.
+2. Selecciona el formato multimodal más útil para tu aula.
+3. Completa el prompt base con tus datos.
+4. Genera un primer borrador con IA.
+5. Revisa contenido, lenguaje, imágenes y accesibilidad.
+6. Adapta el recurso a diferentes niveles si procede.
+7. Exporta el resultado final.
+8. Prepara una breve reflexión docente.
 
-1. En grupos de 3-4, elegid una **Situación de Aprendizaje** (puede ser la de un miembro del grupo).
-2. Diseñad un **plan de recursos multimodales IA** usando esta tabla:
+### Entregable
 
-| Recurso | Herramienta elegida | Sesión de la SA | Principio DUA | Justificación |
-|:--------|:-------------------|:----------------|:--------------|:--------------|
-| | | | | |
-| | | | | |
-| | | | | |
+Cada participante deberá entregar:
 
-3. Generad al menos **1 recurso** real (presentación, imagen o audio) durante la sesión.
-4. **Entregable:** tabla completada + recurso generado + reflexión grupal (200 palabras).
+- Recurso final en formato `.pptx`, `.pdf`, `.mp3`, `.mp4`, imagen o enlace.
+- Prompt utilizado.
+- Captura o enlace del resultado generado.
+- Breve reflexión docente de 100-150 palabras.
 
+La reflexión debe responder:
+
+- ¿Para qué alumnado está pensado?
+- ¿Qué herramienta se ha utilizado?
+- ¿Qué aporta el formato multimodal?
+- ¿Qué cambios has hecho tras revisar la propuesta de la IA?
+- ¿Cómo podría integrarse en una situación de aprendizaje?
+
+### Seguridad y ética
+
+> ⚠️ No introduzcas datos personales del alumnado, fotografías reales, información interna del centro ni documentos sensibles en herramientas externas.  
+> Usa contenido ficticio, anonimizado o de licencia abierta.  
+> Revisa siempre los resultados generados por IA antes de utilizarlos en el aula.
+
+### Producto final esperado
+
+Al finalizar la actividad, cada docente tendrá un recurso multimodal revisado, contextualizado y listo para utilizar o adaptar en su práctica docente.
 ---
 
 ## 📚 Recursos complementarios
@@ -715,8 +770,6 @@ Antes de pasar al Bloque 4, asegúrate de poder responder **sí** a todas estas 
 
 ---
 
-</div><!-- /.release-gate__content -->
-</div><!-- /.release-gate -->
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
