@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Bloque 3: Generación Multimodal"
