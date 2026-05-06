@@ -142,7 +142,9 @@ Restricciones:
 - Mantener coherencia entre diapositivas.
 ```
 
-> **🚀 Reto:** Genera la misma presentación en Gamma y en Copilot PowerPoint. Compara: ¿cuál tiene mejor diseño visual? ¿Cuál es más precisa en los contenidos históricos? ¿Cuál exporta mejor a PDF para compartir por Aules?
+> **🚀 Reto:** Genera la misma presentación en Gamma, ChatGPT y Copilot PowerPoint. Compara: ¿qué herramienta tiene mejor diseño visual? ¿Cuál organiza mejor los contenidos? ¿Cuál es más precisa en los contenidos históricos? ¿Cuál exporta mejor a PDF para compartir por Aules?
+
+💡 También puedes crear presentaciones educativas con IA usando herramientas <a href="https://www.kimi.com/">Kimi</a>, útiles para generar estructuras, guiones, contenidos visuales y presentaciones completas a partir de texto.
 
 
 ## Actividades de presentaciones por etapa
@@ -155,9 +157,6 @@ Para facilitar la navegación, las actividades de creación de presentaciones ed
 - [Formación Profesional](bloque3-actividad-fp.md)
 - [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
   
-
-> 💡 También puedes crear presentaciones educativas con IA usando Kimi: https://www.kimi.com
-, una alternativa útil para generar contenidos visuales y estructurados a partir de texto.
 
 ---
 
@@ -322,82 +321,136 @@ palabras totales en la infografía (es visual, no textual).
 
 > **💡 Flujo de trabajo rápido:** 1) Genera la estructura con Copilot → 2) Crea la infografía en Canva usando la descripción como guía → 3) Exporta en PDF y sube a Aules.
 
-### Podemos generar infografías con NotebookLM presionando un botón
+
+### Podemos generar infografías con Chat GPT con dos líneas
+### o con NotebookLM presionando un botón sobre nuestro material
 
 
-## INFOGRAFÍAS INTERACTIVAS
+ Chat GPT: Crea una infografía muy detallada sobre una ballena
+
+![Infografía de una ballena generada con ChatGPT](assets/img/Ballena_ChatGPT.png)
+
+📂 Carpeta compartida de infografías educativas:  
+https://drive.google.com/drive/folders/1P2TQxmyKvDVaw5g77_0qg911KCRfD3-V?usp=sharing
+
+Chat GPT: Haz una infografía comparando un iphone con un google pixel
+
+![Infografía comparando productos generada con ChatGPT](assets/img/Comparar_ChatGPT.png)
+
+## Infografías interactivas
+
+
 
 Prompt para generar infografía con ChatGPT o Gemini
 
 ```text
 Animate this vertical 9:16 premium educational infographic poster about [SUBJECT NAME] into a smooth professional science explainer reel.
-
 Keep the same exact poster layout, same central [SUBJECT NAME], same headline, same infographic panels, same expert presenter character, same background, same colors, and same composition. Do not change the design, do not replace the subject, and do not add random objects.
-
 Start with the full infographic poster visible in a clean front-facing view. Use a slow gentle camera push-in with very subtle parallax depth between the central subject, callout panels, connector lines, presenter character, and background.
-
 First, animate the top headline and subtitle with a smooth fade-in and slight slide-down motion.
-
 Then animate the main [SUBJECT NAME] with subtle natural idle movement based on the creature, such as tiny breathing motion, slight head movement, eye blink, soft feather shimmer, gentle tentacle movement, tiny tail movement, subtle body shift, or slow fin movement.
-
 The subject should remain mostly stable and realistic, not overanimated.
-
 Next, animate the infographic connector lines drawing outward from the body parts to the information panels. Reveal the callout panels one by one using soft scale-up and fade-in animation.
-
 Small icons, numbered badges, mini diagrams, circular thumbnails, and chart elements inside the panels should pop in smoothly with clean motion-graphics timing.
-
 Add subtle highlight pulses on important body parts when their panel appears.
-
 The expert presenter character should make a minimal presenter gesture, such as a small arm movement, pointing gesture, slight head nod, or tiny posture shift, while staying in the same position.
-
 The bottom quick facts strip should reveal near the end with smooth slide-in motion, small icon pop-ups, and subtle highlight animation.
-
 Keep the animation clean, premium, educational, modern, social-media optimized, bright, polished, readable, and smooth.
-
 Use bright studio lighting, soft shadows, crisp highlights, realistic 3D subject details, clean infographic UI, and modern science-poster aesthetics.
-
 End with a clean final hold shot showing the full completed infographic clearly.
-
 Negative prompt: camera shake, fast zoom, scene change, subject morphing, text distortion, flickering panels, broken infographic layout, random extra objects, messy animation, distorted body parts, warped callout lines, low quality, dark lighting, excessive movement, chaotic transitions, unreadable text, bad typography, unstable parallax.
-
 ```
 ### Ejemplo de uso: Mariposa
 
+Vamos a [Google Labs FLOW](https://labs.google/fx/tools/flow)
 
-Vamos a Google Labs FLOW: https://labs.google/fx/tools/flow
 
 ### Prompt para darle vida
 
 ```text
 Animate this vertical 9:16 premium educational infographic poster about [SUBJECT NAME] into a smooth professional science explainer reel.
-
 Keep the same exact poster layout, same central [SUBJECT NAME], same headline, same infographic panels, same expert presenter character, same background, same colors, and same composition. Do not change the design, do not replace the subject, and do not add random objects.
-
 Start with the full infographic poster visible in a clean front-facing view. Use a slow gentle camera push-in with very subtle parallax depth between the central subject, callout panels, connector lines, presenter character, and background.
-
 First, animate the top headline and subtitle with a smooth fade-in and slight slide-down motion.
-
 Then animate the main [SUBJECT NAME] with subtle natural idle movement based on the creature, such as tiny breathing motion, slight head movement, eye blink, soft feather shimmer, gentle tentacle movement, tiny tail movement, subtle body shift, or slow fin movement.
-
 The subject should remain mostly stable and realistic, not overanimated.
-
 Next, animate the infographic connector lines drawing outward from the body parts to the information panels. Reveal the callout panels one by one using soft scale-up and fade-in animation.
-
 Small icons, numbered badges, mini diagrams, circular thumbnails, and chart elements inside the panels should pop in smoothly with clean motion-graphics timing.
-
 Add subtle highlight pulses on important body parts when their panel appears.
-
 The expert presenter character should make a minimal presenter gesture, such as a small arm movement, pointing gesture, slight head nod, or tiny posture shift, while staying in the same position.
-
 The bottom quick facts strip should reveal near the end with smooth slide-in motion, small icon pop-ups, and subtle highlight animation.
-
 Keep the animation clean, premium, educational, modern, social-media optimized, bright, polished, readable, and smooth.
-
 Use bright studio lighting, soft shadows, crisp highlights, realistic 3D subject details, clean infographic UI, and modern science-poster aesthetics.
-
 End with a clean final hold shot showing the full completed infographic clearly.
-
 Negative prompt: camera shake, fast zoom, scene change, subject morphing, text distortion, flickering panels, broken infographic layout, random extra objects, messy animation, distorted body parts, warped callout lines, low quality, dark lighting, excessive movement, chaotic transitions, unreadable text, bad typography, unstable parallax.
+```
+Prompt para IMAGEN 
+```text
+Crea un póster infográfico educativo premium en formato vertical 9:16 sobre [NOMBRE DEL SUJETO], diseñado como un explicador científico moderno de alta gama para Instagram Reels, combinando un gran render 3D realista de un animal/criatura con un diseño infográfico limpio.
+
+Usa un fondo limpio blanco, gris claro o neutro suave, con iluminación brillante de estudio, sombras suaves, detalles nítidos y una composición editorial premium.
+
+En la parte superior, coloca un titular muy grande en mayúsculas y negrita sobre [NOMBRE DEL SUJETO], con un subtítulo breve que explique sus rasgos biológicos únicos, adaptaciones, mecanismos de defensa, comportamiento en su hábitat y ventajas evolutivas.
+
+En el centro, coloca un gran [NOMBRE DEL SUJETO] en 3D realista y muy detallado como protagonista principal, dominando el encuadre con anatomía precisa, textura detallada de piel/plumas/escamas/concha, colores naturales intensos, reflejos limpios de estudio y una pose fuerte e impresionante.
+
+Alrededor del sujeto, crea entre 4 y 6 paneles infográficos limpios con esquinas redondeadas, sombras suaves, insignias numeradas, pequeños iconos, mini diagramas, miniaturas circulares y líneas conectoras finas que apunten a diferentes partes del cuerpo.
+
+Los paneles deben explicar anatomía, adaptación especial, mecanismo de defensa, movimiento, sistema sensorial, camuflaje, estilo de caza, alimentación, hábitat, papel en el ecosistema o biología única.
+
+Añade un pequeño personaje experto presentador cerca de la parte inferior derecha o izquierda, adaptado al tema del sujeto, como un biólogo marino, experto en fauna, explorador, buceador o científico, de pie y señalando hacia el sujeto mientras sostiene un portapapeles, una lupa, unos prismáticos o una tableta.
+
+En la parte inferior, añade una franja de información limpia con datos rápidos, tarjetas comparativas, miniaturas de especies, iconos, símbolos de hábitat y rasgos clave.
+
+Usa una paleta de colores que combine de forma natural con [NOMBRE DEL SUJETO], con colores de acento complementarios como azul, turquesa, verde, naranja, morado, amarillo o rojo.
+
+El diseño completo debe sentirse educativo, fascinante, premium, inteligente, limpio, cinematográfico, preparado para volverse viral en reels, muy legible, equilibrado, moderno y diseñado de forma profesional.
+
+Prompt negativo: baja calidad, borroso, diseño desordenado, texto ilegible, tipografía distorsionada, mala anatomía, animal deformado, extremidades extra, partes del cuerpo rotas, proporciones incorrectas, fondo recargado, iluminación oscura, diseño plano, mala alineación infográfica, objetos aleatorios, aspecto de póster barato, marca de agua, logotipo, mal recorte, exceso de texto, composición caótica, pixelado, etiquetas mal escritas, sujeto duplicado, anatomía irreal.
+```
+
+Prompt para VÍDEO
+```text
+Anima este póster infográfico educativo premium en formato vertical 9:16 sobre [NOMBRE DEL SUJETO] y conviértelo en un reel explicativo científico profesional, fluido y elegante.
+
+Mantén exactamente el mismo diseño del póster, el mismo [NOMBRE DEL SUJETO] central, el mismo titular, los mismos paneles infográficos, el mismo personaje experto presentador, el mismo fondo, los mismos colores y la misma composición. No cambies el diseño, no sustituyas el sujeto y no añadas objetos aleatorios.
+
+Comienza con el póster infográfico completo visible en una vista frontal limpia. Usa un acercamiento de cámara lento y suave, con una profundidad de paralaje muy sutil entre el sujeto central, los paneles explicativos, las líneas conectoras, el personaje presentador y el fondo.
+
+Primero, anima el titular superior y el subtítulo con un fundido de entrada suave y un ligero movimiento descendente.
+
+Después, anima el [NOMBRE DEL SUJETO] principal con un movimiento natural y sutil de reposo, adaptado al tipo de sujeto, como una pequeña respiración, un ligero movimiento de cabeza, parpadeo, brillo suave en las plumas, movimiento delicado de tentáculos, pequeño movimiento de cola, desplazamiento corporal sutil o movimiento lento de aletas.
+
+El sujeto debe permanecer principalmente estable y realista, sin estar sobreactuado ni excesivamente animado.
+
+A continuación, anima las líneas conectoras de la infografía dibujándose hacia fuera desde las partes del cuerpo hasta los paneles informativos. Revela los paneles explicativos uno por uno usando una animación suave de escala y fundido de entrada.
+
+Los pequeños iconos, insignias numeradas, mini diagramas, miniaturas circulares y elementos gráficos dentro de los paneles deben aparecer suavemente con un timing limpio de motion graphics.
+
+Añade pulsos de luz sutiles en las partes importantes del cuerpo cuando aparezca su panel correspondiente.
+
+El personaje experto presentador debe hacer un gesto mínimo de presentación, como un pequeño movimiento de brazo, un gesto de señalar, una ligera inclinación de cabeza o un pequeño cambio de postura, permaneciendo siempre en la misma posición.
+
+La franja inferior de datos rápidos debe revelarse cerca del final con un movimiento suave de deslizamiento, pequeños iconos apareciendo con pop-up y una animación de resaltado sutil.
+
+Mantén la animación limpia, premium, educativa, moderna, optimizada para redes sociales, brillante, pulida, legible y fluida.
+
+Usa iluminación de estudio brillante, sombras suaves, reflejos nítidos, detalles realistas del sujeto 3D, una interfaz infográfica limpia y estética moderna de póster científico.
+
+Termina con un plano final limpio y estable que muestre claramente la infografía completa terminada.
+
+Prompt negativo: cámara temblorosa, zoom rápido, cambio de escena, transformación del sujeto, distorsión del texto, paneles parpadeantes, diseño infográfico roto, objetos aleatorios extra, animación desordenada, partes del cuerpo distorsionadas, líneas conectoras deformadas, baja calidad, iluminación oscura, movimiento excesivo, transiciones caóticas, texto ilegible, mala tipografía, paralaje inestable.
+```
+
+Prompt para IMAGEN (Optimizado)
+
+```text
+Póster infográfico 9:16 estilo “educational science explainer” premium sobre [NOMBRE DEL SUJETO]. Fondo neutro limpio, iluminación de estudio y renderizado 3D realista central con anatomía precisa y texturas detalladas. Diseño editorial moderno: titular gigante en negrita arriba con subtítulo biográfico. Alrededor del sujeto, 4–6 paneles limpios con bordes redondeados, iconos, mini-diagramas y líneas conectoras finas a partes del cuerpo. Incluye un pequeño personaje experto (biólogo/explorador) señalando al sujeto con una tableta o lupa. En la base, franja de datos rápidos y tarjetas de comparación. Paleta de colores acorde al espécimen con acentos vibrantes. Estilo viral, ultra legible, cinematográfico y profesional.
+```
+
+Prompt para VÍDEO (Optimizado)
+```text
+Anima este póster infográfico 9:16 de [NOMBRE DEL SUJETO] como un reel profesional fluido. Mantén diseño, sujeto, texto y composición exactos. Cámara con avance lento (push-in) y paralaje sutil. Animación: 1. Fade-in suave del titular. 2. Movimiento orgánico de “reposo” en el sujeto (respiración, parpadeo o aletas) sin exagerar. 3. Líneas conectoras dibujándose hacia afuera. 4. Paneles de datos apareciendo en escala/fade con motion graphics limpios en iconos. 5. Gesto mínimo del presentador (asentimiento o señalar). 6. Franja inferior deslizándose al final. Acabado brillante, pulido, educativo y premium. Termina en toma estática completa.
 ```
 ---
 
@@ -443,7 +496,7 @@ términos históricos esenciales (que debes definir brevemente).
 
 ### Paso a paso: de texto a audio con ElevenLabs
 
-1. Accede a [elevenlabs.io](https://elevenlabs.io) y crea una cuenta gratuita.
+1. Accede a [elevenlabs.io](https://elevenlabs.io) y crea una cuenta gratuita. Otra opción es Copilot ( Clipchamp) o [Fish Audio] (https://fish.audio/es/)
 2. En el panel **"Text to Speech"**, pega el guion generado.
 3. Elige una **voz** en español (recomendamos probar varias: "Antoni", "Bella", "Callum").
 4. Ajusta la **estabilidad** (más alta = más neutra, más baja = más expresiva).
@@ -470,6 +523,53 @@ Duración aproximada: 5-8 minutos.
 ```
 
 > **⚠️ Seguridad GVA:** Los audios generados con voces IA deben usarse con transparencia. Informa a tu alumnado de que se trata de una **voz generada por IA**, no una persona real. Es una buena práctica ética y también una oportunidad para fomentar la **alfabetización en IA**.
+
+> 3.3 Canciones educativas con IA (Gemini)
+
+La generación de canciones con IA puede convertirse en un recurso muy potente para el aula: ayuda a memorizar contenidos, mejora la motivación y permite trabajar conceptos mediante ritmo, repetición y creatividad. Con Gemini puedes generar letras educativas, adaptar estilos musicales y crear canciones temáticas para cualquier etapa educativa.
+
+💡 Ideas de uso en el aula:
+- Canciones para memorizar vocabulario, fórmulas o fechas.
+- Rap educativo para repasar contenidos antes de un examen.
+- Canciones en valenciano o inglés para idiomas.
+- Himnos de clase o canciones para proyectos.
+- Versiones musicales de normas de convivencia o rutinas.
+
+Paso a paso con Gemini
+
+1. Accede a Gemini con tu cuenta Google.
+2. Explica el tema, nivel educativo y estilo musical deseado.
+3. Pide una letra estructurada (versos + estribillo).
+4. Ajusta el tono: infantil, motivador, épico, divertido, relajado…
+5. Copia la letra y úsala en herramientas musicales IA o como recurso de aula.
+6. Puedes acompañarla con imágenes, karaoke, vídeo o actividades de comprensión.
+
+🏆 Prompt de Oro: Canción educativa con Gemini
+
+Actúa como un compositor de canciones educativas para alumnado de 5.º de Primaria.
+
+Necesito una canción sobre "Los planetas del sistema solar" para ayudar al alumnado a memorizar:
+- El orden de los planetas.
+- Características básicas de cada uno.
+- Diferencia entre planetas rocosos y gaseosos.
+
+Requisitos:
+- Estilo musical: pop alegre y pegadizo.
+- Duración aproximada: 2 minutos.
+- Lenguaje sencillo y motivador.
+- Incluir un estribillo fácil de recordar.
+- Añadir palmas o repeticiones para que pueda cantarse en clase.
+- Evitar tecnicismos complejos.
+
+Formato:
+- Título.
+- Verso 1.
+- Estribillo.
+- Verso 2.
+- Estribillo final.
+
+💡 Ejemplo rápido:
+"Crea una canción estilo rap para 2.º de ESO sobre la fotosíntesis, con rimas sencillas y un estribillo fácil de memorizar."
 
 ---
 
