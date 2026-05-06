@@ -328,11 +328,11 @@ palabras totales en la infografía (es visual, no textual).
 
  Chat GPT: Crea una infografía muy detallada sobre una ballena
 
-<img src="assets/img/Ballena_ChatGPT.png" width="70%">
+<img src="assets/img/Ballena_ChatGPT.png" width="40%">
 
 Chat GPT: Haz una infografía comparando un iphone con un google pixel
 
-<img src="assets/img/Comparar_ChatGPT.png" width="70%">
+<img src="assets/img/Comparar_ChatGPT.png" width="40%">
 
 📂 Carpeta compartida de infografías educativas:  
 https://drive.google.com/drive/folders/1P2TQxmyKvDVaw5g77_0qg911KCRfD3-V?usp=sharing
