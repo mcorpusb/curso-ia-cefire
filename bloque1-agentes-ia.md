@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Agentes de IA para docentes"
-parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 5
 ---
 
