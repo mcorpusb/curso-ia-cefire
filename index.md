@@ -123,6 +123,19 @@ Nos vemos en la primera sesión.
 
 ---
 
+## 🛠️ Recursos adicionales del curso
+
+<div style="background-color:#f5f0fa; border-left:4px solid #7b1fa2; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+💻 <strong>Nuevo · Vibe Coding Educativo</strong><br>
+Aprende a crear aplicaciones educativas interactivas conversando con la IA, sin necesidad de programar. Descubre la comunidad, el repositorio de más de 300 apps y cómo iniciarte.
+<br><br>
+<a href="{{ '/vibe-coding-educativo' | relative_url }}" style="font-weight:700; color:#7b1fa2;">→ Explorar Vibe Coding Educativo</a>
+
+</div>
+
+---
+
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso organizado por el CEFIRE de IA y Pensamiento Computacional · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>

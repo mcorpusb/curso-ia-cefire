@@ -627,3 +627,207 @@
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+
+/* ══════════════════════════════════════════════════════════
+   Componentes visuales — Vibe Coding Educativo
+   ══════════════════════════════════════════════════════════ */
+
+/* ── Hero section ── */
+
+.vibe-hero {
+  background: linear-gradient(135deg, #eef4fb 0%, #f5f0fa 60%, #eef8ee 100%);
+  border-radius: 12px;
+  padding: 2rem 2rem 1.75rem;
+  margin: 1.5rem 0 2rem;
+  border: 1px solid #ddd4ed;
+  text-align: center;
+}
+
+.vibe-hero__lema {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #4a306a;
+  margin-bottom: 0.6rem;
+}
+
+.vibe-hero__desc {
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.7;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* ── Timeline vertical ── */
+
+.vibe-timeline {
+  position: relative;
+  margin: 1.5rem 0;
+  padding-left: 2.75rem;
+}
+
+.vibe-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0.95rem;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  width: 2px;
+  background: linear-gradient(to bottom, #4a90d9 0%, #7b1fa2 100%);
+  border-radius: 2px;
+}
+
+.vibe-timeline__paso {
+  position: relative;
+  margin-bottom: 0.85rem;
+  background: #fff;
+  border: 1px solid #e8eaed;
+  border-radius: 8px;
+  padding: 0.7rem 1rem;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.vibe-timeline__paso::before {
+  content: '';
+  position: absolute;
+  left: -1.95rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  background: #4a90d9;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px #4a90d9;
+}
+
+.vibe-timeline__paso:last-child::before {
+  background: #2e7d32;
+  box-shadow: 0 0 0 2px #2e7d32;
+}
+
+.vibe-timeline__num {
+  font-weight: 700;
+  color: #4a90d9;
+  margin-right: 0.3rem;
+}
+
+.vibe-timeline__paso:last-child .vibe-timeline__num {
+  color: #2e7d32;
+}
+
+@media (max-width: 640px) {
+  .vibe-timeline {
+    padding-left: 2rem;
+  }
+
+  .vibe-timeline__paso::before {
+    left: -1.5rem;
+    width: 0.65rem;
+    height: 0.65rem;
+  }
+}
+
+/* ── Resource cards (con botón) ── */
+
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.resource-card {
+  background: #fff;
+  border: 1px solid #d0d7de;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.resource-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.09);
+  transform: translateY(-2px);
+}
+
+.resource-card__icon {
+  font-size: 2rem;
+  line-height: 1;
+  margin-bottom: 0.55rem;
+}
+
+.resource-card__titulo {
+  font-weight: 700;
+  font-size: 0.97rem;
+  margin-bottom: 0.4rem;
+  color: #1a1a1a;
+}
+
+.resource-card__desc {
+  font-size: 0.88rem;
+  color: #555;
+  line-height: 1.55;
+  flex: 1;
+  margin-bottom: 0.9rem;
+}
+
+.resource-card__btn {
+  display: block;
+  text-align: center;
+  background: #4a90d9;
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 0.45rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.86rem;
+  font-weight: 600;
+  transition: background 0.18s ease;
+}
+
+.resource-card__btn:hover {
+  background: #2c6fbb;
+}
+
+/* ── Tabla responsive ── */
+
+.tabla-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.25rem 0;
+  border-radius: 8px;
+}
+
+/* ── Botón CTA grande ── */
+
+.btn-cta-wrapper {
+  text-align: center;
+  margin: 1.75rem 0 1.25rem;
+}
+
+.btn-cta {
+  display: inline-block;
+  background: linear-gradient(135deg, #4a90d9, #7b1fa2);
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 0.85rem 2.25rem;
+  border-radius: 10px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-align: center;
+  transition: opacity 0.2s ease;
+  letter-spacing: 0.01em;
+}
+
+.btn-cta:hover {
+  opacity: 0.88;
+}
+
+/* ── Callout de seguridad (amarillo) ── */
+
+.callout--seguridad {
+  background-color: #fff8e1;
+  border-color: #f9a825;
+}
