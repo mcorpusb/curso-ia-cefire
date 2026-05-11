@@ -14,9 +14,14 @@ Una evolución natural del asistente de IA: más guiado, más coherente, más ú
 
 <div class="callout callout--idea" role="note" aria-label="Qué encontrarás en esta página">
 <div class="callout__titulo">💡 ¿Qué encontrarás aquí?</div>
-Esta página explica qué son los agentes de IA, para qué sirven en el aula, cómo se crean en <strong>Microsoft Copilot</strong> con tu cuenta <strong>@edu.gva.es</strong> y en <strong>Gemini gratuito</strong> mediante Gems. Encontrarás ejemplos para cada etapa educativa, una actividad práctica y criterios de uso seguro.
+En esta página vamos a trabajar con la idea de "agente de IA" desde dos niveles:
 <br><br>
-<strong>No necesitas saber programar</strong> ni tener experiencia previa en IA para crear y usar un agente.
+<strong>Como concepto:</strong> un asistente especializado que sigue unas instrucciones y ayuda en una tarea concreta.
+<br><strong>Como práctica docente:</strong> un conjunto de instrucciones reutilizables que podemos pegar en Copilot o Gemini para que la herramienta actúe de una forma determinada.
+<br><br>
+En algunos entornos, Microsoft Copilot permite crear agentes reales mediante Agent Builder o Copilot Studio. Sin embargo, esa opción depende de la licencia y de la configuración de la organización. Por eso, en este curso aprenderemos primero a <strong>diseñar las instrucciones del agente</strong>. Si tu cuenta permite crear agentes, podrás copiar esas instrucciones en el configurador. Si no aparece esa opción, podrás usarlas igualmente como <strong>prompt inicial en una conversación</strong>.
+<br><br>
+Encontrarás ejemplos para cada etapa educativa, una actividad práctica y criterios de uso seguro.
 </div>
 
 ---
@@ -54,6 +59,20 @@ Es importante tenerlo claro desde el principio:
 <div class="callout__titulo">⚠️ Protección de datos desde el primer momento</div>
 Nunca introduzcas nombres, apellidos, datos médicos, informes psicopedagógicos ni información sensible del alumnado o del centro en ninguna herramienta de IA. Este principio se aplica tanto a Copilot como a Gemini y a cualquier otro agente.
 </div>
+
+---
+
+## Agente real y "modo agente": no son exactamente lo mismo
+
+Cuando hablamos de "usar un agente de IA", no siempre nos referimos a lo mismo. Es importante distinguir tres situaciones diferentes:
+
+| Tipo | Qué es | ¿Se guarda? | ¿Lo podemos usar en el curso? |
+|:-----|:-------|:------------|:------------------------------|
+| **Agente real de Copilot** | Un asistente configurado en Microsoft 365 Copilot mediante Agent Builder o en Copilot Studio. | Sí, si la cuenta y la organización permiten crear y guardar agentes. | Solo si la opción está disponible con la cuenta @edu.gva.es. |
+| **Gem de Gemini** | Un asistente personalizado de Gemini con instrucciones guardadas. | Sí, si la función Gems está disponible en la cuenta. | Sí, como alternativa para practicar, siempre sin introducir datos personales ni información sensible. |
+| **Modo agente mediante prompt** | Un prompt largo y estructurado que hace que Copilot o Gemini se comporten como un asistente especializado durante una conversación. | No necesariamente. Hay que pegarlo o reutilizarlo cuando se necesite. | Sí. Es la opción más universal y la que no depende de permisos especiales. |
+
+En este curso, cuando hablemos de "diseñar un agente", nos referiremos sobre todo a diseñar bien sus instrucciones. Si la herramienta permite guardarlas como agente, las guardaremos. Si no, las usaremos como **prompt reutilizable**.
 
 ---
 
@@ -164,36 +183,42 @@ Y el proceso para **crear** ese agente puede resumirse así:
 
 ---
 
-## 5. Crear un agente en Microsoft Copilot con la cuenta @edu.gva.es
+## 5. Usar Copilot con @edu.gva.es en "modo agente"
 
-La cuenta `@edu.gva.es` es tu identidad educativa institucional en la Conselleria d'Educació. A través de ella accedes al entorno Microsoft 365, que incluye —dependiendo de la licencia— Microsoft Copilot y, en algunos casos, la posibilidad de crear agentes.
+La cuenta `@edu.gva.es` permite acceder al entorno Microsoft 365 educativo de la Conselleria d'Educació. A través de ella puedes usar Copilot para tareas docentes.
+
+La disponibilidad de creación de agentes reales puede variar según la licencia y la configuración de la organización. Si en tu entorno aparece la opción **"Agentes"**, **"Nuevo agente"** o **"Copilot Studio"**, podrás intentar crear un agente real. Si no aparece, no pasa nada: puedes trabajar igualmente en **"modo agente"** pegando un prompt de instrucciones al inicio de la conversación. Esta será la opción principal para el curso, porque no depende de que esté activada la creación de agentes.
 
 <div class="callout callout--idea" role="note" aria-label="Nota sobre disponibilidad de agentes en Copilot educativo">
 <div class="callout__titulo">💡 Disponibilidad según configuración institucional</div>
-La creación de agentes en Copilot puede no estar disponible para todas las cuentas <strong>@edu.gva.es</strong>. Depende de la licencia asignada y de la configuración de la organización. Si no encuentras la opción, consulta con la coordinación TIC, el SAI o la administración de tu centro.
-<br><br>
-Según la configuración disponible en cada momento, algunas cuentas pueden ver la opción de crear agentes y otras no.
+La creación de agentes reales en Copilot puede no estar disponible para todas las cuentas <strong>@edu.gva.es</strong>. Depende de la licencia asignada y de la configuración de la organización. Si no encuentras la opción, no es un problema: podrás seguir el curso y diseñar tus instrucciones de agente igualmente.
 </div>
 
-### Pasos para crear un agente en Microsoft Copilot
+### Opción A: si tu cuenta permite crear agentes
 
-1. Entra en [Microsoft 365](https://www.office.com) o accede directamente a Copilot desde el portal educativo.
-2. Inicia sesión con tu cuenta `@edu.gva.es`.
-3. Comprueba que estás en el entorno institucional: debe aparecer el nombre de tu organización y no una cuenta personal.
-4. Busca la opción **"Agentes"**, **"Nuevo agente"** o accede a **Copilot Studio** si está disponible.
-5. Elige **crear un nuevo agente**.
-6. Escribe un nombre claro para el agente (por ejemplo: "Diseñador de situaciones de aprendizaje").
-7. Añade una **descripción** de lo que hace el agente.
-8. Configura las **instrucciones**: aquí es donde defines el comportamiento del agente. Sigue el ejemplo más abajo.
-9. Añade **conocimiento** (documentos de apoyo), si la función está disponible y el documento no contiene datos sensibles.
-10. Configura **preguntas de inicio** para que el agente sepa qué pedir al docente antes de responder.
-11. **Prueba el agente** con un caso sencillo. Observa si las respuestas son útiles, coherentes y seguras.
-12. **Mejora las instrucciones** a partir de lo que hayas observado en las pruebas.
-13. **Guarda o publica** el agente según los permisos disponibles.
+1. Entra en [Microsoft 365](https://www.office.com) e inicia sesión con tu cuenta `@edu.gva.es`.
+2. Comprueba que estás en el entorno institucional (debe aparecer el nombre de tu organización).
+3. Busca la opción **"Agentes"** o **"Nuevo agente"**, o accede a **Copilot Studio** si está disponible.
+4. Crea un nuevo agente con un nombre claro (por ejemplo: "Diseñador de situaciones de aprendizaje").
+5. Copia las instrucciones diseñadas en el curso en el campo de configuración del agente.
+6. Prueba el agente con un caso sencillo.
+7. Ajusta las instrucciones a partir de lo que observes.
+8. Guarda o publica el agente según los permisos disponibles.
 
-### Ejemplo de agente: Diseñador de situaciones de aprendizaje
+### Opción B: si tu cuenta NO permite crear agentes
 
-El siguiente texto puede copiarse directamente como instrucciones del agente:
+1. Entra en Copilot con tu cuenta `@edu.gva.es`.
+2. Abre una conversación nueva.
+3. Copia y pega el prompt completo del agente al inicio de la conversación.
+4. Responde a las preguntas que Copilot te haga para recopilar el contexto necesario.
+5. Usa la conversación como si fuera un asistente especializado.
+6. Guarda el prompt en un documento propio para reutilizarlo más adelante.
+
+> **Importante:** si usamos un prompt en una conversación, no hemos creado un agente permanente. Hemos creado una forma de trabajo reutilizable. Para crear un agente real, la plataforma debe permitir guardar instrucciones, conocimiento y configuración.
+
+### Ejemplo de instrucciones: Diseñador de situaciones de aprendizaje
+
+El siguiente texto puede copiarse como instrucciones del agente (Opción A) o como prompt inicial de una conversación (Opción B):
 
 ```text
 Actúa como un asistente pedagógico para docentes.
@@ -236,16 +261,16 @@ En el aula puede servir para trabajar con datos genéricos, grupos ficticios o s
 
 ---
 
-## 6. Crear un agente en Gemini gratuito mediante Gems
+## 6. Crear un Gem en Gemini: el agente personalizado de Google
 
-En Gemini, los agentes personalizados se llaman **Gems**. Un Gem es una versión de Gemini a la que le has dado instrucciones guardadas. Sirve para no tener que escribir siempre el mismo prompt al inicio de cada conversación.
+Gemini llama **Gems** a sus asistentes personalizados. Un Gem permite guardar instrucciones de forma permanente, lo que lo hace más parecido a crear un agente personalizado real que el "modo agente" de Copilot. Si la función está disponible en tu cuenta, cada vez que accedas al Gem las instrucciones ya estarán cargadas.
 
-**Algunas consideraciones antes de empezar:**
+**Consideraciones antes de empezar:**
 
 - La disponibilidad de Gems puede variar según el país, el tipo de cuenta y las actualizaciones de Google.
 - En la versión gratuita puede haber límites de uso o funciones menos avanzadas que en planes de pago.
-- Gemini no es el entorno institucional prioritario del curso, pero puede ser útil para explorar y practicar con información no sensible.
-- No introduzcas datos personales del alumnado ni documentos internos del centro.
+- Gemini no es el entorno institucional prioritario del curso, pero puede ser útil para practicar la creación de agentes con información no sensible.
+- **No debe usarse con datos personales del alumnado ni documentos internos del centro.**
 
 ### Pasos para crear un Gem en Gemini
 
@@ -310,6 +335,51 @@ Corrige con tono amable y explica los errores de forma sencilla.
 Adapta el nivel de dificultad del vocabulario y las estructuras al nivel indicado.
 No hagas correcciones que no hayan sido pedidas durante el role-play.
 ```
+
+---
+
+## Actividad práctica: convierte un prompt en un "modo agente"
+
+Antes de crear un agente real, vamos a aprender a escribir sus instrucciones. Esto es importante porque un agente no es útil por llamarse agente, sino por tener buenas instrucciones.
+
+Copia la siguiente plantilla en Copilot o Gemini y adapta los campos entre corchetes a tu contexto:
+
+```text
+Quiero que actúes como un asistente docente especializado en [tarea].
+
+Tu objetivo es ayudarme a [objetivo concreto].
+
+Antes de responder, pregúntame siempre:
+- Etapa educativa
+- Curso o nivel
+- Materia o ámbito
+- Duración
+- Objetivo de la actividad
+- Características generales del grupo, sin pedir datos personales
+
+Cuando tengas la información necesaria, responde con esta estructura:
+1. Propuesta inicial
+2. Desarrollo paso a paso
+3. Materiales o recursos necesarios
+4. Adaptaciones o apoyos
+5. Evaluación
+6. Recomendaciones para revisar la propuesta
+
+Normas:
+- No pidas datos personales.
+- No inventes normativa.
+- Si falta información, pregunta antes de responder.
+- Usa lenguaje claro y docente.
+- Recuerda que la revisión final siempre debe hacerla una persona.
+```
+
+Una vez hayas pegado este prompt en Copilot o Gemini:
+
+1. Observa cómo la herramienta responde a las preguntas de contexto.
+2. Completa el contexto con información de un grupo ficticio o genérico (sin datos personales).
+3. Revisa la propuesta generada y valora si las instrucciones funcionan.
+4. Si quieres crear un agente real, copia estas instrucciones en Agent Builder o en Gems si la opción está disponible.
+5. Si no tienes esa opción, guarda el prompt en un documento propio para reutilizarlo cuando lo necesites.
 
 ---
 
