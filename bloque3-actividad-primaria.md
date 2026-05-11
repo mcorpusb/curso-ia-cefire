@@ -38,7 +38,7 @@ cantidad de texto por diapositiva (máximo 40 palabras).
 ### Ejemplos generados
 
 - Gamma: <a href="https://el-ciclo-del-agua-ps7ciiw.gamma.site" target="_blank" rel="noopener noreferrer">El ciclo del agua (Gamma)</a>
-- Copilot: <a href="https://docs.google.com/presentation/d/1_whlRKBwQcA-ZKe6H17jZGDa6pzDB27Y/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">El ciclo del agua (Copilot)</a>
+- Copilot: <a href="https://docs.google.com/presentation/d/1emi5vIRDIsmBRHlSrtBM91EuyfsL4sj1/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">El ciclo del agua (Copilot)</a>
 - ChatGPT: <a href="https://docs.google.com/presentation/d/1z9DgpzupEy_y0V42g0m7xWAvnNBPP1H0/edit?usp=sharing&ouid=115347731423997798753&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">El ciclo del agua (ChatGPT)</a>
 
 
