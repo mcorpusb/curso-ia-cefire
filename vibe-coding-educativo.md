@@ -250,10 +250,8 @@ La comunidad se adhiere a los principios del Conocimiento Abierto. Las aplicacio
 
 El repositorio cuenta con más de 300 aplicaciones. Aquí encontrarás una selección representativa organizada por etapa educativa, con aplicaciones reales que puedes empezar a usar en tu aula ahora mismo.
 
-<div class="tabla-responsive" role="region" aria-label="Aplicaciones educativas del repositorio por etapa">
-
 | Etapa | Aplicación | Finalidad didáctica | Ejemplo de uso | Recomendación |
-|:------|:-----------|:--------------------|:---------------|:--------------|
+|:---|:---|:---|:---|:---|
 | **Infantil** | [Lienzo con Chispas](https://lienzo-con-chispas.vercel.app/) | Crear imágenes interactivas con cuestionarios y contenidos incrustados | Imágenes de animales con preguntas sobre sus características | Muy visual; adaptar la dificultad a la edad; supervisión docente recomendada |
 | **Primaria** | [Geody](https://aaronfortuno.github.io/Geody/) | Aprender geografía de forma lúdica localizando países y regiones en mapas | Situar las comunidades autónomas en el mapa de España | Motivación alta por el formato de juego; combinar con trabajo en el mapa físico |
 | **Primaria** | [Sletter](https://ja.cat/sletter) | Trabajar vocabulario y ortografía con el juego de la Serpiente de Palabras | Repaso de vocabulario de una unidad de Lengua | Usar después de la explicación para reforzar; disponible en español e inglés |
@@ -269,9 +267,7 @@ El repositorio cuenta con más de 300 aplicaciones. Aquí encontrarás una selec
 | **Formación del profesorado** | [Metac](https://metact.github.io/) | Catálogo de más de 100 técnicas de aprendizaje activo con asistente IA integrado | Buscar técnicas cooperativas para aplicar en ESO, con filtro por ámbito | Incluye agente NotebookLM integrado; disponible en español, catalán e inglés |
 | **Adultos / Autoaprendizaje** | [Kompass](https://aaronfortuno.github.io/Kompass/) | Aprendizaje progresivo del alemán con gramática, vocabulario y ejercicios | Aprender alemán a ritmo propio con el principio "una página = un concepto" | Ritmo pausado y sin grandes bloques de texto; ideal para EOI y autoaprendizaje |
 
-</div>
-
-> 💡 **¿Buscas más aplicaciones?** Explora el [repositorio completo](https://vibe-coding-educativo.github.io/app_edu/) con más de 300 aplicaciones filtrables por etapa, área, idioma y etiquetas.
+💡 ¿Buscas más aplicaciones? Explora el [repositorio completo](https://vibe-coding-educativo.github.io/app_edu/) con más de 300 aplicaciones filtrables por etapa, área, idioma y etiquetas.
 
 ---
 
