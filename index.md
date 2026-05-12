@@ -134,6 +134,15 @@ Aprende a crear aplicaciones educativas interactivas conversando con la IA, sin 
 
 </div>
 
+<div style="background-color:#f0f7f0; border-left:4px solid #388e3c; padding:12px 14px; margin:18px 0; border-radius:6px;">
+
+🎓 <strong>Banco de Gems/GPTs educativos para docentes</strong><br>
+Recursos de IA especializados organizados por etapas (Infantil, Primaria, Secundaria, FP, Adultos, Educación especial…), listos para probar, adaptar y usar en el aula. Incluye plantilla de análisis, rúbrica de evaluación y recursos del CEFIRE.
+<br><br>
+<a href="{{ '/banco-gems-gpts-educativos' | relative_url }}" style="font-weight:700; color:#388e3c;">→ Explorar el banco de Gems/GPTs educativos</a>
+
+</div>
+
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
