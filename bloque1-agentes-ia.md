@@ -17,9 +17,16 @@ Una evolución natural del asistente de IA: más guiado, más coherente, más ú
 En esta página vamos a trabajar con la idea de "agente de IA" desde dos niveles:
 <br><br>
 <strong>Como concepto:</strong> un asistente especializado que sigue unas instrucciones y ayuda en una tarea concreta.
-<br><strong>Como práctica docente:</strong> un conjunto de instrucciones reutilizables que podemos pegar en Copilot o Gemini para que la herramienta actúe de una forma determinada.
+<br><strong>Como práctica docente:</strong> un conjunto de instrucciones reutilizables que podemos configurar en Copilot, Gemini o ChatGPT para que la herramienta actúe de una forma determinada.
 <br><br>
-En algunos entornos, Microsoft Copilot permite crear agentes reales mediante Agent Builder o Copilot Studio. Sin embargo, esa opción depende de la licencia y de la configuración de la organización. Por eso, en este curso aprenderemos primero a <strong>diseñar las instrucciones del agente</strong>. Si tu cuenta permite crear agentes, podrás copiar esas instrucciones en el configurador. Si no aparece esa opción, podrás usarlas igualmente como <strong>prompt inicial en una conversación</strong>.
+En este curso se puede trabajar de varias formas, según lo que permita tu cuenta:
+<ul>
+  <li>Con <strong>agentes reales de Copilot</strong> (Agent Builder o Copilot Studio), si la licencia lo permite.</li>
+  <li>Con <strong>Gemini Gems</strong>, si la función está disponible en tu cuenta de Google.</li>
+  <li>Con <strong>GPTs personalizados de ChatGPT</strong>, si tu cuenta lo permite.</li>
+  <li>O usando un <strong>prompt estructurado en modo agente</strong>, sin necesidad de guardar nada. Esta es la opción más universal y no depende de permisos especiales.</li>
+</ul>
+Lo importante no es la herramienta, sino aprender a <strong>diseñar buenas instrucciones</strong>. Si tu cuenta permite guardarlas como agente, las guardaremos. Si no, funcionan igualmente como <strong>prompt reutilizable</strong>.
 <br><br>
 Encontrarás ejemplos para cada etapa educativa, una actividad práctica y criterios de uso seguro.
 </div>
@@ -35,6 +42,16 @@ Dicho de forma sencilla: un agente de IA es un asistente digital al que le has e
 Imagina que Copilot o Gemini son como una persona que sabe de muchos temas: puedes preguntarle cualquier cosa, pero cada vez que abres una conversación nueva tienes que volver a contarle quién eres, qué necesitas y en qué contexto trabajas.
 
 Un agente es diferente: es como si esa misma persona ya tuviese apuntado todo lo que necesita saber sobre su tarea. Cada vez que la llamas, sabe que es tu asistente pedagógico, conoce la estructura que quieres para tus documentos y sabe qué no debe hacer.
+
+Un agente es diferente: es como si esa misma persona ya tuviese apuntado todo lo que necesita saber sobre su tarea. Cada vez que la llamas, sabe que es tu asistente pedagógico, conoce la estructura que quieres para tus documentos y sabe qué no debe hacer.
+
+![Infografía: ¿Qué es un agente de IA?](assets/img/Agente_IA.png)
+
+{: .note }
+💡 Idea clave:
+Un agente convierte un prompt en una herramienta reutilizable adaptada a tus necesidades docentes.
+
+## Ejemplos de lo que puede hacer un agente educativo
 
 ### Ejemplos de lo que puede hacer un agente educativo
 
@@ -57,7 +74,7 @@ Es importante tenerlo claro desde el principio:
 
 <div class="callout callout--alerta" role="alert" aria-label="Aviso sobre protección de datos">
 <div class="callout__titulo">⚠️ Protección de datos desde el primer momento</div>
-Nunca introduzcas nombres, apellidos, datos médicos, informes psicopedagógicos ni información sensible del alumnado o del centro en ninguna herramienta de IA. Este principio se aplica tanto a Copilot como a Gemini y a cualquier otro agente.
+Nunca introduzcas nombres, apellidos, datos médicos, informes psicopedagógicos ni información sensible del alumnado o del centro en ninguna herramienta de IA. Este principio se aplica a Copilot, Gemini, ChatGPT y cualquier otro agente.
 </div>
 
 ---
@@ -70,7 +87,8 @@ Cuando hablamos de "usar un agente de IA", no siempre nos referimos a lo mismo. 
 |:-----|:-------|:------------|:------------------------------|
 | **Agente real de Copilot** | Un asistente configurado en Microsoft 365 Copilot mediante Agent Builder o en Copilot Studio. | Sí, si la cuenta y la organización permiten crear y guardar agentes. | Solo si la opción está disponible con la cuenta @edu.gva.es. |
 | **Gem de Gemini** | Un asistente personalizado de Gemini con instrucciones guardadas. | Sí, si la función Gems está disponible en la cuenta. | Sí, como alternativa para practicar, siempre sin introducir datos personales ni información sensible. |
-| **Modo agente mediante prompt** | Un prompt largo y estructurado que hace que Copilot o Gemini se comporten como un asistente especializado durante una conversación. | No necesariamente. Hay que pegarlo o reutilizarlo cuando se necesite. | Sí. Es la opción más universal y la que no depende de permisos especiales. |
+| **GPT personalizado de ChatGPT** | Un asistente personalizado creado en ChatGPT con instrucciones guardadas, nombre, descripción y, según el plan, conocimiento o archivos de apoyo. | Sí, si la cuenta permite crear GPTs. | Sí, como alternativa para crear asistentes educativos, siempre sin datos personales ni información sensible. |
+| **Modo agente mediante prompt** | Un prompt largo y estructurado que hace que Copilot, Gemini o ChatGPT se comporten como un asistente especializado durante una conversación. | No necesariamente. Hay que pegarlo o reutilizarlo cuando se necesite. | Sí. Es la opción más universal y la que no depende de permisos especiales. |
 
 En este curso, cuando hablemos de "diseñar un agente", nos referiremos sobre todo a diseñar bien sus instrucciones. Si la herramienta permite guardarlas como agente, las guardaremos. Si no, las usaremos como **prompt reutilizable**.
 
@@ -259,6 +277,11 @@ No introduzcas datos personales del alumnado, informes psicopedagógicos, datos 
 En el aula puede servir para trabajar con datos genéricos, grupos ficticios o situaciones sin denominación personal.
 </div>
 
+<div class="callout callout--idea" role="note" aria-label="Nota sobre modelos de razonamiento en Copilot">
+<div class="callout__titulo">💡 Modelos y razonamiento en Copilot</div>
+En Copilot, según la versión, licencia y disponibilidad, el modo <strong>Smart</strong> o de razonamiento puede apoyarse en modelos avanzados de OpenAI. Esto puede ser útil para tareas que requieren análisis, planificación, revisión o generación de propuestas complejas. Aun así, <strong>el resultado debe ser siempre revisado por el docente</strong>. La disponibilidad de estos modelos puede variar según la cuenta, el plan y la configuración institucional.
+</div>
+
 ---
 
 ## 6. Crear un Gem en Gemini: el agente personalizado de Google
@@ -336,13 +359,31 @@ Adapta el nivel de dificultad del vocabulario y las estructuras al nivel indicad
 No hagas correcciones que no hayan sido pedidas durante el role-play.
 ```
 
+### Compartir Gems con otros docentes
+
+Una vez creado un Gem, es posible compartirlo con otras personas si la función está disponible en la cuenta. Este sistema de compartición puede funcionar de forma similar a otros recursos de Google, con permisos de visualización o uso. Esto abre la posibilidad de crear **bancos de Gems por departamento, ciclo, etapa o materia**.
+
+Antes de compartir, conviene revisar que el Gem no contenga:
+- Datos personales de ningún tipo.
+- Instrucciones internas sensibles del centro.
+- Información identificativa de alumnado o familias.
+
+Compartir un Gem no sustituye la revisión docente de cada resultado que genera. Cada persona que lo use debe seguir aplicando su criterio profesional.
+
+**Ejemplos de Gems que pueden compartirse entre docentes:**
+
+- **Gem de rúbricas para Primaria**: genera rúbricas de evaluación para distintas áreas con criterios ajustados al nivel.
+- **Gem de roleplays para EOI**: propone situaciones comunicativas por nivel MCER y tema.
+- **Gem adaptador DUA**: adapta recursos y enunciados con enfoque de diseño universal para el aprendizaje.
+- **Gem generador de casos prácticos para FP**: crea casos profesionales simulados para distintos ciclos y sectores.
+
 ---
 
 ## Actividad práctica: convierte un prompt en un "modo agente"
 
 Antes de crear un agente real, vamos a aprender a escribir sus instrucciones. Esto es importante porque un agente no es útil por llamarse agente, sino por tener buenas instrucciones.
 
-Copia la siguiente plantilla en Copilot o Gemini y adapta los campos entre corchetes a tu contexto:
+Copia la siguiente plantilla en Copilot, Gemini o ChatGPT y adapta los campos entre corchetes a tu contexto:
 
 ```text
 Quiero que actúes como un asistente docente especializado en [tarea].
@@ -442,12 +483,92 @@ Una vez hayas pegado este prompt en Copilot o Gemini:
 1. Observa cómo la herramienta responde a las preguntas de contexto.
 2. Completa el contexto con información de un grupo ficticio o genérico (sin datos personales).
 3. Revisa la propuesta generada y valora si las instrucciones funcionan.
-4. Si quieres crear un agente real, copia estas instrucciones en Agent Builder o en Gems si la opción está disponible.
+4. Si quieres crear un agente real, copia estas instrucciones en Agent Builder, en Gems o en un GPT personalizado de ChatGPT, según la herramienta que uses y los permisos disponibles.
 5. Si no tienes esa opción, guarda el prompt en un documento propio para reutilizarlo cuando lo necesites.
 
 ---
 
-## 7. Comparativa: Copilot frente a Gemini para docentes
+## 7. Crear un GPT en ChatGPT: asistente personalizado para docentes
+
+ChatGPT permite crear GPTs personalizados: asistentes con nombre, descripción, instrucciones guardadas y, según la configuración y el plan, posibilidad de añadir conocimiento de apoyo o archivos de referencia. La disponibilidad de esta función puede depender del plan y de la configuración de la cuenta.
+
+**¿Para qué puede servir un GPT en educación?**
+
+- Diseñar rúbricas, actividades o situaciones de aprendizaje con estructura fija.
+- Generar feedback formativo para el alumnado según criterios definidos.
+- Crear adaptaciones de textos, ejercicios diferenciados o materiales para atención a la diversidad.
+- Practicar conversaciones en lengua extranjera con roles y niveles definidos.
+- Simular casos profesionales para FP con protocolos de actuación.
+
+**¿Qué puede guardar un GPT personalizado?**
+
+- El nombre y la descripción del asistente.
+- Las instrucciones completas: rol, función, tono, estructura de respuesta, límites y normas.
+- Según el plan, puede incluir conocimiento de apoyo (documentos de referencia sin datos personales).
+
+> **Diferencia clave**: cuando usas ChatGPT normalmente, tienes que explicar el contexto en cada conversación. Un GPT personalizado ya tiene ese contexto guardado y lo aplica desde el primer mensaje.
+
+**Precauciones importantes:**
+
+- No incluyas datos personales del alumnado ni documentos internos del centro.
+- No subas archivos con información sensible o identificativa.
+- Revisa siempre los resultados antes de usarlos en el aula.
+- La disponibilidad de creación de GPTs puede variar según el plan de la cuenta.
+
+### Pasos generales para crear un GPT en ChatGPT
+
+1. **Entra en ChatGPT** con tu cuenta.
+2. **Ve a "Explorar GPTs"** o busca la opción **"Crear GPT"** en el menú.
+3. **Define el nombre y la descripción**: debe reflejar con claridad para qué sirve el asistente.
+4. **Escribe las instrucciones completas**: rol, función, qué preguntar, cómo responder y qué no hacer.
+5. **Pruébalo con un caso docente real** (sin datos personales).
+6. **Ajusta las instrucciones** a partir de lo que observes en la prueba.
+7. **Guarda el GPT** y, si procede, compártelo según los permisos disponibles en tu cuenta.
+
+### Ejemplo completo: Generador de feedback competencial
+
+**Nombre:** Generador de feedback competencial
+
+**Instrucciones:**
+
+```text
+Eres un asistente educativo especializado en generar feedback formativo para alumnado.
+
+Tu función es ayudar al docente a redactar comentarios claros, constructivos y orientados a la mejora, sin usar datos personales reales.
+
+Antes de responder, pregunta siempre:
+- Etapa educativa
+- Curso o nivel
+- Materia
+- Tipo de tarea evaluada
+- Criterios o aspectos que se quieren valorar
+- Nivel general de desempeño, sin nombres ni datos identificativos
+- Tono deseado: breve, motivador, detallado o formal
+
+Cuando tengas la información suficiente, responde con:
+1. Comentario positivo inicial
+2. Aspectos logrados
+3. Aspectos a mejorar
+4. Siguiente paso concreto
+5. Versión breve para boletín o plataforma
+6. Versión adaptada para que el alumnado la entienda
+
+Normas:
+- No pidas nombres ni datos personales.
+- No inventes calificaciones oficiales.
+- No sustituyas la evaluación docente.
+- Usa un tono respetuoso, claro y orientado a la mejora.
+- Si falta información, pregunta antes de generar el feedback.
+```
+
+<div class="callout callout--alerta" role="alert" aria-label="Aviso sobre datos personales en ChatGPT">
+<div class="callout__titulo">⚠️ Protección de datos en ChatGPT</div>
+ChatGPT no es un entorno institucional. No introduzcas datos personales del alumnado, informes, datos médicos ni documentos internos del centro. Úsalo únicamente con información genérica, ficticia o no sensible.
+</div>
+
+---
+
+## 8. Comparativa: Copilot, Gemini Gems y ChatGPT GPTs
 
 Ninguna herramienta es "la mejor" en todos los casos. Elegir una u otra depende del contexto, del tipo de tarea y de los permisos disponibles.
 
@@ -460,6 +581,7 @@ Ninguna herramienta es "la mejor" en todos los casos. Elegir una u otra depende 
 - Es la herramienta **prioritaria del curso** para trabajo institucional.
 - Puede ofrecer más garantías de privacidad dentro del entorno educativo configurado.
 - Permite crear agentes si la organización tiene habilitada esa función.
+- Según la versión y la licencia, puede apoyarse en modelos avanzados de razonamiento.
 
 **Inconvenientes:**
 
@@ -467,14 +589,14 @@ Ninguna herramienta es "la mejor" en todos los casos. Elegir una u otra depende 
 - Las funciones disponibles dependen de la licencia y de la administración de la organización.
 - Algunas funciones pueden estar limitadas o requerir activación por parte del SAI.
 
-### Gemini gratuito
+### Gemini Gems (cuenta Google)
 
 **Ventajas:**
 
 - Acceso sencillo desde cualquier cuenta de Google.
-- Permite crear Gems personalizados si la función está disponible.
+- Permite crear Gems personalizados con instrucciones guardadas si la función está disponible.
+- Los Gems pueden compartirse con otros docentes según los permisos de la cuenta.
 - Útil para ideas, borradores, reformulación de textos y actividades sin datos sensibles.
-- Puede ser una alternativa accesible para practicar la creación de agentes.
 
 **Inconvenientes:**
 
@@ -483,29 +605,202 @@ Ninguna herramienta es "la mejor" en todos los casos. Elegir una u otra depende 
 - No debe usarse con datos personales ni información sensible del alumnado o del centro.
 - Algunas funciones pueden cambiar o requerir planes de pago.
 
+### ChatGPT GPTs personalizados
+
+**Ventajas:**
+
+- Permite crear GPTs con instrucciones muy detalladas y estructura de respuesta definida.
+- Según el plan, puede incluir conocimiento de apoyo y archivos de referencia.
+- Posibilidad de compartir GPTs con otros docentes según la configuración.
+- Gran flexibilidad para configurar el comportamiento del asistente.
+
+**Inconvenientes:**
+
+- No es un entorno institucional; no debe usarse con datos personales ni documentos sensibles.
+- La creación de GPTs puede requerir un plan de pago según la cuenta.
+- Los resultados siempre deben revisarse antes de usar en el aula.
+
 ### Tabla comparativa
 
-| Criterio | Copilot con @edu.gva.es | Gemini gratuito |
-|:---------|:------------------------|:----------------|
-| **Tipo de cuenta** | Institucional educativa | Personal (Google) |
-| **Contexto institucional** | Sí, entorno GVA | No |
-| **Protección de datos** | Mayor garantía si está configurado | Usar solo sin datos sensibles |
-| **Integración con M365** | Sí (según licencia) | No |
-| **Facilidad de acceso** | Requiere cuenta @edu.gva.es activa | Inmediata con cuenta Google |
-| **Creación de agentes** | Posible según permisos institucionales | Gems, si la función está disponible |
-| **Uso con documentos** | Sí, en entorno protegido | Limitado en versión gratuita |
-| **Límites de uso** | Según licencia educativa | Sí, en versión gratuita |
-| **Adecuación para el curso** | Prioritario | Complementario |
-| **Recomendación docente** | Primera opción para trabajo institucional | Práctica personal, sin datos sensibles |
+<div style="overflow-x:auto;">
+<table>
+<thead>
+<tr>
+<th>Criterio</th>
+<th>Copilot con @edu.gva.es</th>
+<th>Gemini Gems</th>
+<th>ChatGPT GPTs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tipo de cuenta</strong></td>
+<td>Institucional educativa</td>
+<td>Personal (Google)</td>
+<td>Personal (OpenAI)</td>
+</tr>
+<tr>
+<td><strong>Contexto institucional</strong></td>
+<td>Sí, entorno GVA</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Creación de asistente</strong></td>
+<td>Agentes según licencia; modo agente siempre posible con prompt</td>
+<td>Gems si la función está disponible</td>
+<td>GPTs personalizados según plan</td>
+</tr>
+<tr>
+<td><strong>Instrucciones guardadas</strong></td>
+<td>Sí, si el agente puede guardarse</td>
+<td>Sí, en el Gem</td>
+<td>Sí, en el GPT</td>
+</tr>
+<tr>
+<td><strong>Compartición</strong></td>
+<td>Según permisos institucionales</td>
+<td>Según función disponible en la cuenta</td>
+<td>Según configuración de la cuenta</td>
+</tr>
+<tr>
+<td><strong>Integración con documentos</strong></td>
+<td>Sí, con Microsoft 365 según licencia</td>
+<td>Limitada en versión gratuita</td>
+<td>Según plan (posible con conocimiento de apoyo)</td>
+</tr>
+<tr>
+<td><strong>Uso recomendado</strong></td>
+<td>Trabajo institucional y tareas del curso</td>
+<td>Práctica y exploración personal sin datos sensibles</td>
+<td>Asistentes muy configurables, sin datos sensibles</td>
+</tr>
+<tr>
+<td><strong>Precauciones</strong></td>
+<td>Seguir normativa de la organización; no afecta a garantías si está bien configurado</td>
+<td>No usar con datos personales ni documentos internos</td>
+<td>No usar con datos personales ni documentos sensibles</td>
+</tr>
+<tr>
+<td><strong>Adecuación para el curso</strong></td>
+<td>Prioritario</td>
+<td>Complementario</td>
+<td>Alternativa válida para experimentar</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <div class="callout callout--idea" role="note" aria-label="Recomendación de uso de herramientas IA para docentes">
 <div class="callout__titulo">💡 Recomendación práctica</div>
-Para tareas del curso y trabajo institucional, prioriza <strong>Copilot con la cuenta @edu.gva.es</strong> cuando esté disponible y en entorno protegido. Para explorar, practicar ideas iniciales o uso personal sin datos sensibles, <strong>Gemini gratuito</strong> puede ser una alternativa útil.
+Para tareas del curso y trabajo institucional, prioriza <strong>Copilot con la cuenta @edu.gva.es</strong> cuando esté disponible y en entorno protegido. Para explorar, practicar o experimentar sin datos sensibles, tanto <strong>Gemini Gems</strong> como <strong>ChatGPT GPTs</strong> pueden ser alternativas útiles. En cualquier caso, la revisión docente es siempre necesaria.
 </div>
 
 ---
 
-## 8. Ejemplos de agentes útiles por etapa educativa
+## 9. Buenas instrucciones, malos resultados: por qué importa cómo configuramos el agente
+
+La calidad de un agente educativo no depende de la herramienta que usemos, sino de las instrucciones que le damos. Un prompt vago produce resultados vagos. Un prompt bien construido produce propuestas útiles, coherentes y adaptadas.
+
+### Ejemplo de instrucción débil
+
+```text
+Hazme actividades para mi clase.
+```
+
+**¿Por qué no funciona bien?**
+
+- No indica la etapa educativa.
+- No indica la materia ni el contenido.
+- No especifica el objetivo de aprendizaje.
+- No indica la duración ni el tipo de actividad.
+- No marca el formato de salida esperado.
+- No incluye criterios de evaluación.
+- No pide adaptación para distintos niveles.
+
+El resultado será genérico, poco aplicable y probablemente necesitará ser reescrito casi en su totalidad.
+
+### Ejemplo de instrucción mejorada
+
+```text
+Actúa como asistente docente de Educación Primaria.
+Diseña actividades competenciales de Ciencias Naturales para 4.º curso sobre el ciclo del agua.
+Incluye tres niveles de dificultad, apoyos DUA, materiales sencillos, una breve explicación para el alumnado y una rúbrica de observación con tres criterios.
+```
+
+**¿Por qué funciona mejor?**
+
+- Define el rol del asistente.
+- Concreta la etapa y la materia.
+- Indica el contenido específico.
+- Especifica el producto esperado.
+- Pide adaptación (niveles, DUA).
+- Marca el formato (explicación + rúbrica).
+
+<div class="callout callout--reflexion" role="note" aria-label="Reflexión sobre la calidad de las instrucciones">
+<div class="callout__titulo">🔍 Para recordar</div>
+Lo importante no es la herramienta, sino las instrucciones. Una instrucción bien construida es ya en sí misma un acto de reflexión pedagógica: obliga a definir el objetivo, el contexto, el formato y los criterios antes de pedir nada.
+</div>
+
+---
+
+## 10. Plantilla universal para diseñar un asistente educativo
+
+Antes de crear un agente, conviene planificar qué queremos que haga. Esta plantilla sirve para cualquier herramienta: Copilot, Gemini Gems o ChatGPT GPTs.
+
+### Esquema de planificación
+
+```text
+Nombre del asistente:
+Finalidad:
+Etapa:
+Materia o ámbito:
+Tipo de recursos que genera:
+Tono y estilo:
+Qué debe preguntar antes de responder:
+Estructura de la respuesta:
+Normas de seguridad:
+Criterios de calidad:
+Ejemplo de prueba:
+```
+
+### Versión redactada en forma de prompt
+
+```text
+Quiero que actúes como un asistente educativo especializado en [tarea].
+Tu objetivo es ayudarme a [finalidad].
+Trabajas con docentes de [etapa] en el área de [materia].
+
+Antes de responder, pregunta siempre por:
+- curso o nivel;
+- objetivo de aprendizaje;
+- duración;
+- tipo de actividad o recurso;
+- características generales del grupo, sin datos personales;
+- nivel de dificultad;
+- formato deseado.
+
+Cuando respondas, utiliza esta estructura:
+1. Propuesta inicial
+2. Desarrollo paso a paso
+3. Materiales o recursos
+4. Adaptaciones y apoyos
+5. Evaluación
+6. Recomendaciones para el docente
+7. Precauciones o aspectos a revisar
+
+Normas:
+- No pidas datos personales.
+- No uses información sensible.
+- No inventes normativa.
+- Si falta información esencial, pregunta antes de responder.
+- Usa lenguaje claro y docente.
+- Recuerda que la revisión final siempre corresponde al profesorado.
+```
+
+---
+
+## 11. Ejemplos de agentes útiles por etapa educativa
 
 En el aula puede servir para… muchas cosas distintas según la etapa. Aquí tienes un punto de partida para cada una.
 
@@ -620,7 +915,55 @@ Incluye:
 
 ---
 
-## 9. Actividad práctica: diseña tu primer agente docente
+## 12. Ideas de asistentes según la necesidad docente
+
+Más allá de la etapa, los asistentes educativos pueden organizarse por la función que cumplen en la práctica docente. Aquí tienes un punto de partida organizado por necesidad.
+
+### Evaluación
+
+- **Generador de rúbricas**: crea rúbricas con criterios por competencias para distintas tareas y etapas.
+- **Creador de listas de cotejo**: genera listas de observación con indicadores concretos.
+- **Generador de feedback formativo**: redacta comentarios constructivos orientados a la mejora, sin datos personales.
+
+### Inclusión y atención a la diversidad
+
+- **Adaptador DUA**: adapta recursos con principios de diseño universal para el aprendizaje.
+- **Simplificador de instrucciones**: transforma enunciados complejos en instrucciones claras y accesibles.
+- **Creador de actividades multinivel**: genera versiones de refuerzo, estándar y ampliación para una misma tarea.
+
+### Planificación didáctica
+
+- **Diseñador de situaciones de aprendizaje**: crea situaciones competenciales con estructura LOMLOE.
+- **Secuenciador de sesiones**: organiza contenidos en secuencias por sesiones con objetivos claros.
+- **Generador de proyectos ABP**: propone proyectos de aprendizaje basado en problemas con fases, roles y producto final.
+
+### Lenguas extranjeras
+
+- **Creador de roleplays**: diseña situaciones comunicativas por nivel MCER y contexto.
+- **Entrenador de conversación**: prepara vocabulario, preguntas y recursos para practicar la lengua oral.
+- **Diseñador de tareas de mediación**: crea actividades comunicativas de mediación según el MCER.
+
+### Formación Profesional
+
+- **Simulador de casos profesionales**: genera situaciones laborales realistas con roles y protocolos.
+- **Generador de protocolos**: redacta protocolos de actuación para distintos sectores profesionales.
+- **Creador de rúbricas técnicas**: diseña rúbricas de desempeño profesional con criterios del sector.
+
+### Comunicación con la comunidad educativa
+
+- **Redactor de comunicados a familias**: redacta mensajes claros y formales sin datos personales ni información sensible.
+- **Preparador de resúmenes de reuniones anonimizados**: organiza los puntos clave de una reunión sin incluir datos identificativos.
+- **Generador de instrucciones claras para alumnado**: transforma indicaciones complejas en instrucciones comprensibles por edad.
+
+### Recursos multimodales
+
+- **Generador de ideas para infografías**: propone estructura, contenido y elementos visuales para infografías educativas.
+- **Diseñador de materiales visuales**: sugiere cómo organizar información en formato visual para el aula.
+- **Creador de guiones para vídeos educativos**: redacta guiones estructurados para vídeos explicativos o tutoriales.
+
+---
+
+## 13. Actividad práctica: diseña tu primer agente docente
 
 Ahora te toca a ti. Esta actividad te guía para diseñar un agente útil para tu realidad docente.
 
@@ -669,16 +1012,42 @@ Ejemplo de prompt de prueba:
 
 | Criterio | Sí | En proceso | No |
 |:---------|:---|:-----------|:---|
-| El agente tiene un objetivo claro y concreto | ☐ | ☐ | ☐ |
-| Pregunta la información necesaria antes de responder | ☐ | ☐ | ☐ |
-| Usa una estructura útil y coherente para docentes | ☐ | ☐ | ☐ |
-| Incluye criterios de seguridad y privacidad | ☐ | ☐ | ☐ |
-| La respuesta final requiere revisión humana | ☐ | ☐ | ☐ |
-| El agente ha sido probado con al menos un caso real | ☐ | ☐ | ☐ |
+| El asistente tiene una finalidad clara y concreta | ☐ | ☐ | ☐ |
+| Está adaptado a una etapa y materia específicas | ☐ | ☐ | ☐ |
+| Pregunta antes de responder cuando falta información | ☐ | ☐ | ☐ |
+| Genera productos útiles con estructura definida | ☐ | ☐ | ☐ |
+| Incluye adaptación o atención a la diversidad cuando procede | ☐ | ☐ | ☐ |
+| Incluye criterios de evaluación cuando procede | ☐ | ☐ | ☐ |
+| Evita pedir datos personales en las instrucciones | ☐ | ☐ | ☐ |
+| Recuerda que la revisión final corresponde al docente | ☐ | ☐ | ☐ |
+| Ha sido probado con al menos un caso real | ☐ | ☐ | ☐ |
+| Las instrucciones han sido ajustadas tras la prueba | ☐ | ☐ | ☐ |
 
 ---
 
-## 10. Uso seguro de agentes de IA
+## 14. Errores frecuentes al crear agentes
+
+Estos son los errores más habituales que se cometen al diseñar agentes educativos. Reconocerlos es el primer paso para evitarlos.
+
+- **Crear un asistente demasiado general**: sin etapa, sin materia, sin estructura. El resultado será igual de genérico que el prompt.
+- **No indicar etapa ni nivel**: el agente no sabe si está hablando con docentes de Infantil o de FP.
+- **No especificar el formato de salida**: si no se indica qué debe producir (rúbrica, actividad, guion, ficha…), la respuesta puede ser cualquier cosa.
+- **No pedir que pregunte antes de responder**: el agente responde sin contexto suficiente, produciendo propuestas inaplicables.
+- **No incluir límites de privacidad**: el agente puede solicitar o incluir datos que no debería manejar.
+- **No probarlo con un caso real**: sin prueba, no sabemos si las instrucciones funcionan como esperamos.
+- **Usar resultados sin revisión**: el agente puede cometer errores, inventar datos o producir propuestas pedagógicamente inapropiadas.
+- **Subir documentos sensibles**: archivos con datos del alumnado, informes internos o documentos del centro nunca deben subirse a herramientas externas.
+- **Confundir un prompt largo con un agente guardado**: escribir un prompt en una conversación no crea un agente permanente. Para eso, la herramienta debe permitir guardar instrucciones.
+- **Pensar que la herramienta siempre tiene razón**: ningún agente de IA es infalible. El criterio docente siempre está por encima de la respuesta generada.
+
+<div class="callout callout--reflexion" role="note" aria-label="Reflexión sobre los errores frecuentes">
+<div class="callout__titulo">🔍 Recuerda</div>
+La mayoría de estos errores tienen la misma solución: dedicar unos minutos a planificar bien las instrucciones <em>antes</em> de crear el agente. La plantilla universal de la sección 10 puede ayudarte a evitarlos.
+</div>
+
+---
+
+## 15. Uso seguro de agentes de IA
 
 Usar agentes de IA con responsabilidad implica aplicar los mismos principios que en cualquier otro uso de la IA en el entorno educativo.
 
@@ -706,7 +1075,7 @@ Si no lo publicarías en un documento abierto o no lo enviarías a una herramien
 
 ---
 
-## 11. Cierre
+## 16. Cierre
 
 Los agentes de IA no son una solución mágica ni una novedad sin sentido. Son una forma de **reutilizar tus mejores instrucciones** para no empezar de cero en cada tarea repetitiva.
 
