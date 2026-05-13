@@ -2,7 +2,6 @@
 layout: page
 title: "Bloque 4: Evaluación y Personalización"
 nav_order: 5
-release_at: 2026-05-13T17:30:00+02:00
 ---
 
 # Bloque 4 · Evaluación y Personalización
@@ -513,7 +512,7 @@ Fomenta el uso responsable, no la prohibición total.
 
 ---
 
-## 📝 Actividades prácticas del Bloque 4
+## 📝 Actividades prácticas de ayuda del Bloque 4
 
 ### Actividad 4.1 — Rúbrica LOMLOE completa *(individual)*
 
@@ -571,8 +570,6 @@ Fomenta el uso responsable, no la prohibición total.
 5. **Entregable:** documento de política (formato Word o PDF) + presentación de 3 diapositivas.
 
 ---
-
-## 📝 Actividad final del curso
 
 ### Actividad 5 — Portfolio integrador: "Mi proyecto IA en el aula" *(individual)*
 
