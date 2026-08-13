@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Bloque 2: Prompting avanzado y gestión documental"
-nav_order: 3
+nav_order: 5
+has_children: true
 release_at: 2026-04-29T17:30:00+02:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bloque 1: IA Colaborativa y Gestión GVA"
-nav_order: 3
+nav_order: 4
 has_children: true
 release_at: 2026-04-20T14:00:00+02:00
 ---

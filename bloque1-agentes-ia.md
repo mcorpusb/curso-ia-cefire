@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Agentes de IA para docentes"
-nav_order: 5
+nav_exclude: true
 ---
 
 # Agentes de IA para docentes
@@ -40,8 +40,6 @@ Dicho de forma sencilla: un agente de IA es un asistente digital al que le has e
 > Un agente de IA es un asistente digital especializado que recibe unas instrucciones, conoce un objetivo concreto y ayuda a realizar una tarea de forma más guiada que un chatbot general.
 
 Imagina que Copilot o Gemini son como una persona que sabe de muchos temas: puedes preguntarle cualquier cosa, pero cada vez que abres una conversación nueva tienes que volver a contarle quién eres, qué necesitas y en qué contexto trabajas.
-
-Un agente es diferente: es como si esa misma persona ya tuviese apuntado todo lo que necesita saber sobre su tarea. Cada vez que la llamas, sabe que es tu asistente pedagógico, conoce la estructura que quieres para tus documentos y sabe qué no debe hacer.
 
 Un agente es diferente: es como si esa misma persona ya tuviese apuntado todo lo que necesita saber sobre su tarea. Cada vez que la llamas, sabe que es tu asistente pedagógico, conoce la estructura que quieres para tus documentos y sabe qué no debe hacer.
 

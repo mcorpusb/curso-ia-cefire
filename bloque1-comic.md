@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cómic educativo con IA"
+nav_exclude: true
+---
+
 # Cómic
 
 ## Introducción

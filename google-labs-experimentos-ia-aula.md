@@ -2,7 +2,7 @@
 layout: page
 title: "Google Labs: experimentos de IA para el aula"
 parent: "Bloque 3: Generación Multimodal"
-nav_order: 15
+nav_order: 2
 description: "Descubre los experimentos de IA de Google Labs con utilidad educativa. Guía práctica por etapas, asignaturas y módulos del curso para profesorado."
 ---
 

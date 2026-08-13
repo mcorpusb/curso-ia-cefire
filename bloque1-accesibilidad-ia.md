@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "♿ IA para accesibilidad e inclusión"
-nav_order: 7
+parent: "Bloque 1: IA Colaborativa y Gestión GVA"
+nav_order: 3
 ---
 
 ## ♿ IA para accesibilidad e inclusión en el aula

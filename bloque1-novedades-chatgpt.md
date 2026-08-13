@@ -1,6 +1,7 @@
 ---
 parent: "Novedades"
 nav_order: 1
+nav_exclude: true
 ---
 
 # Novedades de ChatGPT para docentes

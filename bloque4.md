@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Bloque 4: Evaluación y Personalización"
-nav_order: 5
+nav_order: 7
+has_children: true
 ---
 
 # Bloque 4 · Evaluación y Personalización

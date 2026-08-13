@@ -3,6 +3,7 @@ layout: page
 title: Actividad · Infantil
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 10
+nav_exclude: true
 ---
 
 # Actividad · Educación Infantil

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Banco de Gems/GPTs educativos"
-nav_order: 10
+parent: "Bloque 4: Evaluación y Personalización"
+nav_order: 5
 ---
 
 # Banco de Gems/GPTs educativos para docentes

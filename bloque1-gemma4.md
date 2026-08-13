@@ -1,6 +1,7 @@
 ---
 parent: "Novedades"
 nav_order: 3
+nav_exclude: true
 ---
 
 # Gemma 4

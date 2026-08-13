@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "⚠️ Seguridad"
-nav_order: 6
+parent: "Bloque 1: IA Colaborativa y Gestión GVA"
+nav_order: 2
 ---
 
 

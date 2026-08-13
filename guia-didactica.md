@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Guía didáctica"
-nav_order: 0
+nav_order: 2
 ---
 
 # Guía didáctica del curso

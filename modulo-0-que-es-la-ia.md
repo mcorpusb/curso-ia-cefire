@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Bloque 0: ¿Qué es la IA?"
-nav_order: 2
+title: "Módulo 0: Entender la IA en 2026"
+nav_order: 3
 ---
 
 # Bloque 0: ¿Qué es la IA?

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Vibe Coding Educativo"
-nav_order: 8
+parent: "Bloque 4: Evaluación y Personalización"
+nav_order: 4
 has_toc: true
 ---
 

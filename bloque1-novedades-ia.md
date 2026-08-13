@@ -1,6 +1,7 @@
 ---
 parent: "Novedades"
 nav_order: 2
+nav_exclude: true
 ---
 
 # Novedades relevantes en inteligencia artificial.

@@ -3,25 +3,8 @@ layout: page
 title: "Actividad · Primaria"
 parent: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 11
+nav_exclude: true
 ---
-
-tres niveles de comprensión lectora claramente diferenciados. Esta semana 
-trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de 
-literatura infantil", "una noticia adaptada"…] en el área de 
-[ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
-   con [TEMA].
-   - 4 preguntas de localización directa (la respuesta está explícita en 
-     el texto).
-   - Vocabulario sencillo, frases cortas.
-   - Incluir un ejemplo resuelto como modelo.
-   - 4 preguntas de comprensión inferencial (deducir, interpretar, 
-     relacionar).
-   - 1 pregunta de opinión personal breve.
-   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar 
-     con otros textos o situaciones).
-   - 1 actividad creativa breve (ej.: reescribir el final, crear un 
-listo para pegar en Word y dar formato de ficha imprimible. Incluye un 
-recuadro con el nombre del alumno/a y la fecha al inicio.
 
 # Actividad · Educación Primaria
 {: .fs-7 }
