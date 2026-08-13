@@ -22,7 +22,7 @@ Tabla de referencia · Actualizada para el curso 2025-2026
 
 | Herramienta | Función principal | Modalidad gratuita | Límites principales | Cuenta requerida | Entorno | Privacidad | Enlace oficial |
 |---|---|---|---|---|---|---|---|
-| **Copilot Chat** (Microsoft) | Chat IA, búsqueda web, documentos, imágenes, Pages | Sí · GPT-4o con cuenta Microsoft | Límite de mensajes en horas punta con cuenta gratuita | Microsoft (personal o @edu.gva.es) | Web / App / Edge | ⚠️ Con cuenta personal: datos pueden usarse para mejora. Con cuenta institucional @edu.gva.es: protección superior si el tenant lo habilita | [copilot.microsoft.com](https://copilot.microsoft.com) |
+| **Copilot Chat** (Microsoft) | Chat IA conversacional, búsqueda web, documentos, imágenes, páginas colaborativas | Sí · Con cuenta Microsoft (modelos y funciones sujetos a cambios del servicio) | Límite de mensajes en horas punta con cuenta gratuita | Microsoft (personal o @edu.gva.es) | Web / App / Edge | ⚠️ Con cuenta personal: datos pueden usarse para mejora. Con cuenta institucional @edu.gva.es: protección superior si el tenant lo habilita. **Compruébalo en tu cuenta GVA.** | [copilot.microsoft.com](https://copilot.microsoft.com) |
 | **Microsoft 365 Copilot** | IA nativa en Word, PPT, Excel, Outlook, Teams | No · Requiere licencia de pago (~18 $/usuario/mes) | Solo disponible con suscripción M365 E3/E5 + add-on | Cuenta @edu.gva.es con licencia activa | Aplicaciones Office | Según política corporativa del tenant | [microsoft.com/microsoft-365/copilot](https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work) |
 | **ChatGPT** (OpenAI) | Chat IA multimodal, imágenes, análisis de documentos | Sí · GPT-4o mini gratuito; GPT-4o con límites | Número de mensajes con GPT-4o limitado en plan gratuito | OpenAI (edad mín. 13 años) | Web / App | ⚠️ Datos de conversación pueden usarse para entrenamiento en plan gratuito (desactivable en ajustes) | [chatgpt.com](https://chatgpt.com) |
 | **Gemini** (Google) | Chat IA, integración con Drive/Docs, búsqueda | Sí · Gemini 1.5 Flash gratuito | Gemini Advanced (2.0 Pro) requiere Google One AI Premium | Google (personal o Workspace) | Web / App | ⚠️ Con cuenta personal: revisar ajustes de actividad de IA de Google | [gemini.google.com](https://gemini.google.com) |
@@ -110,7 +110,7 @@ Existen **dos productos distintos** con el nombre "Copilot" en el entorno Micros
 
 **1. Copilot Chat** (web/app, gratuito con cuenta Microsoft)
 - Accesible en [copilot.microsoft.com](https://copilot.microsoft.com) con cualquier cuenta Microsoft, incluida @edu.gva.es.
-- Incluye: chat conversacional, búsqueda web, análisis de documentos, generación de imágenes (DALL-E), creación de Pages.
+- Incluye: chat conversacional con modelos avanzados de IA, búsqueda web, análisis de documentos, generación de imágenes con IA, creación de páginas colaborativas. (Las funciones concretas y los modelos disponibles pueden variar según actualizaciones del servicio.)
 - **Disponibilidad con @edu.gva.es:** Funcional en muchos casos, pero depende de la configuración del tenant de tu centro/administración. **Compruébalo en tu cuenta.**
 
 **2. Microsoft 365 Copilot** (IA nativa en Word, PPT, Excel, Outlook, Teams)

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Bloque 2: Prompting avanzado y gestión documental"
+title: "Bloque 2: Investigar, comprender y trabajar con fuentes"
 nav_order: 5
 has_children: true
 release_at: 2026-04-29T17:30:00+02:00
 ---
 
-# Bloque 2 · Prompting avanzado y gestión documental
+# Bloque 2 · Investigar, comprender y trabajar con fuentes
 {: .fs-8 }
 
-Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a "entrenar" a la IA con el currículo oficial usando NotebookLM.
+Aprende a trabajar con documentos, normativa y currículo real como base de las respuestas de la IA: carga fuentes, contrasta, verifica y transforma en materiales educativos fundamentados.
 {: .fs-5 .fw-300 }
 
 ---
@@ -18,11 +18,13 @@ Domina la fórmula del "Prompt Pedagógico" (Rol + Contexto + Tarea) y aprende a
 
 Al finalizar este bloque serás capaz de:
 
-- **Evolucionar en el diseño de prompts**, desde instrucciones simples hasta guías avanzadas con la estructura Rol + Contexto + Tarea + Formato + Restricciones, posicionando a la IA como experta pedagógica alineada con tus necesidades educativas
-- Aplicar técnicas de razonamiento guiado paso a paso y **few-shot prompting** en contextos pedagógicos.
-- Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo.
-- Comparar la calidad de las respuestas curriculares entre **Copilot**, **Gemini**, **NotebookLM**, **Kimi** y **Grok**.
-- Crear una **biblioteca personal de prompts** reutilizables para tu área y etapa educativa.
+- **Aplicar el flujo de trabajo V2**: partir de un objetivo claro, aportar contexto y fuentes, obtener una primera respuesta, evaluarla, refinarla, verificarla y llevarla al aula.
+- Utilizar **NotebookLM** para cargar documentos curriculares oficiales y generar respuestas fundamentadas en el currículo real, con referencia exacta al documento fuente.
+- Aplicar **Deep Research** de forma crítica: comprender el proceso Busca → Selecciona → Sintetiza → Cita, y evaluar la calidad, autoridad y actualidad de las fuentes seleccionadas.
+- **Contrastar y verificar** que las afirmaciones de la IA se corresponden con los documentos originales antes de usar el material en el aula.
+- Transformar **fuentes documentales** (decretos, PDFs, normativa) en materiales educativos accesibles para el alumnado.
+- Formular instrucciones eficaces para obtener respuestas útiles cuando se trabaja con contexto y fuentes específicas.
+- Comparar la fiabilidad curricular entre **Copilot Chat**, **Gemini**, **NotebookLM** y **Kimi**.
 
 > **⚠️ Seguridad GVA:** En este bloque trabajaremos con documentos curriculares **públicos** (DOGV, BOE). Aun así, recuerda: si subes documentos internos del centro (PEC, PGA, actas) a NotebookLM u otras herramientas externas, **anonimiza previamente** cualquier dato personal.
 
@@ -773,7 +775,7 @@ No existe un prompt único válido para todo.
 
 > **⚠️ Seguridad GVA:** NotebookLM es un producto de Google y **no forma parte del entorno corporativo de la GVA**. Úsalo **solo con documentos públicos** (legislación, currículos publicados en el DOGV). **Nunca subas documentos internos del centro con datos del alumnado.**
 
-### 🏆 Prompt de Oro: Consulta curricular en NotebookLM
+### Ejemplo de consulta curricular en NotebookLM
 
 Una vez cargados los documentos, prueba esta consulta en el chat de NotebookLM:
 
@@ -838,9 +840,9 @@ Para evaluar la fiabilidad curricular de cada herramienta, hemos probado el mism
 > **🚀 Reto:** Haz la prueba tú mismo/a. Lanza el mismo prompt curricular en las tres herramientas a las que tengas acceso y comprueba cuál es más precisa para tu área. Documenta los errores que encuentres.
 
 ---
-## 2.6 · Construye tu biblioteca de "Prompts de Oro"
+## 2.6 · Construye tu biblioteca de prompts reutilizables
 
-> En los apartados anteriores has visto cómo estructurar buenos prompts.  
+> En los apartados anteriores has visto cómo formular instrucciones más eficaces.
 > Ahora vamos a dar un paso más práctico: guardar y reutilizar lo que te funciona.
 
 ### El baúl de prompts: guarda lo que te funciona
@@ -868,19 +870,15 @@ Sirve para:
 
 > **Consejo:** No intentes tener el baúl perfecto desde el primer día. Empieza con pocos prompts y ve ampliándolo poco a poco.
 
-### Baúl de prompts y Prompts de Oro
+### Cómo clasificar tus prompts
 
-No todo lo que guardes en tu baúl será igual de útil. Algunas instrucciones serán pruebas, otras estarán pendientes de mejorar y otras se convertirán en auténticos **Prompts de Oro**.
+No todo lo que guardes en tu biblioteca tendrá el mismo nivel de madurez. Algunas instrucciones serán pruebas, otras estarán pendientes de mejorar y otras serán las que reutilizas con regularidad.
 
-| Concepto | Qué es | Ejemplo |
+| Estado | Qué significa | Qué hacer |
 |---|---|---|
-| Baúl de prompts | Lugar donde guardo prompts que pueden servirme. | Un prompt para resumir textos, otro para crear actividades y otro para mejorar correos. |
-| Prompt de Oro | Prompt probado, mejorado y que sé que me funciona bien. | Un prompt que uso siempre para crear rúbricas porque me da buenos resultados. |
-
-Dicho de otra forma:
-
-- En el **baúl** guardo todo lo que puede serme útil.
-- Como **Prompt de Oro** marco solo aquello que ya he probado, ajustado y reutilizaría.
+| Borrador | Prompt que he probado pero que todavía podría mejorar. | Ajustar el rol, el contexto o el formato antes de reutilizarlo. |
+| Probado | Prompt que funciona bien para una tarea concreta. | Guardar con descripción clara y reutilizarlo cuando sea necesario. |
+| Verificado | Prompt cuya salida he revisado y validado con las fuentes originales. | Compartir con compañeros/as si puede serles útil. |
 
 ### ¿Por qué le sirve a un docente?
 
@@ -924,7 +922,7 @@ Para qué sirve:
 Prompt:
 Cuándo usarlo:
 Herramienta recomendada:
-¿Es Prompt de Oro? Sí / No
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras:
 ```
 
@@ -934,8 +932,8 @@ Cada apartado tiene una función:
 - **Para qué sirve:** qué problema resuelve o en qué te ayuda.
 - **Prompt:** la instrucción que copiarás y pegarás en la IA.
 - **Cuándo usarlo:** en qué situación docente te puede servir.
-- **Herramienta recomendada:** Copilot, NotebookLM, ChatGPT, Gemini u otra.
-- **¿Es Prompt de Oro?:** marca si ya lo has probado y te funciona bien.
+- **Herramienta recomendada:** Copilot Chat, NotebookLM, ChatGPT, Gemini u otra.
+- **Estado:** Borrador (por mejorar), Probado (funciona) o Verificado (revisado con fuentes originales).
 - **Notas o mejoras:** ajustes que harías la próxima vez.
 
 ### Paso 3: empieza con pocos prompts
@@ -954,8 +952,8 @@ Para qué sirve: Convertir un contenido complejo en una explicación sencilla.
 Prompt:
 Explícame {tema} para alumnado de {curso}, usando un lenguaje claro, ejemplos cercanos y una pequeña actividad final de comprobación.
 Cuándo usarlo: Antes de introducir un tema nuevo.
-Herramienta recomendada: Copilot o ChatGPT.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat o ChatGPT.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: Añadir el área o materia para ajustar mejor la respuesta.
 ```
 
@@ -967,8 +965,8 @@ Para qué sirve: Extraer las ideas principales de un texto.
 Prompt:
 Resume el siguiente texto en 5 ideas clave. Después, propón 3 preguntas para comprobar si el alumnado lo ha entendido: {texto}
 Cuándo usarlo: Para preparar lecturas, apuntes o materiales de estudio.
-Herramienta recomendada: Copilot, ChatGPT o NotebookLM.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat, ChatGPT o NotebookLM.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: Indicar el nivel del alumnado.
 ```
 
@@ -980,8 +978,8 @@ Para qué sirve: Redactar comunicaciones de forma clara y amable.
 Prompt:
 Reescribe este mensaje para familias con un tono claro, respetuoso y cercano. Mantén la información importante y evita que suene brusco: {texto}
 Cuándo usarlo: Antes de enviar comunicaciones delicadas o importantes.
-Herramienta recomendada: Copilot.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: Revisar siempre antes de enviar.
 ```
 
@@ -993,8 +991,8 @@ Para qué sirve: Diseñar una actividad práctica.
 Prompt:
 Actúa como docente de {área}. Diseña una actividad de {duración} minutos sobre {tema} para alumnado de {curso}. Incluye objetivo, materiales, desarrollo paso a paso y cierre final.
 Cuándo usarlo: Para preparar sesiones de aula.
-Herramienta recomendada: Copilot o ChatGPT.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat o ChatGPT.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: Añadir si se quiere trabajo individual, por parejas o en grupo.
 ```
 
@@ -1006,8 +1004,8 @@ Para qué sirve: Ajustar una actividad a diferentes ritmos de aprendizaje.
 Prompt:
 Adapta esta actividad para alumnado con diferentes niveles de competencia. Propón una versión básica, una versión estándar y una versión de ampliación: {actividad}
 Cuándo usarlo: Cuando necesito atender a la diversidad.
-Herramienta recomendada: Copilot.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: No incluir datos personales del alumnado.
 ```
 
@@ -1019,8 +1017,8 @@ Para qué sirve: Crear criterios de evaluación claros.
 Prompt:
 Crea una rúbrica sencilla para evaluar {actividad} en {curso}. Incluye 4 criterios relacionados con {criterio de evaluación} y 3 niveles de logro: inicial, adecuado y avanzado.
 Cuándo usarlo: Al preparar tareas evaluables.
-Herramienta recomendada: Copilot o ChatGPT.
-¿Es Prompt de Oro? Sí / No
+Herramienta recomendada: Copilot Chat o ChatGPT.
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras: Revisar que los criterios coincidan con la programación.
 ```
 
@@ -1060,9 +1058,9 @@ Puedes organizar tu baúl por categorías sencillas:
 
 No hace falta hacerlo perfecto desde el principio. Lo importante es que puedas encontrar tus prompts cuando los necesites.
 
-### Paso 6: convierte un prompt normal en Prompt de Oro
+### Paso 6: mejora una instrucción con la práctica
 
-Un Prompt de Oro no nace perfecto. Se mejora con el uso.
+Una instrucción eficaz no nace perfecta. Se mejora con el uso.
 
 **Versión inicial:**  
 Hazme una actividad sobre el agua.
@@ -1109,16 +1107,16 @@ Para qué sirve:
 Prompt:
 Cuándo usarlo:
 Herramienta recomendada:
-¿Es Prompt de Oro? Sí / No
+Estado: [Borrador / Probado / Verificado]
 Notas o mejoras:
 ```
 
 Después:
 
-1. Prueba uno de ellos en Copilot.
+1. Prueba uno de ellos en Copilot Chat u otra IA.
 2. Revisa la respuesta.
 3. Mejora el prompt si es necesario.
-4. Marca uno como **Prompt de Oro**.
+4. Anota qué has cambiado y por qué.
 5. Comparte uno con tu grupo, foro, ciclo o departamento.
 
 

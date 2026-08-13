@@ -70,12 +70,12 @@ No formamos especialistas en IA. Formamos docentes con criterio para decidir si,
 Al finalizar el curso, el profesorado participante será capaz de:
 
 - **Usar la IA como aliada diaria** en la planificación, evaluación y creación de materiales, trabajando en el entorno seguro de la GVA.
-- **Perder el miedo inicial** conectando desde la primera sesión con Copilot (`@edu.gva.es`), Gemini, NotebookLM, Kimi y Grok para tareas reales.
-- **Diseñar prompts avanzados** con la estructura Rol + Contexto + Tarea + Formato + Restricciones, para que la IA actúe como experta pedagógica.
-- **Crear agentes personalizados** que automaticen correcciones y planificación conforme al estilo docente propio y los criterios LOMLOE.
-- **Transformar contenidos en recursos multimodales** —infografías, cómics, audios, vídeos con avatares— que atiendan a la diversidad del alumnado.
+- **Perder el miedo inicial** conectando desde la primera sesión con Copilot Chat (`@edu.gva.es`), Gemini, NotebookLM y Kimi para tareas reales.
+- **Aplicar el flujo de trabajo docente con IA**: partir de un objetivo claro, aportar contexto y fuentes, obtener una primera respuesta, evaluarla, refinarla, verificarla y llevarla al aula.
+- **Trabajar con documentos, currículum y normativa**, cargando fuentes reales en NotebookLM o Kimi y generando materiales fundamentados en el currículo oficial.
+- **Transformar contenidos en recursos multimodales** —infografías, cómics, audios, vídeos— que atiendan a la diversidad del alumnado.
 - **Personalizar el aprendizaje** ajustando materiales a distintos niveles y realidades del aula de forma rápida y escalable.
-- **Automatizar tareas administrativas** como rúbricas LOMLOE y correcciones motivadoras, liberando tiempo para lo que importa: enseñar.
+- **Apoyar la evaluación competencial** generando rúbricas, retroalimentación y adaptaciones curriculares que se revisan y validan siempre antes de usarse.
 - **Desarrollar un uso ético y crítico de la IA**, priorizando la privacidad del alumnado y reflexionando sobre su impacto real en educación.
 
 ---
@@ -108,7 +108,7 @@ Cada sesión síncrona arranca con una **demostración práctica en directo**: d
 
 ### Práctica guiada y experimentación
 
-Entre sesiones, cada participante trabaja con las herramientas a su ritmo, siguiendo las guías y los "Prompts de Oro" de cada bloque. La progresión es gradual: empezar con un correo o un acta, avanzar hacia situaciones de aprendizaje, y culminar con un portfolio integrador.
+Entre sesiones, cada participante trabaja con las herramientas a su ritmo, siguiendo las guías y los ejemplos de cada bloque. La progresión es gradual: empezar con un correo o un acta, avanzar hacia situaciones de aprendizaje con fuentes reales, y culminar con un proyecto integrador adaptado a la propia práctica docente.
 
 ### Comparación crítica
 
@@ -142,14 +142,15 @@ Cada bloque sigue el mismo ciclo: ver cómo se hace → hacerlo tú → comparar
 
 La siguiente tabla recoge la planificación semanal del curso, con los módulos, fechas clave, entregas y sesiones principales.
 
-| Módulo                                             | Periodo                  | Entrega de actividades | Contenidos | Tareas | Videoconferencia                 |
-| -------------------------------------------------- | ------------------------ | ---------------------: | ---------: | -----: | -------------------------------- |
-| Bloque 0 · Presentación                            | —                        |                      — |     30 min | 30 min | —                                |
-| Módulo 1 · IA Colaborativa y Gestión GVA           | 22 al 28 de abril        |               28/04/26 |        2 h |    2 h | Miércoles 22/04/26 · 17:30–19:30 |
-| Módulo 2 · Prompting Avanzado y Gestión Documental | 29 de abril al 5 de mayo |               05/05/26 |        3 h |    4 h | Miércoles 29/04/26 · 17:30–19:30 |
-| Módulo 3 · Generación Multimodal                   | 6 al 12 de mayo          |               12/05/26 |        3 h |    4 h | Miércoles 06/05/26 · 17:30–19:30 |
-| Módulo 4 · Evaluación y Personalización            | 13 al 19 de mayo         |               19/05/26 |        2 h |    2 h | Miércoles 13/05/26 · 17:30–19:30 |
-| Cierre del curso                                   | 20 al 25 de mayo         |               26/05/26 |     30 min | 30 min | —                                |
+| Módulo                                                          | Periodo                  | Entrega de actividades | Contenidos | Tareas | Videoconferencia                 |
+| --------------------------------------------------------------- | ------------------------ | ---------------------: | ---------: | -----: | -------------------------------- |
+| Bloque 0 · Presentación                                         | —                        |                      — |     30 min | 30 min | —                                |
+| Módulo 0 · Entender la IA en 2026                               | Antes de la 1ª sesión    |                      — |        1 h |     1 h | —                                |
+| Bloque 1 · IA Colaborativa y Gestión GVA                        | 22 al 28 de abril        |               28/04/26 |        4 h |    4 h | Miércoles 22/04/26 · 17:30–19:30 |
+| Bloque 2 · Investigar, comprender y trabajar con fuentes        | 29 de abril al 5 de mayo |               05/05/26 |        4 h |    4 h | Miércoles 29/04/26 · 17:30–19:30 |
+| Bloque 3 · Creación multimodal                                  | 6 al 12 de mayo          |               12/05/26 |      3,5 h |  3,5 h | Miércoles 06/05/26 · 17:30–19:30 |
+| Bloque 4 · Evaluación y personalización                         | 13 al 19 de mayo         |               19/05/26 |      3,5 h |  3,5 h | Miércoles 13/05/26 · 17:30–19:30 |
+| Cierre del curso                                                 | 20 al 25 de mayo         |               26/05/26 |     30 min | 30 min | —                                |
 
 
 ### Resumen global
@@ -165,10 +166,11 @@ La siguiente tabla recoge la planificación semanal del curso, con los módulos,
 
 | Bloque | Título | Sesión síncrona | Fecha | Horario | Horas síncronas | Horas en línea | Total bloque |
 |:------:|:-------|:---------------:|:-----:|:-------:|:---------------:|:--------------:|:------------:|
+| 0 | Entender la IA en 2026 | — | — | — | — | 2 h | 2 h |
 | 1 | IA Colaborativa y Gestión GVA | 1 | 22/04/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
-| 2 | Prompting Avanzado y Gestión Documental | 2 | 29/04/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
-| 3 | Generación Multimodal | 3 | 06/05/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
-| 4 | Evaluación y Personalización | 4 | 13/05/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| 2 | Investigar, comprender y trabajar con fuentes | 2 | 29/04/2026 | 17:30–19:30 | 2 h | 6 h | 8 h |
+| 3 | Creación multimodal | 3 | 06/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
+| 4 | Evaluación y personalización | 4 | 13/05/2026 | 17:30–19:30 | 2 h | 5 h | 7 h |
 | | | | | **Totales** | **8 h** | **24 h** | **32 h** |
 
 Cada bloque se desarrolla a lo largo de una semana. La sesión síncrona abre el bloque con demostración, modelado y actividades grupales. El trabajo en línea se realiza en los días posteriores, con entrega antes de la sesión siguiente.
@@ -215,22 +217,23 @@ Cada semana funciona igual: sesión síncrona el miércoles → trabajo autónom
 
 En todos los casos, la entrega debe incluir: un documento breve generado y revisado con IA, el prompt utilizado y una breve reflexión personal sobre el resultado. Elige la opción que tenga más sentido para tu práctica real como docente.
 
-### Bloque 2 · Prompting Avanzado y Gestión Documental
+### Bloque 2 · Investigar, comprender y trabajar con fuentes
 
-**Finalidad pedagógica:** Desarrollar la capacidad de formular instrucciones precisas a la IA mediante la progresión de prompts simples a avanzados, y aprender a fundamentar las respuestas de la IA en el currículo oficial utilizando gestores documentales inteligentes.
+**Finalidad pedagógica:** Desarrollar la capacidad de trabajar con documentos, normativa y currículo real como base de las respuestas de la IA; aprender a contrastar, citar y verificar antes de usar; y transformar esas fuentes en materiales educativos fundamentados.
 
 **Contenidos principales:**
 
-- El "Prompt Pedagógico" en profundidad: estructura Rol + Contexto + Tarea + Formato + Restricciones.
-- Técnicas avanzadas de prompting: few-shot prompting (aprendizaje por ejemplos) y chain-of-thought (cadena de razonamiento) aplicados al diseño de situaciones de aprendizaje.
-- Prompts de refinamiento iterativo: estrategias para mejorar respuestas sin reescribir desde cero.
-- NotebookLM como verificador curricular: carga de decretos oficiales (DOGV) y generación de respuestas con referencia exacta al documento fuente.
-- Audio Overviews de NotebookLM: síntesis en formato podcast de documentos curriculares.
-- Extensiones y agentes personalizados (Copilot GPTs, Gemini Gems) para automatizar correcciones y planificación conforme al estilo docente y los criterios LOMLOE.
-- Construcción de una biblioteca personal de "Prompts de Oro" reutilizables.
-- Comparativa de fiabilidad curricular entre Copilot Chat, Gemini, NotebookLM y ChatGPT.
+- El flujo de trabajo con IA como hilo conductor: Objetivo → Contexto/Fuentes → Primera respuesta → Evaluación → Refinamiento → Verificación → Uso.
+- **NotebookLM**: cargar decretos curriculares (DOGV/BOE), PDFs, normativa interna (anonimizada) y generar respuestas fundamentadas en los documentos reales.
+- Audio Overviews de NotebookLM: síntesis en formato podcast de documentos curriculares extensos.
+- Deep Research en Gemini, Kimi y ChatGPT: cómo funciona el proceso Busca → Selecciona → Sintetiza → Cita, y cómo el docente debe evaluar la calidad, autoridad y actualidad de las fuentes seleccionadas.
+- Contraste y verificación: comprobar que las citas son correctas, que la interpretación es fiel al original y que los datos curriculares proceden del decreto vigente.
+- Búsqueda asistida con IA: localizar normativa, artículos de investigación educativa y recursos de referencia con criterio.
+- Prompting eficaz como competencia transversal: cómo formular instrucciones claras para obtener respuestas útiles con contexto y fuentes. No es el tema central; es la herramienta que atraviesa todos los bloques.
+- Transformación de fuentes en materiales educativos: pasar de un decreto o un PDF a una situación de aprendizaje, una guía o una explicación para el alumnado.
+- Comparativa de fiabilidad curricular entre Copilot Chat, Gemini, NotebookLM y Kimi.
 
-**Ejemplos de aplicación:** Diseñar una situación de aprendizaje LOMLOE paso a paso con cadena de pensamiento; verificar en NotebookLM que los criterios de evaluación generados por Copilot existen realmente en el decreto; configurar un agente "Corrector de Lengua 3.º ESO" que evalúe trabajos del alumnado con retroalimentación motivadora.
+**Ejemplos de aplicación:** Cargar en NotebookLM el decreto de Primaria de la Comunitat Valenciana y generar una tabla de criterios de evaluación para un área concreta; usar Deep Research para localizar investigación reciente sobre el método ABP y evaluar la calidad de las fuentes encontradas; transformar un PDF de apuntes propios en una guía de estudio con NotebookLM; contrastar si los criterios de evaluación que ha generado Copilot Chat existen realmente en el decreto oficial.
 
 ### Bloque 3 · Generación Multimodal
 
@@ -259,9 +262,9 @@ En todos los casos, la entrega debe incluir: un documento breve generado y revis
 - Instrumentos de evaluación variados: listas de cotejo, dianas de autoevaluación, portfolios digitales.
 - Adaptaciones curriculares con IA y DUA: materiales para alumnado con dislexia, incorporación tardía, altas capacidades y discapacidad sensorial.
 - Ética, privacidad y uso responsable: marco legal (RGPD, LOPDGDD, EU AI Act, instrucciones GVA), principios de uso ético, auditoría de sesgos en materiales generados.
-- Reflexión sobre el impacto real de la IA en la educación secundaria: cambio en el rol docente, evaluación en un mundo con IA, brecha digital.
+- Reflexión sobre el impacto real de la IA en la educación: cambio en el rol docente, evaluación en un mundo con IA, brecha digital.
 - Diseño de una política de uso de IA para el centro educativo.
-- Portfolio integrador: proyecto final que reúne evidencias de los cuatro bloques.
+- Proyecto final «Mi flujo docente con IA»: documentación de un proceso real completo, desde la necesidad docente hasta la aplicación en el aula.
 
 **Ejemplos de aplicación:** Generar una rúbrica de 4 niveles a partir de un criterio de evaluación del decreto; producir comentarios motivadores para 25 trabajos en menos de una hora; adaptar un examen para un alumno con dislexia manteniendo los mismos criterios; auditar una situación de aprendizaje generada por IA para detectar sesgos de género o culturales; redactar el borrador de política de uso de IA para presentar al Consejo Escolar.
 
@@ -271,9 +274,11 @@ En todos los casos, la entrega debe incluir: un documento breve generado y revis
 
 ### Herramienta corporativa prioritaria
 
-**Microsoft Copilot** con cuenta `@edu.gva.es` es la referencia del curso. Los datos permanecen dentro del tenant corporativo de la GVA, cumpliendo el RGPD. Debe ser la primera opción siempre que se trabaje con datos del centro, del alumnado o documentación interna.
+**Copilot Chat** ([copilot.microsoft.com](https://copilot.microsoft.com)) con cuenta `@edu.gva.es` es la referencia del curso. Cuando la configuración del tenant lo habilita, puede ofrecer mayor protección de datos que las herramientas de consumo general, aunque las condiciones concretas dependen de la configuración institucional de cada centro. **Disponible según licencia y configuración institucional. Compruébalo en tu cuenta GVA.**
 
-Se integra de forma nativa en Microsoft 365 (Outlook, Word, Excel, Teams, OneNote, PowerPoint, Clipchamp), lo que permite extender la IA al flujo de trabajo habitual.
+{: .callout .callout--privacidad }
+**Copilot Chat ≠ Microsoft 365 Copilot**
+**Copilot Chat** es un asistente conversacional accesible en [copilot.microsoft.com](https://copilot.microsoft.com). **Microsoft 365 Copilot** es un producto distinto, con licencia adicional, que integra IA directamente dentro de Word, Excel, Outlook, Teams, OneNote y PowerPoint. En este curso trabajamos con **Copilot Chat**, que es gratuito con cuenta Microsoft. La disponibilidad de Microsoft 365 Copilot depende de la licencia de tu centro: consúltalo antes de asumir que está disponible.
 
 ### Herramientas externas de exploración y comparación
 
@@ -334,7 +339,7 @@ Si la IA puede generar una rúbrica perfecta en 10 segundos, ¿qué valor tiene 
 
 - Actividades individuales de cada bloque (entregadas en Aules).
 - Actividades grupales en las sesiones síncronas.
-- **Portfolio integrador / Proyecto «Mi flujo docente con IA»**: proyecto final que reúne evidencias de los cuatro bloques acompañadas de una reflexión personal sobre cómo la IA ha cambiado (o no) tu práctica docente.
+- **Proyecto final «Mi flujo docente con IA»**: el docente documenta un proceso real completo partiendo de una necesidad docente real y siguiendo el flujo: Necesidad → Fuentes/Contexto → Elección de herramienta → Proceso → Producto → Verificación → DUA/Accesibilidad → Aplicación → Reflexión. No hay formato obligatorio ni exige usar vibe coding. El objetivo es evidenciar el propio proceso de trabajo con IA.
 
 ### Retroalimentación
 
@@ -348,7 +353,7 @@ Para obtener la certificación, deberás:
 
 - **Asistir a las sesiones síncronas** según los requisitos del CEFIRE.
 - **Entregar las actividades** de cada bloque dentro de los plazos de Aules.
-- **Completar el portfolio integrador final**, demostrando la integración de los aprendizajes.
+- **Completar el proyecto final «Mi flujo docente con IA»**, documentando un proceso real completo y la reflexión sobre el mismo.
 - **Demostrar un aprovechamiento adecuado** del itinerario, visible en la calidad de las producciones y en la reflexión crítica.
 
 La certificación se rige por la normativa vigente del CEFIRE en materia de formación permanente.
@@ -361,7 +366,7 @@ El profesorado participante tiene distintos niveles de competencia digital y dif
 
 - **Progresión guiada.** El itinerario va de lo sencillo (un correo, un acta) a lo complejo (agentes personalizados, portfolios). Cada participante profundiza a su ritmo.
 
-- **Materiales en múltiples formatos.** Texto, tablas, esquemas visuales y "Prompts de Oro" listos para copiar y pegar. Quien tiene menos experiencia dispone de un punto de partida funcional.
+- **Materiales en múltiples formatos.** Texto, tablas, esquemas visuales y ejemplos de prompts listos para adaptar. Quien tiene menos experiencia dispone de un punto de partida funcional.
 
 - **Principios DUA integrados.** El Diseño Universal para el Aprendizaje no solo se enseña: se aplica a la propia formación. Múltiples medios de representación, acción-expresión y compromiso.
 
@@ -438,6 +443,7 @@ La IA no te quita trabajo: te cambia el tipo de trabajo. Menos copiar-pegar, má
 | 1.0 | 01/04/2026 | Equipo docente del curso | Redacción inicial de la guía didáctica |
 | 1.1 | 14/04/2026 | Equipo docente del curso | Reescritura para mejorar claridad, escaneabilidad y tono. Incorporación del enfoque "evaluar procesos, no productos" |
 | 2.0 | 2026-08 | Equipo docente del curso | V2: actualización de herramientas (eliminación de Grok, Canva como primaria para presentaciones, lenguaje prudente sobre Copilot GVA, EU AI Act), separación de datos de edición |
+| 2.1 | 2026-08-13 | Equipo docente del curso | FASE B.1: coherencia pedagógica — renombrado Bloque 2, eliminación de prompting avanzado/agentes como objetivos centrales, flujo V2, corrección afirmaciones Copilot GVA, proyecto final «Mi flujo docente con IA», coherencia 32 h |
 
 ---
 

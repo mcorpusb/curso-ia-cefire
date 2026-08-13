@@ -49,7 +49,7 @@ En lugar de hablar de "tipos de IA", es más útil pensar en **qué le pedimos q
   </div>
   <div class="tres-columnas__col">
     <p><strong>📄 Trabaja con tus documentos</strong></p>
-    <p>Le damos nuestros propios textos (PDFs, decretos, apuntes) y ella responde <em>solo</em> usando esas fuentes. Más fiable para temas especializados.</p>
+    <p>Le damos nuestros propios textos (PDFs, decretos, apuntes) y ella fundamenta sus respuestas en esas fuentes, priorizándolas sobre su conocimiento general. Más fiable para temas especializados, aunque sigue siendo posible que contenga errores de interpretación. Verifica siempre las citas en el documento original.</p>
     <p><em>NotebookLM, Copilot con archivos adjuntos</em></p>
   </div>
   <div class="tres-columnas__col">
@@ -70,7 +70,7 @@ La IA que usamos en el curso pertenece al grupo de la **IA generativa**: crea co
 
 Puede generar:
 - **Texto:** redacciones, resúmenes, explicaciones, preguntas, rúbricas
-- **Imágenes:** ilustraciones, diagramas, personajes (Canva IA, Adobe Firefly, DALL-E)
+- **Imágenes:** ilustraciones, diagramas, personajes (Canva IA, generadores de imágenes de Copilot Chat, Gemini o Adobe Firefly)
 - **Audio:** narraciones realistas, voces sintéticas (ElevenLabs)
 - **Vídeo:** vídeos con avatar, clips animados (HeyGen, Canva)
 - **Código:** fragmentos de código, fórmulas, scripts
@@ -81,13 +81,17 @@ Esto es útil en educación para: adaptar explicaciones, crear materiales multim
 
 ## 4. Qué han cambiado los modelos de razonamiento
 
-En 2025-2026 han aparecido modelos que van más allá de "predecir la siguiente palabra": los llamados **modelos de razonamiento** (o1, o3 de OpenAI; Gemini Thinking; Claude 3.7 Sonnet). Estos modelos:
+En 2025-2026 han aparecido modelos que van más allá de "predecir la siguiente palabra": los llamados **modelos o modos de razonamiento**. A diferencia de los modelos de chat convencionales, estos dedican un tiempo de cómputo interno a "pensar" antes de responder, evaluando distintos caminos de resolución antes de dar una respuesta final.
 
-- Dedican tiempo a "pensar" antes de responder (razonamiento en cadena).
+Sus características:
 - Resuelven mejor problemas matemáticos, lógicos y de planificación compleja.
-- Suelen ser más lentos pero más precisos en tareas complejas.
+- Son generalmente más lentos, pero más precisos en tareas que requieren varios pasos.
+- Señalan explícitamente su proceso de razonamiento, lo que facilita detectar errores.
 
-Para el aula: son útiles para generar rúbricas complejas, resolver errores lógicos en programas o elaborar adaptaciones curriculares detalladas. No son necesarios para tareas cotidianas simples.
+Para el aula: son útiles para generar rúbricas complejas, resolver errores lógicos en programas o elaborar adaptaciones curriculares detalladas con muchas condiciones. No son necesarios para tareas cotidianas simples.
+
+{: .callout .callout--recuerda }
+**Los nombres de los modelos cambian continuamente.** Los principales proveedores (OpenAI, Google, Anthropic, Microsoft) publican nuevas versiones con frecuencia. En lugar de aprender nombres concretos, lo más útil es saber qué tipo de tarea requiere razonamiento extendido y buscar esa opción en la herramienta que estés usando en ese momento.
 
 ---
 

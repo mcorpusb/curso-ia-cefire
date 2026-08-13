@@ -45,7 +45,7 @@ Competencias clave
 
 La IA puede ayudar en los **dos últimos niveles**: generar indicadores de logro concretos a partir de los criterios del currículo oficial y diseñar los instrumentos.
 
-### 🏆 Prompt de Oro: Rúbrica completa a partir de un criterio de evaluación
+### Ejemplo de prompt: Rúbrica completa a partir de un criterio de evaluación
 
 ```text
 Actúa como un especialista en evaluación competencial según la LOMLOE, 
@@ -76,7 +76,7 @@ Restricciones:
 
 > **💡 Ejemplo Primaria:** Después de generar la rúbrica, **verifica los criterios de evaluación en NotebookLM** (Bloque 2) para asegurarte de que coinciden con los del decreto. Copilot puede inventar criterios que suenen convincentes pero no existan.
 
-### 🏆 Prompt de Oro: Rúbrica holística rápida
+### Ejemplo de prompt: Rúbrica holística rápida
 
 Para evaluaciones menos formales (actividades de clase, participación, trabajo cooperativo), una rúbrica holística es más práctica:
 
@@ -114,7 +114,7 @@ Uno de los mayores consumidores de tiempo docente es la **corrección y retroali
 | Corregir 30 redacciones lleva 6+ horas | Agotamiento, comentarios cada vez más escuetos | Un borrador de retroalimentación en segundos que el docente revisa y ajusta |
 | Tono involuntariamente negativo por cansancio | Desmotivación del alumnado | Tono siempre constructivo y motivador |
 
-### 🏆 Prompt de Oro: Generar retroalimentación motivadora para un trabajo
+### Ejemplo de prompt: Generar retroalimentación motivadora para un trabajo
 
 ```text
 Actúa como un docente experto en evaluación formativa con enfoque 
@@ -147,7 +147,7 @@ Restricciones:
 - El comentario debe ser útil también para las familias si lo leen.
 ```
 
-### 🏆 Prompt de Oro: Corrección masiva — generar feedback para toda la clase
+### Ejemplo de prompt: Corrección masiva — generar feedback para toda la clase
 
 ```text
 Actúa como un asistente de evaluación para un docente de [TU ÁREA] 
@@ -191,7 +191,7 @@ Las rúbricas no son el único instrumento. La LOMLOE promueve la **diversidad d
 
 ### 4.2.1 · Listas de cotejo
 
-### 🏆 Prompt de Oro: Lista de cotejo para un proyecto
+### Ejemplo de prompt: Lista de cotejo para un proyecto
 
 ```text
 Actúa como un docente de Tecnología e Informática de 2.º de ESO (LOMLOE, CV).
@@ -214,7 +214,7 @@ errores", "Los datos de los planetas son correctos").
 
 Las dianas de evaluación son representaciones visuales circulares donde el alumnado se autoevalúa. Son ideales para evaluación formativa y metacognición.
 
-### 🏆 Prompt de Oro: Diana de autoevaluación
+### Ejemplo de prompt: Diana de autoevaluación
 
 ```text
 Actúa como un especialista en evaluación formativa y metacognición para 
@@ -282,7 +282,7 @@ Una de las aplicaciones más valiosas de la IA generativa es la **personalizaci�
 | **Múltiples medios de acción y expresión** | ¿Cómo demuestra el alumno/a lo aprendido? | Actividades alternativas: oral, escrita, visual, manipulativa |
 | **Múltiples medios de compromiso** | ¿Cómo motivo y engancho? | Variantes por interés, nivel de reto, autonomía |
 
-### 🏆 Prompt de Oro: Adaptación para alumnado con dislexia
+### Ejemplo de prompt: Adaptación para alumnado con dislexia
 
 ```text
 Actúa como un especialista en atención a la diversidad y dificultades 
@@ -308,7 +308,7 @@ La prueba estándar es:
 [PEGAR AQUÍ LA PRUEBA ORIGINAL]
 ```
 
-### 🏆 Prompt de Oro: Material de refuerzo para incorporación tardía
+### Ejemplo de prompt: Material de refuerzo para incorporación tardía
 
 ```text
 Actúa como un docente de apoyo lingüístico en un centro de acogida 
@@ -335,7 +335,7 @@ No uses refranes, ironías ni expresiones idiomáticas.
 
 > **🚀 Reto Secundaria/FP:** Adapta el prompt anterior para un alumno de CFGM con discapacidad auditiva. Cambia las pautas de adaptación para priorizar apoyos visuales y escritos sobre los auditivos. Compara los resultados de Copilot y Gemini: ¿cuál da adaptaciones más realistas y aplicables?
 
-### 🏆 Prompt de Oro: Adaptación para altas capacidades (AACC)
+### Ejemplo de prompt: Adaptación para altas capacidades (AACC)
 
 ```text
 Actúa como un orientador educativo especializado en altas capacidades 
@@ -426,7 +426,7 @@ En ese contexto, la IA se convierte en un apoyo, no en un sustituto.
 
 La IA puede reproducir y amplificar sesgos presentes en los datos con los que fue entrenada. Es fundamental que como docente sepas detectarlos:
 
-### 🏆 Prompt de Oro: Auditoría de sesgos en un material generado
+### Ejemplo de prompt: Auditoría de sesgos en un material generado
 
 ```text
 Actúa como un auditor de equidad educativa y sesgos en materiales 
@@ -455,7 +455,7 @@ Material a analizar:
 
 Cada centro y cada docente debería tener una **política clara** sobre cómo y cuándo se usa la IA. Aquí tienes un prompt para generarla:
 
-### 🏆 Prompt de Oro: Política de uso de IA para un centro educativo
+### Ejemplo de prompt: Política de uso de IA para un centro educativo
 
 ```text
 Actúa como un asesor jurídico-educativo especializado en tecnología y 
@@ -518,7 +518,7 @@ Fomenta el uso responsable, no la prohibición total.
 ### Actividad 4.1 — Rúbrica LOMLOE completa *(individual)*
 
 1. Elige un **criterio de evaluación real** de tu área y curso (cópialo del decreto).
-2. Usa el Prompt de Oro de la sección 4.1 para generar una **rúbrica analítica con 4 niveles**.
+2. Usa el ejemplo de la sección 4.1 para generar una **rúbrica analítica con 4 niveles**.
 3. Verifica los criterios en **NotebookLM** (con el decreto cargado del Bloque 2).
 4. Corrige y ajusta la rúbrica.
 5. **Entregable:** rúbrica final en formato tabla + informe breve de las correcciones realizadas tras la verificación.
@@ -528,7 +528,7 @@ Fomenta el uso responsable, no la prohibición total.
 **Objetivo:** Automatizar la generación de retroalimentación constructiva para liberar tiempo docente.
 
 1. Toma **3 trabajos ficticios** (o reales anonimizados) de distinto nivel de tu asignatura.
-2. Usa el Prompt de Oro de la sección 4.1b para generar retroalimentación motivadora para cada uno en **Copilot**.
+2. Usa el ejemplo de la sección 4.1b para generar retroalimentación motivadora para cada uno en **Copilot**.
 3. Repite en **Gemini** y compara: ¿cuál genera feedback más personalizado? ¿Cuál varía más la redacción?
 4. Revisa los comentarios generados y ajústalos con tu conocimiento del alumnado.
 5. **Entregable:** tabla con los 3 comentarios (versión Copilot + versión Gemini + versión final ajustada por ti) + reflexión (150 palabras) sobre cuánto tiempo te ha ahorrado y si el tono es adecuado.
@@ -564,7 +564,7 @@ Fomenta el uso responsable, no la prohibición total.
 
 ### Actividad 4.6 — Política de IA para mi centro *(grupal, sesión síncrona)*
 
-1. En grupos de 4-5, usad el Prompt de Oro de la sección 4.5 adaptándolo a vuestra etapa educativa.
+1. En grupos de 4-5, usad el ejemplo de la sección 4.5 adaptándolo a vuestra etapa educativa.
 2. Revisad el borrador generado: ¿es equilibrado? ¿Es realista? ¿Faltan casos?
 3. Modificad y completad el documento.
 4. Presentad al gran grupo los 3 puntos más importantes de vuestra política.
@@ -572,29 +572,27 @@ Fomenta el uso responsable, no la prohibición total.
 
 ---
 
-### Actividad 5 — Portfolio integrador: "Mi proyecto IA en el aula" *(individual)*
+### Actividad 5 — Proyecto final «Mi flujo docente con IA» *(individual)*
 
-Esta actividad integra los aprendizajes de los 4 bloques en un producto final:
+Esta actividad documenta un proceso real completo con IA, partiendo de una necesidad docente real. No hay formato obligatorio ni exige usar vibe coding. El objetivo es evidenciar el propio proceso de trabajo.
 
-1. **Elige una Situación de Aprendizaje** real de tu programación.
-2. **Genera los siguientes elementos con IA**, documentando qué herramienta has usado para cada uno:
+Documenta las siguientes fases con tus propias palabras:
 
-| Elemento | Bloque de referencia | Herramienta(s) |
-|:---------|:--------------------|:----------------|
-| Correo a familias presentando la SA | Bloque 1 | |
-| SA completa con criterios verificados | Bloque 2 | |
-| Al menos 1 recurso multimodal (presentación, audio, cómic o vídeo) | Bloque 3 | |
-| Rúbrica de evaluación + 1 adaptación NEAE | Bloque 4 | |
+| Fase | Qué documentas |
+|:-----|:----------------|
+| **Necesidad** | ¿Qué problema o tarea docente real tenías que resolver? |
+| **Fuentes/Contexto** | ¿Qué documentos, decretos o información has aportado a la IA? |
+| **Elección de herramienta** | ¿Por qué elegiste esa herramienta y no otra? |
+| **Proceso** | ¿Cómo ha ido la interacción? ¿Qué has ajustado en el camino? |
+| **Producto** | El material o documento generado (en formato que corresponda). |
+| **Verificación** | ¿Cómo has comprobado que el resultado es correcto y útil? |
+| **DUA/Accesibilidad** | ¿Has considerado la diversidad del alumnado? ¿Qué ajustes has hecho? |
+| **Aplicación** | ¿Cómo lo has usado o tienes previsto usarlo en el aula? |
+| **Reflexión** | ¿Qué has aprendido? ¿Qué no funcionarías a hacer igual? |
 
-3. **Incluye una reflexión final** (300 palabras) respondiendo:
-   - ¿Qué herramienta te ha resultado más útil y por qué?
-   - ¿Qué limitaciones has encontrado?
-   - ¿Qué precauciones éticas y de privacidad has tenido en cuenta?
-   - ¿Cómo integrarás la IA en tu práctica docente a partir de ahora?
+**Entregable:** documento (Word, PDF u otro) que recorra las fases anteriores. Mínimo 400 palabras. Sube a la tarea «Proyecto Final» en Aules.
 
-4. **Entregable:** carpeta comprimida (`.zip`) con todos los archivos + documento de reflexión. Sube a la tarea "Portfolio Final" en Aules.
-
-> **⚠️ Seguridad GVA:** En toda la documentación del portfolio, usa **datos ficticios** para nombres de alumnado, centro, localidad, etc. No incluyas capturas de pantalla donde aparezcan datos personales reales.
+> **⚠️ Seguridad GVA:** Usa **datos ficticios** para nombres de alumnado, centro, localidad, etc. No incluyas capturas de pantalla donde aparezcan datos personales reales.
 
 ---
 
@@ -623,7 +621,7 @@ Asegúrate de poder responder **sí** a todas estas preguntas antes de completar
 - [ ] He reflexionado críticamente sobre el impacto real de la IA en la educación secundaria y he definido mi compromiso ético personal.
 - [ ] Conozco el marco legal (RGPD, EU AI Act, instrucciones GVA) y los 7 principios éticos de uso de IA en el aula.
 - [ ] Puedo distinguir qué datos puedo y no puedo introducir en herramientas externas.
-- [ ] He completado el portfolio integrador con elementos de los 4 bloques.
+- [ ] He completado el proyecto final «Mi flujo docente con IA», documentando un proceso real completo.
 
 ---
 

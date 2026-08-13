@@ -56,9 +56,9 @@ La IA puede facilitar muchas tareas docentes, pero no siempre es la mejor herram
 |--------|:-----:|-----------|
 | **Módulo 0** · Entender la IA en 2026 | 2 h | Cómo funciona la IA hoy, qué ha cambiado, alucinaciones, sesgos, marco legal |
 | **Bloque 1** · IA Colaborativa y Gestión GVA | 8 h | Copilot Chat, prompting eficaz, actas, correos, inclusión, privacidad |
-| **Bloque 2** · Prompting avanzado y documentación | 8 h | NotebookLM, prompts de sistema, Deep Research, verificación |
+| **Bloque 2** · Investigar, comprender y trabajar con fuentes | 8 h | NotebookLM, Deep Research, verificación, contraste, transformación curricular |
 | **Bloque 3** · Creación multimodal | 7 h | Imagen, audio y vídeo educativo con IA; Canva, ElevenLabs, Google Labs |
-| **Bloque 4** · Evaluación y personalización | 7 h | Agentes, rúbricas, adaptaciones, alfabetización del alumnado |
+| **Bloque 4** · Evaluación y personalización | 7 h | Rúbricas, adaptaciones, DUA, alfabetización del alumnado, proyecto final |
 
 ---
 
@@ -73,7 +73,7 @@ Todas las sesiones son de **17:30 a 19:30 h** a través de la sala virtual del c
 | Sesión | Fecha | Bloque | Contenido clave |
 |:------:|:-----:|:------:|:----------------|
 | 1 | **22/04/2026** | Bloque 1 | Copilot Chat para actas, correos y organización del aula |
-| 2 | **29/04/2026** | Bloque 2 | NotebookLM y prompting avanzado |
+| 2 | **29/04/2026** | Bloque 2 | NotebookLM, fuentes curriculares, Deep Research y verificación |
 | 3 | **06/05/2026** | Bloque 3 | Generación multimodal: imagen, audio y vídeo |
 | 4 | **13/05/2026** | Bloque 4 | Evaluación, personalización y ética con el alumnado |
 

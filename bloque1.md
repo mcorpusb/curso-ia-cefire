@@ -104,31 +104,32 @@ El objetivo no es hacer más tareas, sino **hacer una que realmente puedas aplic
 
 ## 1.1 · Copilot Chat: la herramienta de referencia del curso
 
-**Copilot Chat** es el asistente de IA de Microsoft, accesible en [copilot.microsoft.com](https://copilot.microsoft.com). En este curso es la herramienta de referencia porque, cuando se usa con cuenta institucional, ofrece mayor protección de datos que las alternativas de consumo general.
+**Copilot Chat** es el asistente conversacional de IA de Microsoft, accesible en [copilot.microsoft.com](https://copilot.microsoft.com). En este curso es la herramienta de referencia porque, cuando se usa con cuenta institucional y el tenant lo habilita, puede ofrecer mayor protección de datos que las alternativas de consumo general.
 
 {: .callout .callout--privacidad }
-**Antes de usarlo en el aula, compruébalo en tu cuenta**
-La disponibilidad de Copilot Chat con cuenta `@edu.gva.es` depende de la configuración del tenant de tu centro educativo. No todos los centros lo tienen habilitado con las mismas funciones. Compruébalo tú mismo antes de la primera sesión. Si no está disponible, todas las actividades del curso tienen ruta alternativa con **Gemini** (gratuito con cuenta Google) o **ChatGPT** (gratuito con cuenta OpenAI).
+**Copilot Chat ≠ Microsoft 365 Copilot · Compruébalo antes de usarlo**
+Existen dos productos distintos. **Copilot Chat** es el asistente accesible en [copilot.microsoft.com](https://copilot.microsoft.com), gratuito con cualquier cuenta Microsoft. **Microsoft 365 Copilot** es un producto diferente, con licencia adicional, que integra IA directamente dentro de Word, Excel, Outlook, Teams, OneNote y PowerPoint.
+En este curso trabajamos con **Copilot Chat**. La disponibilidad con tu cuenta `@edu.gva.es` y las funciones concretas habilitadas dependen de la configuración del tenant de tu centro. **Disponible según licencia y configuración institucional. Compruébalo en tu cuenta GVA.** Si no está disponible, todas las actividades tienen ruta alternativa con **Gemini** o **ChatGPT**.
 
-Lo que sí incluye siempre Copilot Chat (plan gratuito con cualquier cuenta Microsoft):
-- Chat conversacional con GPT-4o
+Lo que incluye Copilot Chat (plan gratuito con cualquier cuenta Microsoft, sujeto a cambios del servicio):
+- Chat conversacional con modelos avanzados de IA
 - Búsqueda web en tiempo real
 - Análisis de documentos adjuntos
-- Generación de imágenes (DALL-E)
-- Creación de Pages (páginas web colaborativas)
+- Generación de imágenes con IA
+- Creación de páginas colaborativas (función sujeta a disponibilidad y cambios del servicio)
 
 | Ventaja | Detalle |
 |:--------|:--------|
-| **Protección de datos mejorada** | Con cuenta institucional @edu.gva.es (si el tenant lo habilita): los datos no se usan para entrenar modelos. |
-| **Integración con Microsoft 365** | Se conecta con Word, Outlook, Teams... aunque la IA nativa en estas apps (Microsoft 365 Copilot) requiere licencia adicional. |
+| **Protección de datos mejorada** | Con cuenta institucional @edu.gva.es (si el tenant lo habilita): los datos pueden no usarse para entrenar modelos. Las condiciones exactas dependen de la configuración del centro. **Compruébalo en tu cuenta GVA.** |
+| **Microsoft 365 Copilot** | La integración con Word, Outlook, Teams, Excel, etc. corresponde a **Microsoft 365 Copilot**, un producto distinto con licencia adicional. Consulta con el SAI de tu centro antes de asumir que está disponible. |
 | **Acceso gratuito** | Copilot Chat es gratuito con cualquier cuenta Microsoft. |
 
 ### Cómo acceder
 
 1. Ve a [copilot.microsoft.com](https://copilot.microsoft.com/).
 2. Inicia sesión con tu cuenta **@edu.gva.es**.
-3. Si ves la insignia **"🛡️ Protegido"** o **"Protected"**: estás en el entorno institucional con protección mejorada.
-4. Si ves un aviso de que Copilot no está disponible para tu cuenta, o si la sesión funciona pero sin indicador de protección: usa **Gemini** ([gemini.google.com](https://gemini.google.com)) con tu cuenta de Google como alternativa para este curso. Todas las actividades tienen ruta gratuita.
+3. Comprueba si aparece algún indicador de modo protegido o de cuenta corporativa activa. Los indicadores visuales pueden cambiar con las actualizaciones del servicio.
+4. Si ves un aviso de que Copilot no está disponible para tu cuenta: usa **Gemini** ([gemini.google.com](https://gemini.google.com)) con tu cuenta de Google como alternativa para este curso. Todas las actividades tienen ruta gratuita.
 
 > Si tienes dudas sobre la configuración de tu cuenta, consulta con el SAI de tu centro.
 
@@ -231,9 +232,9 @@ secretario/a. Usa un tono formal e impersonal.
 
 | Criterio | Copilot Chat (@edu.gva.es) | Gemini | ChatGPT |
 |:---------|:-------------:|:------:|:----:|
-| Protección de datos mejorada (si tenant habilitado) | ✅ | ❌ | ❌ |
+| Mayor protección de datos (si tenant habilitado) | ✅ | ❌ | ❌ |
 | Formato acta formal en español | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Integración directa con Word | ✅ | ❌ | ❌ |
+| Integración con Word/Outlook (requiere Microsoft 365 Copilot, licencia adicional) | ⚠️ | ❌ | ❌ |
 | Calidad del tono administrativo | Muy alta | Alta | Alta |
 | Acceso gratuito | ✅ (cuenta Microsoft) | ✅ (cuenta Google) | ✅ (cuenta OpenAI) |
 
@@ -482,7 +483,7 @@ Copilot puede ayudarte a organizar elementos cotidianos que no son estrictamente
 
 </div>
 
-### 🏆 Prompt de Oro: Planificar horario de guardias
+### Ejemplo de prompt: Planificar horario de guardias
 
 ```text
 Actúa como jefe/a de estudios de un IES de la Comunitat Valenciana con 45 docentes.
@@ -510,7 +511,7 @@ Guarda el prompt y el formato generado: podrás reutilizarlo cada trimestre con 
 
 </div>
 
-### 🏆 Prompt de Oro: Inventario de material del departamento
+### Ejemplo de prompt: Inventario de material del departamento
 
 ```text
 Actúa como el/la responsable de un departamento de Tecnología e Informática.
@@ -543,14 +544,18 @@ Cuando generes tablas, cuadrantes o listados con Copilot, piensa en quién los v
 
 ---
 
-## 1.6 · Copilot dentro de Microsoft 365: integración práctica
+## 1.6 · Copilot y el ecosistema Microsoft 365
 
 ℹ️ **Sección de apoyo / exploración**
 
-No necesitas dominar todas estas aplicaciones ahora mismo. En este momento basta con que sepas que Copilot puede integrarse en el ecosistema Microsoft 365 y ayudarte también dentro de las herramientas que ya usas a diario.
+{: .callout .callout--privacidad }
+**Copilot Chat ≠ Microsoft 365 Copilot**
+Las funciones de IA integradas directamente en Word, Outlook, Excel, Teams, OneNote o PowerPoint corresponden a **Microsoft 365 Copilot**, un producto distinto del que usamos en este curso. Requiere licencia adicional que depende del centro. Consulta con el SAI de tu centro si tienes acceso. En este curso trabajamos con **Copilot Chat** ([copilot.microsoft.com](https://copilot.microsoft.com)), que es gratuito con cualquier cuenta Microsoft.
 
-| Aplicación | Qué puede hacer por ti |
-|:-----------|:-----------------------|
+Si tu centro dispone de **Microsoft 365 Copilot**, estas son sus funciones principales:
+
+| Aplicación | Qué puede hacer |
+|:-----------|:----------------|
 | Outlook | Resumir hilos, redactar respuestas y priorizar mensajes. |
 | Word | Generar borradores, reformular texto y ajustar el tono. |
 | Excel | Crear fórmulas, tablas y gráficos a partir de instrucciones sencillas. |
@@ -558,15 +563,7 @@ No necesitas dominar todas estas aplicaciones ahora mismo. En este momento basta
 | OneNote | Organizar notas y convertir apuntes en listas de tareas. |
 | PowerPoint | Crear un primer borrador de presentación desde un esquema o documento. |
 
-### Ejemplo rápido en Outlook
-
-1. Abre un hilo de correo largo en Outlook Web con tu cuenta **@edu.gva.es**.
-2. Pulsa el icono de **Copilot**.
-3. Selecciona **Resumir**.
-
-Obtendrás un resumen con las ideas principales y las acciones pendientes.
-
-⚠️ **Seguridad GVA:** estas funciones dependen de la licencia corporativa. Si no aparece Copilot en tus aplicaciones, consulta con el SAI de tu centro.
+⚠️ Si no aparece Copilot en tus aplicaciones de Microsoft 365, es probable que tu cuenta no tenga esa licencia. Consulta con el SAI de tu centro. Para las actividades de este curso, Copilot Chat es suficiente.
 
 ---
 
@@ -620,7 +617,7 @@ Dime en 5 puntos breves:
 **Tipo:** individual / obligatoria / entrega
 
 1. Accede a Copilot con tu cuenta **@edu.gva.es**.
-2. Usa el "Prompt de Oro: Acta de claustro" (sección 1.2) adaptándolo a una reunión de tu departamento o ciclo.
+2. Usa el Ejemplo de la sección Acta de claustro" (sección 1.2) adaptándolo a una reunión de tu departamento o ciclo.
 3. Antes de generar el resultado final, revisa tu prompt y asegúrate de que contiene claramente estas tres partes:
    - **Rol**
    - **Contexto**

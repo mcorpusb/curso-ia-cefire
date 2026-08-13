@@ -53,7 +53,7 @@ Al finalizar este bloque serás capaz de:
 
 > ⭐ Gamma funciona mejor cuando el prompt concreta la etapa, el nivel del alumnado, el objetivo didáctico, la estructura de la presentación y el estilo visual. No es lo mismo diseñar para Infantil que para FP: cambian el lenguaje, el ritmo, la cantidad de texto y el tipo de interacción.
 
-### 🏆 Prompt de Oro: Presentación educativa con IA (genérico)
+### Ejemplo de prompt: Presentación educativa con IA (genérico)
 
 ```text
 Actúa como un diseñador de presentaciones educativas especializado en crear materiales claros, visuales y adaptados al alumnado.
@@ -110,7 +110,7 @@ DIAPOSITIVA 2: …
 - Adaptar ejemplos al contexto del alumnado.
 ```
 
-### 🏆 Prompt de Oro: Presentación con Copilot en PowerPoint
+### Ejemplo de prompt: Presentación con Copilot en PowerPoint
 
 Si prefieres trabajar directamente en el ecosistema Microsoft:
 
@@ -188,7 +188,7 @@ En algunos casos, especialmente cuando hay decisiones importantes o procesos de 
 
 </div>
 
-### 🏆 Prompt de Oro: Generar la ilustración de una viñeta con Copilot
+### Ejemplo de prompt: Generar la ilustración de una viñeta con Copilot
 
 ```text
 Genera una ilustración estilo cómic educativo para niños de 8-9 años. 
@@ -199,9 +199,9 @@ No incluyas texto ni letras en la imagen.
 ```
 >💡 Este mismo prompt puede usarse en ChatGPT para generar la imagen directamente.
 
-> **⚠️ Seguridad GVA:** Copilot con tu cuenta `@edu.gva.es` utiliza DALL-E 3 con filtros de contenido corporativo. Es la opción más segura para generar imágenes. **Nunca pidas que genere imágenes que se parezcan a personas reales, alumnado concreto o menores identificables.**
+> **⚠️ Seguridad GVA:** Copilot Chat con tu cuenta `@edu.gva.es` incluye generación de imágenes con IA (sujeto a disponibilidad y configuración del tenant) con filtros de contenido corporativo. Es la opción más segura para generar imágenes. **Nunca pidas que genere imágenes que se parezcan a personas reales, alumnado concreto o menores identificables.**
 
-### 🏆 Prompt de Oro: Guion de cómic educativo (para cualquier herramienta)
+### Ejemplo de prompt: Guion de cómic educativo (para cualquier herramienta)
 
 Usa este prompt para generar el **guion** del cómic, y después crea las imágenes viñeta a viñeta:
 
@@ -292,7 +292,7 @@ Las infografías son uno de los recursos más eficaces para sintetizar informaci
 | **Copilot + PowerPoint** | Diseño integrado en M365 | ✅ Cuenta `@edu.gva.es` | Infografías dentro de presentaciones, entorno GVA seguro |
 | **Napkin AI** | Conversor de texto a infografía | Freemium | Transformar textos largos en esquemas visuales automáticos |
 
-### 🏆 Prompt de Oro: Transformar un texto en infografía
+### Ejemplo de prompt: Transformar un texto en infografía
 
 ```text
 Actúa como un diseñador de infografías educativas para alumnado de [Nivel educativo].
@@ -329,11 +329,11 @@ palabras totales en la infografía (es visual, no textual).
 
  Chat GPT: Crea una infografía muy detallada sobre una ballena
 
-<img src="assets/img/Ballena_ChatGPT.png" width="40%">
+<img src="assets/img/Ballena_ChatGPT.png" width="40%" alt="Infografía generada por ChatGPT sobre una ballena: ejemplo de salida visual de IA">
 
 Chat GPT: Haz una infografía comparando un iphone con un google pixel
 
-<img src="assets/img/Comparar_ChatGPT.png" width="40%">
+<img src="assets/img/Comparar_ChatGPT.png" width="40%" alt="Infografía comparativa generada por ChatGPT: iPhone vs Google Pixel">
 
 📂 Carpeta compartida de infografías educativas:  
 https://drive.google.com/drive/folders/1P2TQxmyKvDVaw5g77_0qg911KCRfD3-V?usp=sharing
@@ -468,7 +468,7 @@ La generación de audio con IA tiene un enorme potencial educativo: desde hacer 
 | **Natural Reader** | ⭐⭐⭐⭐ | ✅ | Limitado | Freemium | Convertir PDF y documentos a audio |
 | **Copilot (lectura de respuestas)** | ⭐⭐⭐ | ✅ | Parcial | ✅ Con licencia GVA | Escuchar respuestas generadas directamente |
 
-### 🏆 Prompt de Oro: Guion para narración educativa (ElevenLabs)
+### Ejemplo de prompt: Guion para narración educativa (ElevenLabs)
 
 Primero genera el guion con Copilot o Gemini, y luego copia el texto en ElevenLabs para convertirlo a audio:
 
@@ -508,7 +508,7 @@ términos históricos esenciales (que debes definir brevemente).
 
 > **Otro ejemplo:** Crea un audio por cada tema del trimestre. Súbelos a Aules como "Apuntes sonoros" dentro de la sección de recursos. El alumnado con dificultades lectoras podrá escucharlos como alternativa al texto escrito — esto es **DUA en acción** (principio de múltiples medios de representación).
 
-### 🏆 Prompt de Oro: Podcast educativo con NotebookLM
+### Ejemplo de prompt: Podcast educativo con NotebookLM
 
 Si ya tienes un notebook configurado (Bloque 2), puedes generar un Audio Overview:
 
@@ -544,7 +544,7 @@ Paso a paso con Gemini
 5. Copia la letra y úsala en herramientas musicales IA o como recurso de aula.
 6. Puedes acompañarla con imágenes, karaoke, vídeo o actividades de comprensión.
 
-🏆 Prompt de Oro: Canción educativa con Gemini
+Ejemplo de prompt: Canción educativa con Gemini
 
 Actúa como un compositor de canciones educativas para alumnado de 5.º de Primaria.
 
@@ -588,7 +588,7 @@ La generación de vídeo con IA ha avanzado enormemente. Aunque aún no sustituy
 | **CapCut** | Editor de vídeo + IA | Gratuito | Subtítulos automáticos, efectos, edición rápida |
 | **Invideo AI** | Generación de vídeo desde texto | Freemium | Crear vídeos completos a partir de un guion |
 
-### 🏆 Prompt de Oro: Guion para vídeo explicativo (Invideo AI / Synthesia)
+### Ejemplo de prompt: Guion para vídeo explicativo (Invideo AI / Synthesia)
 
 ```text
 Actúa como un creador de contenido educativo audiovisual.
@@ -636,7 +636,7 @@ Estos servicios generan vídeos donde un **avatar digital** presenta el contenid
 - Generar versiones en **valenciano, inglés o francés** del mismo contenido.
 - Ofrecer **tutoriales accesibles** con avatar + subtítulos + audio claro.
 
-### 🏆 Prompt de Oro: Guion para avatar IA
+### Ejemplo de prompt: Guion para avatar IA
 
 ```text
 Escribe un guion de 90 segundos para un avatar IA que da la bienvenida 
@@ -686,7 +686,7 @@ La idea no es crear una aplicación profesional, sino un recurso educativo funci
 * Actividad de verdadero/falso con feedback.
 * Línea temporal interactiva.
 
-### 🏆 Prompt de Oro: Crear una app educativa con Gemini Canvas o Canva Code
+### Ejemplo de prompt: Crear una app educativa con Gemini Canvas o Canva Code
 
 ```text
 Actúa como un diseñador de apps educativas sencillas para docentes.
