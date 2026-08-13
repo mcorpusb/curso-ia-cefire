@@ -7,8 +7,14 @@ nav_order: 2
 # Guía didáctica del curso
 {: .fs-8 }
 
-Herramientas de Inteligencia Artificial Generativa para Docentes · 26IA92IN017
+Herramientas de IA para Docentes · CEFIRE
 {: .fs-5 .fw-300 }
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     DATOS DE EDICIÓN — actualizar solo aquí cuando cambie la edición
+     ═══════════════════════════════════════════════════════════════════ -->
+> **Código:** 26IA92IN017 · **Edición:** 2025-2026 · **Modalidad:** Semipresencial · **Duración:** 32 h
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ---
 
@@ -27,7 +33,11 @@ El itinerario avanza en cuatro bloques, de lo más cotidiano a lo más avanzado:
 - Del primer contacto con la IA y la gestión administrativa...
 - ...al diseño de prompts expertos, contenidos multimodales, evaluación competencial y reflexión ética.
 
-**Microsoft Copilot** con cuenta `@edu.gva.es` es el eje del curso, porque garantiza la protección de datos dentro del entorno de la GVA. Pero también se exploran otras herramientas —Gemini, NotebookLM, Kimi, Grok— para desarrollar criterio propio a la hora de elegir.
+**Copilot Chat** (disponible en [copilot.microsoft.com](https://copilot.microsoft.com) con cuenta Microsoft) y **NotebookLM** son los ejes del curso, junto con **Canva** para creación multimodal. También se exploran Gemini, ChatGPT y Kimi para desarrollar criterio propio a la hora de elegir.
+
+{: .callout .callout--privacidad }
+**Nota sobre Copilot y cuentas @edu.gva.es**
+La disponibilidad de Copilot Chat con tu cuenta `@edu.gva.es` depende de la configuración del tenant de tu centro. **Compruébalo antes de la primera sesión.** Si no está disponible, todas las actividades del curso tienen ruta alternativa gratuita con Gemini o ChatGPT.
 
 Todo ello se enmarca en la normativa vigente: **LOMLOE**, **Diseño Universal para el Aprendizaje (DUA)** y legislación de protección de datos (RGPD, LOPDGDD, EU AI Act).
 
@@ -180,12 +190,12 @@ Cada semana funciona igual: sesión síncrona el miércoles → trabajo autónom
 
 **Contenidos principales:**
 
-- Acceso y configuración de Microsoft Copilot con cuenta corporativa `@edu.gva.es`. Verificación del entorno protegido.
+- Acceso a Copilot Chat ([copilot.microsoft.com](https://copilot.microsoft.com)). Verificación de disponibilidad con cuenta `@edu.gva.es` o uso de alternativa gratuita (Gemini/ChatGPT).
 - Redacción asistida de actas de reuniones (claustro, CCP, equipos docentes).
 - Composición y automatización de correos electrónicos a familias, alumnado y administración, con variantes de idioma y tono.
 - Organización inteligente de la documentación docente: estructuras de carpetas, plantillas y registros con IA.
-- Copilot integrado en Microsoft 365: Outlook, Word, Excel, Teams, OneNote, PowerPoint.
-- Comparativa práctica de Copilot con Gemini, Kimi y Grok en tareas administrativas reales.
+- Copilot integrado en aplicaciones de Microsoft 365 (solo con licencia Microsoft 365 Copilot, sujeta a disponibilidad institucional — **verifica en tu centro**).
+- Comparativa práctica de Copilot Chat con Gemini y ChatGPT en tareas administrativas reales.
 
 **Ejemplos de aplicación:** Generar un borrador de acta de departamento en 30 segundos; crear una plantilla de correo a familias en castellano y valenciano; diseñar un cuadrante de guardias con IA; organizar desde cero el sistema de carpetas del curso en OneDrive.
 
@@ -218,7 +228,7 @@ En todos los casos, la entrega debe incluir: un documento breve generado y revis
 - Audio Overviews de NotebookLM: síntesis en formato podcast de documentos curriculares.
 - Extensiones y agentes personalizados (Copilot GPTs, Gemini Gems) para automatizar correcciones y planificación conforme al estilo docente y los criterios LOMLOE.
 - Construcción de una biblioteca personal de "Prompts de Oro" reutilizables.
-- Comparativa de fiabilidad curricular entre Copilot, Gemini, NotebookLM, Kimi y Grok.
+- Comparativa de fiabilidad curricular entre Copilot Chat, Gemini, NotebookLM y ChatGPT.
 
 **Ejemplos de aplicación:** Diseñar una situación de aprendizaje LOMLOE paso a paso con cadena de pensamiento; verificar en NotebookLM que los criterios de evaluación generados por Copilot existen realmente en el decreto; configurar un agente "Corrector de Lengua 3.º ESO" que evalúe trabajos del alumnado con retroalimentación motivadora.
 
@@ -228,11 +238,11 @@ En todos los casos, la entrega debe incluir: un documento breve generado y revis
 
 **Contenidos principales:**
 
-- Presentaciones educativas con IA: Gamma y Copilot en PowerPoint. Comparativa de calidad visual, precisión y exportación.
+- Presentaciones educativas con IA: **Canva** (100% gratuito para docentes K-12 verificados), Kimi Slides y Copilot en PowerPoint. Comparativa de calidad visual y exportación.
 - Cómics e ilustraciones educativas: guion con IA + generación de imágenes con Copilot Image Creator, Gemini (Imagen 3) y Canva.
 - Infografías: transformación de textos de apuntes en esquemas visuales con Canva IA, Napkin AI y PowerPoint.
 - Audio educativo: generación de narraciones realistas con ElevenLabs, Audio Overviews con NotebookLM, lectura accesible con Microsoft Edge.
-- Vídeo educativo con IA: edición y subtitulado en Clipchamp (entorno GVA), vídeos con avatares en Synthesia y HeyGen.
+- Vídeo educativo con IA: edición y subtitulado en Clipchamp (entorno GVA); vídeos con avatares en HeyGen (plan gratuito muy limitado: 3 vídeos de 1 min) y Synthesia (de pago). **Alternativa gratuita recomendada:** grabación de pantalla + ElevenLabs para narración.
 - Personalización de materiales en tres niveles (refuerzo, estándar, ampliación) para atender a la diversidad del aula de forma escalable.
 - Integración multimodal en situaciones de aprendizaje LOMLOE: planificación de recursos según principios DUA.
 
@@ -269,10 +279,11 @@ Se integra de forma nativa en Microsoft 365 (Outlook, Word, Excel, Teams, OneNot
 
 | Herramienta | Uso principal en el curso |
 |:------------|:--------------------------|
-| **Gemini** (Google) | Generación de texto, imágenes (Imagen 3), comparativa de calidad |
+| **Gemini** (Google) | Generación de texto, imágenes, comparativa de calidad |
+| **ChatGPT** (OpenAI) | Chat multimodal, análisis de documentos, comparativa |
 | **NotebookLM** (Google) | Verificación curricular con fuentes documentales, Audio Overviews |
-| **Kimi** (Moonshot AI) | Análisis de documentos extensos (ventana de contexto amplia) |
-| **Grok** (xAI) | Consultas rápidas, segunda opinión |
+| **Kimi** (Moonshot AI) | Análisis de documentos extensos, generación de presentaciones, Deep Research |
+| **Canva** | Presentaciones, infografías, vídeos educativos (gratuito para docentes) |
 
 ### Plataforma de seguimiento
 
@@ -280,12 +291,12 @@ Se integra de forma nativa en Microsoft 365 (Outlook, Word, Excel, Teams, OneNot
 
 ### Advertencia sobre protección de datos
 
-Las herramientas externas (Gemini, NotebookLM, Kimi, Grok, ElevenLabs, Gamma, Synthesia, HeyGen, Canva...) **no garantizan la protección de datos dentro del entorno institucional**. Normas a cumplir:
+Las herramientas externas (Gemini, NotebookLM, Kimi, ElevenLabs, HeyGen, Canva...) **no garantizan la protección de datos dentro del entorno institucional**. Normas a cumplir:
 
 - **Nunca** introducir datos personales del alumnado en herramientas externas.
 - **Nunca** subir documentos internos del centro a servicios no corporativos.
 - Usar únicamente **datos ficticios, anonimizados o de dominio público** con herramientas externas.
-- Ante la duda, aplicar la **regla de la fotocopia pública**: *"¿Dejaría este documento en la fotocopiadora del pasillo?"*. Si no, no lo subas a ninguna IA que no sea Copilot `@edu.gva.es`.
+- **Excepción:** Canva Education (con verificación docente) cumple FERPA/COPPA y es más segura para datos de aula. Consulta la [tabla de herramientas](herramientas-ia-actualizadas.md).
 
 ---
 
@@ -323,7 +334,7 @@ Si la IA puede generar una rúbrica perfecta en 10 segundos, ¿qué valor tiene 
 
 - Actividades individuales de cada bloque (entregadas en Aules).
 - Actividades grupales en las sesiones síncronas.
-- **Portfolio integrador final**: proyecto que reúne evidencias de los cuatro bloques (correo a familias, situación de aprendizaje verificada, recurso multimodal, rúbrica con adaptación NEAE) acompañado de una reflexión personal.
+- **Portfolio integrador / Proyecto «Mi flujo docente con IA»**: proyecto final que reúne evidencias de los cuatro bloques acompañadas de una reflexión personal sobre cómo la IA ha cambiado (o no) tu práctica docente.
 
 ### Retroalimentación
 
@@ -426,10 +437,12 @@ La IA no te quita trabajo: te cambia el tipo de trabajo. Menos copiar-pegar, má
 |:-------:|:-----:|:--------|:-------------|
 | 1.0 | 01/04/2026 | Equipo docente del curso | Redacción inicial de la guía didáctica |
 | 1.1 | 14/04/2026 | Equipo docente del curso | Reescritura para mejorar claridad, escaneabilidad y tono. Incorporación del enfoque "evaluar procesos, no productos" |
+| 2.0 | 2026-08 | Equipo docente del curso | V2: actualización de herramientas (eliminación de Grok, Canva como primaria para presentaciones, lenguaje prudente sobre Copilot GVA, EU AI Act), separación de datos de edición |
 
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
+Herramientas de IA para Docentes<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>

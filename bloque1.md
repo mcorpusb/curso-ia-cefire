@@ -19,11 +19,11 @@ Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útile
 
 Al finalizar este bloque serás capaz de:
 
-- Acceder y configurar Microsoft Copilot con tu cuenta corporativa **@edu.gva.es**.
+- Comprobar la disponibilidad de Copilot Chat con tu cuenta **@edu.gva.es** y comenzar a usarlo (o usar Gemini/ChatGPT como alternativa gratuita).
 - Redactar actas de reuniones (claustro, CCP, equipos docentes) con asistencia de IA.
 - Componer y automatizar correos electrónicos profesionales dirigidos a familias, alumnado y administración.
 - Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
-- Comparar el rendimiento de Copilot con Gemini, Kimi y Grok en tareas administrativas reales.
+- Comparar el rendimiento de Copilot Chat con Gemini y ChatGPT en tareas administrativas reales.
 
 ---
 
@@ -39,7 +39,7 @@ Para que puedas avanzar con claridad, en este bloque encontrarás tres tipos de 
 
 Al finalizar este bloque deberías haber conseguido, como mínimo:
 
-- acceder a Copilot con tu cuenta **@edu.gva.es** y comprobar que trabajas en entorno protegido;
+- comprobar si Copilot Chat está disponible con tu cuenta **@edu.gva.es** (o usar la alternativa gratuita asignada);
 - redactar al menos **un documento docente breve** con ayuda de la IA;
 - reformular una instrucción usando la estructura **Rol + Contexto + Tarea**;
 - entregar  **una actividad obligatoria** del bloque.
@@ -96,36 +96,41 @@ El objetivo no es hacer más tareas, sino **hacer una que realmente puedas aplic
 
 > ⚠️ **Uso seguro en este bloque**
 >
-> Realiza primero todas las prácticas en **Microsoft Copilot con tu cuenta @edu.gva.es**.
+> La herramienta preferente cuando esté disponible es **Copilot Chat con tu cuenta @edu.gva.es** (mayor protección de datos). **Compruébalo antes de la primera sesión**: si no está disponible en tu tenant, usa Gemini o ChatGPT como alternativa gratuita para todas las actividades.
 >
-> Solo después, y **sin usar datos personales reales ni documentos sensibles del centro**, puedes repetir algunos ejercicios en otras herramientas para comparar resultados.
+> En cualquier herramienta externa: **nunca introduzcas datos personales reales del alumnado ni documentos sensibles del centro**.
 
 ---
 
-## 1.1 · ¿Qué es Microsoft Copilot y por qué es la herramienta de la GVA?
+## 1.1 · Copilot Chat: la herramienta de referencia del curso
 
-Microsoft Copilot es la herramienta de IA generativa integrada en el ecosistema Microsoft 365. En este curso será la opción prioritaria porque permite trabajar dentro del entorno corporativo de la GVA y se integra con aplicaciones que ya forman parte del trabajo docente habitual, como Outlook, Word, Teams o OneNote.
+**Copilot Chat** es el asistente de IA de Microsoft, accesible en [copilot.microsoft.com](https://copilot.microsoft.com). En este curso es la herramienta de referencia porque, cuando se usa con cuenta institucional, ofrece mayor protección de datos que las alternativas de consumo general.
 
-Más que conocer toda la herramienta en profundidad desde el primer día, en este bloque te interesa comprobar tres cosas:
+{: .callout .callout--privacidad }
+**Antes de usarlo en el aula, compruébalo en tu cuenta**
+La disponibilidad de Copilot Chat con cuenta `@edu.gva.es` depende de la configuración del tenant de tu centro educativo. No todos los centros lo tienen habilitado con las mismas funciones. Compruébalo tú mismo antes de la primera sesión. Si no está disponible, todas las actividades del curso tienen ruta alternativa con **Gemini** (gratuito con cuenta Google) o **ChatGPT** (gratuito con cuenta OpenAI).
 
-- que puedes acceder con tu cuenta **@edu.gva.es**;
-- que trabajas en un entorno **protegido**;
-- y que puedes empezar a utilizarla en tareas reales de comunicación y organización docente.
+Lo que sí incluye siempre Copilot Chat (plan gratuito con cualquier cuenta Microsoft):
+- Chat conversacional con GPT-4o
+- Búsqueda web en tiempo real
+- Análisis de documentos adjuntos
+- Generación de imágenes (DALL-E)
+- Creación de Pages (páginas web colaborativas)
 
 | Ventaja | Detalle |
 |:--------|:--------|
-| **Protección de datos** | Los datos procesados permanecen dentro del tenant de la GVA y no se usan para entrenar modelos. |
-| **Integración nativa** | Funciona dentro de Word, Outlook, Teams, Excel y OneNote sin salir de las aplicaciones que ya usas. |
-| **Cumplimiento normativo** | Alineado con el RGPD y la política de privacidad corporativa de la GVA. |
-| **Acceso con identidad verificada** | Se accede con la cuenta `@edu.gva.es`, lo que garantiza trazabilidad y control de accesos. |
+| **Protección de datos mejorada** | Con cuenta institucional @edu.gva.es (si el tenant lo habilita): los datos no se usan para entrenar modelos. |
+| **Integración con Microsoft 365** | Se conecta con Word, Outlook, Teams... aunque la IA nativa en estas apps (Microsoft 365 Copilot) requiere licencia adicional. |
+| **Acceso gratuito** | Copilot Chat es gratuito con cualquier cuenta Microsoft. |
 
 ### Cómo acceder
 
-1. Entra en [copilot.microsoft.com](https://copilot.microsoft.com/).
+1. Ve a [copilot.microsoft.com](https://copilot.microsoft.com/).
 2. Inicia sesión con tu cuenta **@edu.gva.es**.
-3. Comprueba que aparece la insignia **"Protegido"** o **"Protected"**.
+3. Si ves la insignia **"🛡️ Protegido"** o **"Protected"**: estás en el entorno institucional con protección mejorada.
+4. Si ves un aviso de que Copilot no está disponible para tu cuenta, o si la sesión funciona pero sin indicador de protección: usa **Gemini** ([gemini.google.com](https://gemini.google.com)) con tu cuenta de Google como alternativa para este curso. Todas las actividades tienen ruta gratuita.
 
-> 💡 Si no aparece la insignia, cierra sesión y vuelve a entrar asegurándote de usar tu cuenta institucional y no una cuenta personal.
+> Si tienes dudas sobre la configuración de tu cuenta, consulta con el SAI de tu centro.
 
 ---
 
@@ -224,13 +229,13 @@ secretario/a. Usa un tono formal e impersonal.
 
 ### Comparativa entre herramientas
 
-| Criterio | Copilot (GVA) | Gemini | Kimi | Grok |
-|:---------|:-------------:|:------:|:----:|:----:|
-| Datos protegidos en entorno GVA | ✅ | ❌ | ❌ | ❌ |
-| Formato acta formal en español | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| Integración directa con Word | ✅ | ❌ | ❌ | ❌ |
-| Calidad del tono administrativo | Muy alta | Alta | Media | Media |
-| Acceso gratuito al docente GVA | ✅ (licencia corporativa) | ✅ (cuenta personal) | ✅ (cuenta personal) | ✅ (cuenta personal) |
+| Criterio | Copilot Chat (@edu.gva.es) | Gemini | ChatGPT |
+|:---------|:-------------:|:------:|:----:|
+| Protección de datos mejorada (si tenant habilitado) | ✅ | ❌ | ❌ |
+| Formato acta formal en español | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Integración directa con Word | ✅ | ❌ | ❌ |
+| Calidad del tono administrativo | Muy alta | Alta | Alta |
+| Acceso gratuito | ✅ (cuenta Microsoft) | ✅ (cuenta Google) | ✅ (cuenta OpenAI) |
 
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
 
@@ -361,26 +366,41 @@ Reformula este correo con frases más cortas, lenguaje claro y estructura fácil
 
 ---
 
-## 1.4 · Cómo dar mejores instrucciones a la IA (sin complicarte)
+## 1.4 · Cómo dar mejores instrucciones a la IA: prompting iterativo
 
-Hasta ahora has visto que Copilot puede ayudarte a redactar correos y documentos.  
-La clave para que los resultados sean realmente útiles está en **cómo le das las instrucciones**.
+La clave para obtener resultados útiles no está en encontrar el prompt perfecto de una sola vez. Está en **iterar**: dar una primera instrucción, evaluar la respuesta y refinar.
 
-No necesitas aprender nada complejo: basta con estructurar bien lo que le pides.
+### El ciclo de prompting iterativo
+
+<div class="flujo-horizontal">
+  <div class="flujo-horizontal__paso">
+    <span class="flujo-horizontal__num">1</span>
+    <strong>Define</strong>
+    Rol + Contexto + Tarea
+  </div>
+  <div class="flujo-horizontal__flecha">→</div>
+  <div class="flujo-horizontal__paso">
+    <span class="flujo-horizontal__num">2</span>
+    <strong>Genera</strong>
+    Lánzalo a la IA
+  </div>
+  <div class="flujo-horizontal__flecha">→</div>
+  <div class="flujo-horizontal__paso">
+    <span class="flujo-horizontal__num">3</span>
+    <strong>Evalúa</strong>
+    ¿Sirve? ¿Qué falta?
+  </div>
+  <div class="flujo-horizontal__flecha">→</div>
+  <div class="flujo-horizontal__paso">
+    <span class="flujo-horizontal__num">4</span>
+    <strong>Refina</strong>
+    Añade detalle o pide variante
+  </div>
+</div>
+
+No existe el “prompt perfecto”: la conversación con la IA es un proceso, no una consulta única.
 
 ### 🧩 Estructura básica que funciona
-
-<p style="text-align: center; margin: 20px 0;">
-  <img src="{{ '/assets/img/prompt-estructura.png' | relative_url }}" alt="Estructura de prompt: rol, contexto y tarea" width="500">
-</p>
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Cómo leer este esquema</strong><br>
-Antes de escribir un prompt, piensa en estas tres preguntas:
-¿Quién quieres que sea la IA? · ¿En qué contexto estás? · ¿Qué necesitas exactamente?
-
-</div>
 
 En este curso utilizaremos una fórmula sencilla:
 
@@ -556,10 +576,10 @@ En este bloque, la herramienta de referencia es **Copilot**, especialmente cuand
 
 Como orientación general:
 
-* **Copilot** → opción prioritaria para tareas administrativas y comunicación docente en entorno GVA.
-* **Gemini** → útil para explorar segundas versiones o reformulaciones de textos públicos.
+* **Copilot Chat** → opción preferente para tareas administrativas cuando esté disponible con @edu.gva.es. Si no, usa Gemini o ChatGPT.
+* **Gemini** → útil para explorar segundas versiones o reformulaciones de textos públicos. Gratuito con cuenta Google.
+* **ChatGPT** → alternativa potente con planes gratuitos generosos. Excelente para tareas de redacción y comparativas.
 * **Kimi** → interesante para analizar textos largos, siempre anonimizados.
-* **Grok** → válido para contrastes rápidos, con menor control del formato.
 
 La comparación detallada entre herramientas se seguirá trabajando más adelante, cuando abordemos tareas de mayor complejidad.
 
@@ -658,10 +678,10 @@ Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
 **Tipo:** grupal / sesión síncrona / ampliación guiada
 
 1. En grupos de 3-4 personas, elegid **una tarea administrativa** de las vistas en el bloque (acta, correo, cuadrante, inventario).
-2. Escribid el mismo prompt en **Copilot**, **Gemini** y **Kimi** (o **Grok**).
+2. Escribid el mismo prompt en **Copilot Chat**, **Gemini** y **ChatGPT** (o Kimi como variante).
 3. Completad la siguiente tabla de valoración:
 
-| Criterio (1-5) | Copilot | Gemini | Kimi/Grok |
+| Criterio (1-5) | Copilot Chat | Gemini | ChatGPT |
 |:----------------|:-------:|:------:|:---------:|
 | Calidad del contenido | | | |
 | Formato y estructura | | | |
@@ -734,11 +754,11 @@ Si hay algún punto en el que dudas, vuelve a esa parte del bloque y revísala c
 Antes de pasar al Bloque 2, comprueba si puedes responder **sí** a estas preguntas:
 
 - [ ] He probado la IA generativa y he comprobado que es una herramienta accesible y conversacional.
-- [ ] Sé acceder a Copilot con mi cuenta `@edu.gva.es` y verificar que estoy en el entorno protegido.
+- [ ] Soy capaz de comprobar si Copilot Chat está disponible con mi cuenta `@edu.gva.es` (y sé qué alternativa usar si no lo está).
 - [ ] Puedo redactar un acta estructurada usando un prompt bien definido.
 - [ ] Soy capaz de generar un correo formal para familias y pedir variantes (idioma, tono, longitud).
 - [ ] He organizado (o tengo un plan para organizar) mi documentación docente con ayuda de la IA.
-- [ ] Conozco las diferencias prácticas entre Copilot, Gemini, Kimi y Grok para tareas administrativas.
+- [ ] Conozco las diferencias prácticas entre Copilot Chat, Gemini y ChatGPT para tareas administrativas.
 - [ ] Entiendo por qué debo usar Copilot como herramienta prioritaria cuando manejo datos del centro.
 
 <div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">

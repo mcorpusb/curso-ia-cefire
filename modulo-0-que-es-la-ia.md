@@ -4,421 +4,262 @@ title: "Módulo 0: Entender la IA en 2026"
 nav_order: 3
 ---
 
-# Bloque 0: ¿Qué es la IA?
+# Módulo 0: Entender la IA en 2026
+{: .fs-8 }
 
-Antes de empezar a usar herramientas como Copilot, ChatGPT, Gemini o NotebookLM, conviene detenerse un momento en una pregunta básica: **qué entendemos realmente por inteligencia artificial**.
-
-Este módulo sirve para construir una base común. No busca convertirnos en especialistas técnicos, sino ayudarnos a comprender **qué hace la IA, qué no hace y por qué esto importa en educación**.
-
-> **Idea clave**
-> Entender qué es la IA permite usarla mejor, con más criterio y con expectativas más realistas.
+Una base conceptual para usar estas herramientas con criterio.
+{: .fs-5 .fw-300 }
 
 ---
 
-## 1. ¿Qué entendemos por inteligencia artificial?
-
-Cuando hablamos de **inteligencia artificial**, nos referimos a sistemas capaces de realizar tareas que solemos asociar con capacidades humanas, como:
-
-* reconocer patrones;
-* clasificar información;
-* generar texto;
-* resumir documentos;
-* traducir;
-* recomendar contenidos;
-* hacer predicciones a partir de datos.
-
-Eso no significa que una IA **piense como una persona**. Significa, más bien, que puede producir resultados que, desde fuera, parecen “inteligentes”.
-
-En educación, esto se traduce en acciones como:
-
-* resumir un texto largo;
-* adaptar una explicación a una edad concreta;
-* generar preguntas tipo test;
-* proponer una rúbrica;
-* reorganizar información;
-* sugerir ideas para actividades.
-
-> **Para recordar**
-> La IA no es magia. Es una tecnología capaz de aprender patrones y producir respuestas útiles a partir de datos.
+{: .callout .callout--idea }
+**Para qué sirve este módulo**
+No busca convertirnos en especialistas técnicos. Busca que podamos responder tres preguntas prácticas antes de usar estas herramientas en el aula: *¿Cómo funciona? ¿Por qué se equivoca? ¿Cuándo no debo usarla?*
 
 ---
 
-## 2. Programa tradicional vs inteligencia artificial
+## 1. Qué es la inteligencia artificial (sin tecnicismos)
 
-No todo el software funciona igual.
+La IA es un tipo de software capaz de **aprender patrones a partir de datos** y producir respuestas útiles para tareas concretas: resumir, explicar, traducir, generar imágenes, clasificar.
 
-### Programa tradicional
+La diferencia con un programa tradicional es importante:
 
-Un programa tradicional sigue **reglas fijas**.
-Hace exactamente lo que se le ha indicado.
+| Aspecto | Programa tradicional | Sistema con IA |
+|---------|---------------------|----------------|
+| Funcionamiento | Sigue reglas fijas | Aprende patrones de datos |
+| Flexibilidad | Baja | Mayor |
+| Respuesta ante lo nuevo | Limitada | Puede generalizar |
+| Base del sistema | Instrucciones exactas | Datos + entrenamiento |
 
-Ejemplo:
+**Ejemplo cotidiano:** Una calculadora suma porque alguien escribió la regla. Un teclado predictivo sugiere palabras porque aprendió patrones de lenguaje.
 
-* si una contraseña no coincide, no entra;
-* si una celda cumple una condición, muestra un resultado;
-* si pulsamos un botón, ejecuta una acción concreta.
-
-### Sistema con IA
-
-La IA, en cambio, no depende solo de reglas escritas una a una.
-Puede **aprender a partir de ejemplos**, detectar patrones y producir resultados aunque no se haya programado cada caso de forma explícita.
-
-### Comparativa rápida
-
-| Aspecto                     | Programa tradicional                | Sistema con IA                              |
-| --------------------------- | ----------------------------------- | ------------------------------------------- |
-| Funcionamiento              | Sigue reglas fijas                  | Aprende patrones a partir de datos          |
-| Flexibilidad                | Baja                                | Mayor                                       |
-| Ejemplo típico              | Calculadora, formulario, validación | Recomendador, traductor, generador de texto |
-| Respuesta ante casos nuevos | Limitada                            | Puede generalizar                           |
-| Base del sistema            | Instrucciones exactas               | Datos + entrenamiento + modelo              |
-
-> **Ejemplo cotidiano**
-> Una calculadora suma porque alguien escribió la regla. Un teclado predictivo sugiere palabras porque ha aprendido patrones de lenguaje.
+La IA que usamos hoy **no entiende el mundo como una persona**. Detecta regularidades estadísticas en enormes volúmenes de texto e imágenes, y genera respuestas que "tienen sentido" porque encajan con esos patrones.
 
 ---
 
-## 3. La IA aprende con ejemplos
+## 2. Tres formas de obtener respuestas con IA
 
-Una manera sencilla de entender la IA es compararla con **un niño que aprende**.
+En lugar de hablar de "tipos de IA", es más útil pensar en **qué le pedimos que haga** con nuestra información:
 
-Un niño no nace sabiendo leer, clasificar animales o resolver problemas. Aprende poco a poco:
+<div class="tres-columnas">
+  <div class="tres-columnas__col">
+    <p><strong>💬 Pregunta y responde</strong></p>
+    <p>Le hacemos una pregunta o le damos una tarea. Ella responde usando lo que aprendió durante el entrenamiento (hasta su fecha de corte) o con búsqueda web en tiempo real.</p>
+    <p><em>Copilot Chat, ChatGPT, Gemini en modo chat</em></p>
+  </div>
+  <div class="tres-columnas__col">
+    <p><strong>📄 Trabaja con tus documentos</strong></p>
+    <p>Le damos nuestros propios textos (PDFs, decretos, apuntes) y ella responde <em>solo</em> usando esas fuentes. Más fiable para temas especializados.</p>
+    <p><em>NotebookLM, Copilot con archivos adjuntos</em></p>
+  </div>
+  <div class="tres-columnas__col">
+    <p><strong>🔍 Investiga y actúa</strong></p>
+    <p>Le damos un objetivo complejo. Ella busca, sintetiza varias fuentes y elabora un informe detallado (Deep Research) o ejecuta pasos de forma autónoma (Agentes).</p>
+    <p><em>Deep Research en Gemini/ChatGPT, Agentes de Copilot</em></p>
+  </div>
+</div>
 
-1. ve ejemplos;
-2. prueba;
-3. se equivoca;
-4. recibe corrección;
-5. mejora.
-
-Con la IA ocurre algo parecido: se le muestran muchos ejemplos y, a partir de ellos, aprende regularidades.
-
-### Esquema simple
-
-| Paso        | Qué ocurre                                             |
-| ----------- | ------------------------------------------------------ |
-| Ve ejemplos | Recibe muchos datos: textos, imágenes, audios, números |
-| Se equivoca | Sus primeras respuestas no son precisas                |
-| Corrige     | El entrenamiento ajusta el modelo                      |
-| Mejora      | Aprende patrones y responde cada vez mejor             |
-
-> **Idea clave**
-> La IA no aprende “entendiendo” como una persona. Aprende **detectando patrones** en muchísimos ejemplos.
-
----
-
-## 4. ¿Cómo funciona por dentro?
-
-Aunque no necesitamos una explicación técnica profunda para usarla en el aula, sí conviene comprender sus componentes básicos.
-
-### Datos
-
-La IA aprende a partir de datos:
-
-* textos;
-* imágenes;
-* audios;
-* vídeos;
-* números;
-* documentos.
-
-Los datos son, por decirlo de manera simple, la “experiencia” de la que aprende el sistema.
-
-### Algoritmos
-
-Los algoritmos son los procedimientos matemáticos que permiten procesar esos datos y buscar regularidades.
-
-### Entrenamiento
-
-Durante el entrenamiento, el sistema ajusta sus parámetros para mejorar sus resultados. En ese proceso compara respuestas, detecta errores y corrige.
-
-### Patrones
-
-Tras procesar muchísimos ejemplos, la IA aprende patrones:
-
-* qué palabras suelen ir juntas;
-* qué rasgos se repiten en una imagen;
-* qué estructura suele tener una respuesta;
-* qué tipo de salida es más probable.
-
-### Predicción
-
-Con esos patrones, el sistema genera una respuesta o una predicción.
-
-### Mejora
-
-Cuantos más datos, ajustes y entrenamiento adecuados tiene el sistema, mejores suelen ser sus resultados.
-
-### Flujo básico
-
-```mermaid
-flowchart LR
-    A[Datos] --> B[Entrenamiento]
-    B --> C[Patrones]
-    C --> D[Predicción o respuesta]
-    D --> E[Revisión y mejora]
-```
-
-> **Ojo**
-> Que una respuesta suene convincente no significa que sea correcta. La IA puede producir textos muy plausibles y, aun así, equivocarse.
+{: .callout .callout--recuerda }
+**Para recordar:** No hay una herramienta "mejor". La elección depende de la tarea. Para contenido curricular verificado, NotebookLM con los decretos cargados es más fiable que un chat general.
 
 ---
 
-## 5. Ejemplos cotidianos de IA
+## 3. IA generativa: qué puede generar
 
-La IA no aparece solo en herramientas “nuevas”. Ya forma parte de muchas tecnologías cotidianas.
+La IA que usamos en el curso pertenece al grupo de la **IA generativa**: crea contenido nuevo combinando patrones aprendidos.
 
-### Algunos ejemplos frecuentes
+Puede generar:
+- **Texto:** redacciones, resúmenes, explicaciones, preguntas, rúbricas
+- **Imágenes:** ilustraciones, diagramas, personajes (Canva IA, Adobe Firefly, DALL-E)
+- **Audio:** narraciones realistas, voces sintéticas (ElevenLabs)
+- **Vídeo:** vídeos con avatar, clips animados (HeyGen, Canva)
+- **Código:** fragmentos de código, fórmulas, scripts
 
-* **Recomendaciones** en Netflix, YouTube o Spotify.
-* **Teclado predictivo** en el móvil.
-* **Asistentes de voz** como Siri, Alexa o Google Assistant.
-* **Mapas y navegación**, que sugieren rutas.
-* **Filtros de spam** en el correo.
-* **Traducción automática**.
-* **Subtítulos automáticos**.
-* **Reconocimiento de voz** al dictar mensajes.
-
-### Conexión con el día a día docente
-
-Muchos docentes ya conviven con IA sin llamarla así:
-
-* cuando el correo separa spam;
-* cuando el móvil sugiere palabras;
-* cuando una plataforma recomienda contenidos;
-* cuando un traductor automático ayuda a preparar materiales.
-
-> **Para el aula**
-> Usar IA no equivale solo a usar ChatGPT. Muchas herramientas que ya utilizamos incorporan IA desde hace años.
+Esto es útil en educación para: adaptar explicaciones, crear materiales multimodales, transformar apuntes en otros formatos.
 
 ---
 
-## 6. Resumen en una frase
+## 4. Qué han cambiado los modelos de razonamiento
 
-> **La IA es un sistema capaz de aprender patrones a partir de datos para generar respuestas, clasificar información o hacer predicciones.**
+En 2025-2026 han aparecido modelos que van más allá de "predecir la siguiente palabra": los llamados **modelos de razonamiento** (o1, o3 de OpenAI; Gemini Thinking; Claude 3.7 Sonnet). Estos modelos:
 
-También podemos decirlo así:
+- Dedican tiempo a "pensar" antes de responder (razonamiento en cadena).
+- Resuelven mejor problemas matemáticos, lógicos y de planificación compleja.
+- Suelen ser más lentos pero más precisos en tareas complejas.
 
-> **La IA no sigue solo reglas fijas: aprende de ejemplos, detecta patrones y produce resultados útiles en tareas concretas.**
-
----
-
-## 7. Tipos de IA
-
-No toda la IA es igual. Una forma habitual de clasificarla distingue entre **IA débil**, **IA general** e **IA superinteligente**.
-
-### Tabla comparativa
-
-| Tipo de IA          | Qué es                                                                | ¿Existe hoy? | Ejemplos                                         | Nivel de realidad actual         |
-| ------------------- | --------------------------------------------------------------------- | ------------ | ------------------------------------------------ | -------------------------------- |
-| IA débil o estrecha | Diseñada para tareas concretas                                        | Sí           | asistentes, recomendadores, generadores de texto | Es la IA real de hoy             |
-| IA general (AGI)    | Sería capaz de aprender y realizar cualquier tarea intelectual humana | No           | No hay ejemplos reales                           | Sigue siendo un objetivo teórico |
-| IA superinteligente | Superaría ampliamente la capacidad humana                             | No           | No existe                                        | Es una hipótesis teórica         |
-
-### Lo importante para este curso
-
-La inmensa mayoría de herramientas que hoy usamos en educación son **IA débil**:
-
-* hacen algunas cosas muy bien;
-* no lo hacen todo;
-* no entienden el mundo como una persona;
-* no tienen conciencia.
-
-> **Idea clave**
-> ChatGPT, Copilot, Gemini o NotebookLM no son una “mente general”. Son herramientas potentes, pero especializadas.
+Para el aula: son útiles para generar rúbricas complejas, resolver errores lógicos en programas o elaborar adaptaciones curriculares detalladas. No son necesarios para tareas cotidianas simples.
 
 ---
 
-## 8. Dentro de la IA actual: la IA generativa
+## 5. Agentes y Deep Research
 
-Dentro de la IA actual hay un grupo especialmente relevante: la **IA generativa**.
+### Agentes de IA
 
-Se llama así porque puede **generar contenido nuevo** a partir de los patrones aprendidos.
+Un agente no solo responde: **ejecuta tareas de forma autónoma**, tomando decisiones en una cadena de pasos. Puede buscar información, generar un documento, verificar datos y presentar un resultado sin intervención constante del usuario.
 
-### ¿Qué puede generar?
+Para docentes: los agentes permiten automatizar flujos repetitivos (generar informes de evaluación, adaptar materiales en lote, crear plantillas reutilizables).
 
-* texto;
-* resúmenes;
-* esquemas;
-* preguntas;
-* imágenes;
-* código;
-* reformulaciones;
-* traducciones;
-* propuestas de actividades.
+### Deep Research
 
-### Por qué importa en educación
+Función disponible en Gemini, ChatGPT y Copilot que permite pedir una investigación profunda sobre un tema. El modelo realiza **múltiples búsquedas web**, sintetiza las fuentes y entrega un informe con citas.
 
-La IA generativa resulta útil porque puede:
-
-* adaptar una explicación a una edad concreta;
-* proponer ejemplos;
-* transformar apuntes en preguntas;
-* resumir información;
-* ayudar a crear materiales.
-
-> **Ejemplo cotidiano**
-> Cuando una herramienta redacta un correo, resume un documento o propone una explicación paso a paso, normalmente estamos ante usos de IA generativa.
+{: .callout .callout--verifica }
+**Importante: Deep Research no es infalible.** Puede seleccionar fuentes sesgadas o no verificar la calidad de cada una. Siempre revisa las citas originales antes de usar el informe en el aula.
 
 ---
 
-## 9. Las herramientas que veremos en el curso
+## 6. Ventana de contexto: cuánto "recuerda" la IA
 
-A continuación se resumen algunas herramientas relevantes en el ecosistema actual. Todas pertenecen a la IA actual; muchas de ellas son IA generativa y casi todas encajan en lo que llamamos **IA débil**.
+Cada conversación con una IA tiene un **límite de memoria activa** (ventana de contexto), medida en "tokens" (fragmentos de texto). Cuando ese límite se supera, la IA empieza a "olvidar" lo que dijiste al principio.
 
-| Herramienta       | Uso principal                                      | Punto fuerte                      | Mejor para                                           | Limitación                                                     |
-| ----------------- | -------------------------------------------------- | --------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------- |
-| ChatGPT           | conversación, redacción, explicación               | versatilidad                      | explicar, crear materiales, reformular               | necesita revisión y puede inventar datos                       |
-| Microsoft Copilot | asistencia integrada en ecosistema Microsoft       | integración con entorno Microsoft | productividad docente, documentos, tareas cotidianas | depende mucho del contexto y del entorno                       |
-| Gemini            | trabajo integrado con servicios de Google          | ecosistema Google                 | documentos, Gmail, apoyo general                     | calidad variable según tarea                                   |
-| NotebookLM        | trabajo con documentos propios                     | responde desde tus fuentes        | apuntes, PDFs, síntesis y estudio documental         | depende de la calidad de los documentos subidos                |
-| Grok              | consulta con foco en actualidad y tono más directo | información reciente              | tendencias y actualidad                              | no siempre es la mejor opción para tareas didácticas profundas |
-| Kimi              | lectura de textos largos                           | manejo de gran volumen de texto   | documentos extensos                                  | menos extendida en entornos educativos                         |
-
-### Una aclaración importante
-
-En este curso tiene especial relevancia **Microsoft Copilot**, porque se trabaja en relación con el entorno institucional y la productividad docente. Pero conviene entenderlo dentro del conjunto: **no es “la IA”, sino una herramienta concreta dentro del ecosistema de IA actual**.
-
-> **Para recordar**
-> No hay una única herramienta “mejor” para todo. La elección depende de la tarea, del contexto y del criterio docente.
+Implicaciones prácticas:
+- Para sesiones largas, resume lo anterior o empieza una nueva conversación.
+- Para analizar documentos largos (un libro completo, varios decretos), usa herramientas con ventana grande (Kimi, Claude, NotebookLM).
+- El sistema no "recuerda" conversaciones anteriores a menos que uses un agente con memoria activada.
 
 ---
 
-## 10. Lo que la IA actual NO hace
+## 7. Alucinaciones: cuando la IA inventa con confianza
 
-Las herramientas actuales son útiles, pero tienen límites importantes. Conviene conocerlos para no pedirles más de lo que realmente pueden ofrecer.
+Las **alucinaciones** son respuestas inventadas que presentan con un tono seguro y convincente. Ejemplos:
 
-### Qué sí hace la IA actual y qué no hace
+- Citar un artículo de ley que no existe
+- Inventar el nombre de un investigador y su estudio
+- Generar una fecha histórica incorrecta pero plausible
+- Producir una referencia bibliográfica que nunca existió
 
-| Qué sí hace                                  | Qué no hace                            |
-| -------------------------------------------- | -------------------------------------- |
-| Resume información                           | No tiene conciencia                    |
-| Genera texto, esquemas o ideas               | No comprende el mundo como una persona |
-| Clasifica, reorganiza y transforma contenido | No tiene criterio pedagógico propio    |
-| Detecta patrones en muchos datos             | No garantiza siempre veracidad         |
-| Adapta tono o nivel de explicación           | No sustituye la revisión docente       |
-| Puede ahorrar tiempo                         | No reemplaza la relación educativa     |
+{: .callout .callout--alerta }
+**La IA no "sabe" que se equivoca.** El error no viene de malicia; viene de que el modelo optimiza para generar texto coherente, no para generar texto verdadero. Por eso cualquier dato factual importante debe verificarse en fuentes primarias.
 
-### Riesgos habituales
-
-* puede equivocarse;
-* puede omitir matices importantes;
-* puede inventar referencias o datos;
-* puede dar una respuesta convincente pero incorrecta;
-* puede simplificar en exceso.
-
-> **Ojo**
-> La IA no “sabe” que se equivoca. Por eso la supervisión humana es imprescindible.
+**Cómo reducir las alucinaciones:**
+- Usa NotebookLM con los documentos originales cargados (responde solo desde tus fuentes).
+- Pide a la IA que cite el párrafo exacto del documento del que extrae la información.
+- Para datos curriculares, contrasta con el DOGV/BOE antes de usar el material.
+- Si ves algo sorprendente o muy específico, verifica antes de asumir que es correcto.
 
 ---
 
-## 11. Qué significa esto para un docente
+## 8. Sesgos: lo que la IA aprendió de nosotros
 
-En educación, la IA puede ser una ayuda muy valiosa, pero siempre debe situarse como **herramienta de apoyo**, no como sustituto del profesorado.
+Los modelos de IA aprenden de texto humano y heredan los sesgos de esa información:
 
-### Puede ayudarte a:
+- **Sesgos de género:** los personajes en posiciones de autoridad o liderazgo pueden ser mayoritariamente masculinos en las respuestas.
+- **Sesgos culturales:** perspectivas y marcos de referencia anglocentristas pueden dominar.
+- **Sesgos de capacidad:** las representaciones de personas con discapacidad pueden ser estereotipadas.
+- **Sesgos geográficos:** el contexto local (normativa valenciana, realidad de tu centro) puede estar ausente o ser incorrecto.
 
-* ahorrar tiempo en tareas repetitivas;
-* generar borradores de materiales;
-* adaptar explicaciones a distintos niveles;
-* resumir documentos;
-* transformar contenidos;
-* proponer ejemplos, actividades o preguntas;
-* organizar ideas de forma más rápida.
-
-### Pero sigue siendo imprescindible el papel docente para:
-
-* decidir qué tiene sentido enseñar;
-* adaptar al contexto real del aula;
-* detectar errores o sesgos;
-* valorar si un material es pedagógicamente adecuado;
-* acompañar, motivar y orientar al alumnado;
-* cuidar la dimensión ética y humana del aprendizaje.
-
-> **Para el aula**
-> La IA puede ayudarte a preparar mejor una clase. Pero explicar bien, conectar con el alumnado y tomar decisiones educativas sigue siendo tarea del docente.
-
-
-## 🌍 La IA en educación: marco de referencia (UNESCO)
-
-> **Resumen visual del enfoque UNESCO sobre IA en educación**
-
-<p align="center">
-    <img src="assets/img/Marco-unesco.png" alt="Marco de competencias en IA para docentes según la UNESCO" width="80%">
-</p>
-
-La incorporación de la inteligencia artificial en la educación no es solo una cuestión técnica. Implica también reflexión pedagógica, ética y profesional. Por eso, organismos internacionales como la UNESCO han desarrollado marcos de referencia para orientar a los sistemas educativos y al profesorado.
-
-La UNESCO ha publicado el **Marco de competencias para docentes en materia de IA**, que define los conocimientos, habilidades y valores que el profesorado necesita para desenvolverse con criterio en la era de la inteligencia artificial.
-
-Este marco identifica cinco dimensiones clave, que se traducen en retos y oportunidades concretas para la práctica docente:
-
-| Dimensión UNESCO                        | ¿Qué significa en el aula?                                  |
-| ---------------------------------------- | ---------------------------------------------------------- |
-| Enfoque centrado en el ser humano        | Poner siempre a las personas y al alumnado en el centro    |
-| Ética de la IA                           | Usar la IA de forma responsable, segura y transparente     |
-| Fundamentos y aplicaciones de la IA      | Comprender cómo funciona y para qué sirve la IA            |
-| Pedagogía de la IA                       | Integrar la IA en la enseñanza de manera didáctica         |
-| IA para el aprendizaje profesional       | Usar la IA para mejorar la formación y el desarrollo docente|
-
-Estas competencias se desarrollan en tres niveles de progresión: **adquirir**, **profundizar** y **crear**.
-
-> **Idea clave**
-> No basta con saber usar herramientas de IA: lo importante es saber cuándo, cómo y para qué utilizarlas en educación.
-
-**Enlaces de interés:**
-
-- [Marco de competencias para docentes en materia de IA (UNESCO, español)](https://www.unesco.org/es/articles/marco-de-competencias-para-docentes-en-materia-de-ia)
-## 12. Idea final
-
-> **La mejor combinación no es IA o docente. La mejor combinación es IA + criterio docente.**
-
-La tecnología puede acelerar procesos, generar propuestas y facilitar tareas. Pero el valor educativo sigue estando en la mirada profesional del profesorado:
-
-* qué selecciona;
-* cómo acompaña;
-* cómo interpreta;
-* cómo contextualiza;
-* cómo transforma una herramienta en aprendizaje real.
+**Para el aula:** revisa los materiales generados con IA desde la perspectiva de la diversidad. ¿Los ejemplos y personajes son representativos? ¿Se adaptan al contexto cultural de tu alumnado?
 
 ---
 
-## 13. Actividad breve opcional
+## 9. Cuándo NO usar la IA
 
-### Actividad de inicio
+{: .callout .callout--privacidad }
+**Esta es una de las competencias más importantes del curso: saber decir que no.**
 
-Piensa en tres situaciones de tu día a día docente en las que ya aparezca algún tipo de IA, aunque no la llames así.
+La IA no es la herramienta adecuada en todas las situaciones. Casos en los que **no deberías usarla**:
 
-Por ejemplo:
+| Situación | Por qué no usar IA |
+|-----------|-------------------|
+| Tomas de decisiones sobre el alumnado (expedientes, diagnósticos, orientación personal) | La IA no conoce al alumno real; sus recomendaciones pueden ser inexactas o sesgadas. La responsabilidad es del docente. |
+| Datos personales sin anonimizar | Incumplimiento del RGPD. Nunca introduzcas nombres, notas, situaciones familiares o diagnósticos reales. |
+| Cuando el proceso de elaboración es el aprendizaje | Si el valor pedagógico está en el esfuerzo del alumno, delegar en la IA destruye ese valor. |
+| Contenido que requiere expertise real y actualización constante | Normativa en vigor, decisiones médicas, asesoramiento legal. La IA puede estar desactualizada o equivocarse. |
+| Evaluaciones sumativas sin supervisión | No puedes confirmar que el producto es del alumno si no hay proceso visible. |
+| Cuando no puedes verificar el resultado | Si no tienes tiempo ni capacidad de revisar el output, no lo uses: el resultado puede ser incorrecto. |
 
-* filtro de correo;
-* traducción automática;
-* recomendaciones de vídeos;
-* teclado predictivo;
-* asistentes de voz;
-* herramientas que resumen documentos.
-
-Después, responde:
-
-1. ¿Qué hace exactamente la herramienta?
-2. ¿Te ahorra tiempo, te orienta o toma decisiones por ti?
-3. ¿Qué revisión humana sigue siendo necesaria?
+{: .callout .callout--reflexion }
+**Pregunta clave antes de usar IA:** *"¿Esta tarea realmente se beneficia de la IA, o el proceso de elaboración manual tiene un valor formativo que no debo perder?"*
 
 ---
 
-## 14. Siguiente paso
+## 10. Marco legal: EU AI Act en vigor (2026)
 
-Ahora que ya tienes una base clara sobre qué es la IA y qué límites tiene, el siguiente paso es empezar a trabajar con herramientas concretas en contexto educativo.
+El **Reglamento de IA de la Unión Europea** (EU AI Act, Reglamento 2024/1689) entró en vigor en agosto de 2024. En agosto de 2026 son completamente aplicables las disposiciones sobre **sistemas de IA de alto riesgo** y **modelos de IA de propósito general** (GPAI), que incluyen los grandes modelos de lenguaje.
 
-[Ir al Bloque 1](bloque1.html)
+**Lo que esto significa para docentes:**
+
+- Los sistemas de IA que toman o apoyan decisiones sobre el alumnado (evaluación automatizada, orientación educativa) están clasificados como **alto riesgo** y sujetos a requisitos estrictos de transparencia, supervisión humana y no discriminación.
+- Las herramientas de IA deben indicar cuando el contenido es generado por IA (marcado de contenido).
+- Los centros educativos tienen responsabilidades en materia de alfabetización en IA del alumnado.
+
+{: .callout .callout--verifica }
+**Práctica recomendada:** Cuando uses IA para apoyar una decisión sobre el alumnado (orientación, adaptación, evaluación), documenta que la decisión final ha sido tomada por un profesional humano y que la IA solo fue una herramienta de apoyo. Esto es tanto buena práctica pedagógica como cumplimiento legal.
+
+Más información: [EUR-Lex: Reglamento IA UE](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689)
+
+---
+
+## 11. Las herramientas que veremos en el curso
+
+| Herramienta | Uso principal | Punto fuerte | Limitación clave |
+|-------------|--------------|-------------|-----------------|
+| **Copilot Chat** | Chat, documentos, imágenes, web | Integración Microsoft; prudente con @edu.gva.es | Disponibilidad GVA: verifica en tu cuenta |
+| **ChatGPT** | Chat, análisis de documentos, imágenes | Versatilidad, modelos de razonamiento | Necesita revisión; puede alucinanr |
+| **Gemini** | Chat, integración Google, Deep Research | Ecosistema Google; ventana de contexto larga | Calidad variable según tarea |
+| **NotebookLM** | Trabaja con tus documentos | Responde solo desde tus fuentes; muy fiable | Depende de la calidad de los docs subidos |
+| **Kimi** | Chat, documentos largos, Slides, Deep Research | Ventana de contexto muy amplia; genera presentaciones | Empresa china; revisar política de privacidad |
+| **Canva** | Presentaciones, infografías, vídeos, imagen IA | 100% gratuito para docentes K-12 verificados | Algunas funciones IA en plan de pago |
+
+{: .callout .callout--recuerda }
+**Para recordar:** Ninguna de estas herramientas es "la IA". Son herramientas concretas dentro de un ecosistema mucho más amplio que evoluciona continuamente. Desarrollar criterio para elegir es más valioso que dominar una sola herramienta.
+
+---
+
+## 12. Lo que la IA sí hace y lo que no hace
+
+| Qué sí hace | Qué no hace |
+|-------------|-------------|
+| Resume, transforma y adapta información | No tiene conciencia ni comprensión real |
+| Genera borradores útiles en segundos | No garantiza veracidad |
+| Detecta patrones en grandes volúmenes | No tiene criterio pedagógico propio |
+| Adapta tono, nivel y formato | No sustituye la revisión docente |
+| Puede ahorrar tiempo significativo | No reemplaza la relación educativa |
+| Responde 24h, nunca se cansa | Puede equivocarse con confianza total |
+
+---
+
+## 13. Marco de referencia UNESCO
+
+La UNESCO ha desarrollado el **Marco de competencias para docentes en materia de IA** (2022), que define cinco dimensiones:
+
+| Dimensión | En el aula |
+|-----------|-----------|
+| Enfoque centrado en el ser humano | Poner siempre a las personas en el centro |
+| Ética de la IA | Uso responsable, seguro y transparente |
+| Fundamentos y aplicaciones | Comprender cómo funciona y para qué sirve |
+| Pedagogía de la IA | Integrar la IA de manera didácticamente coherente |
+| IA para el aprendizaje profesional | Usar la IA para mejorar la formación propia |
+
+Estas competencias se desarrollan en tres niveles: **adquirir, profundizar y crear**.
+
+Enlace: [Marco UNESCO sobre IA para docentes (español)](https://www.unesco.org/es/articles/marco-de-competencias-para-docentes-en-materia-de-ia)
+
+---
+
+## 14. Actividad de inicio
+
+Antes de la primera sesión, haz esta reflexión (no hay entrega):
+
+1. ¿Qué herramientas con IA usas ya, aunque no las llames así? (filtro de correo, teclado predictivo, subtítulos automáticos...)
+2. ¿Qué tarea docente ocuparía más de 30 minutos en la que crees que la IA podría ayudar?
+3. ¿Qué tarea docente crees que NO debería delegarse a la IA? ¿Por qué?
+
+Lleva estas reflexiones a la primera sesión: servirán como punto de partida del Bloque 1.
 
 ---
 
 ## Ideas clave del módulo
 
-* La IA aprende patrones a partir de datos.
-* No funciona igual que un programa tradicional.
-* Muchas herramientas cotidianas ya usan IA.
-* La mayoría de IAs actuales son **IA débil**.
-* Muchas de las herramientas que usamos hoy son **IA generativa**.
-* La IA puede ser muy útil, pero también equivocarse.
-* En educación, el criterio docente sigue siendo imprescindible.
+- La IA aprende patrones a partir de datos, no "entiende" como una persona.
+- Hay tres formas de usarla: pregunta y responde / trabaja con tus documentos / investiga y actúa.
+- Los modelos de razonamiento, los agentes y Deep Research amplían lo que puede hacer.
+- Las alucinaciones son reales: cualquier dato factual importante requiere verificación.
+- Los sesgos están presentes: revisa los materiales desde la perspectiva de la diversidad.
+- **Saber cuándo NO usar la IA es tan importante como saber usarla.**
+- El EU AI Act está en vigor: los sistemas de IA de alto riesgo en educación tienen requisitos legales desde agosto 2026.
+
+---
+
+[Ir al Bloque 1 →](bloque1.md)
+

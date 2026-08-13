@@ -6,141 +6,136 @@ has_children: true
 ---
 <br>
 
-<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA Generativa para Docentes" style="width:100%; max-width:100%; display:block; margin:0 0 1.5rem 0;">
+<img src="{{ '/assets/img/banner-curso-ia.png' | relative_url }}" alt="Banner del curso IA para Docentes · CEFIRE" style="width:100%; max-width:100%; display:block; margin:0 0 1.5rem 0;">
 
-**Código:** 26IA92IN017 · **Modalidad:** Semipresencial · **Duración:** 32 horas
-
-
-
-<p style="text-align: center; margin: 30px 0;">
- <!-- <img src="{{ '/assets/img/portada-curso-ia-docentes.png' | relative_url }}" alt="Portada del curso IA Generativa para Docentes" width="700"> -->
+<!-- ═══════════════════════════════════════════════════════════════════
+     FICHA DEL CURSO — actualizar solo aquí cuando cambie la edición
+     ═══════════════════════════════════════════════════════════════════ -->
+<p style="font-size:0.92em; color:#555; margin-bottom:1.5rem;">
+  <strong>Código:</strong> 26IA92IN017 &nbsp;·&nbsp;
+  <strong>Modalidad:</strong> Semipresencial &nbsp;·&nbsp;
+  <strong>Duración:</strong> 32 horas &nbsp;·&nbsp;
+  <strong>Edición:</strong> 2025-2026
 </p>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ---
 
 ## Presentación
 
-Bienvenido/a al curso **"Herramientas de Inteligencia Artificial Generativa para Docentes"**.
+Bienvenido/a al curso **"Herramientas de IA para Docentes"**.
 
-A lo largo de este recorrido aprenderás a integrar la inteligencia artificial en tu práctica docente con sentido pedagógico, utilizando herramientas útiles para resolver tareas reales del día a día: desde la redacción de documentos hasta el diseño de actividades y materiales.
+Aprenderás a integrar la inteligencia artificial en tu práctica docente con criterio pedagógico, usando herramientas que resuelven tareas reales del día a día: desde la preparación de documentos y actividades hasta la creación de recursos multimodales y la personalización del aprendizaje.
 
-El curso está planteado de forma progresiva, comenzando por usos sencillos y avanzando hacia aplicaciones más complejas, siempre con un enfoque práctico, seguro y adaptado al contexto educativo.
+El curso es progresivo y completamente práctico. No necesitas conocimientos previos.
 
-> 💡 **No necesitas experiencia previa con IA para seguir el curso.**
+> **Las herramientas centrales del curso son Copilot Chat, NotebookLM y Canva.** Todas tienen modalidad gratuita. Consulta la [tabla de herramientas actualizadas](herramientas-ia-actualizadas.md) para detalles de acceso y privacidad.
 
 ![Ruta de aprendizaje del curso](assets/img/ruta-ia-docentes.png)
 
+---
+
 ## Qué te llevarás de este curso
 
-A lo largo del curso aprenderás a:
+Al terminar el curso sabrás:
 
-- **Ahorrar tiempo en tareas docentes habituales**, como la redacción de documentos o la preparación de evaluaciones.
-- **Diseñar actividades y recursos más variados e inclusivos**, adaptados a diferentes perfiles de alumnado.
-- **Usar la IA con criterio pedagógico y seguridad**, revisando resultados y protegiendo los datos.
+- **Ahorrar tiempo en tareas docentes habituales**: redacción de documentos, preparación de evaluaciones, correos a familias.
+- **Diseñar actividades y recursos más variados e inclusivos**, adaptados a diferentes perfiles y necesidades del alumnado.
+- **Usar la IA con criterio**: saber cuándo aporta valor real y cuándo no es la mejor opción.
+- **Proteger la privacidad** del alumnado y actuar dentro del marco legal (RGPD, Reglamento IA UE).
 
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💭 <strong>Para pensar</strong><br>
-La inteligencia artificial puede facilitar muchas tareas docentes, pero no siempre es la mejor opción en todos los casos.
-Parte del uso responsable consiste en decidir cuándo aporta valor… y cuándo es mejor no utilizarla.
-
-</div>
-
-> ⚠️ **Uso seguro de la IA en el curso**
->
-> La herramienta prioritaria del curso es **Microsoft Copilot** con tu cuenta **@edu.gva.es**.
->
-> En herramientas externas: **nunca introduzcas datos personales del alumnado ni información sensible del centro**.
+{: .callout .callout--reflexion }
+**Para pensar antes de empezar**
+La IA puede facilitar muchas tareas docentes, pero no siempre es la mejor herramienta. Parte del uso responsable consiste en decidir cuándo aporta valor real... y cuándo es mejor no usarla. En este curso practicaremos ese juicio.
 
 ---
 
-## 📅 Calendario de sesiones síncronas
+## Estructura del curso
 
-Todas las sesiones se realizan en horario de **17:30 h a 19:30 h** a través de la sala virtual del curso en Aules.
+| Módulo | Horas | Contenido |
+|--------|:-----:|-----------|
+| **Módulo 0** · Entender la IA en 2026 | 2 h | Cómo funciona la IA hoy, qué ha cambiado, alucinaciones, sesgos, marco legal |
+| **Bloque 1** · IA Colaborativa y Gestión GVA | 8 h | Copilot Chat, prompting eficaz, actas, correos, inclusión, privacidad |
+| **Bloque 2** · Prompting avanzado y documentación | 8 h | NotebookLM, prompts de sistema, Deep Research, verificación |
+| **Bloque 3** · Creación multimodal | 7 h | Imagen, audio y vídeo educativo con IA; Canva, ElevenLabs, Google Labs |
+| **Bloque 4** · Evaluación y personalización | 7 h | Agentes, rúbricas, adaptaciones, alfabetización del alumnado |
+
+---
+
+## Calendario de sesiones síncronas
+
+Todas las sesiones son de **17:30 a 19:30 h** a través de la sala virtual del curso en Aules.
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CALENDARIO — actualizar aquí en cada edición
+     ═══════════════════════════════════════════════════════════════════ -->
 
 | Sesión | Fecha | Bloque | Contenido clave |
 |:------:|:-----:|:------:|:----------------|
-| 1 | **22/04/2026** | Bloque 1 | IA Colaborativa y Gestión GVA: Copilot para actas, correos y organización del aula |
-| 2 | **29/04/2026** | Bloque 2 | Prompting Avanzado y Gestión Documental: el "Prompt Pedagógico" y NotebookLM |
-| 3 | **06/05/2026** | Bloque 3 | Generación Multimodal: presentaciones, cómics, audio y vídeo educativo |
-| 4 | **13/05/2026** | Bloque 4 | Evaluación y Personalización: rúbricas LOMLOE, adaptaciones y ética |
+| 1 | **22/04/2026** | Bloque 1 | Copilot Chat para actas, correos y organización del aula |
+| 2 | **29/04/2026** | Bloque 2 | NotebookLM y prompting avanzado |
+| 3 | **06/05/2026** | Bloque 3 | Generación multimodal: imagen, audio y vídeo |
+| 4 | **13/05/2026** | Bloque 4 | Evaluación, personalización y ética con el alumnado |
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ---
 
-## 🚀 Primeros pasos antes de la primera sesión
+## Primeros pasos antes de la primera sesión
 
-Para aprovechar el curso desde el primer día, sigue estos pasos:
+### 1 · Identidad digital y acceso
 
-0. **Identidad digital y acceso**  
-   Antes de nada, asegúrate de que tu identidad digital está en orden. Consulta la [guía de identidad digital y acceso](primeros-pasos/identidad-digital.md) para verificar que puedes acceder a las plataformas del curso.
+Antes de nada asegúrate de poder acceder a las plataformas del curso. Consulta la [guía de identidad digital](primeros-pasos/identidad-digital.md).
 
-1. **Accede a Microsoft Copilot**  
-   Entra en [copilot.microsoft.com](https://copilot.microsoft.com/) e inicia sesión con tu cuenta **@edu.gva.es**.
+### 2 · Acceder a Copilot Chat
 
-2. **Comprueba que estás en entorno protegido**  
-   Debes ver la insignia 🛡️ **"Protegido"** o **"Protected"**.
+{: .callout .callout--privacidad }
+**Antes de usar Copilot en el aula, comprueba en tu cuenta**
+Existen dos productos distintos con el nombre "Copilot": **Copilot Chat** (gratuito, accesible en [copilot.microsoft.com](https://copilot.microsoft.com)) y **Microsoft 365 Copilot** (de pago, integrado en Word/PPT/Excel). En este curso usamos **Copilot Chat**.
+La disponibilidad con tu cuenta `@edu.gva.es` depende de la configuración del tenant de tu centro. **Compruébalo tú mismo antes de la primera sesión.**
 
-3. **Haz una prueba rápida**  
-   Escribe un mensaje sencillo (por ejemplo: *"¿Cómo puede ayudar la IA a un docente?"*).
+**Pasos para verificar:**
+1. Ve a [copilot.microsoft.com](https://copilot.microsoft.com) e inicia sesión con tu cuenta `@edu.gva.es`.
+2. Si funciona: escribe una pregunta de prueba (por ejemplo: *"Explica qué es la inteligencia artificial en dos líneas"*).
+3. Si no funciona o ves un mensaje de error: usa [Gemini](https://gemini.google.com) con una cuenta Google personal como alternativa gratuita para las actividades del curso. Todas las actividades tienen ruta gratuita.
 
-4. **Accede a Aules**  
-   Utiliza la plataforma del curso para seguir las sesiones y entregar actividades.
+### 3 · Tu primera interacción con la IA
 
-### ❗ Si tienes problemas de acceso
+Antes de la primera sesión, prueba este prompt en Copilot Chat (o Gemini si Copilot no está disponible en tu cuenta):
 
-- **No aparece "Protegido"** → cierra sesión y vuelve a entrar con tu cuenta **@edu.gva.es**.
-- **No puedes acceder** → contacta con el SAI de tu centro.
-- **Alternativa temporal** → usa [Gemini](https://gemini.google.com/) con una cuenta personal.
-
-## 🧪 Tu primera interacción con la IA
-
-Antes de la primera sesión, realiza esta pequeña prueba.
-
-No se trata de hacerlo perfecto, sino de tener tu **primer contacto real con la IA** y comprobar cómo responde a una tarea docente sencilla.
-
-Esta actividad servirá como punto de partida para el Bloque 1.
-
-Copia el siguiente prompt en **Microsoft Copilot** (con tu cuenta `@edu.gva.es`):
-
-```text
+```
 Actúa como un asistente pedagógico.
 
-Contexto: Soy docente y estoy empezando un curso sobre IA generativa.
+Contexto: Soy docente de [tu etapa y asignatura].
 
-Tarea: Redacta un breve mensaje de bienvenida (4-5 líneas) para enviar a las familias al inicio del trimestre, con un tono cercano y profesional.
+Tarea: Redacta un breve mensaje de bienvenida (4-5 líneas) para enviar a las familias al inicio del trimestre. Tono cercano y profesional.
 ```
 
-Si obtienes un mensaje coherente, tu acceso funciona correctamente.
-
-Guarda el resultado: lo utilizaremos en la primera sesión para mejorar la calidad de las respuestas de la IA.
-
-> Durante el curso aprenderás a dar instrucciones claras a la IA para obtener respuestas más útiles y adaptadas a tu práctica docente.
+Guarda el resultado. Lo usaremos en la primera sesión para analizar cómo mejorar los prompts.
 
 ---
 
-Nos vemos en la primera sesión.
-
----
-
-## 🛠️ Recursos adicionales del curso
+## Recursos del curso
 
 <div style="background-color:#f5f0fa; border-left:4px solid #7b1fa2; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💻 <strong>Nuevo · Vibe Coding Educativo</strong><br>
-Aprende a crear aplicaciones educativas interactivas conversando con la IA, sin necesidad de programar. Descubre la comunidad, el repositorio de más de 300 apps y cómo iniciarte.
+🔧 <strong>Herramientas actualizadas</strong><br>
+Tabla de referencia con todas las herramientas del curso: plan gratuito, límites, privacidad y enlace oficial.
 <br><br>
-<a href="{{ '/vibe-coding-educativo' | relative_url }}" style="font-weight:700; color:#7b1fa2;">→ Explorar Vibe Coding Educativo</a>
+<a href="{{ '/herramientas-ia-actualizadas' | relative_url }}" style="font-weight:700; color:#7b1fa2;">→ Ver tabla de herramientas</a>
+</div>
 
+<div style="background-color:#f5f0fa; border-left:4px solid #7b1fa2; padding:12px 14px; margin:18px 0; border-radius:6px;">
+💻 <strong>Vibe Coding Educativo</strong><br>
+Crea aplicaciones educativas interactivas conversando con la IA, sin necesidad de programar.
+<br><br>
+<a href="{{ '/vibe-coding-educativo' | relative_url }}" style="font-weight:700; color:#7b1fa2;">→ Explorar Vibe Coding</a>
 </div>
 
 <div style="background-color:#f0f7f0; border-left:4px solid #388e3c; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-🎓 <strong>Banco de Gems/GPTs educativos para docentes</strong><br>
-Recursos de IA especializados organizados por etapas (Infantil, Primaria, Secundaria, FP, Adultos, Educación especial…), listos para probar, adaptar y usar en el aula. Incluye plantilla de análisis, rúbrica de evaluación y recursos del CEFIRE.
+🎓 <strong>Banco de Gems/GPTs educativos</strong><br>
+Agentes de IA especializados organizados por etapas, listos para probar y adaptar.
 <br><br>
-<a href="{{ '/banco-gems-gpts-educativos' | relative_url }}" style="font-weight:700; color:#388e3c;">→ Explorar el banco de Gems/GPTs educativos</a>
-
+<a href="{{ '/banco-gems-gpts-educativos' | relative_url }}" style="font-weight:700; color:#388e3c;">→ Explorar el banco</a>
 </div>
 
 ---
@@ -149,3 +144,5 @@ Recursos de IA especializados organizados por etapas (Infantil, Primaria, Secund
 Curso organizado por el CEFIRE de IA y Pensamiento Computacional · 2026<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
+
+
