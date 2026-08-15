@@ -10,12 +10,12 @@ has_children: true
 
 <!-- FICHA DEL CURSO — actualizar solo aquí cuando cambie la edición -->
 <p style="font-size:0.92em; color:#555; margin-bottom:1.5rem;">
-  <strong>Código:</strong> 26IA92IN017 &nbsp;·&nbsp;
+  <strong>Código:</strong> pendiente de convocatoria &nbsp;·&nbsp;
   <strong>Modalidad:</strong> Semipresencial &nbsp;·&nbsp;
   <strong>Duración:</strong> 32 horas &nbsp;·&nbsp;
   <strong>Edición:</strong> 2026-2027
 </p>
-<!-- PENDIENTE: comprobar código oficial de la edición 2026-2027. -->
+<!-- PENDIENTE: sustituir por el código oficial de la edición 2026-2027 cuando esté disponible. -->
 
 ---
 
@@ -100,9 +100,8 @@ Antes de nada, asegúrate de poder acceder a las plataformas del curso. Consulta
 ### 2 · Acceder a Copilot Chat
 
 {: .callout .callout--privacidad }
-**Antes de usar Copilot en el aula, comprueba en tu cuenta**
-**Copilot Chat** y **Microsoft 365 Copilot** son productos distintos. Copilot Chat es el asistente accesible en [copilot.microsoft.com](https://copilot.microsoft.com); Microsoft 365 Copilot añade funciones dentro de aplicaciones como Word, Excel, PowerPoint, Outlook o Teams y requiere una licencia específica. En este curso utilizaremos Copilot Chat cuando esté disponible.
-La disponibilidad depende de la licencia y de la configuración institucional. **Compruébalo con tu cuenta antes de realizar la actividad.**
+**Antes de usar Copilot, comprueba qué servicios tienes disponibles en tu cuenta institucional**
+**Copilot Chat** y **Microsoft 365 Copilot** son productos distintos. Microsoft 365 Copilot puede incorporar capacidades de IA en distintas aplicaciones y servicios de Microsoft 365 y su disponibilidad depende de la licencia y de la configuración institucional. En este curso utilizaremos Copilot Chat cuando esté disponible en la cuenta institucional.
 
 **Pasos para verificar:**
 
