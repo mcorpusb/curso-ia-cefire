@@ -4,6 +4,7 @@ title: "Bloque 1: IA Colaborativa y Gestión GVA"
 nav_order: 4
 has_children: true
 release_at: 2026-04-20T14:00:00+02:00
+# PENDIENTE DE ACTUALIZAR PARA LA EDICIÓN 2026-2027
 ---
 
 # Bloque 1 · IA Colaborativa y Gestión GVA
@@ -12,704 +13,44 @@ release_at: 2026-04-20T14:00:00+02:00
 Entra en este bloque con una idea sencilla: empezar por tareas pequeñas, útiles y fáciles de transferir a tu práctica docente.
 {: .fs-5 .fw-300 }
 
-
 ---
 
 ## Objetivos del bloque
 
 Al finalizar este bloque serás capaz de:
 
-- Comprobar la disponibilidad de Copilot Chat con tu cuenta **@edu.gva.es** y comenzar a usarlo (o usar Gemini/ChatGPT como alternativa gratuita).
-- Redactar actas de reuniones (claustro, CCP, equipos docentes) con asistencia de IA.
-- Componer y automatizar correos electrónicos profesionales dirigidos a familias, alumnado y administración.
-- Organizar tareas del aula: planificar horarios, inventarios y tablones de seguimiento.
-- Comparar el rendimiento de Copilot Chat con Gemini y ChatGPT en tareas administrativas reales.
+- comprobar qué asistente de IA está disponible mediante tu cuenta institucional;
+- crear y revisar borradores de documentos docentes;
+- redactar y adaptar comunicaciones profesionales;
+- organizar información, documentación y plantillas reutilizables;
+- aportar contexto relevante sin exponer datos innecesarios;
+- revisar exactitud, tono, omisiones y privacidad antes de utilizar un resultado;
+- distinguir una práctica segura de otra inadecuada con información del alumnado o del centro;
+- aplicar el proceso aprendido a una necesidad real de tu práctica.
 
 ---
 
-## 🧭 Cómo trabajar este bloque
+## Cómo trabajar este bloque
 
-Para que puedas avanzar con claridad, en este bloque encontrarás tres tipos de contenido:
+Encontrarás tres tipos de contenido:
 
-- **Imprescindible** → lo que debes leer o realizar para seguir el curso con normalidad.
-- **Apoyo** → ejemplos, recursos y comparativas que te ayudarán a entender mejor el uso de la IA.
-- **Ampliación** → propuestas opcionales para profundizar o experimentar más.
+- **Contenido esencial:** criterios y procesos que necesitas comprender.
+- **Prácticas del bloque:** propuestas guiadas que no requieren entrega.
+- **Ampliación:** exploraciones opcionales para quien quiera profundizar.
 
 ### Qué se espera de ti esta semana
 
-Al finalizar este bloque deberías haber conseguido, como mínimo:
+- Comprobar qué herramienta tienes disponible.
+- Realizar varias prácticas guiadas.
+- Revisar al menos un borrador generado con IA.
+- Entregar una única actividad del bloque.
+- Reflexionar sobre qué decisiones has mantenido bajo tu criterio.
 
-- comprobar si Copilot Chat está disponible con tu cuenta **@edu.gva.es** (o usar la alternativa gratuita asignada);
-- redactar al menos **un documento docente breve** con ayuda de la IA;
-- reformular una instrucción usando la estructura **Rol + Contexto + Tarea**;
-- entregar  **una actividad obligatoria** del bloque.
+### Entrega del Bloque 1
 
-### Entrega obligatoria del Bloque 1
+Para completar el bloque debes entregar **una única actividad individual**. Elige una de estas rutas:
 
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Idea clave</strong><br>
-Una única tarea, útil y aplicable a tu realidad docente.
-
-</div>
-
-Para completar este bloque, debes entregar **una única actividad individual**.
-
-Puedes elegir entre dos opciones:
-
-#### 🔹 Opción 1 · Tareas administrativas con IA
-
-Selecciona una de estas propuestas:
-
-- **Actividad 1.2 · Acta con Copilot**
-- **Actividad 1.3 · Organización documental con IA**
-
-#### 🔹 Opción 2 · Aplicación por etapa educativa
-
-Selecciona una actividad adaptada a tu realidad docente:
-
-- **Actividad Infantil**
-- **Actividad Primaria**
-- **Actividad Secundaria**
-- **Actividad Formación Profesional**
-- **Actividad EOI**
-
-👉 Estas actividades están diseñadas para aplicar la IA directamente en el aula según tu etapa.
-
----
-
-#### 📄 Evidencia de aprendizaje
-
-En todos los casos, la entrega debe incluir:
-
-- un documento breve generado y revisado con IA;
-- el prompt utilizado;
-- y una breve reflexión personal sobre el resultado.
-
----
-
-#### 💡 Recomendación
-
-Elige la opción que tenga más sentido para tu práctica real como docente.
-El objetivo no es hacer más tareas, sino **hacer una que realmente puedas aplicar en tu día a día**.
-
-
-> ⚠️ **Uso seguro en este bloque**
->
-> La herramienta preferente cuando esté disponible es **Copilot Chat con tu cuenta @edu.gva.es** (mayor protección de datos). **Compruébalo antes de la primera sesión**: si no está disponible en tu tenant, usa Gemini o ChatGPT como alternativa gratuita para todas las actividades.
->
-> En cualquier herramienta externa: **nunca introduzcas datos personales reales del alumnado ni documentos sensibles del centro**.
-
----
-
-## 1.1 · Copilot Chat: la herramienta de referencia del curso
-
-**Copilot Chat** es el asistente conversacional de IA de Microsoft, accesible en [copilot.microsoft.com](https://copilot.microsoft.com). En este curso es la herramienta de referencia porque, cuando se usa con cuenta institucional y el tenant lo habilita, puede ofrecer mayor protección de datos que las alternativas de consumo general.
-
-{: .callout .callout--privacidad }
-**Copilot Chat ≠ Microsoft 365 Copilot · Compruébalo antes de usarlo**
-Existen dos productos distintos. **Copilot Chat** es el asistente accesible en [copilot.microsoft.com](https://copilot.microsoft.com), gratuito con cualquier cuenta Microsoft. **Microsoft 365 Copilot** es un producto diferente, con licencia adicional, que integra IA directamente dentro de Word, Excel, Outlook, Teams, OneNote y PowerPoint.
-En este curso trabajamos con **Copilot Chat**. La disponibilidad con tu cuenta `@edu.gva.es` y las funciones concretas habilitadas dependen de la configuración del tenant de tu centro. **Disponible según licencia y configuración institucional. Compruébalo en tu cuenta GVA.** Si no está disponible, todas las actividades tienen ruta alternativa con **Gemini** o **ChatGPT**.
-
-Lo que incluye Copilot Chat (plan gratuito con cualquier cuenta Microsoft, sujeto a cambios del servicio):
-- Chat conversacional con modelos avanzados de IA
-- Búsqueda web en tiempo real
-- Análisis de documentos adjuntos
-- Generación de imágenes con IA
-- Creación de páginas colaborativas (función sujeta a disponibilidad y cambios del servicio)
-
-| Ventaja | Detalle |
-|:--------|:--------|
-| **Protección de datos mejorada** | Con cuenta institucional @edu.gva.es (si el tenant lo habilita): los datos pueden no usarse para entrenar modelos. Las condiciones exactas dependen de la configuración del centro. **Compruébalo en tu cuenta GVA.** |
-| **Microsoft 365 Copilot** | La integración con Word, Outlook, Teams, Excel, etc. corresponde a **Microsoft 365 Copilot**, un producto distinto con licencia adicional. Consulta con el SAI de tu centro antes de asumir que está disponible. |
-| **Acceso gratuito** | Copilot Chat es gratuito con cualquier cuenta Microsoft. |
-
-### Cómo acceder
-
-1. Ve a [copilot.microsoft.com](https://copilot.microsoft.com/).
-2. Inicia sesión con tu cuenta **@edu.gva.es**.
-3. Comprueba si aparece algún indicador de modo protegido o de cuenta corporativa activa. Los indicadores visuales pueden cambiar con las actualizaciones del servicio.
-4. Si ves un aviso de que Copilot no está disponible para tu cuenta: usa **Gemini** ([gemini.google.com](https://gemini.google.com)) con tu cuenta de Google como alternativa para este curso. Todas las actividades tienen ruta gratuita.
-
-> Si tienes dudas sobre la configuración de tu cuenta, consulta con el SAI de tu centro.
-
----
-
-## 1.2 · Redacción de actas de reuniones con IA
-
-Redactar un acta de claustro, de CCP o de equipo docente es una tarea repetitiva que consume tiempo. Copilot puede generar un borrador estructurado a partir de unas pocas notas.
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-🎯 <strong>Cómo hacerlo paso a paso</strong><br>
-1. Piensa en una reunión real que hayas tenido recientemente.<br>
-2. Anota los puntos principales (orden del día, acuerdos, incidencias).<br>
-3. Copia el prompt y adapta el contexto a tu situación real.<br>
-4. Genera el borrador con Copilot.<br>
-5. Revisa el resultado: corrige datos y ajusta el tono.<br>
-6. Guarda el documento como plantilla para futuras reuniones.
-
-</div>
-
-### Versión básica para empezar
-
-```text
-Actúa como [ROL DOCENTE] de un centro educativo de la Comunitat Valenciana.
-
-Contexto: Hemos celebrado una reunión de [TIPO DE REUNIÓN] y necesito ordenar la información principal.
-
-Tarea: Redacta un acta breve, clara y bien estructurada con los puntos tratados, los acuerdos adoptados y un cierre final.
-
-Ajusta el resultado según el rol:
-
-- secretario/a → tono formal y formato administrativo completo;
-- jefe/a de departamento → énfasis en acuerdos didácticos y coordinación;
-- tutor/a → tono más cercano y claridad para familias o alumnado.
-```
-
-### Por ejemplo: 
-
-```text
-Actúa como secretario/a de un centro educativo.
-
-Contexto: Hemos celebrado una reunión de claustro y necesito ordenar la información principal.
-
-Tarea: Redacta un acta breve, formal y clara con los puntos tratados, los acuerdos adoptados y un cierre final.
-```
-
-
-### Versión ampliada del prompt
-
-```text
-Actúa como [ROL DOCENTE] de un centro público de la Comunitat Valenciana.
-
-Contexto: Se ha celebrado una reunión de [TIPO DE REUNIÓN] el [FECHA] a las [HORA].  
-Asistentes: [NÚMERO / DETALLE].  
-Puntos del orden del día que se han tratado:
-1. …
-2. …
-3. …
-
-Tarea: Redacta un acta completa con el formato habitual de un centro educativo, incluyendo:
-- encabezado (centro, fecha, hora inicio/fin, asistentes),
-- desarrollo de cada punto,
-- acuerdos adoptados,
-- y cierre final.
-
-Ajusta el resultado según el rol:
-- secretario/a → formato formal completo y registro administrativo;
-- jefe/a de departamento → énfasis en acuerdos didácticos, coordinación y decisiones pedagógicas;
-- tutor/a → claridad, tono cercano y utilidad para familias o alumnado.
-
-Tono: adecuado al contexto del rol.
-```
-
-
-### Por ejemplo: 
-
-```text
-Actúa como el secretario/a de un centro público de Educación Primaria de la
-Comunitat Valenciana.
-
-Contexto: Se ha celebrado un claustro ordinario el martes 22 de abril de 2026 
-a las 13:00 h. Asistentes: 32 docentes (2 ausencias justificadas). Puntos del 
-orden del día que se han tratado:
-1. Aprobación del acta anterior.
-2. Información del equipo directivo sobre las pruebas diagnósticas.
-3. Propuesta de salida escolar al Oceanogràfic (3.er trimestre).
-4. Revisión del protocolo de convivencia: nuevos casos.
-5. Ruegos y preguntas.
-
-Tarea: Redacta un acta formal con el formato habitual de un centro de la GVA, 
-incluyendo: encabezado (centro, fecha, hora inicio/fin, asistentes), desarrollo 
-de cada punto con acuerdos adoptados, y pie de firma del director/a y 
-secretario/a. Usa un tono formal e impersonal.
-```
-
-> **🚀 Reto:** Adapta el prompt para un **Departamento o Etapa o Nivel**. Cambia los puntos del orden del día e incluye, por ejemplo: *"Seguimiento de la programación del 2.º trimestre"* y *"Coordinación con FCT (Formación en Centros de Trabajo)"*.
-
-### Comparativa entre herramientas
-
-| Criterio | Copilot Chat (@edu.gva.es) | Gemini | ChatGPT |
-|:---------|:-------------:|:------:|:----:|
-| Mayor protección de datos (si tenant habilitado) | ✅ | ❌ | ❌ |
-| Formato acta formal en español | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Integración con Word/Outlook (requiere Microsoft 365 Copilot, licencia adicional) | ⚠️ | ❌ | ❌ |
-| Calidad del tono administrativo | Muy alta | Alta | Alta |
-| Acceso gratuito | ✅ (cuenta Microsoft) | ✅ (cuenta Google) | ✅ (cuenta OpenAI) |
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Idea clave</strong><br>
-La IA genera un buen borrador, pero la responsabilidad final sigue siendo tuya: revisa siempre los datos y adapta el documento al contexto real del centro.
-
-</div>
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Accesibilidad</strong><br>
-Una vez generada el acta, puedes pedir a Copilot que extraiga solo los acuerdos en formato de lista numerada con lenguaje claro. Esa versión resumida es más fácil de consultar después —para ti, para el equipo docente y para cualquier persona que necesite acceder a la información sin tener que leer el documento completo.<br><br>
-Prueba a encadenar este microprompt justo después de generar el acta:
-
-</div>
-
-```text
-Resume esta acta en un máximo de 5 acuerdos clave, con frases cortas y formato de lista numerada.
-```
-
----
-
-## 1.3 · Automatización de correos electrónicos
-
-Un docente envía cada semana numerosos correos: avisos a familias, coordinación con orientación, comunicaciones al equipo directivo o recordatorios al alumnado. Copilot puede ayudarte a generar borradores claros, formales y adaptados al contexto en pocos segundos.
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-🎯 <strong>Cómo aplicarlo en tu día a día</strong><br>
-1. Piensa en un correo real que tengas que enviar esta semana.<br>
-2. Define a quién va dirigido (familias, alumnado, equipo docente).<br>
-3. Adapta el prompt a tu contexto (curso, etapa, situación concreta).<br>
-4. Genera el borrador con Copilot.<br>
-5. Ajusta el tono y revisa la información antes de enviarlo.<br>
-6. Guarda el prompt para reutilizarlo en el futuro.
-
-</div>
-
-### Versión básica para empezar
-
-```text
-Actúa como [ROL DOCENTE] de un centro educativo de la Comunitat Valenciana.
-
-Contexto: Necesito informar a [DESTINATARIO] sobre una [TIPO DE COMUNICACIÓN].
-
-Tarea: Redacta un correo claro, bien estructurado y adecuado al contexto, incluyendo la información esencial y, si procede, plazos o instrucciones de respuesta.
-
-Ajusta el resultado según el rol:
-- tutor/a → tono cercano y comprensible para familias o alumnado;
-- jefe/a de departamento → tono profesional centrado en coordinación docente;
-- equipo directivo → tono institucional y formal.
-
-Tono: adecuado al destinatario y al contexto.
-```
-
-### Por ejemplo: 
-
-```text
-Actúa como tutor/a de un grupo de Secundaria.
-
-Contexto: Necesito informar a las familias sobre una actividad complementaria.
-
-Tarea: Redacta un correo claro, formal y cercano con la información esencial y el plazo de autorización.
-```
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-🎯 <strong>Llévalo a tu realidad</strong><br>
-Antes de seguir, adapta este prompt a una situación real de tu aula y pruébalo.  
-El valor de la IA no está en el ejemplo, sino en cómo lo aplicas a tu día a día.
-
-</div>
-
-### Versión ampliada del prompt
-
-```text
-Actúa como tutor/a de 2.º de ESO en un IES público de la Comunitat Valenciana.
-
-Contexto: Necesito informar a las familias sobre la excursión al Museu de les 
-Ciències Príncipe Felipe el próximo 8 de mayo de 2026. El coste es de 12 € por 
-alumno/a (entrada + autobús). La autorización debe devolverse firmada antes del 
-2 de mayo. Hay 3 alumnos/as becados para los que el AMPA cubrirá el coste.
-
-Tarea: Redacta un correo electrónico formal pero cercano dirigido a las familias 
-con la siguiente estructura:
-1. Saludo.
-2. Información de la actividad (fecha, lugar, horario, objetivos pedagógicos).
-3. Coste y forma de pago.
-4. Plazo y mecanismo para entregar la autorización.
-5. Nota sobre los alumnos becados (sin revelar identidades).
-6. Despedida e información de contacto.
-
-Formato: texto plano, listo para pegar en Outlook.
-```
-
-> **💡 Ejemplo Primaria:** Cambia el contexto a *"tutor/a de 1.º de Primaria"* y escribe: *"Redacta el correo en un tono más cálido y sencillo, ya que muchas familias tienen castellano como segunda lengua."*
-
-### Iteración rápida: pedir variantes
-
-Después de obtener el borrador, puedes encadenar peticiones en la misma conversación:
-
-```text
-Ahora genera una versión del mismo correo en valenciano (normas de la AVL).
-```
-
-```text
-Genera una versión abreviada para enviar como recordatorio por Web Família.
-```
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Idea clave</strong><br>
-Cuanto mejor defines el contexto y el destinatario, mejor será el resultado.  
-La IA no sustituye tu criterio como docente: lo amplifica.
-
-</div>
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Accesibilidad</strong><br>
-No todas las familias leen con la misma facilidad. Antes de enviar un correo importante, pide a Copilot que lo reformule con frases más cortas, vocabulario directo y la información esencial destacada. No se trata de simplificar el mensaje hasta perder su sentido, sino de que llegue con claridad a quien más lo necesita.
-
-</div>
-
-```text
-Reformula este correo con frases más cortas, lenguaje claro y estructura fácil de seguir para las familias.
-```
-
----
-
-## 1.4 · Cómo dar mejores instrucciones a la IA: prompting iterativo
-
-La clave para obtener resultados útiles no está en encontrar el prompt perfecto de una sola vez. Está en **iterar**: dar una primera instrucción, evaluar la respuesta y refinar.
-
-### El ciclo de prompting iterativo
-
-<div class="flujo-horizontal">
-  <div class="flujo-horizontal__paso">
-    <span class="flujo-horizontal__num">1</span>
-    <strong>Define</strong>
-    Rol + Contexto + Tarea
-  </div>
-  <div class="flujo-horizontal__flecha">→</div>
-  <div class="flujo-horizontal__paso">
-    <span class="flujo-horizontal__num">2</span>
-    <strong>Genera</strong>
-    Lánzalo a la IA
-  </div>
-  <div class="flujo-horizontal__flecha">→</div>
-  <div class="flujo-horizontal__paso">
-    <span class="flujo-horizontal__num">3</span>
-    <strong>Evalúa</strong>
-    ¿Sirve? ¿Qué falta?
-  </div>
-  <div class="flujo-horizontal__flecha">→</div>
-  <div class="flujo-horizontal__paso">
-    <span class="flujo-horizontal__num">4</span>
-    <strong>Refina</strong>
-    Añade detalle o pide variante
-  </div>
-</div>
-
-No existe el “prompt perfecto”: la conversación con la IA es un proceso, no una consulta única.
-
-### 🧩 Estructura básica que funciona
-
-En este curso utilizaremos una fórmula sencilla:
-
-**ROL + CONTEXTO + TAREA**
-
-- **Rol** → quién quieres que sea la IA  
-- **Contexto** → tu situación real como docente  
-- **Tarea** → lo que necesitas que haga  
-
-👉 Piensa siempre en estas tres piezas antes de escribir.
-
----
-
-Ahora vamos a ver cómo se traduce esta estructura en un ejemplo real.
-
-### 🔍 Ejemplo aplicado (correo a familias)
-
-Fíjate en este ejemplo que ya has trabajado:
-
-```text
-Actúa como tutor/a de 2.º de ESO en un IES público de la Comunitat Valenciana.
-
-Contexto: Necesito informar a las familias sobre una excursión escolar.
-
-Tarea: Redacta un correo formal pero cercano con fecha, lugar, coste y plazo de autorización.
-```
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💭 <strong>Para pensar</strong><br>
-La IA puede ayudarte a ahorrar tiempo en tareas habituales, pero también puede hacer que delegues decisiones que antes tomabas de forma consciente.
-¿En qué momentos te está ayudando… y en cuáles podría estar sustituyendo tu propio criterio?
-
-</div>
-
----
-
-### 🔄 ¿Por qué funciona mejor así?
-
-**Funciona mejor por estas razones:**
-
-- la IA entiende mejor tu contexto real;
-- ajusta el tono automáticamente;
-- organiza mejor la información;
-- y reduce errores o respuestas genéricas.
-
----
-
-### ⚡ Prueba rápida (2 minutos)
-
-Reescribe uno de los prompts que ya has usado en este bloque siguiendo esta estructura:
-
-1. Define claramente el rol.
-2. Añade tu contexto real (nivel, asignatura, situación).
-3. Explica la tarea con claridad.
-
-Pégalo en Copilot y compara el resultado con el anterior.
-
----
-
-### 💡 Idea clave
-
-> No se trata de saber más IA, sino de **explicar mejor lo que necesitas como docente**.
-
----
-
-## 1.5 · Organización del aula y gestión de tareas
-
-Copilot puede ayudarte a organizar elementos cotidianos que no son estrictamente pedagógicos, pero consumen tiempo.
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-🎯 <strong>Cómo sacarle partido desde hoy</strong><br>
-1. Elige una tarea organizativa que te quite tiempo (horarios, inventario, planificación…).<br>
-2. Adapta el prompt a tu centro y a tu rol real.<br>
-3. Genera una primera propuesta con Copilot.<br>
-4. Ajusta los detalles según tus necesidades.<br>
-5. Guarda el resultado como plantilla reutilizable.
-
-</div>
-
-### Ejemplo de prompt: Planificar horario de guardias
-
-```text
-Actúa como jefe/a de estudios de un IES de la Comunitat Valenciana con 45 docentes.
-
-Contexto: Necesito organizar el cuadrante de guardias de patio y de aula para 
-el 3.er trimestre (abril-junio 2026). Cada docente tiene entre 2 y 4 horas 
-complementarias disponibles a la semana. Los recreos son de 11:00 a 11:30 y 
-hay 6 zonas de patio que cubrir. Guardias de aula: 6 periodos lectivos al día.
-
-Tarea:
-1. Propón una plantilla de cuadrante semanal en formato tabla.
-2. Incluye las reglas de distribución equitativa (máx. 2 guardias de patio y 
-   2 de aula por docente/semana).
-3. Indica cómo rellenarlo si te facilito la lista de docentes con sus horas 
-   disponibles.
-
-Formato de salida: tabla Markdown que pueda pegarse en un documento de Teams.
-```
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Convierte esto en una plantilla</strong><br>
-No te quedes con este resultado como algo puntual.  
-Guarda el prompt y el formato generado: podrás reutilizarlo cada trimestre con pequeños ajustes.
-
-</div>
-
-### Ejemplo de prompt: Inventario de material del departamento
-
-```text
-Actúa como el/la responsable de un departamento de Tecnología e Informática.
-
-Contexto: Necesito actualizar el inventario de material del taller y los 
-ordenadores del aula de informática. Actualmente tenemos la información en 
-un documento Word desactualizado.
-
-Tarea: Diseña una plantilla de inventario en formato tabla con las siguientes 
-columnas: [N.º | Artículo | Categoría | Cantidad | Estado (Bueno/Regular/Baja) | 
-Ubicación | Fecha última revisión | Observaciones]. Incluye 5 filas de ejemplo 
-con material típico de un taller de Tecnología de Secundaria.
-```
-
-> **🚀 Reto Secundaria/FP:** Pide a Copilot que genere la misma tabla pero en formato CSV para importar directamente en Excel. Después abre ese CSV en Excel y comprueba que los campos se han separado correctamente.
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Idea clave</strong><br>
-La IA no solo te ayuda a hacer tareas más rápido, sino a crear sistemas de trabajo que puedes reutilizar a lo largo del curso.
-
-</div>
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Accesibilidad</strong><br>
-Cuando generes tablas, cuadrantes o listados con Copilot, piensa en quién los va a usar después. Incluye encabezados descriptivos en cada columna, evita abreviaturas sin contexto y separa la información en bloques claros. Si vas a subir el documento a Aules, comprueba que cualquier docente del equipo pueda interpretarlo sin necesitar explicaciones adicionales. Un material bien organizado es, por definición, más accesible.
-
-</div>
-
----
-
-## 1.6 · Copilot y el ecosistema Microsoft 365
-
-ℹ️ **Sección de apoyo / exploración**
-
-{: .callout .callout--privacidad }
-**Copilot Chat ≠ Microsoft 365 Copilot**
-Las funciones de IA integradas directamente en Word, Outlook, Excel, Teams, OneNote o PowerPoint corresponden a **Microsoft 365 Copilot**, un producto distinto del que usamos en este curso. Requiere licencia adicional que depende del centro. Consulta con el SAI de tu centro si tienes acceso. En este curso trabajamos con **Copilot Chat** ([copilot.microsoft.com](https://copilot.microsoft.com)), que es gratuito con cualquier cuenta Microsoft.
-
-Si tu centro dispone de **Microsoft 365 Copilot**, estas son sus funciones principales:
-
-| Aplicación | Qué puede hacer |
-|:-----------|:----------------|
-| Outlook | Resumir hilos, redactar respuestas y priorizar mensajes. |
-| Word | Generar borradores, reformular texto y ajustar el tono. |
-| Excel | Crear fórmulas, tablas y gráficos a partir de instrucciones sencillas. |
-| Teams | Resumir reuniones, extraer tareas y ayudar con actas. |
-| OneNote | Organizar notas y convertir apuntes en listas de tareas. |
-| PowerPoint | Crear un primer borrador de presentación desde un esquema o documento. |
-
-⚠️ Si no aparece Copilot en tus aplicaciones de Microsoft 365, es probable que tu cuenta no tenga esa licencia. Consulta con el SAI de tu centro. Para las actividades de este curso, Copilot Chat es suficiente.
-
----
-
-## 1.7 · ¿Cuándo usar cada herramienta?
-
-En este bloque, la herramienta de referencia es **Copilot**, especialmente cuando trabajas con documentación del centro o necesitas integrarte con Microsoft 365.
-
-Como orientación general:
-
-* **Copilot Chat** → opción preferente para tareas administrativas cuando esté disponible con @edu.gva.es. Si no, usa Gemini o ChatGPT.
-* **Gemini** → útil para explorar segundas versiones o reformulaciones de textos públicos. Gratuito con cuenta Google.
-* **ChatGPT** → alternativa potente con planes gratuitos generosos. Excelente para tareas de redacción y comparativas.
-* **Kimi** → interesante para analizar textos largos, siempre anonimizados.
-
-La comparación detallada entre herramientas se seguirá trabajando más adelante, cuando abordemos tareas de mayor complejidad.
-
----
-
-## 📝 Actividades del Bloque 1
-
-En este bloque realizarás varias prácticas. Algunas forman parte de la exploración guiada del curso y otras constituyen la **evidencia obligatoria de aprendizaje**.
-
-Debes completar, como mínimo, **una actividad individual obligatoria de entrega** y participar en las dinámicas propuestas durante la sesión síncrona.
-
-### Actividad 1.0 · Primera toma de contacto con la IA
-**Tipo:** sesión inicial / exploración guiada
-
-**Objetivo:** Perder el miedo inicial y descubrir la IA como aliada diaria.
-
-1. Accede a Copilot con tu cuenta **@edu.gva.es**.
-2. Verifica que aparece la insignia **"Protegido"**.
-3. Escribe este primer prompt informal para familiarizarte:
-
-```text
-Actúa como un asistente amigable para docentes. Soy profesor/a de [TU ÁREA] en [TU ETAPA EDUCATIVA] y nunca he usado IA generativa. Tengo curiosidad pero también algo de miedo.
-
-Dime en 5 puntos breves:
-1. Qué puedes hacer por mí en mi día a día como docente.
-2. Qué NO puedes hacer (para fijar expectativas realistas).
-3. Una tarea sencilla que podamos hacer juntos/as ahora mismo para que vea su utilidad inmediata.
-```
-
-4. Lee la respuesta y haz la tarea que te proponga la IA.
-5. Si quieres, repite el mismo prompt en [Gemini](https://gemini.google.com) con una cuenta personal y compara el tono y las sugerencias.
-
-**Entregable (opcional):** captura de pantalla de la respuesta + breve impresión personal (3-4 líneas).
-
-> 💡 Esta actividad está diseñada para que compruebes que la IA no es una caja negra misteriosa, sino una herramienta conversacional que se adapta a tus necesidades. No hay respuestas correctas o incorrectas.
-
-### Actividad 1.1 · Mi primera acta con Copilot
-**Tipo:** individual / obligatoria / entrega
-
-1. Accede a Copilot con tu cuenta **@edu.gva.es**.
-2. Usa el Ejemplo de la sección Acta de claustro" (sección 1.2) adaptándolo a una reunión de tu departamento o ciclo.
-3. Antes de generar el resultado final, revisa tu prompt y asegúrate de que contiene claramente estas tres partes:
-   - **Rol**
-   - **Contexto**
-   - **Tarea**
-4. Revisa el borrador: corrige errores factuales y ajusta el tono.
-5. Exporta el resultado a un documento Word.
-
-**Entregable:** sube el acta en formato `.docx` junto con el prompt utilizado. Señala, si lo deseas entre corchetes, dónde has definido el **Rol**, el **Contexto** y la **Tarea**.
-
-### Actividad 1.2 · Correo a familias en dos idiomas
-**Tipo:** individual / práctica recomendada
-
-1. Antes de lanzar el prompt, reformúlalo siguiendo la estructura **Rol + Contexto + Tarea** trabajada en la sección 1.4.
-2. Redacta con Copilot un correo informativo sobre una actividad complementaria de tu área usando el prompt de la sección 1.3.
-3. Pide a Copilot la versión en **valenciano**.
-4. Compara el resultado con el que genera **Gemini** para el mismo prompt.
-
-**Entregable:** documento con las dos versiones (Copilot vs. Gemini) y un breve párrafo (100 palabras) valorando diferencias.
-
-### Actividad 1.3 · Organiza tu documentación docente desde cero con IA
-**Tipo:** individual / obligatoria / entrega o alternativa de entrega
-
-**Objetivo:** Usar la IA para crear una estructura inteligente de documentación docente.
-
-1. Lanza el siguiente prompt en **Copilot**:
-
-```text
-Actúa como un consultor de productividad especializado en organización 
-docente para centros educativos de la Comunitat Valenciana.
-
-Contexto: Soy [tutor/a | especialista | jefe/a de departamento] de 
-[TU ÁREA] en [TU ETAPA]. Quiero organizar toda mi documentación digital 
-desde cero usando Microsoft 365 (OneDrive, OneNote, Teams).
-
-Tarea: Diseña un sistema de carpetas y plantillas que cubra:
-1. Programaciones didácticas y situaciones de aprendizaje.
-2. Materiales de clase por unidades/temas.
-3. Evaluación: rúbricas, registros, actas de evaluación.
-4. Comunicación: plantillas de correos a familias, informes.
-5. Coordinación: actas de departamento/ciclo, documentos CCP.
-6. Formación y desarrollo profesional.
-
-Formato: árbol de carpetas con nombres descriptivos + breve 
-explicación de qué va en cada una. Incluye 3 plantillas de 
-OneNote listas para usar.
-
-Restricciones: Todo dentro del ecosistema Microsoft 365 (seguridad GVA).
-```
-
-2. Implementa la estructura en tu **OneDrive** con tu cuenta **@edu.gva.es**.
-
-**Entregable:** captura de pantalla de tu árbol de carpetas creado + el prompt que has usado (con tus adaptaciones).
-
-### Actividad 1.4 · Comparativa de herramientas
-**Tipo:** grupal / sesión síncrona / ampliación guiada
-
-1. En grupos de 3-4 personas, elegid **una tarea administrativa** de las vistas en el bloque (acta, correo, cuadrante, inventario).
-2. Escribid el mismo prompt en **Copilot Chat**, **Gemini** y **ChatGPT** (o Kimi como variante).
-3. Completad la siguiente tabla de valoración:
-
-| Criterio (1-5) | Copilot Chat | Gemini | ChatGPT |
-|:----------------|:-------:|:------:|:---------:|
-| Calidad del contenido | | | |
-| Formato y estructura | | | |
-| Adecuación al contexto GVA | | | |
-| Tono y registro | | | |
-| Utilidad práctica inmediata | | | |
-
-**Entregable:** tabla completada + conclusión (200 palabras) en el foro de Aules.
-
-> 💡 **Reflexión de cierre del Bloque 1**
->
-> Al terminar estas actividades, valora lo siguiente:
->
-> - **¿Ha disminuido el "miedo" inicial que podías sentir hacia la IA?**
-> - **¿Identificas ya alguna tarea concreta de tu día a día en la que la IA pueda ahorrarte tiempo?**
->
-> Comparte tu reflexión breve (3 frases) en el foro.
-
----
-
-### 🌱 Actividades por etapa educativa (aplicación directa en el aula)
-
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
-
-💡 <strong>Importante</strong><br>
-Las actividades de esta sección pueden utilizarse como entrega obligatoria del bloque.  
-Elige la que mejor se adapte a tu etapa educativa y a tu práctica docente real.
-
-</div>
-
-Si quieres llevar la IA directamente a tu práctica diaria, puedes probar estas actividades diseñadas específicamente para tu etapa:
+#### Ruta recomendada · Actividad adaptada a tu etapa
 
 - [Actividad Infantil](bloque1-actividad-infantil.html)
 - [Actividad Primaria](bloque1-actividad-primaria.html)
@@ -717,60 +58,379 @@ Si quieres llevar la IA directamente a tu práctica diaria, puedes probar estas 
 - [Actividad EOI](bloque1-actividad-eoi.html)
 - [Actividad Formación Profesional](bloque1-actividad-fp.html)
 
+#### Ruta alternativa · Actividad general
+
+Elige **una**:
+
+- **Actividad 1.1 · Borrador de acta con datos ficticios**.
+- **Actividad 1.3 · Propuesta de organización documental**.
+
+### Evidencia de aprendizaje
+
+La entrega debe incluir:
+
+- el producto o borrador final revisado;
+- la necesidad o contexto de partida, sin datos personales;
+- una muestra breve de cómo trabajaste con la IA;
+- los cambios que realizaste como docente;
+- una reflexión breve: qué funcionó, qué corregiste, qué no delegaste y qué verificaste.
+
+No necesitas documentar procesos internos de razonamiento de la herramienta. El formato de entrega será el indicado en Aules.
+
+{: .callout .callout--privacidad }
+**Uso seguro durante todo el bloque**
+Cuando Microsoft 365 Copilot Chat esté disponible mediante la cuenta institucional, puede ofrecer condiciones de protección asociadas al entorno Microsoft 365 de la organización. Aun así, **cuenta institucional ≠ permiso para introducir cualquier dato**.
+
+No introduzcas nombres reales del alumnado, calificaciones, diagnósticos, situaciones familiares, información sensible, actas reales confidenciales ni documentación interna no autorizada. Para las prácticas utiliza datos ficticios o correctamente anonimizados y sigue siempre las instrucciones de la GVA y del centro.
+
 ---
 
-## 🔄 Cierre del bloque
+## 1.1 · Comprobar qué experiencia de Copilot tienes disponible
 
-En este bloque has comprobado que la IA puede convertirse en una aliada útil para tareas habituales de comunicación, organización y gestión docente.
+Microsoft utiliza el nombre Copilot para experiencias distintas. No necesitamos memorizar una clasificación comercial, pero sí distinguir tres situaciones:
 
-También has dado un primer paso importante: aprender a formular instrucciones más claras para obtener respuestas más útiles.
+1. **Microsoft Copilot para uso personal**, cuando se accede con una cuenta personal.
+2. **Microsoft 365 Copilot Chat**, cuando está disponible para una cuenta profesional o educativa elegible.
+3. **Microsoft 365 Copilot con capacidades adicionales**, cuyo acceso al contenido de trabajo y cuyas funciones dependen de licencias y configuración específicas.
 
-En el **Bloque 2** darás un paso más: aprenderás a diseñar instrucciones más precisas, mejorar tus prompts y verificar respuestas con apoyo documental.
+Las denominaciones, puntos de acceso e interfaces pueden cambiar. Antes de una práctica:
+
+1. Comprueba con qué cuenta has iniciado sesión.
+2. Revisa qué experiencia y funciones aparecen realmente.
+3. Consulta la información que ofrece el servicio sobre protección y condiciones de la cuenta.
+4. No interpretes un icono o una insignia concreta como autorización para introducir datos sensibles.
+
+Puedes probar el acceso desde la [aplicación web de Microsoft 365 Copilot](https://m365.cloud.microsoft/) con tu cuenta institucional. La disponibilidad no es igual para todas las cuentas `@edu.gva.es` y puede depender de la licencia, el despliegue y la configuración de la organización.
+
+{: .callout .callout--recuerda }
+**Cuenta institucional y protección de datos**
+Microsoft ofrece protecciones organizativas en determinadas experiencias profesionales y educativas. Estas condiciones no eliminan la responsabilidad docente ni convierten los datos personales, sensibles o confidenciales en información adecuada para una práctica con IA.
+
+Si Copilot no está disponible mediante tu cuenta institucional, utiliza una alternativa del [Radar de herramientas](herramientas-ia-actualizadas.md) adecuada para la tarea. No introduzcas información personal o sensible en una cuenta personal o servicio no autorizado.
+
+Las prácticas pueden realizarse con otros asistentes adecuados. **Lo importante es aprender el proceso, no memorizar una interfaz.**
 
 ---
 
-## 📚 Recursos complementarios
+## 1.2 · Borradores de actas con datos ficticios
 
-- [Microsoft Copilot — Centro de ayuda oficial](https://support.microsoft.com/es-es/copilot)
-- [Política de privacidad de Microsoft 365 en la GVA](https://dgtic.gva.es/) *(consulta la intranet de tu centro para el enlace actualizado)*
-- [Guía de estilo del valenciano — AVL](https://www.avl.gva.es/)
-- [Currículo LOMLOE Comunitat Valenciana (DOGV)](https://dogv.gva.es/)
+Un asistente puede ayudar a convertir notas desordenadas en un primer borrador de acta. No decide qué ocurrió ni qué acuerdos se adoptaron: esa información debe proceder de las notas y revisarse por una persona responsable.
+
+{: .callout .callout--privacidad }
+**Practica únicamente con datos ficticios**
+No copies actas reales que contengan información personal, incidencias sensibles o datos confidenciales. Utiliza nombres genéricos, una fecha marcada como ficticia y situaciones inventadas.
+
+### Un andamio posible
+
+Para empezar puedes ordenar la petición así:
+
+**NECESIDAD + CONTEXTO + INFORMACIÓN DISPONIBLE + FORMATO + CRITERIOS**
+
+No es una fórmula obligatoria. Asignar un rol puede resultar útil en algunos casos, pero lo esencial es explicar qué necesitas, qué información puede utilizarse y qué debe respetar el resultado.
+
+### Ejemplo
+
+```text
+Necesito convertir estas notas ficticias en un borrador de acta de una reunión
+de departamento de un centro educativo.
+
+Información disponible:
+- Fecha: [FECHA FICTICIA].
+- Se revisó la programación del trimestre.
+- Se acordó compartir los materiales antes de la próxima reunión.
+- Quedó pendiente decidir la fecha de una actividad conjunta.
+
+Formato deseado:
+- encabezado;
+- puntos tratados;
+- acuerdos y asuntos pendientes;
+- cierre.
+
+Criterios: utiliza un tono profesional y claro. No añadas nombres ni datos
+personales. No inventes acuerdos que no aparezcan en las notas. Señala como
+pendiente cualquier información que falte.
+```
+
+### Qué revisar en cualquier borrador
+
+- Exactitud de fechas, asuntos y acuerdos.
+- Estructura y tono.
+- Datos inventados u omisiones.
+- Información personal o confidencial.
+- Adecuación al contexto y al modelo documental del centro.
+
+La IA genera un borrador. Tú decides qué conservar, qué modificar y qué incorporar al documento final.
+
+### Transformación posterior
+
+Una vez revisada el acta, puedes pedir una versión de consulta rápida:
+
+```text
+Extrae los acuerdos y asuntos pendientes de esta acta revisada. Preséntalos
+en una lista numerada, con lenguaje claro, sin añadir información nueva.
+```
+
+Esta transformación puede facilitar la consulta, pero no garantiza por sí sola la accesibilidad completa del documento.
 
 ---
 
-## ✅ Checklist de autoevaluación
+## 1.3 · Redacción y adaptación asistida de comunicaciones
 
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+Un asistente puede ayudar a preparar un primer borrador para familias, alumnado, equipos docentes o administración. El docente debe comprobar la información, ajustar el tono y decidir qué enviar.
 
-🎯 <strong>Cómo usar este checklist</strong><br>
-No se trata de marcar todo perfecto, sino de comprobar si ya puedes aplicar lo aprendido.  
-Si hay algún punto en el que dudas, vuelve a esa parte del bloque y revísala con calma.
+### Caso ficticio
 
-</div>
+```text
+Necesito un borrador de correo dirigido a las familias de un grupo de
+Secundaria sobre una actividad complementaria ficticia.
 
-Antes de pasar al Bloque 2, comprueba si puedes responder **sí** a estas preguntas:
+Contexto:
+- Actividad: visita a un museo local.
+- Fecha: [FECHA FICTICIA].
+- La autorización se entregará mediante el canal habitual del centro.
+- Los detalles de horario y transporte se confirmarán más adelante.
 
-- [ ] He probado la IA generativa y he comprobado que es una herramienta accesible y conversacional.
-- [ ] Soy capaz de comprobar si Copilot Chat está disponible con mi cuenta `@edu.gva.es` (y sé qué alternativa usar si no lo está).
-- [ ] Puedo redactar un acta estructurada usando un prompt bien definido.
-- [ ] Soy capaz de generar un correo formal para familias y pedir variantes (idioma, tono, longitud).
-- [ ] He organizado (o tengo un plan para organizar) mi documentación docente con ayuda de la IA.
-- [ ] Conozco las diferencias prácticas entre Copilot Chat, Gemini y ChatGPT para tareas administrativas.
-- [ ] Entiendo por qué debo usar Copilot como herramienta prioritaria cuando manejo datos del centro.
+Redacta un correo profesional y cercano con:
+1. motivo del mensaje;
+2. información confirmada;
+3. información todavía pendiente;
+4. instrucciones para la autorización;
+5. despedida.
 
-<div style="background-color:#f5f7fa; border-left:4px solid #6c8ebf; padding:12px 14px; margin:18px 0; border-radius:6px;">
+No inventes datos. Utiliza frases claras y evita información personal.
+```
 
-💡 <strong>¿Estás listo/a para el siguiente bloque?</strong><br>
-Si puedes responder "sí" a la mayoría de los puntos, ya tienes una base sólida para continuar.  
-No necesitas dominarlo todo: lo importante es que hayas empezado a aplicar la IA en tu práctica real.
+### Revisar y adaptar
 
-</div>
+Después de leer el borrador puedes continuar la conversación:
 
+```text
+Reformula el correo con frases más cortas, lenguaje claro y la información
+esencial organizada en apartados.
+```
+
+```text
+Prepara una versión en valenciano. Mantén el contenido y el tono del texto
+revisado, y utiliza terminología educativa adecuada.
+```
+
+La versión en valenciano debe revisarse antes de enviarse, especialmente en terminología administrativa o educativa. Puedes consultar los recursos de la [Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/).
+
+**La IA genera un borrador. Tú decides qué conservar, qué modificar y qué enviar.**
+
+---
+
+## 1.4 · Trabajar de forma iterativa
+
+No existe un prompt perfecto. Una petición inicial sirve para comenzar una conversación y mejorar el resultado mediante revisión.
+
+### Un punto de partida flexible
+
+**NECESIDAD + CONTEXTO + TAREA + CRITERIOS**
+
+- **Necesidad:** qué problema quieres resolver.
+- **Contexto:** qué información relevante necesita conocer la herramienta.
+- **Tarea:** qué debe producir o transformar.
+- **Criterios:** qué condiciones debe cumplir el resultado.
+
+Un rol puede ayudar a ajustar el registro, pero no es imprescindible. Piensa primero qué necesitas, qué contexto debe conocer la herramienta y qué criterios debe cumplir el resultado.
+
+### El proceso
+
+**PRIMERA RESPUESTA → REVISO → REFINO → VERIFICO**
+
+Preguntas útiles para continuar:
+
+- ¿Qué información has supuesto y debería completar yo?
+- Reorganiza el borrador sin añadir datos nuevos.
+- Haz el tono más claro y profesional.
+- Señala qué afirmaciones necesitan verificación.
+- Propón dos alternativas y explica sus diferencias observables.
+
+Aportar contexto puede ayudar a obtener una respuesta más relevante y adaptada. No garantiza que sea verdadera: la exactitud y la adecuación siguen necesitando revisión.
+
+{: .callout .callout--reflexion }
+**Para pensar**
+La IA puede apoyar algunas tareas, pero también puede hacer que deleguemos decisiones que conviene mantener bajo criterio profesional. ¿Qué parte de este trabajo prefieres seguir haciendo tú?
+
+---
+
+## 1.5 · Organización de información y plantillas
+
+En tareas organizativas, la IA resulta útil para proponer estructuras que el docente valida y adapta. No debe decidir distribuciones de personal, horarios complejos ni otras cuestiones que requieran reglas, datos personales y responsabilidad organizativa.
+
+### Plantilla de seguimiento de tareas del departamento
+
+```text
+Necesito una plantilla semanal para hacer seguimiento de tareas de un
+departamento docente.
+
+Incluye estas columnas:
+- tarea;
+- finalidad;
+- fecha prevista;
+- estado;
+- próximo paso;
+- observaciones.
+
+Utiliza ejemplos ficticios y no asignes tareas a personas. Presenta la
+plantilla como una tabla que podamos revisar y adaptar en la reunión.
+```
+
+### Inventario de material
+
+```text
+Diseña una plantilla de inventario para material de un departamento.
+
+Columnas: número, artículo, categoría, cantidad, estado, ubicación, fecha de
+revisión y observaciones. Incluye cinco filas ficticias de ejemplo.
+
+Después ofrece la cabecera en formato CSV para poder importarla en una hoja
+de cálculo. No incluyas datos personales.
+```
+
+Al revisar tablas y listados, utiliza encabezados descriptivos, evita abreviaturas sin explicar y organiza la información en bloques comprensibles.
+
+{: .callout .callout--idea }
+**Idea clave**
+La finalidad es crear estructuras y plantillas reutilizables que después el docente valida y adapta.
+
+---
+
+## 1.6 · Copilot en servicios de Microsoft 365
+
+Algunas cuentas pueden mostrar capacidades de Copilot dentro de aplicaciones y servicios de Microsoft 365. Pueden servir, por ejemplo, para resumir, redactar, analizar, crear u organizar contenido.
+
+La disponibilidad depende de la aplicación, la licencia, el despliegue y la configuración institucional. Antes de una actividad, comprueba qué funciones aparecen realmente en tu cuenta. Si una función no aparece, no presupongas una causa única: consulta la información de tu cuenta o al servicio de soporte correspondiente.
+
+Esta sección describe posibilidades, no garantiza que estén disponibles para todo el profesorado GVA. Consulta la [ayuda oficial de Microsoft Copilot](https://support.microsoft.com/es-es/copilot) y el [Radar de herramientas](herramientas-ia-actualizadas.md) para revisar las condiciones vigentes.
+
+---
+
+## 1.7 · Cómo elegir una herramienta
+
+No hay una herramienta preferente para todas las situaciones. Antes de elegir, considera:
+
+| Criterio | Pregunta útil |
+|:---------|:--------------|
+| Disponibilidad | ¿Puedo acceder con una cuenta adecuada y autorizada? |
+| Privacidad | ¿Qué datos necesita la tarea y puedo compartirlos en este servicio? |
+| Tipo de tarea | ¿Necesito conversar, transformar, trabajar con documentos o investigar? |
+| Fuentes | ¿Puedo rastrear y comprobar la información utilizada? |
+| Formato y accesibilidad | ¿Admite el formato necesario y permite revisar su accesibilidad? |
+| Límites | ¿Qué restricciones de uso o de tamaño afectan a la actividad? |
+| Registro | ¿Necesito conservar evidencias del proceso y de mis revisiones? |
+
+Consulta el [Radar de herramientas](herramientas-ia-actualizadas.md) para conocer alternativas, requisitos de cuenta, planes, límites y condiciones de acceso actualizados.
+
+---
+
+## Prácticas del bloque
+
+Estas prácticas sirven para experimentar y **no requieren entrega**, salvo que elijas expresamente una de las actividades generales admitidas como entrega del bloque.
+
+### Actividad 1.0 · Continuar la primera interacción
+
+**Objetivo:** familiarizarse con la interacción conversacional y comprobar posibilidades y límites.
+
+Recupera la actividad iniciada en la portada o elige una necesidad docente sencilla:
+
+1. Haz una petición genérica.
+2. Observa qué información ha supuesto la IA.
+3. Añade contexto y criterios sin aportar datos personales.
+4. Revisa qué mejora y qué sigue necesitando tu decisión.
+
+No necesitas comparar herramientas ni buscar una respuesta perfecta.
+
+### Actividad 1.1 · Borrador de acta con datos ficticios
+
+**Tipo:** práctica general elegible para la entrega.
+
+1. Utiliza el ejemplo de la sección 1.2 con notas completamente ficticias.
+2. Revisa exactitud, estructura, omisiones, privacidad y contenido inventado.
+3. Corrige el texto y señala qué decisiones has tomado tú.
+4. Entrega la evidencia en el formato indicado en Aules; no es obligatorio utilizar Word, Copilot ni `.docx`.
+
+### Actividad 1.2 · Comunicación a familias
+
+**Tipo:** práctica recomendada, sin entrega obligatoria.
+
+1. Elige un caso ficticio o una comunicación real sin datos personales.
+2. Genera un primer borrador con un asistente adecuado.
+3. Revisa contenido, tono y claridad.
+4. Si necesitas una versión en valenciano, revísala antes de utilizarla.
+
+Comparar dos herramientas es opcional y solo tiene sentido si ayuda a decidir cuál se adapta mejor a la tarea.
+
+### Actividad 1.3 · Propuesta de organización documental
+
+**Tipo:** práctica general elegible para la entrega.
+
+Diseña, sin implementarla necesariamente:
+
+- un árbol ficticio de carpetas para tu documentación docente;
+- una plantilla de seguimiento;
+- una segunda plantilla útil para tu contexto.
+
+Puedes utilizar cualquier asistente adecuado. No reorganices realmente OneDrive, no muestres carpetas personales y no envíes capturas con información privada. El docente decide después si quiere aplicar total o parcialmente la propuesta.
+
+### Actividad 1.4 · Comparación con propósito
+
+**Tipo:** ampliación opcional.
+
+Compara dos herramientas únicamente si la comparación te ayuda a tomar una decisión. Utiliza contenido ficticio o público y valora:
+
+- adecuación a la tarea;
+- tratamiento de fuentes;
+- privacidad;
+- facilidad de revisión;
+- calidad del resultado;
+- limitaciones observadas.
+
+No es necesario elegir un ganador absoluto ni publicar la comparación como entrega.
+
+### Reflexión de cierre
+
+- ¿En qué tarea real has encontrado valor?
+- ¿Qué parte has tenido que revisar?
+- ¿Qué decisión preferiste mantener sin delegarla?
+- ¿Qué información decidiste no compartir?
+- ¿Qué cambiarás en tu forma de trabajar a partir de esta experiencia?
+
+---
+
+## Cierre del bloque
+
+En este bloque has aplicado la IA a tareas de comunicación, documentación, organización y gestión. El aprendizaje principal no es una interfaz ni una fórmula: es saber aportar contexto, obtener un borrador y revisarlo sin delegar decisiones ni compartir información inadecuada.
+
+En el **Bloque 2 · Prompting avanzado y gestión documental** aprenderás a trabajar con documentos y fuentes, investigar, contrastar información y mejorar los resultados mediante contexto, revisión y verificación.
+
+---
+
+## Recursos complementarios
+
+- [Microsoft Copilot — ayuda oficial](https://support.microsoft.com/es-es/copilot)
+- [Radar de herramientas del curso](herramientas-ia-actualizadas.md)
+- [Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/)
+- [Diari Oficial de la Generalitat Valenciana](https://dogv.gva.es/)
+
+---
+
+## Checklist de autoevaluación
+
+Antes de pasar al Bloque 2, comprueba:
+
+- [ ] Sé comprobar qué herramienta tengo disponible.
+- [ ] Sé aportar contexto sin compartir datos innecesarios.
+- [ ] Sé obtener y revisar un borrador de documento o comunicación.
+- [ ] Sé distinguir una tarea que puedo apoyar con IA de una decisión que no debo delegar.
+- [ ] Sé revisar tono, exactitud, omisiones y privacidad.
+- [ ] Sé utilizar una alternativa si mi herramienta habitual no está disponible.
+- [ ] He completado una actividad aplicable a mi práctica.
 
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026<br>
+Curso · código pendiente de convocatoria · CEFIRE · Generalitat Valenciana · Edición 2026-2027<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
-
