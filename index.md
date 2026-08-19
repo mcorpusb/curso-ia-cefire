@@ -100,8 +100,8 @@ Antes de nada, asegúrate de poder acceder a las plataformas del curso. Consulta
 ### 2 · Acceder a Copilot Chat
 
 {: .callout .callout--privacidad }
-**Antes de usar Copilot, comprueba qué servicios tienes disponibles en tu cuenta institucional**
-**Copilot Chat** y **Microsoft 365 Copilot** son productos distintos. Microsoft 365 Copilot puede incorporar capacidades de IA en distintas aplicaciones y servicios de Microsoft 365 y su disponibilidad depende de la licencia y de la configuración institucional. En este curso utilizaremos Copilot Chat cuando esté disponible en la cuenta institucional.
+**Antes de usar Copilot, comprueba qué servicios tienes disponibles en tu cuenta institucional.**
+Copilot Chat y Microsoft 365 Copilot son productos distintos. Microsoft 365 Copilot puede incorporar capacidades de IA en distintas aplicaciones y servicios de Microsoft 365 y su disponibilidad depende de la licencia y de la configuración institucional. En este curso utilizaremos Copilot Chat cuando esté disponible en la cuenta institucional.
 
 **Pasos para verificar:**
 
@@ -115,13 +115,15 @@ No introduzcas datos personales del alumnado ni subas documentación interna o s
 
 ### 3 · Tu primera interacción con la IA
 
-Antes de la primera sesión, realiza este pequeño experimento en Copilot Chat o en una alternativa del Radar de herramientas.
+Antes de la primera sesión, piensa en un contenido, concepto o situación que vayas a trabajar próximamente con tu alumnado. Después, realiza este pequeño experimento en Copilot Chat o en una alternativa del Radar de herramientas.
 
 **1. Haz una petición deliberadamente genérica:**
 
 ```text
-Diseña una actividad sobre el cambio climático.
+Diseña una actividad para trabajar [contenido o concepto].
 ```
+
+Sustituye `[contenido o concepto]` por un tema real de tu práctica docente.
 
 Observa la respuesta:
 
@@ -134,7 +136,8 @@ Observa la respuesta:
 **2. Vuelve a pedir la actividad añadiendo contexto:**
 
 ```text
-Rediseña la actividad sobre el cambio climático teniendo en cuenta estos datos:
+Rediseña la actividad teniendo en cuenta estos datos:
+- Contenido o concepto: [completa]
 - Etapa o nivel: [completa]
 - Materia o ámbito: [completa]
 - Duración: [completa]
@@ -146,6 +149,8 @@ Rediseña la actividad sobre el cambio climático teniendo en cuenta estos datos
 Compara ambas respuestas. Una petición más contextualizada suele producir una propuesta potencialmente más útil, pero la respuesta sigue necesitando criterio y revisión docente.
 
 **¿Qué cambiarías todavía antes de llevar esta propuesta al aula?**
+
+**¿Qué parte de esta tarea prefieres seguir haciendo tú sin ayuda de la IA?**
 
 ---
 
