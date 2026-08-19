@@ -50,6 +50,8 @@ Encontrarás tres tipos de contenido:
 
 Para completar el bloque debes entregar **una única actividad individual**. Elige una de estas rutas:
 
+Todas las rutas tienen el mismo valor formativo; elige la que mejor se adapte a tu contexto profesional.
+
 #### Ruta recomendada · Actividad adaptada a tu etapa
 
 - [Actividad Infantil](bloque1-actividad-infantil.html)
@@ -79,7 +81,7 @@ No necesitas documentar procesos internos de razonamiento de la herramienta. El 
 
 {: .callout .callout--privacidad }
 **Uso seguro durante todo el bloque**
-Cuando Microsoft 365 Copilot Chat esté disponible mediante la cuenta institucional, puede ofrecer condiciones de protección asociadas al entorno Microsoft 365 de la organización. Aun así, **cuenta institucional ≠ permiso para introducir cualquier dato**.
+Cuando Copilot Chat esté disponible mediante la cuenta institucional, puede ofrecer condiciones de protección asociadas al entorno Microsoft 365 de la organización. Aun así, **cuenta institucional ≠ permiso para introducir cualquier dato**.
 
 No introduzcas nombres reales del alumnado, calificaciones, diagnósticos, situaciones familiares, información sensible, actas reales confidenciales ni documentación interna no autorizada. Para las prácticas utiliza datos ficticios o correctamente anonimizados y sigue siempre las instrucciones de la GVA y del centro.
 
@@ -87,18 +89,18 @@ No introduzcas nombres reales del alumnado, calificaciones, diagnósticos, situa
 
 ## 1.1 · Comprobar qué experiencia de Copilot tienes disponible
 
-Microsoft utiliza el nombre Copilot para experiencias distintas. No necesitamos memorizar una clasificación comercial, pero sí distinguir tres situaciones:
+Microsoft utiliza el nombre Copilot para experiencias distintas. Para este bloque basta con distinguir tres situaciones:
 
 1. **Microsoft Copilot para uso personal**, cuando se accede con una cuenta personal.
-2. **Microsoft 365 Copilot Chat**, cuando está disponible para una cuenta profesional o educativa elegible.
-3. **Microsoft 365 Copilot con capacidades adicionales**, cuyo acceso al contenido de trabajo y cuyas funciones dependen de licencias y configuración específicas.
+2. **Copilot Chat con cuenta institucional**, cuando está disponible para una cuenta profesional o educativa elegible.
+3. **Microsoft 365 Copilot**, con funciones adicionales cuya disponibilidad depende de la licencia y de la configuración de la organización.
 
-Las denominaciones, puntos de acceso e interfaces pueden cambiar. Antes de una práctica:
+Antes de una práctica:
 
 1. Comprueba con qué cuenta has iniciado sesión.
 2. Revisa qué experiencia y funciones aparecen realmente.
-3. Consulta la información que ofrece el servicio sobre protección y condiciones de la cuenta.
-4. No interpretes un icono o una insignia concreta como autorización para introducir datos sensibles.
+3. Ten en cuenta que las funciones dependen de la licencia, el despliegue y la configuración institucional.
+4. No asumas que todas las cuentas GVA ofrecen lo mismo ni interpretes un indicador visual como autorización para introducir datos sensibles.
 
 Puedes probar el acceso desde la [aplicación web de Microsoft 365 Copilot](https://m365.cloud.microsoft/) con tu cuenta institucional. La disponibilidad no es igual para todas las cuentas `@edu.gva.es` y puede depender de la licencia, el despliegue y la configuración de la organización.
 
@@ -299,11 +301,9 @@ La finalidad es crear estructuras y plantillas reutilizables que después el doc
 
 ## 1.6 · Copilot en servicios de Microsoft 365
 
-Algunas cuentas pueden mostrar capacidades de Copilot dentro de aplicaciones y servicios de Microsoft 365. Pueden servir, por ejemplo, para resumir, redactar, analizar, crear u organizar contenido.
+Las funciones pueden variar según la aplicación, la licencia, el despliegue y la configuración institucional. Comprueba qué aparece realmente en tu cuenta; una función ausente o disponible para otra persona no demuestra por sí sola qué licencia o configuración tienes.
 
-La disponibilidad depende de la aplicación, la licencia, el despliegue y la configuración institucional. Antes de una actividad, comprueba qué funciones aparecen realmente en tu cuenta. Si una función no aparece, no presupongas una causa única: consulta la información de tu cuenta o al servicio de soporte correspondiente.
-
-Esta sección describe posibilidades, no garantiza que estén disponibles para todo el profesorado GVA. Consulta la [ayuda oficial de Microsoft Copilot](https://support.microsoft.com/es-es/copilot) y el [Radar de herramientas](herramientas-ia-actualizadas.md) para revisar las condiciones vigentes.
+Consulta la [ayuda oficial de Microsoft Copilot](https://support.microsoft.com/es-es/copilot) y el [Radar de herramientas](herramientas-ia-actualizadas.md) para revisar las condiciones vigentes.
 
 ---
 
@@ -319,7 +319,7 @@ No hay una herramienta preferente para todas las situaciones. Antes de elegir, c
 | Fuentes | ¿Puedo rastrear y comprobar la información utilizada? |
 | Formato y accesibilidad | ¿Admite el formato necesario y permite revisar su accesibilidad? |
 | Límites | ¿Qué restricciones de uso o de tamaño afectan a la actividad? |
-| Registro | ¿Necesito conservar evidencias del proceso y de mis revisiones? |
+| Cuenta y acceso | ¿Necesito crear una cuenta? ¿Puedo utilizar una cuenta institucional? ¿El acceso está autorizado para esta tarea? |
 
 Consulta el [Radar de herramientas](herramientas-ia-actualizadas.md) para conocer alternativas, requisitos de cuenta, planes, límites y condiciones de acceso actualizados.
 
@@ -333,14 +333,7 @@ Estas prácticas sirven para experimentar y **no requieren entrega**, salvo que 
 
 **Objetivo:** familiarizarse con la interacción conversacional y comprobar posibilidades y límites.
 
-Recupera la actividad iniciada en la portada o elige una necesidad docente sencilla:
-
-1. Haz una petición genérica.
-2. Observa qué información ha supuesto la IA.
-3. Añade contexto y criterios sin aportar datos personales.
-4. Revisa qué mejora y qué sigue necesitando tu decisión.
-
-No necesitas comparar herramientas ni buscar una respuesta perfecta.
+Recupera una necesidad docente real de la actividad iniciada en la portada. Añade contexto y criterios sin aportar datos personales, revisa la nueva respuesta y observa qué sigue necesitando tu decisión profesional.
 
 ### Actividad 1.1 · Borrador de acta con datos ficticios
 
@@ -355,7 +348,7 @@ No necesitas comparar herramientas ni buscar una respuesta perfecta.
 
 **Tipo:** práctica recomendada, sin entrega obligatoria.
 
-1. Elige un caso ficticio o una comunicación real sin datos personales.
+1. Utiliza preferentemente un caso ficticio. Si partes de una comunicación real, elimina previamente cualquier dato personal, información sensible o referencia que permita identificar a personas.
 2. Genera un primer borrador con un asistente adecuado.
 3. Revisa contenido, tono y claridad.
 4. Si necesitas una versión en valenciano, revísala antes de utilizarla.
@@ -412,7 +405,6 @@ En el **Bloque 2 · Prompting avanzado y gestión documental** aprenderás a tra
 - [Microsoft Copilot — ayuda oficial](https://support.microsoft.com/es-es/copilot)
 - [Radar de herramientas del curso](herramientas-ia-actualizadas.md)
 - [Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/)
-- [Diari Oficial de la Generalitat Valenciana](https://dogv.gva.es/)
 
 ---
 
