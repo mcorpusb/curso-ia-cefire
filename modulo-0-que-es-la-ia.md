@@ -153,21 +153,20 @@ Si no necesitas datos reales, utiliza datos ficticios o anonimizados.
 
 ## 9. Cuándo no utilizar IA
 
-{: .callout .callout--privacidad }
-**Saber cuándo no utilizar IA es una competencia profesional.**
+**Datos personales o sensibles.** No compartas información identificable, sanitaria, familiar o confidencial sin una base y unas condiciones institucionales adecuadas.
 
-| Situación | Criterio de actuación |
-|:----------|:----------------------|
-| Decisiones de alto impacto sobre el alumnado | No debe diagnosticar, calificar automáticamente, decidir orientación o disciplina, determinar adaptaciones ni etiquetar capacidades. |
-| Información personal o sensible | No debe compartirse sin una base y unas condiciones institucionales adecuadas. |
-| Cuando el proceso constituye el aprendizaje | Delegar la tarea puede eliminar la práctica, reflexión o esfuerzo que se quiere desarrollar. |
-| Información legal, médica o de otro ámbito de alto riesgo | Exige fuentes vigentes y criterio profesional especializado. |
-| Evaluación sin supervisión suficiente | Requiere evidencias, contexto, transparencia y decisión docente. |
-| Resultados que no podemos comprobar | Si una respuesta importante no puede revisarse, no debe utilizarse para actuar. |
+**Decisiones importantes sobre personas.** No delegues diagnósticos, calificaciones, orientación, disciplina, adaptaciones ni decisiones que puedan afectar al alumnado.
+
+**Información que debe ser exacta.** La normativa, los datos médicos y cualquier resultado importante requieren fuentes vigentes, comprobación y, cuando corresponda, criterio especializado.
+
+**Situaciones delicadas.** La evaluación, los conflictos o los casos que exigen comprender el contexto necesitan supervisión y decisión profesional.
 
 {: .callout .callout--reflexion }
 **Pregunta antes de empezar**
 ¿Esta tarea se beneficia realmente de la IA o hacerla sin IA tiene un valor profesional o formativo que conviene preservar?
+
+{: .callout .callout--privacidad }
+**Saber cuándo no utilizar IA también es una competencia profesional.**
 
 ---
 
