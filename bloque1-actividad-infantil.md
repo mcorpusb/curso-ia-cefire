@@ -9,347 +9,230 @@ nav_exclude: true
 # Actividad · Educación Infantil
 {: .fs-7 }
 
-Crea un cuento personalizado para tu grupo-clase y una nota informativa para las familias, todo con ayuda de Copilot.
+Crea un cuento breve para una asamblea, conviértelo en un pequeño recurso visual y prepara una comunicación para las familias.
 {: .fs-5 .fw-300 }
 
 ---
 
+> **Protege la privacidad del alumnado**
+>
+> No introduzcas nombres reales, diagnósticos, situaciones familiares, información sanitaria, necesidades individuales identificables, fotografías del alumnado ni otros datos personales del grupo.
+>
+> Para contextualizar la actividad basta con indicar la edad, el nivel, el tema, la duración aproximada, los objetivos y los intereses generales del grupo. No hace falta señalar el número exacto de alumnos y alumnas salvo que sea pedagógicamente necesario.
+{: .warning }
+
 ## 🎯 Objetivo
 
-Utilizar Microsoft Copilot para generar un cuento breve adaptado a las características reales de tu grupo de Infantil y, a partir de él, redactar una nota para las familias explicando la actividad que vas a realizar en el aula.
+Crear y revisar un cuento breve para una situación real de Educación Infantil, transformarlo en un pequeño recurso visual y preparar una comunicación clara para las familias, utilizando IA con criterio y sin compartir datos personales.
 
----
+## 🧩 El reto
 
-## 🧠 Situación real de aula
+Piensa en un tema o situación que estés trabajando o vayas a trabajar próximamente: emociones, convivencia, animales, estaciones, hábitos, alimentación, autonomía, naturaleza, llegada al colegio, cuerpo u otro contenido adecuado.
 
-Eres tutor/a de un grupo de Infantil (3, 4 o 5 años). Esta semana trabajas el proyecto sobre las emociones y necesitas:
+Utiliza el asistente de IA que tengas disponible y cuya utilización sea adecuada para la tarea. Puede ser Copilot Chat, ChatGPT, Gemini, Kimi u otra alternativa del [Radar de herramientas](herramientas-ia-actualizadas.md). No necesitas utilizar una cuenta personal.
 
-1. Un cuento corto que puedas leer en la asamblea (máximo 5 minutos de lectura), con personajes cercanos al alumnado y un vocabulario adecuado a su edad.
-2. Una nota informativa para las familias explicando que vais a trabajar las emociones a través de cuentos, pidiendo su colaboración para reforzar en casa.
+Seguirás este recorrido:
 
-Preparar ambos recursos desde cero te llevaría al menos una hora. Con Copilot puedes tener un borrador sólido en menos de 15 minutos y dedicar el resto del tiempo a personalizarlo.
+**Necesidad de aula → cuento → revisión docente → cómic o cuento ilustrado → comunicación a familias → reflexión**
 
----
+Al finalizar tendrás:
 
-## ⚙️ Qué vas a hacer
+1. un cuento breve revisado;
+2. un pequeño cómic, cuento ilustrado o secuencia visual;
+3. una comunicación breve para las familias;
+4. una reflexión sobre el proceso.
 
-1. Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
-2. Piensa en tu grupo real: ¿cuántos niños/as tienes? ¿Qué edades? ¿Hay algún interés especial del grupo esta semana (animales, colores, un personaje favorito)?
-3. Completa el prompt que encontrarás más abajo con los datos de tu grupo.
-4. Lanza el prompt en Copilot y lee el cuento generado.
-5. Revisa el cuento: ¿el vocabulario es adecuado? ¿La extensión es correcta para leerlo en asamblea? ¿El mensaje sobre emociones es claro?
-6. Usa las instrucciones de iteración para ajustar el resultado.
-7. Una vez satisfecho/a con el cuento, lanza el segundo prompt para generar la nota a familias.
-8. Revisa la nota: ¿el tono es cercano y profesional? ¿Queda claro qué se pide a las familias?
-9. Copia ambos textos en un documento Word y guárdalos en tu OneDrive.
+## 1. Define la necesidad de aula
 
----
-
-## 💬 Prompt listo para usar
-
-### Prompt 1 — Cuento para la asamblea
+Completa esta mini ficha sin incluir información identificativa:
 
 ```text
-Actúa como una maestra de Educación Infantil especializada en literatura 
-infantil y educación emocional.
-
-Contexto: Soy tutor/a de un grupo de [EDAD: 3/4/5 años] con [NÚMERO] 
-alumnos/as en un colegio público de la Comunitat Valenciana. Esta semana 
-trabajamos el proyecto de las emociones. El grupo muestra especial interés 
-por [TEMA DE INTERÉS: animales, dinosaurios, el espacio, cocina…].
-
-Tarea: Escribe un cuento breve (máximo 400 palabras) pensado para leer 
-en voz alta durante la asamblea. El cuento debe:
-1. Tener un personaje principal cercano al alumnado.
-2. Presentar una emoción concreta (alegría, tristeza, enfado o miedo) a 
-   través de una situación cotidiana.
-3. Incluir un momento de resolución positiva donde el personaje aprende 
-   a gestionar esa emoción.
-4. Usar vocabulario sencillo, frases cortas y repeticiones que faciliten 
-   la comprensión.
-5. Terminar con una pregunta abierta para iniciar el diálogo en la asamblea.
-
-Formato: texto plano, con título del cuento, separación clara entre 
-párrafos y la pregunta final destacada.
+Tema:
+Edad:
+Objetivo:
+Duración aproximada:
+Interés general del grupo:
+Mensaje o aprendizaje que quieres trabajar:
 ```
 
---- Ejemplo de resultado
+## 2. Crea un primer borrador del cuento
 
-**El miedo del pequeño Dino**
-
-Dino es un dinosaurio pequeño.  
-Tiene tres años.  
-Va a la escuela cada mañana.  
-Le gusta jugar con sus amigos.  
-Le gustan mucho, mucho los dinosaurios.  
-Ruge bajito: “¡Rrrr!”.
-
-Un día, en la clase, la seño trae una caja.  
-Dentro hay dinosaurios de juguete.  
-Hay uno grande.  
-Muy grande.  
-Tiene dientes largos.
-
-Dino lo mira.  
-Abre mucho los ojos.  
-Su corazón va rápido.  
-Sus manos se agarran fuerte.  
-Dino siente miedo.  
-Mucho miedo.
-
-El miedo está en su barriga.  
-El miedo está en su pecho.  
-Dino no quiere tocar el juguete.  
-Da un paso atrás.
-
-La seño se acerca despacio.  
-Habla suave.  
-—Dino, veo miedo —dice—.  
-Vamos juntos.
-
-La seño se sienta con Dino.  
-Respiran juntos.  
-Uno… dos… tres.  
-Respira, respira.  
-Poco a poco.
-
-La seño toca el dinosaurio grande.  
-—Mira, es de plástico —dice—.  
-No hace daño.
-
-Dino mira.  
-Mira otra vez.  
-El miedo se hace pequeño.  
-Más pequeño.
-
-Dino toca el dinosaurio con un dedo.  
-Luego con la mano.  
-Sonríe un poquito.  
-El miedo se va.
-
-—Ya no tengo miedo —dice Dino—.  
-Ahora estoy tranquilo.
-
-Dino juega.  
-Juega con el dinosaurio grande.  
-Juega con sus amigos.  
-Está contento.  
-Muy contento.
-
-El dinosaurio grande ahora es su amigo.
-
-***
-
-**¿Qué haces tú cuando sientes miedo para sentirte mejor?**
-------------
-### 🔄 Mejora del resultado
+Adapta este prompt con la información de tu ficha:
 
 ```text
-genera un prompt exhaustivo/maestro para generar un cuento que acompañe este teste --- cuento ---
+Quiero crear un cuento breve para una asamblea de Educación Infantil.
+
+Edad: [3/4/5 años]
+Tema: [completa]
+Objetivo: [completa]
+Interés general del grupo: [completa]
+
+Escribe un cuento de unas 200-300 palabras, pensado para leer en voz alta.
+
+Criterios:
+- vocabulario sencillo;
+- frases cortas;
+- un personaje cercano;
+- una situación fácil de comprender;
+- una estructura clara;
+- repeticiones cuando ayuden;
+- una pregunta final para conversar en asamblea.
+
+No incluyas datos reales del alumnado ni inventes información sobre mi grupo.
 ```
 
-Ejemplo de prompt que me ha generado:
+Ajusta la extensión según la edad y el momento de lectura.
+
+### Ejemplo: «El miedo del pequeño Dino»
+
+Este ejemplo muestra una posible situación de educación emocional; no es una plantilla obligatoria.
+
+> Dino ve en clase un dinosaurio de juguete muy grande. Nota que su corazón va deprisa y da un paso atrás. Su maestra se acerca con calma, pone palabras a lo que siente y le propone respirar juntos. Después, Dino observa el juguete y decide acercarse poco a poco. Sigue notando un poquito de miedo, pero ahora sabe qué puede hacer y se siente acompañado.
+>
+> **Pregunta para la asamblea:** ¿Qué te ayuda cuando sientes miedo?
+
+La finalidad no es hacer desaparecer la emoción, sino reconocerla, expresarla y explorar estrategias adecuadas sin convertir el cuento en asesoramiento psicológico.
+
+## 3. Revisa y mejora el cuento
+
+La primera respuesta de la IA es un borrador. Revisa:
+
+- ¿El vocabulario es adecuado?
+- ¿La longitud funciona en asamblea?
+- ¿El mensaje es pedagógicamente adecuado?
+- ¿Hay estereotipos?
+- ¿La emoción o situación se representa con respeto?
+- ¿La IA ha inventado algo que no pediste?
+- ¿La pregunta final puede generar una conversación real?
+
+Puedes refinarlo con instrucciones breves, por ejemplo:
 
 ```text
-
-
-
-## PROMPT MAESTRO – CÓMIC / CUENTO ILUSTRADO INFANTIL
-
-Actúa como una **ilustradora y narradora infantil especializada en Educación Infantil (3 años)**, educación emocional y literatura infantil temprana.
-
-Vas a crear un **cuento ilustrado en formato cómic o álbum secuencial**, basado en el cuento titulado **“El miedo del pequeño Dino”**, dirigido a **niños y niñas de 3 años** de un colegio público de la Comunitat Valenciana, dentro de un **proyecto sobre las emociones**.
-
-### OBJETIVO
-
-Acompañar el texto con **imágenes claras, tiernas y expresivas**, que ayuden a comprender la emoción del **miedo** y su regulación de forma segura y positiva.
-
-***
-
-### ESTILO VISUAL
-
-*   Ilustraciones **muy simples**, colores suaves y alegres.
-*   Estilo **infantil, tierno y no realista** (tipo álbum ilustrado o dibujos animados suaves).
-*   Personajes con **expresiones faciales muy claras** (ojos grandes, gestos exagerados).
-*   Escenarios reconocibles: aula infantil, alfombra de asamblea, juguetes.
-*   Dino debe ser un dinosaurio **pequeño, redondeado y simpático**, nunca aterrador.
-*   El dinosaurio grande debe parecer inicialmente imponente, pero **nunca agresivo**.
-
-***
-
-### ESTRUCTURA DEL CÓMIC
-
-Divide el cuento en **viñetas o páginas ilustradas**, una escena por cada parte del texto.
-
-Para cada viñeta incluye:
-
-1.  **Ilustración descrita con detalle**
-2.  **Texto breve**, exactamente el del cuento o resumido en frases muy cortas
-
-***
-
-### ESCENAS SUGERIDAS (GUÍA)
-
-1.  Dino pequeño en la clase, feliz, jugando.
-2.  La seño enseñando una caja cerrada.
-3.  Caja abierta con dinosaurios de juguete.
-4.  Aparición del dinosaurio grande.
-5.  Primer plano de Dino con cara de miedo.
-6.  Dino echándose atrás, manos tensas.
-7.  La seño acercándose con calma.
-8.  Dino y la seño respirando juntos (uno, dos, tres).
-9.  La seño tocando el dinosaurio grande.
-10. Dino tocándolo con un dedo.
-11. Dino sonriendo, tranquilo.
-12. Dino jugando feliz con amigos y dinosaurios.
-
-***
-
-### INDICACIONES EMOCIONALES
-
-*   Representar el miedo con:
-    *   Ojos muy abiertos
-    *   Cuerpo tenso
-    *   Colores suaves más apagados
-*   Representar la calma con:
-    *   Sonrisas
-    *   Posturas relajadas
-    *   Colores más cálidos y luminosos
-*   Mostrar claramente la **transición emocional** de miedo → tranquilidad.
-
-***
-
-### TEXTO
-
-*   Usar **frases muy cortas**.
-*   Mantener las **repeticiones** del cuento (“respira, respira”, “poco a poco”).
-*   Letra grande y clara, adecuada para Infantil.
-*   No añadir moralejas explícitas.
-
-***
-
-### FINAL DEL CUENTO
-
-La última página debe mostrar a Dino feliz y tranquilo, jugando, y cerrar con la pregunta:
-
-**“¿Qué haces tú cuando sientes miedo para sentirte mejor?”**
-
-***
-
-```
-
----
-Ves a la opción de crear y pegas el Prompt que te ha dado Copilot
-También puedes seleccionar el Designer en la parte inferior
-
-
-Ejemplo de cuento generado:
-
-<img src="'/assets/img/Gemini_cuento infantil.png' " alt="cuento">
-
-
----
-
-### Prompt 2 — Nota para las familias
-
-```text
-Actúa como tutor/a de Educación Infantil en un colegio público de la 
-Comunitat Valenciana.
-
-Contexto: Esta semana hemos comenzado un proyecto sobre las emociones. 
-Hemos leído un cuento en clase sobre [EMOCIÓN TRABAJADA] y queremos que 
-las familias refuercen en casa lo trabajado. El grupo es de [EDAD] años.
-
-Tarea: Redacta una nota informativa breve para las familias que incluya:
-1. Saludo cercano.
-2. Explicación sencilla de lo que estamos trabajando (2-3 líneas).
-3. Dos sugerencias concretas para hacer en casa con sus hijos/as 
-   (por ejemplo: preguntar "¿qué te ha hecho sentir contento/a hoy?" 
-   o leer juntos un cuento sobre emociones).
-4. Agradecimiento por su colaboración.
-5. Despedida y firma.
-
-Tono: cercano, cálido, sin tecnicismos. Muchas familias tienen el 
-castellano como segunda lengua, así que el texto debe ser muy claro.
-```
-
----
-
-## 🧪 Qué debes observar en la respuesta
-
-- **En el cuento:**
-  - ¿La extensión es adecuada para leerlo en 4-5 minutos?
-  - ¿El vocabulario es comprensible para la edad elegida?
-  - ¿El personaje resulta cercano y atractivo para el alumnado?
-  - ¿La emoción se presenta de forma clara y con una resolución positiva?
-  - ¿La pregunta final invita realmente al diálogo?
-
-- **En la nota a familias:**
-  - ¿El tono es cercano sin resultar informal?
-  - ¿Las sugerencias son viables y concretas?
-  - ¿El texto es lo bastante sencillo para familias con diversidad lingüística?
-
----
-
-## 🔄 Mejora del resultado (iteración guiada)
-
-Una vez obtenido el cuento, prueba estas instrucciones adicionales en la misma conversación:
-
-```text
-El cuento es demasiado largo para leerlo en asamblea. Reduce la extensión 
-a un máximo de 250 palabras sin perder la estructura narrativa ni la 
-pregunta final.
+Reduce el cuento a 220 palabras.
 ```
 
 ```text
-Genera una versión del cuento en valenciano (normas AVL), manteniendo el 
-mismo tono y extensión.
+Haz las frases más cortas.
 ```
 
 ```text
-Añade al final del cuento 3 preguntas de comprensión que pueda hacer 
-oralmente en la asamblea, adecuadas para niños/as de [EDAD] años.
+Sustituye esta parte por una situación más cercana al alumnado de 4 años.
 ```
-
-Para la nota a familias:
 
 ```text
-Genera una versión bilingüe (castellano y valenciano) de la nota para 
-familias, con el mismo contenido en ambas lenguas.
+Evita presentar el miedo como algo malo.
 ```
 
----
+```text
+Introduce una repetición que el grupo pueda decir en voz alta.
+```
+
+## 4. Convierte el cuento en un recurso visual
+
+Esta es una primera aproximación al proceso **texto → escenas → imágenes → recurso visual**.
+
+### Planifica el cómic o cuento ilustrado
+
+Cuando el cuento esté revisado, pide a la IA que seleccione entre 4 y 6 escenas esenciales. Puedes utilizar este prompt:
+
+```text
+Quiero convertir este cuento revisado en un pequeño cómic o cuento
+ilustrado para Educación Infantil.
+
+Divídelo en 6 escenas esenciales.
+
+Para cada escena indica:
+- qué ocurre;
+- qué personaje aparece;
+- qué emoción o acción debe verse;
+- qué elementos principales debe tener la imagen;
+- qué frase breve puede acompañarla.
+
+No añadas acontecimientos nuevos.
+Mantén al personaje principal reconocible entre escenas.
+
+[Pega aquí el cuento revisado]
+```
+
+### Una forma sencilla de describir una imagen
+
+**PERSONAJE + ACCIÓN + ESCENARIO + ESTILO + DETALLE IMPORTANTE**
+
+Para mantener la continuidad visual entre escenas, describe al personaje principal de forma similar en todas las imágenes.
+
+Utiliza la herramienta de generación de imágenes que tengas disponible. Por ejemplo, puedes usar el generador incluido en alguno de los asistentes compatibles o una herramienta específica. Consulta el [Radar de herramientas](herramientas-ia-actualizadas.md) si necesitas una alternativa.
+
+> **Antes de utilizar el cómic, comprueba:**
+>
+> - la coherencia del personaje entre escenas;
+> - la ausencia de elementos extraños o de manos, objetos y escenarios incorrectos;
+> - la adecuación cultural y la ausencia de estereotipos;
+> - la claridad visual y la adecuación emocional;
+> - que no haya imágenes que puedan asustar innecesariamente;
+> - la legibilidad de cualquier texto incorporado.
+{: .warning }
+
+Revisa siempre el texto generado dentro de las imágenes: puede contener errores ortográficos o palabras inventadas. Cuando sea posible, añade el texto después con una herramienta de edición o presentación si así mejoras la legibilidad.
+
+### Ejemplo visual: «El miedo del pequeño Dino»
+
+<img src="{{ '/assets/img/Gemini_cuento infantil.png' | relative_url }}" alt="Ejemplo de cuento ilustrado infantil sobre un pequeño dinosaurio que aprende estrategias para afrontar el miedo acompañado por su maestra">
+
+## 5. Prepara una comunicación para las familias
+
+Parte del cuento final revisado y adapta este prompt:
+
+```text
+Redacta un borrador breve para las familias explicando que en clase
+estamos trabajando [tema].
+
+Incluye:
+- qué estamos trabajando;
+- cómo lo hemos trabajado mediante un cuento;
+- una propuesta sencilla para conversar en casa;
+- un agradecimiento.
+
+Utiliza un tono cercano, claro y profesional.
+No añadas información personal ni datos que no te haya proporcionado.
+```
+
+Si en tu contexto hay diversidad lingüística, pide una versión especialmente clara y revisa el resultado.
+
+También puedes solicitar una versión en valenciano o bilingüe. Revísala antes de enviarla, especialmente en lo relativo a la terminología educativa y administrativa. Puedes consultar los recursos lingüísticos de la [Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/).
 
 ## 📦 Entregable
 
-- Un documento Word (.docx) con:
-  - el cuento final revisado (en castellano y, opcionalmente, en valenciano);
-  - la nota para familias;
-  - el prompt que has utilizado (con tus adaptaciones reales).
+Presenta:
 
----
+1. el cuento final revisado;
+2. el pequeño cómic, cuento ilustrado o secuencia visual;
+3. la nota a familias revisada;
+4. una muestra breve del proceso de trabajo con IA —el prompt inicial y uno o dos cambios relevantes son suficientes—;
+5. la reflexión final.
 
-## 💡 Aplicación inmediata
+Puedes utilizar un PDF, documento, presentación u otro formato admitido. **El formato de entrega será el indicado en Aules.**
 
-- **Mañana en la asamblea:** lee el cuento en voz alta y usa las preguntas finales para iniciar una conversación con el grupo sobre la emoción trabajada.
-- **Esta semana:** envía la nota a las familias a través de Web Família o la plataforma de comunicación de tu centro.
-- **Próximas semanas:** repite el proceso con otras emociones del proyecto, cambiando solo el contexto del prompt, para crear una pequeña colección de cuentos.
+## 💭 Reflexión final
 
----
+Responde brevemente:
 
-## 🚀 Variante rápida (opcional)
+1. ¿Qué cambiaste respecto a la primera propuesta de la IA?
+2. ¿Qué decisión pedagógica mantuviste bajo tu criterio?
+3. ¿Qué información decidiste no compartir?
+4. ¿Utilizarías realmente este recurso con tu grupo? ¿Qué adaptarías?
 
-Si tu grupo trabaja por **rincones**, pide a Copilot:
+## 🌱 Aplicación en el aula
 
-```text
-Diseña una rutina visual para el rincón de las emociones en un aula de 
-Infantil [EDAD] años. Incluye: nombre del rincón, materiales necesarios, 
-normas de uso (con pictogramas) y una secuencia de 3 actividades breves 
-que el alumnado pueda hacer de forma autónoma.
-```
+Puedes utilizar el cuento en una asamblea y el cómic como apoyo visual. Si tiene sentido en tu contexto, comparte la nota con las familias por el canal habitual del centro.
+
+## 🔁 Variante opcional
+
+Crea una secuencia visual de una rutina de aula, por ejemplo, lavarse las manos, recoger los materiales o prepararse para salir al patio. Revisa que cada paso sea claro, adecuado y coherente con la rutina real. Si utilizas pictogramas, recurre a recursos apropiados y comprueba que su significado sea válido para tu contexto.
+
+En el **Bloque 3 · Generación Multimodal** profundizaremos en la creación y combinación de recursos visuales, audio, vídeo e infografías.
 
 ---
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso 26IA92IN017 · CEFIRE · Generalitat Valenciana · 2026
+Curso · código pendiente de convocatoria · CEFIRE · Generalitat Valenciana · Edición 2026-2027
 </p>
